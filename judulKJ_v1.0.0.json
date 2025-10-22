@@ -1,0 +1,2512 @@
+{
+  "kj:1": {
+    "number": "1",
+    "title": "KJ 1 Haleluya, Pujilah",
+    "songbook": "KJ"
+  },
+  "kj:2": {
+    "number": "2",
+    "title": "KJ 2 Suci, Suci, Suci",
+    "songbook": "KJ"
+  },
+  "kj:3": {
+    "number": "3",
+    "title": "KJ 3 Kami Puji dengan Riang",
+    "songbook": "KJ"
+  },
+  "kj:4": {
+    "number": "4",
+    "title": "KJ 4 Hai Mari Sembah",
+    "songbook": "KJ"
+  },
+  "kj:5": {
+    "number": "5",
+    "title": "KJ 5 Tuhan Allah, NamaMu",
+    "songbook": "KJ"
+  },
+  "kj:6": {
+    "number": "6",
+    "title": "KJ 6 Hai Masyhurkanlah",
+    "songbook": "KJ"
+  },
+  "kj:7": {
+    "number": "7",
+    "title": "KJ 7 Ya Tuhan, Kami Puji NamaMu Besar",
+    "songbook": "KJ"
+  },
+  "kj:8": {
+    "number": "8",
+    "title": "KJ 8 BagiMu Tuhan, Nyanyianku",
+    "songbook": "KJ"
+  },
+  "kj:9": {
+    "number": "9",
+    "title": "KJ 9 Puji, Hai Jiwaku, Puji Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:10": {
+    "number": "10",
+    "title": "KJ 10 Pujilah Tuhan, Sang Raja",
+    "songbook": "KJ"
+  },
+  "kj:11": {
+    "number": "11",
+    "title": "KJ 11 Anak-Anak, Mari Nyanyi",
+    "songbook": "KJ"
+  },
+  "kj:12": {
+    "number": "12",
+    "title": "KJ 12 Anak-Anak, Pujilah",
+    "songbook": "KJ"
+  },
+  "kj:13": {
+    "number": "13",
+    "title": "KJ 13 Allah Bapa, Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:14": {
+    "number": "14",
+    "title": "KJ 14 Muliakan Tuhan Allah",
+    "songbook": "KJ"
+  },
+  "kj:15": {
+    "number": "15",
+    "title": "KJ 15 Berhimpun Semua",
+    "songbook": "KJ"
+  },
+  "kj:16": {
+    "number": "16",
+    "title": "KJ 16 Ya Khalik Semesta",
+    "songbook": "KJ"
+  },
+  "kj:17": {
+    "number": "17",
+    "title": "KJ 17 Tuhan Allah Hadir",
+    "songbook": "KJ"
+  },
+  "kj:18": {
+    "number": "18",
+    "title": "KJ 18 Allah Hadir Bagi Kita",
+    "songbook": "KJ"
+  },
+  "kj:19": {
+    "number": "19",
+    "title": "KJ 19 Tuhanku Yesus",
+    "songbook": "KJ"
+  },
+  "kj:20": {
+    "number": "20",
+    "title": "KJ 20 O Hari Istirahat",
+    "songbook": "KJ"
+  },
+  "kj:21": {
+    "number": "21",
+    "title": "KJ 21 Hari Minggu, Hari Yang Mulia",
+    "songbook": "KJ"
+  },
+  "kj:22": {
+    "number": "22",
+    "title": "KJ 22 Mari Bersukaria Datang kepadaNya",
+    "songbook": "KJ"
+  },
+  "kj:23": {
+    "number": "23",
+    "title": "KJ 23 Ya Allah Bapa",
+    "songbook": "KJ"
+  },
+  "kj:24A": {
+    "number": "24A",
+    "title": "KJ 24A Dari Lembah Sengsaraku",
+    "songbook": "KJ"
+  },
+  "kj:24B": {
+    "number": "24B",
+    "title": "KJ 24B Dari Lembah Sengsaraku",
+    "songbook": "KJ"
+  },
+  "kj:25": {
+    "number": "25",
+    "title": "KJ 25 Ya Allahku, di Cah'yaMu",
+    "songbook": "KJ"
+  },
+  "kj:26": {
+    "number": "26",
+    "title": "KJ 26 Mampirlah, Dengar Doaku",
+    "songbook": "KJ"
+  },
+  "kj:27": {
+    "number": "27",
+    "title": "KJ 27 Meski Tak Layak Diriku",
+    "songbook": "KJ"
+  },
+  "kj:28": {
+    "number": "28",
+    "title": "KJ 28 Ya Yesus, Tolonglah",
+    "songbook": "KJ"
+  },
+  "kj:29": {
+    "number": "29",
+    "title": "KJ 29 Di Muka Tuhan Yesus",
+    "songbook": "KJ"
+  },
+  "kj:30A": {
+    "number": "30A",
+    "title": "KJ 30A Angin Ribut Menyerang",
+    "songbook": "KJ"
+  },
+  "kj:30B": {
+    "number": "30B",
+    "title": "KJ 30B Angin Ribut Menyerang",
+    "songbook": "KJ"
+  },
+  "kj:31A": {
+    "number": "31A",
+    "title": "KJ 31A Mungkinkah Aku pun Serta",
+    "songbook": "KJ"
+  },
+  "kj:31B": {
+    "number": "31B",
+    "title": "KJ 31B Mungkinkah Aku pun Serta",
+    "songbook": "KJ"
+  },
+  "kj:32": {
+    "number": "32",
+    "title": "KJ 32 Kulihat SalibMu",
+    "songbook": "KJ"
+  },
+  "kj:33": {
+    "number": "33",
+    "title": "KJ 33 SuaraMu Kudengar",
+    "songbook": "KJ"
+  },
+  "kj:34": {
+    "number": "34",
+    "title": "KJ 34 Di Salib Yesus di Kalvari",
+    "songbook": "KJ"
+  },
+  "kj:35": {
+    "number": "35",
+    "title": "KJ 35 Tercurah Darah Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:36": {
+    "number": "36",
+    "title": "KJ 36 Dihapuskan Dosaku",
+    "songbook": "KJ"
+  },
+  "kj:37A": {
+    "number": "37A",
+    "title": "KJ 37A Batu Karang Yang Teguh",
+    "songbook": "KJ"
+  },
+  "kj:37B": {
+    "number": "37B",
+    "title": "KJ 37B Batu Karang Yang Teguh",
+    "songbook": "KJ"
+  },
+  "kj:38": {
+    "number": "38",
+    "title": "KJ 38 T'lah Kutemukan Dasar Kuat",
+    "songbook": "KJ"
+  },
+  "kj:39": {
+    "number": "39",
+    "title": "KJ 39 'Ku Diberi Belas Kasihan",
+    "songbook": "KJ"
+  },
+  "kj:40": {
+    "number": "40",
+    "title": "KJ 40 Ajaib Benar Anugerah",
+    "songbook": "KJ"
+  },
+  "kj:41": {
+    "number": "41",
+    "title": "KJ 41 Terbukalah Sorga",
+    "songbook": "KJ"
+  },
+  "kj:42": {
+    "number": "42",
+    "title": "KJ 42 Tuhan, Kasihani",
+    "songbook": "KJ"
+  },
+  "kj:43": {
+    "number": "43",
+    "title": "KJ 43 Tuhan, Kasihani Kami",
+    "songbook": "KJ"
+  },
+  "kj:44": {
+    "number": "44",
+    "title": "KJ 44 Tuhan, Kasihanilah",
+    "songbook": "KJ"
+  },
+  "kj:45": {
+    "number": "45",
+    "title": "KJ 45 Muliakan Allah yang Esa",
+    "songbook": "KJ"
+  },
+  "kj:46": {
+    "number": "46",
+    "title": "KJ 46 Besarkan Nama Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:47": {
+    "number": "47",
+    "title": "KJ 47 Pujilah",
+    "songbook": "KJ"
+  },
+  "kj:48": {
+    "number": "48",
+    "title": "KJ 48 Kemuliaan Bagi Bapa",
+    "songbook": "KJ"
+  },
+  "kj:49": {
+    "number": "49",
+    "title": "KJ 49 Firman Allah Jayalah",
+    "songbook": "KJ"
+  },
+  "kj:50A": {
+    "number": "50A",
+    "title": "KJ 50A SabdaMu Abadi",
+    "songbook": "KJ"
+  },
+  "kj:50B": {
+    "number": "50B",
+    "title": "KJ 50B SabdaMu Abadi",
+    "songbook": "KJ"
+  },
+  "kj:51": {
+    "number": "51",
+    "title": "KJ 51 Kitab Suci, Hartaku",
+    "songbook": "KJ"
+  },
+  "kj:52": {
+    "number": "52",
+    "title": "KJ 52 Sabda Tuhan Allah",
+    "songbook": "KJ"
+  },
+  "kj:53": {
+    "number": "53",
+    "title": "KJ 53 Tuhan Allah T'lah Berfirman",
+    "songbook": "KJ"
+  },
+  "kj:54": {
+    "number": "54",
+    "title": "KJ 54 Tak Kita Menyerahkan",
+    "songbook": "KJ"
+  },
+  "kj:55": {
+    "number": "55",
+    "title": "KJ 55 Ya Sumber Kasih, Roh Kudus",
+    "songbook": "KJ"
+  },
+  "kj:56": {
+    "number": "56",
+    "title": "KJ 56 Datanglah Kepadaku, ya Roh Kudus",
+    "songbook": "KJ"
+  },
+  "kj:57": {
+    "number": "57",
+    "title": "KJ 57 Yesus, Lihat UmatMu",
+    "songbook": "KJ"
+  },
+  "kj:58": {
+    "number": "58",
+    "title": "KJ 58 Mahakasih Yang Ilahi",
+    "songbook": "KJ"
+  },
+  "kj:59": {
+    "number": "59",
+    "title": "KJ 59 Bersabdalah, Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:60": {
+    "number": "60",
+    "title": "KJ 60 Hai Makhluk Alam Semesta",
+    "songbook": "KJ"
+  },
+  "kj:61": {
+    "number": "61",
+    "title": "KJ 61 Sungguh Indah Alam",
+    "songbook": "KJ"
+  },
+  "kj:62": {
+    "number": "62",
+    "title": "KJ 62 Allahkulah Kuatku dan Mazmurku",
+    "songbook": "KJ"
+  },
+  "kj:63": {
+    "number": "63",
+    "title": "KJ 63 Tuhan, karyaMu Sungguh Besar",
+    "songbook": "KJ"
+  },
+  "kj:64": {
+    "number": "64",
+    "title": "KJ 64 Bila Kulihat Bintang Gemerlapan",
+    "songbook": "KJ"
+  },
+  "kj:65": {
+    "number": "65",
+    "title": "KJ 65 Cakrawala dan Malaikat",
+    "songbook": "KJ"
+  },
+  "kj:66": {
+    "number": "66",
+    "title": "KJ 66 Di Gunung dan Di Lurah",
+    "songbook": "KJ"
+  },
+  "kj:67": {
+    "number": "67",
+    "title": "KJ 67 Hai Anak-Anak, Muda dan Belia",
+    "songbook": "KJ"
+  },
+  "kj:68": {
+    "number": "68",
+    "title": "KJ 68 Tahukah Kamu Jumlah Bintang",
+    "songbook": "KJ"
+  },
+  "kj:69": {
+    "number": "69",
+    "title": "KJ 69 Pada Mulanya",
+    "songbook": "KJ"
+  },
+  "kj:70": {
+    "number": "70",
+    "title": "KJ 70 Hujan, Hujan",
+    "songbook": "KJ"
+  },
+  "kj:71": {
+    "number": "71",
+    "title": "KJ 71 Abraham, Abraham",
+    "songbook": "KJ"
+  },
+  "kj:72": {
+    "number": "72",
+    "title": "KJ 72 Agungkan Allahmu",
+    "songbook": "KJ"
+  },
+  "kj:73": {
+    "number": "73",
+    "title": "KJ 73 Hai Langit, Pasanglah Telingamu",
+    "songbook": "KJ"
+  },
+  "kj:74": {
+    "number": "74",
+    "title": "KJ 74 Seisi Padang Belantara",
+    "songbook": "KJ"
+  },
+  "kj:75": {
+    "number": "75",
+    "title": "KJ 75 Raja Daud yang Agung",
+    "songbook": "KJ"
+  },
+  "kj:76": {
+    "number": "76",
+    "title": "KJ 76 Kau yang Lama Dinantikan",
+    "songbook": "KJ"
+  },
+  "kj:77": {
+    "number": "77",
+    "title": "KJ 77 Hatiku Bersukaria",
+    "songbook": "KJ"
+  },
+  "kj:78": {
+    "number": "78",
+    "title": "KJ 78 Waktu Herodes Raja di Yudea",
+    "songbook": "KJ"
+  },
+  "kj:79": {
+    "number": "79",
+    "title": "KJ 79 Mahaterpuji Allahku",
+    "songbook": "KJ"
+  },
+  "kj:80": {
+    "number": "80",
+    "title": "KJ 80 Kiranya Langit Terbelah",
+    "songbook": "KJ"
+  },
+  "kj:81": {
+    "number": "81",
+    "title": "KJ 81 O, Datanglah, Imanuel",
+    "songbook": "KJ"
+  },
+  "kj:82": {
+    "number": "82",
+    "title": "KJ 82 Jurus'lamat, Datanglah",
+    "songbook": "KJ"
+  },
+  "kj:83": {
+    "number": "83",
+    "title": "KJ 83 Terbitlah Bintang Timur",
+    "songbook": "KJ"
+  },
+  "kj:84": {
+    "number": "84",
+    "title": "KJ 84 Ya Yesus, Dikau Kurindukan",
+    "songbook": "KJ"
+  },
+  "kj:85": {
+    "number": "85",
+    "title": "KJ 85 Kusongsong Bagaimana",
+    "songbook": "KJ"
+  },
+  "kj:86": {
+    "number": "86",
+    "title": "KJ 86 Pencipta Bintang Semesta",
+    "songbook": "KJ"
+  },
+  "kj:87": {
+    "number": "87",
+    "title": "KJ 87 Gapuramu Lapangkanlah",
+    "songbook": "KJ"
+  },
+  "kj:88": {
+    "number": "88",
+    "title": "KJ 88 Hai Waris Kerajaan",
+    "songbook": "KJ"
+  },
+  "kj:89": {
+    "number": "89",
+    "title": "KJ 89 Berlayar Baht'ra Rahmat",
+    "songbook": "KJ"
+  },
+  "kj:90": {
+    "number": "90",
+    "title": "KJ 90 Bernyanyilah, Puteri Sion",
+    "songbook": "KJ"
+  },
+  "kj:91": {
+    "number": "91",
+    "title": "KJ 91 Putri Sion, Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:92": {
+    "number": "92",
+    "title": "KJ 92 Malam Kudus",
+    "songbook": "KJ"
+  },
+  "kj:93": {
+    "number": "93",
+    "title": "KJ 93 Tumbuhlah Tunas Baru",
+    "songbook": "KJ"
+  },
+  "kj:94": {
+    "number": "94",
+    "title": "KJ 94 Hai Kota Mungil Betlehem",
+    "songbook": "KJ"
+  },
+  "kj:95A": {
+    "number": "95A",
+    "title": "KJ 95A Gembala Waktu Malam G'lap",
+    "songbook": "KJ"
+  },
+  "kj:95B": {
+    "number": "95B",
+    "title": "KJ 95B Gembala Waktu Malam G'lap",
+    "songbook": "KJ"
+  },
+  "kj:96": {
+    "number": "96",
+    "title": "KJ 96 Di Malam Sunyi Bergema",
+    "songbook": "KJ"
+  },
+  "kj:97": {
+    "number": "97",
+    "title": "KJ 97 Hai Malaikat dari Sorga",
+    "songbook": "KJ"
+  },
+  "kj:98": {
+    "number": "98",
+    "title": "KJ 98 Jauh dari Sorga Datangku'",
+    "songbook": "KJ"
+  },
+  "kj:99": {
+    "number": "99",
+    "title": "KJ 99 Gita Sorga Bergema",
+    "songbook": "KJ"
+  },
+  "kj:100": {
+    "number": "100",
+    "title": "KJ 100 Muliakanlah",
+    "songbook": "KJ"
+  },
+  "kj:101": {
+    "number": "101",
+    "title": "KJ 101 Alam Raya Berkumandang",
+    "songbook": "KJ"
+  },
+  "kj:102": {
+    "number": "102",
+    "title": "KJ 102 Di Dalam Palungan",
+    "songbook": "KJ"
+  },
+  "kj:103": {
+    "number": "103",
+    "title": "KJ 103 Dengarlah Kidung",
+    "songbook": "KJ"
+  },
+  "kj:104": {
+    "number": "104",
+    "title": "KJ 104 Hai Dengar Tembang Malaikat",
+    "songbook": "KJ"
+  },
+  "kj:105": {
+    "number": "105",
+    "title": "KJ 105 Ya Anak Kecil",
+    "songbook": "KJ"
+  },
+  "kj:106": {
+    "number": "106",
+    "title": "KJ 106 Bernyanyilah Merdu",
+    "songbook": "KJ"
+  },
+  "kj:107": {
+    "number": "107",
+    "title": "KJ 107 Terbitlah dalam Kegelapan",
+    "songbook": "KJ"
+  },
+  "kj:108": {
+    "number": "108",
+    "title": "KJ 108 Takhta Mulia di Tempat Baka",
+    "songbook": "KJ"
+  },
+  "kj:109": {
+    "number": "109",
+    "title": "KJ 109 Hai Mari Berhimpun",
+    "songbook": "KJ"
+  },
+  "kj:110": {
+    "number": "110",
+    "title": "KJ 110 Di Betlehem T'lah Lahir Seorang Putera",
+    "songbook": "KJ"
+  },
+  "kj:111": {
+    "number": "111",
+    "title": "KJ 111 Di Palungan Dibaringkan",
+    "songbook": "KJ"
+  },
+  "kj:112": {
+    "number": "112",
+    "title": "KJ 112 Anak Maria dalam Palungan",
+    "songbook": "KJ"
+  },
+  "kj:113": {
+    "number": "113",
+    "title": "KJ 113 Dalam Kota Raja Daud",
+    "songbook": "KJ"
+  },
+  "kj:114": {
+    "number": "114",
+    "title": "KJ 114 Mari, Lihatlah Semua",
+    "songbook": "KJ"
+  },
+  "kj:115": {
+    "number": "115",
+    "title": "KJ 115 Berlutut di PalunganMu",
+    "songbook": "KJ"
+  },
+  "kj:116": {
+    "number": "116",
+    "title": "KJ 116 Yang Dipuji Kaum Gembala",
+    "songbook": "KJ"
+  },
+  "kj:117": {
+    "number": "117",
+    "title": "KJ 117 Hai Anak Semua",
+    "songbook": "KJ"
+  },
+  "kj:118": {
+    "number": "118",
+    "title": "KJ 118 Sungguh Mulia",
+    "songbook": "KJ"
+  },
+  "kj:119": {
+    "number": "119",
+    "title": "KJ 119 Hai Dunia, Gembiralah",
+    "songbook": "KJ"
+  },
+  "kj:120": {
+    "number": "120",
+    "title": "KJ 120 Hai, Siarkan di Gunung",
+    "songbook": "KJ"
+  },
+  "kj:121": {
+    "number": "121",
+    "title": "KJ 121 Dunia Kedinginan",
+    "songbook": "KJ"
+  },
+  "kj:122": {
+    "number": "122",
+    "title": "KJ 122 Anak Yang Dijanji",
+    "songbook": "KJ"
+  },
+  "kj:123": {
+    "number": "123",
+    "title": "KJ 123 S'lamat, S'lamat Datang",
+    "songbook": "KJ"
+  },
+  "kj:124": {
+    "number": "124",
+    "title": "KJ 124 Siapakah Yang Menerima",
+    "songbook": "KJ"
+  },
+  "kj:125": {
+    "number": "125",
+    "title": "KJ 125 Lahir Kristus di Dunia",
+    "songbook": "KJ"
+  },
+  "kj:126": {
+    "number": "126",
+    "title": "KJ 126 Tiap Tahun Kembali",
+    "songbook": "KJ"
+  },
+  "kj:127": {
+    "number": "127",
+    "title": "KJ 127 Kandang Domba itu RumahNya",
+    "songbook": "KJ"
+  },
+  "kj:128": {
+    "number": "128",
+    "title": "KJ 128 Sekarang, Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:129": {
+    "number": "129",
+    "title": "KJ 129 Dari Timur, Jauh Benar",
+    "songbook": "KJ"
+  },
+  "kj:130": {
+    "number": "130",
+    "title": "KJ 130 Datang Orang Asing",
+    "songbook": "KJ"
+  },
+  "kj:131": {
+    "number": "131",
+    "title": "KJ 131 Hai Bintang Betlehem",
+    "songbook": "KJ"
+  },
+  "kj:132": {
+    "number": "132",
+    "title": "KJ 132 Lahir Putera Mulia",
+    "songbook": "KJ"
+  },
+  "kj:133": {
+    "number": "133",
+    "title": "KJ 133 Hai Bintang Timur",
+    "songbook": "KJ"
+  },
+  "kj:134": {
+    "number": "134",
+    "title": "KJ 134 Yerusalem, O Kota Daud",
+    "songbook": "KJ"
+  },
+  "kj:135": {
+    "number": "135",
+    "title": "KJ 135 Bukan oleh Raja Roma",
+    "songbook": "KJ"
+  },
+  "kj:136": {
+    "number": "136",
+    "title": "KJ 136 Sebelum Semua Jadi",
+    "songbook": "KJ"
+  },
+  "kj:137": {
+    "number": "137",
+    "title": "KJ 137 Dari Terbitnya Surya T'rang",
+    "songbook": "KJ"
+  },
+  "kj:138": {
+    "number": "138",
+    "title": "KJ 138 Yesus T'lah Datang",
+    "songbook": "KJ"
+  },
+  "kj:139": {
+    "number": "139",
+    "title": "KJ 139 T'rang Bintang Fajar Berseri",
+    "songbook": "KJ"
+  },
+  "kj:140": {
+    "number": "140",
+    "title": "KJ 140 O Yesus Kristus, T'rang Baka",
+    "songbook": "KJ"
+  },
+  "kj:141": {
+    "number": "141",
+    "title": "KJ 141 Yesus, Tuhan, Engkaulah Mesias",
+    "songbook": "KJ"
+  },
+  "kj:142": {
+    "number": "142",
+    "title": "KJ 142 Jurang di Hati Lekas Timbuni",
+    "songbook": "KJ"
+  },
+  "kj:143": {
+    "number": "143",
+    "title": "KJ 143 Lihat Anak domba Allah",
+    "songbook": "KJ"
+  },
+  "kj:144A": {
+    "number": "144A",
+    "title": "KJ 144A Suara Yesus Kudengar",
+    "songbook": "KJ"
+  },
+  "kj:144B": {
+    "number": "144B",
+    "title": "KJ 144B Suara Yesus Kudengar",
+    "songbook": "KJ"
+  },
+  "kj:145": {
+    "number": "145",
+    "title": "KJ 145 Mari, Tuturkan Kembali",
+    "songbook": "KJ"
+  },
+  "kj:146A": {
+    "number": "146A",
+    "title": "KJ 146A Hai Kamu Sekalian yang Berdahaga",
+    "songbook": "KJ"
+  },
+  "kj:146B": {
+    "number": "146B",
+    "title": "KJ 146B Hai Kamu Sekalian yang Berdahaga",
+    "songbook": "KJ"
+  },
+  "kj:147": {
+    "number": "147",
+    "title": "KJ 147 Petugas di Pabean",
+    "songbook": "KJ"
+  },
+  "kj:148": {
+    "number": "148",
+    "title": "KJ 148 Tatkala Hari pun Senja",
+    "songbook": "KJ"
+  },
+  "kj:149": {
+    "number": "149",
+    "title": "KJ 149 Sang Maha Tabib T'lah Dekat",
+    "songbook": "KJ"
+  },
+  "kj:150": {
+    "number": "150",
+    "title": "KJ 150 Tiap Hari Bergembira",
+    "songbook": "KJ"
+  },
+  "kj:151": {
+    "number": "151",
+    "title": "KJ 151 Ada Seorang Gembala",
+    "songbook": "KJ"
+  },
+  "kj:152": {
+    "number": "152",
+    "title": "KJ 152 Yesus Katakan, \"Akulah\"",
+    "songbook": "KJ"
+  },
+  "kj:153": {
+    "number": "153",
+    "title": "KJ 153 Dengarlah Kata Yesus",
+    "songbook": "KJ"
+  },
+  "kj:154": {
+    "number": "154",
+    "title": "KJ 154 Biarlah Semua Anak",
+    "songbook": "KJ"
+  },
+  "kj:155": {
+    "number": "155",
+    "title": "KJ 155 Yerusalem, Pusaka Daud",
+    "songbook": "KJ"
+  },
+  "kj:156": {
+    "number": "156",
+    "title": "KJ 156 Kita, Anak Adam",
+    "songbook": "KJ"
+  },
+  "kj:157": {
+    "number": "157",
+    "title": "KJ 157 Insan, Tangisi Dosamu",
+    "songbook": "KJ"
+  },
+  "kj:158": {
+    "number": "158",
+    "title": "KJ 158 'Ku Ingin Menghayati",
+    "songbook": "KJ"
+  },
+  "kj:159": {
+    "number": "159",
+    "title": "KJ 159 Yesus, Mesias Israel",
+    "songbook": "KJ"
+  },
+  "kj:160": {
+    "number": "160",
+    "title": "KJ 160 Sang Anak domba yang Kudus",
+    "songbook": "KJ"
+  },
+  "kj:161": {
+    "number": "161",
+    "title": "KJ 161 Segala Kemuliaan",
+    "songbook": "KJ"
+  },
+  "kj:162": {
+    "number": "162",
+    "title": "KJ 162 Hosiana! Putra Daud",
+    "songbook": "KJ"
+  },
+  "kj:163": {
+    "number": "163",
+    "title": "KJ 163 Damai Sejahtera Kutinggalkan Bagimu",
+    "songbook": "KJ"
+  },
+  "kj:164": {
+    "number": "164",
+    "title": "KJ 164 Di Larut Malam yang Gelap",
+    "songbook": "KJ"
+  },
+  "kj:165": {
+    "number": "165",
+    "title": "KJ 165 Jurus'lamat Dunia",
+    "songbook": "KJ"
+  },
+  "kj:166": {
+    "number": "166",
+    "title": "KJ 166 Tersalib dan Sengsara",
+    "songbook": "KJ"
+  },
+  "kj:167": {
+    "number": "167",
+    "title": "KJ 167 Yesus, Tuhanku, Apakah Dosamu",
+    "songbook": "KJ"
+  },
+  "kj:168A": {
+    "number": "168A",
+    "title": "KJ 168A Hai Dunia, Lihat Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:168B": {
+    "number": "168B",
+    "title": "KJ 168B Hai Dunia, Lihat Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:168C": {
+    "number": "168C",
+    "title": "KJ 168C Hai Dunia, Lihat Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:169": {
+    "number": "169",
+    "title": "KJ 169 Memandang Salib Rajaku",
+    "songbook": "KJ"
+  },
+  "kj:170": {
+    "number": "170",
+    "title": "KJ 170 Kepala yang Berdarah",
+    "songbook": "KJ"
+  },
+  "kj:171": {
+    "number": "171",
+    "title": "KJ 171 Pataka Raja Majulah",
+    "songbook": "KJ"
+  },
+  "kj:172": {
+    "number": "172",
+    "title": "KJ 172 Lihat Bunda yang Berduka",
+    "songbook": "KJ"
+  },
+  "kj:173": {
+    "number": "173",
+    "title": "KJ 173 Siapa Tergantung di Salib di Sana",
+    "songbook": "KJ"
+  },
+  "kj:174A": {
+    "number": "174A",
+    "title": "KJ 174A 'Ku Heran, Jurus'lamatku",
+    "songbook": "KJ"
+  },
+  "kj:174B": {
+    "number": "174B",
+    "title": "KJ 174B 'Ku Heran, Jurus'lamatku",
+    "songbook": "KJ"
+  },
+  "kj:175": {
+    "number": "175",
+    "title": "KJ 175 Penebusku Disalib",
+    "songbook": "KJ"
+  },
+  "kj:176": {
+    "number": "176",
+    "title": "KJ 176 Di Luar Tembok Negeri",
+    "songbook": "KJ"
+  },
+  "kj:177": {
+    "number": "177",
+    "title": "KJ 177 Golgota, Tempat Tuhanku Disalib",
+    "songbook": "KJ"
+  },
+  "kj:178": {
+    "number": "178",
+    "title": "KJ 178 Kar'na KasihNya Padaku",
+    "songbook": "KJ"
+  },
+  "kj:179": {
+    "number": "179",
+    "title": "KJ 179 Yesus, Kau Kehidupanku",
+    "songbook": "KJ"
+  },
+  "kj:180": {
+    "number": "180",
+    "title": "KJ 180 Lihatlah Kayu Salib",
+    "songbook": "KJ"
+  },
+  "kj:181": {
+    "number": "181",
+    "title": "KJ 181 Yang Sengsara Itulah",
+    "songbook": "KJ"
+  },
+  "kj:182": {
+    "number": "182",
+    "title": "KJ 182 Lihat Salib di atas Bukit Golgota",
+    "songbook": "KJ"
+  },
+  "kj:183": {
+    "number": "183",
+    "title": "KJ 183 Menjulang Nyata Atas Bukit Kala",
+    "songbook": "KJ"
+  },
+  "kj:184": {
+    "number": "184",
+    "title": "KJ 184 Yesus Sayang Padaku",
+    "songbook": "KJ"
+  },
+  "kj:185": {
+    "number": "185",
+    "title": "KJ 185 Kasih Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:186": {
+    "number": "186",
+    "title": "KJ 186 Saat Sedih",
+    "songbook": "KJ"
+  },
+  "kj:187": {
+    "number": "187",
+    "title": "KJ 187 Yesus Bangkit! Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:188": {
+    "number": "188",
+    "title": "KJ 188 Kristus Bangkit! Soraklah'",
+    "songbook": "KJ"
+  },
+  "kj:189": {
+    "number": "189",
+    "title": "KJ 189 Yerusalem",
+    "songbook": "KJ"
+  },
+  "kj:190": {
+    "number": "190",
+    "title": "KJ 190 Dari Kubur yang Kelam",
+    "songbook": "KJ"
+  },
+  "kj:191": {
+    "number": "191",
+    "title": "KJ 191 Hari Minggu, Hari Kebangkitan",
+    "songbook": "KJ"
+  },
+  "kj:192": {
+    "number": "192",
+    "title": "KJ 192 Meski Dijaga KuburNya",
+    "songbook": "KJ"
+  },
+  "kj:193": {
+    "number": "193",
+    "title": "KJ 193 Yesus Bangkit, Haleluya",
+    "songbook": "KJ"
+  },
+  "kj:194": {
+    "number": "194",
+    "title": "KJ 194 Dikau Yang Bangkit, Mahamulia",
+    "songbook": "KJ"
+  },
+  "kj:195": {
+    "number": "195",
+    "title": "KJ 195 Di Makam Yang Gelap",
+    "songbook": "KJ"
+  },
+  "kj:196": {
+    "number": "196",
+    "title": "KJ 196 Kristus Sudah Bangkit",
+    "songbook": "KJ"
+  },
+  "kj:197": {
+    "number": "197",
+    "title": "KJ 197 Allah Dimuliakanlah",
+    "songbook": "KJ"
+  },
+  "kj:198": {
+    "number": "198",
+    "title": "KJ 198 Kini Sang Putra T'lah Menang",
+    "songbook": "KJ"
+  },
+  "kj:199": {
+    "number": "199",
+    "title": "KJ 199 Hai Umat Tuhan, Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:200": {
+    "number": "200",
+    "title": "KJ 200 Mari, Bersukacita",
+    "songbook": "KJ"
+  },
+  "kj:201": {
+    "number": "201",
+    "title": "KJ 201 Kini Berakhirlah Perang",
+    "songbook": "KJ"
+  },
+  "kj:202": {
+    "number": "202",
+    "title": "KJ 202 Maut Sudah Menyerah",
+    "songbook": "KJ"
+  },
+  "kj:203": {
+    "number": "203",
+    "title": "KJ 203 Haleluya, Bernyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:204": {
+    "number": "204",
+    "title": "KJ 204 Sang Kristus Bangkit, Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:205": {
+    "number": "205",
+    "title": "KJ 205 Gembira dan Bernyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:206": {
+    "number": "206",
+    "title": "KJ 206 Kibarkan Panji RajaMu",
+    "songbook": "KJ"
+  },
+  "kj:207": {
+    "number": "207",
+    "title": "KJ 207 'Ku Berseru, Hai Dunia",
+    "songbook": "KJ"
+  },
+  "kj:208": {
+    "number": "208",
+    "title": "KJ 208 Fajar Hidup Merekah",
+    "songbook": "KJ"
+  },
+  "kj:209": {
+    "number": "209",
+    "title": "KJ 209 Yang Turun ke Kubur",
+    "songbook": "KJ"
+  },
+  "kj:210": {
+    "number": "210",
+    "title": "KJ 210 Yesus Hidup dan Menang",
+    "songbook": "KJ"
+  },
+  "kj:211": {
+    "number": "211",
+    "title": "KJ 211 Tuhanku Bangkit! Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:212": {
+    "number": "212",
+    "title": "KJ 212 Tuhanku Bangkit, Pusara Terbuka",
+    "songbook": "KJ"
+  },
+  "kj:213": {
+    "number": "213",
+    "title": "KJ 213 Hai Bangun, Kau yang Tidur",
+    "songbook": "KJ"
+  },
+  "kj:214": {
+    "number": "214",
+    "title": "KJ 214 Tuhan Melawat UmatNya",
+    "songbook": "KJ"
+  },
+  "kj:215": {
+    "number": "215",
+    "title": "KJ 215 Yesus, Kini Kataku",
+    "songbook": "KJ"
+  },
+  "kj:216": {
+    "number": "216",
+    "title": "KJ 216 Sang Kristus T'lah Bangkit",
+    "songbook": "KJ"
+  },
+  "kj:217": {
+    "number": "217",
+    "title": "KJ 217 Yesus, Sumber Penghiburan",
+    "songbook": "KJ"
+  },
+  "kj:218": {
+    "number": "218",
+    "title": "KJ 218 Naik ke Sorga Cemerlang",
+    "songbook": "KJ"
+  },
+  "kj:219": {
+    "number": "219",
+    "title": "KJ 219 Mahkota Duri yang Kejam",
+    "songbook": "KJ"
+  },
+  "kj:220": {
+    "number": "220",
+    "title": "KJ 220 Yesus Kristus Memerintah",
+    "songbook": "KJ"
+  },
+  "kj:221": {
+    "number": "221",
+    "title": "KJ 221 Arah ke Sorga Cemerlang",
+    "songbook": "KJ"
+  },
+  "kj:222A": {
+    "number": "222A",
+    "title": "KJ 222A Agungkan Kuasa NamaNya",
+    "songbook": "KJ"
+  },
+  "kj:222B": {
+    "number": "222B",
+    "title": "KJ 222B Agungkan Kuasa NamaNya",
+    "songbook": "KJ"
+  },
+  "kj:223": {
+    "number": "223",
+    "title": "KJ 223 Nyanyian Malaikat Nyaring Bergema",
+    "songbook": "KJ"
+  },
+  "kj:224": {
+    "number": "224",
+    "title": "KJ 224 Masyhurkan RajaMu",
+    "songbook": "KJ"
+  },
+  "kj:225": {
+    "number": "225",
+    "title": "KJ 225 Berkereta Awan Putih",
+    "songbook": "KJ"
+  },
+  "kj:226": {
+    "number": "226",
+    "title": "KJ 226 Dia Nobatkanlah",
+    "songbook": "KJ"
+  },
+  "kj:227": {
+    "number": "227",
+    "title": "KJ 227 UmatMu Bersembah Sujud",
+    "songbook": "KJ"
+  },
+  "kj:228": {
+    "number": "228",
+    "title": "KJ 228 Datanglah, ya Roh Kudus",
+    "songbook": "KJ"
+  },
+  "kj:229A": {
+    "number": "229A",
+    "title": "KJ 229A O Roh Pencipta, Datanglah",
+    "songbook": "KJ"
+  },
+  "kj:229B": {
+    "number": "229B",
+    "title": "KJ 229B O Roh Pencipta, Datanglah",
+    "songbook": "KJ"
+  },
+  "kj:230": {
+    "number": "230",
+    "title": "KJ 230 Kami Berdoa, Ya Roh Kudus",
+    "songbook": "KJ"
+  },
+  "kj:231": {
+    "number": "231",
+    "title": "KJ 231 O Roh Kudus Ilahi",
+    "songbook": "KJ"
+  },
+  "kj:232": {
+    "number": "232",
+    "title": "KJ 232 Hai Umat, Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:233": {
+    "number": "233",
+    "title": "KJ 233 Roh Kudus, Turunlah",
+    "songbook": "KJ"
+  },
+  "kj:234": {
+    "number": "234",
+    "title": "KJ 234 Di Hari Pentakosta",
+    "songbook": "KJ"
+  },
+  "kj:235": {
+    "number": "235",
+    "title": "KJ 235 Kudengar BerkatMu Turun",
+    "songbook": "KJ"
+  },
+  "kj:236": {
+    "number": "236",
+    "title": "KJ 236 Roh Kudus, Sinarilah",
+    "songbook": "KJ"
+  },
+  "kj:237": {
+    "number": "237",
+    "title": "KJ 237 Roh Kudus, Tetap Teguh",
+    "songbook": "KJ"
+  },
+  "kj:238": {
+    "number": "238",
+    "title": "KJ 238 Ya Roh Kudus Berkurnia",
+    "songbook": "KJ"
+  },
+  "kj:239": {
+    "number": "239",
+    "title": "KJ 239 Turun, Roh Allah, dalam Hatiku",
+    "songbook": "KJ"
+  },
+  "kj:240A": {
+    "number": "240A",
+    "title": "KJ 240A Datanglah ya Sumber Rahmat",
+    "songbook": "KJ"
+  },
+  "kj:240B": {
+    "number": "240B",
+    "title": "KJ 240B Datanglah ya Sumber Rahmat",
+    "songbook": "KJ"
+  },
+  "kj:241": {
+    "number": "241",
+    "title": "KJ 241 Inilah Hari Kelima Puluh",
+    "songbook": "KJ"
+  },
+  "kj:242": {
+    "number": "242",
+    "title": "KJ 242 Muliakan Allah Bapa",
+    "songbook": "KJ"
+  },
+  "kj:243": {
+    "number": "243",
+    "title": "KJ 243 Haleluya, Terpujilah",
+    "songbook": "KJ"
+  },
+  "kj:244": {
+    "number": "244",
+    "title": "KJ 244 Puji Allah Pencipta",
+    "songbook": "KJ"
+  },
+  "kj:245": {
+    "number": "245",
+    "title": "KJ 245 Tritunggal, Sinar Abadi",
+    "songbook": "KJ"
+  },
+  "kj:246": {
+    "number": "246",
+    "title": "KJ 246 Ya Allah Yang Mahatinggi",
+    "songbook": "KJ"
+  },
+  "kj:247": {
+    "number": "247",
+    "title": "KJ 247 Sungguh Kerajaan Allah",
+    "songbook": "KJ"
+  },
+  "kj:248A": {
+    "number": "248A",
+    "title": "KJ 248A Yesuslah Raja yang Menang",
+    "songbook": "KJ"
+  },
+  "kj:248B": {
+    "number": "248B",
+    "title": "KJ 248B Yesuslah Raja yang Menang",
+    "songbook": "KJ"
+  },
+  "kj:249": {
+    "number": "249",
+    "title": "KJ 249 Serikat Persaudaraan",
+    "songbook": "KJ"
+  },
+  "kj:250A": {
+    "number": "250A",
+    "title": "KJ 250A AllahMu Benteng Yang Teguh",
+    "songbook": "KJ"
+  },
+  "kj:250B": {
+    "number": "250B",
+    "title": "KJ 250B Allahmu Benteng Yang Teguh",
+    "songbook": "KJ"
+  },
+  "kj:251": {
+    "number": "251",
+    "title": "KJ 251 Maju, Berjuanglah Terus",
+    "songbook": "KJ"
+  },
+  "kj:252": {
+    "number": "252",
+    "title": "KJ 252 Batu Penjuru G'reja",
+    "songbook": "KJ"
+  },
+  "kj:253": {
+    "number": "253",
+    "title": "KJ 253 Majulah, Majulah",
+    "songbook": "KJ"
+  },
+  "kj:254": {
+    "number": "254",
+    "title": "KJ 254 Kristus, Penolong Umat yang Percaya",
+    "songbook": "KJ"
+  },
+  "kj:255": {
+    "number": "255",
+    "title": "KJ 255 Di Seluruh Dunia",
+    "songbook": "KJ"
+  },
+  "kj:256": {
+    "number": "256",
+    "title": "KJ 256 Kita Satu di Dalam Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:257": {
+    "number": "257",
+    "title": "KJ 257 Aku Gereja, Kau Pun Gereja",
+    "songbook": "KJ"
+  },
+  "kj:258": {
+    "number": "258",
+    "title": "KJ 258 Satu Tubuh Kita",
+    "songbook": "KJ"
+  },
+  "kj:259": {
+    "number": "259",
+    "title": "KJ 259 Di Dalam Kristus Bertemu",
+    "songbook": "KJ"
+  },
+  "kj:260": {
+    "number": "260",
+    "title": "KJ 260 Dalam Dunia Penuh Kerusuhan",
+    "songbook": "KJ"
+  },
+  "kj:261": {
+    "number": "261",
+    "title": "KJ 261 Yerusalem, Mulia dan Kudus",
+    "songbook": "KJ"
+  },
+  "kj:262": {
+    "number": "262",
+    "title": "KJ 262 Kota Sion, Kota Allah",
+    "songbook": "KJ"
+  },
+  "kj:263": {
+    "number": "263",
+    "title": "KJ 263 Yang T'lah Menang",
+    "songbook": "KJ"
+  },
+  "kj:264": {
+    "number": "264",
+    "title": "KJ 264 Kar'na Jemaat di Sorga Mulia",
+    "songbook": "KJ"
+  },
+  "kj:265": {
+    "number": "265",
+    "title": "KJ 265 Bila Tugasku Kelak Selesai",
+    "songbook": "KJ"
+  },
+  "kj:266": {
+    "number": "266",
+    "title": "KJ 266 Ada Kota Yang Indah Cerah",
+    "songbook": "KJ"
+  },
+  "kj:267": {
+    "number": "267",
+    "title": "KJ 267 Bila Muka dengan Muka",
+    "songbook": "KJ"
+  },
+  "kj:268": {
+    "number": "268",
+    "title": "KJ 268 Aku Tahu Satu Kota",
+    "songbook": "KJ"
+  },
+  "kj:269": {
+    "number": "269",
+    "title": "KJ 269 Hai Musafir, Mau ke Mana",
+    "songbook": "KJ"
+  },
+  "kj:270": {
+    "number": "270",
+    "title": "KJ 270 Berlaksa-laksa Orang",
+    "songbook": "KJ"
+  },
+  "kj:271": {
+    "number": "271",
+    "title": "KJ 271 Kabar Yang Indah Benar",
+    "songbook": "KJ"
+  },
+  "kj:272": {
+    "number": "272",
+    "title": "KJ 272 Sekawanan yang Esa",
+    "songbook": "KJ"
+  },
+  "kj:273": {
+    "number": "273",
+    "title": "KJ 273 Datanglah, Ya Yesus",
+    "songbook": "KJ"
+  },
+  "kj:274": {
+    "number": "274",
+    "title": "KJ 274 Bila Nanti Yesus Datang",
+    "songbook": "KJ"
+  },
+  "kj:275": {
+    "number": "275",
+    "title": "KJ 275 Tuhan Yesus, Jurus'lamat",
+    "songbook": "KJ"
+  },
+  "kj:276": {
+    "number": "276",
+    "title": "KJ 276 Bangunlah! Dengar Suara",
+    "songbook": "KJ"
+  },
+  "kj:277": {
+    "number": "277",
+    "title": "KJ 277 Tuhanku Seg'ra 'kan Kembali Ke Dunia",
+    "songbook": "KJ"
+  },
+  "kj:278": {
+    "number": "278",
+    "title": "KJ 278 Bila Sangkakala Menggegap",
+    "songbook": "KJ"
+  },
+  "kj:279": {
+    "number": "279",
+    "title": "KJ 279 Bunga 'Kan Layu Kering",
+    "songbook": "KJ"
+  },
+  "kj:280": {
+    "number": "280",
+    "title": "KJ 280 Aku Percaya",
+    "songbook": "KJ"
+  },
+  "kj:281": {
+    "number": "281",
+    "title": "KJ 281 Segala Benua dan Langit Penuh",
+    "songbook": "KJ"
+  },
+  "kj:282": {
+    "number": "282",
+    "title": "KJ 282 Seluruh Umat Tuhan olehNya Dikenal",
+    "songbook": "KJ"
+  },
+  "kj:283": {
+    "number": "283",
+    "title": "KJ 283 Gembalaku Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:284": {
+    "number": "284",
+    "title": "KJ 284 Pengikut Kristus, Nyanyilah",
+    "songbook": "KJ"
+  },
+  "kj:285": {
+    "number": "285",
+    "title": "KJ 285 Tuhankulah Gembalaku",
+    "songbook": "KJ"
+  },
+  "kj:286": {
+    "number": "286",
+    "title": "KJ 286 Bumi dan Langit, Pujilah",
+    "songbook": "KJ"
+  },
+  "kj:287A": {
+    "number": "287A",
+    "title": "KJ 287A Sekarang B'ri Syukur",
+    "songbook": "KJ"
+  },
+  "kj:287B": {
+    "number": "287B",
+    "title": "KJ 287B Sekarang B'ri Syukur",
+    "songbook": "KJ"
+  },
+  "kj:288": {
+    "number": "288",
+    "title": "KJ 288 Mari, Puji Raja Sorga",
+    "songbook": "KJ"
+  },
+  "kj:289": {
+    "number": "289",
+    "title": "KJ 289 Tuhan, Pencipta Semesta",
+    "songbook": "KJ"
+  },
+  "kj:290": {
+    "number": "290",
+    "title": "KJ 290 Takkah Patut Ku Bernyanyi",
+    "songbook": "KJ"
+  },
+  "kj:291": {
+    "number": "291",
+    "title": "KJ 291 Mari Bersyukur Semua",
+    "songbook": "KJ"
+  },
+  "kj:292": {
+    "number": "292",
+    "title": "KJ 292 Tabuh Gendang!",
+    "songbook": "KJ"
+  },
+  "kj:293": {
+    "number": "293",
+    "title": "KJ 293 Puji Yesus",
+    "songbook": "KJ"
+  },
+  "kj:294": {
+    "number": "294",
+    "title": "KJ 294 Beribu Lidah Patutlah",
+    "songbook": "KJ"
+  },
+  "kj:295": {
+    "number": "295",
+    "title": "KJ 295 Andai 'Ku Punya Banyak Lidah",
+    "songbook": "KJ"
+  },
+  "kj:296": {
+    "number": "296",
+    "title": "KJ 296 Anak-Anak Puji Nama Allah",
+    "songbook": "KJ"
+  },
+  "kj:297": {
+    "number": "297",
+    "title": "KJ 297 Kau, Yesus, Raja Mahakaya",
+    "songbook": "KJ"
+  },
+  "kj:298": {
+    "number": "298",
+    "title": "KJ 298 Selama Bumi Didiami",
+    "songbook": "KJ"
+  },
+  "kj:299": {
+    "number": "299",
+    "title": "KJ 299 Bersyukur kepada Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:300": {
+    "number": "300",
+    "title": "KJ 300 Andaikan Yesus, Kau Bukan Milikku",
+    "songbook": "KJ"
+  },
+  "kj:301": {
+    "number": "301",
+    "title": "KJ 301 Aku Bawa dan Berikan",
+    "songbook": "KJ"
+  },
+  "kj:302": {
+    "number": "302",
+    "title": "KJ 302 Kub'ri Persembahan",
+    "songbook": "KJ"
+  },
+  "kj:303A": {
+    "number": "303A",
+    "title": "KJ 303A Pujilah Khalik Semesta",
+    "songbook": "KJ"
+  },
+  "kj:303B": {
+    "number": "303B",
+    "title": "KJ 303B Pujilah Khalik Semesta",
+    "songbook": "KJ"
+  },
+  "kj:304": {
+    "number": "304",
+    "title": "KJ 304 Pandang, ya Bapa dalam RahmatMu",
+    "songbook": "KJ"
+  },
+  "kj:305": {
+    "number": "305",
+    "title": "KJ 305 'Ku Mengasihi Yesus, Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:306": {
+    "number": "306",
+    "title": "KJ 306 'Ku Tahu, Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:307": {
+    "number": "307",
+    "title": "KJ 307 Ya Tuhan, pada Saat Dibaptiskan",
+    "songbook": "KJ"
+  },
+  "kj:308": {
+    "number": "308",
+    "title": "KJ 308 Tuhan, Kau Kekal Raja Hati Kami",
+    "songbook": "KJ"
+  },
+  "kj:309": {
+    "number": "309",
+    "title": "KJ 309 Biar'Ku Tumbuh di BatangMu",
+    "songbook": "KJ"
+  },
+  "kj:310": {
+    "number": "310",
+    "title": "KJ 310 Kudus, Kudus, Kuduslah",
+    "songbook": "KJ"
+  },
+  "kj:311A": {
+    "number": "311A",
+    "title": "KJ 311A O Anakdomba Allah",
+    "songbook": "KJ"
+  },
+  "kj:311B": {
+    "number": "311B",
+    "title": "KJ 311B O Anakdomba Allah",
+    "songbook": "KJ"
+  },
+  "kj:312A": {
+    "number": "312A",
+    "title": "KJ 312A AnakDomba Allah",
+    "songbook": "KJ"
+  },
+  "kj:312B": {
+    "number": "312B",
+    "title": "KJ 312B AnakDomba Allah",
+    "songbook": "KJ"
+  },
+  "kj:313": {
+    "number": "313",
+    "title": "KJ 313 Hai Berdandanlah, Jiwaku",
+    "songbook": "KJ"
+  },
+  "kj:314": {
+    "number": "314",
+    "title": "KJ 314 Pujilah Sumber Hidupmu",
+    "songbook": "KJ"
+  },
+  "kj:315": {
+    "number": "315",
+    "title": "KJ 315 Pujilah Tuhan, Muliakan Dia",
+    "songbook": "KJ"
+  },
+  "kj:316": {
+    "number": "316",
+    "title": "KJ 316 Berkatilah, ya Tuhan, Nikah Ini",
+    "songbook": "KJ"
+  },
+  "kj:317": {
+    "number": "317",
+    "title": "KJ 317 Hari Ini Tuhan Berkati",
+    "songbook": "KJ"
+  },
+  "kj:318": {
+    "number": "318",
+    "title": "KJ 318 Berbahagia Tiap Rumah Tangga",
+    "songbook": "KJ"
+  },
+  "kj:319": {
+    "number": "319",
+    "title": "KJ 319 PadaMu, Yesus, Kami Serahkan",
+    "songbook": "KJ"
+  },
+  "kj:320": {
+    "number": "320",
+    "title": "KJ 320 Syukur Kami padaMu",
+    "songbook": "KJ"
+  },
+  "kj:321": {
+    "number": "321",
+    "title": "KJ 321 Setiap Pagi RahmatMu",
+    "songbook": "KJ"
+  },
+  "kj:322": {
+    "number": "322",
+    "title": "KJ 322 Terang Matahari",
+    "songbook": "KJ"
+  },
+  "kj:323": {
+    "number": "323",
+    "title": "KJ 323 Sinar Fajar Yang Baka",
+    "songbook": "KJ"
+  },
+  "kj:324": {
+    "number": "324",
+    "title": "KJ 324 Kau Mutiara Hatiku",
+    "songbook": "KJ"
+  },
+  "kj:325": {
+    "number": "325",
+    "title": "KJ 325 Bila 'Ku Tertidur",
+    "songbook": "KJ"
+  },
+  "kj:326": {
+    "number": "326",
+    "title": "KJ 326 Pujian Malam Kunyanyikan",
+    "songbook": "KJ"
+  },
+  "kj:327": {
+    "number": "327",
+    "title": "KJ 327 Hari pun Berlalu",
+    "songbook": "KJ"
+  },
+  "kj:328": {
+    "number": "328",
+    "title": "KJ 328 Ya Tuhan, Hari T'lah Berakhir",
+    "songbook": "KJ"
+  },
+  "kj:329": {
+    "number": "329",
+    "title": "KJ 329 Tinggal Sertaku",
+    "songbook": "KJ"
+  },
+  "kj:330": {
+    "number": "330",
+    "title": "KJ 330 Kau, Allah, Benteng yang Baka",
+    "songbook": "KJ"
+  },
+  "kj:331": {
+    "number": "331",
+    "title": "KJ 331 Siang, Malam, Musim, Tahun",
+    "songbook": "KJ"
+  },
+  "kj:332": {
+    "number": "332",
+    "title": "KJ 332 Kekuatan Serta Penghiburan",
+    "songbook": "KJ"
+  },
+  "kj:333": {
+    "number": "333",
+    "title": "KJ 333 Sayur Kubis Jatuh Harga",
+    "songbook": "KJ"
+  },
+  "kj:334": {
+    "number": "334",
+    "title": "KJ 334 Jangan Takut, Hai Tanah",
+    "songbook": "KJ"
+  },
+  "kj:335": {
+    "number": "335",
+    "title": "KJ 335 Manusia yang Meluku",
+    "songbook": "KJ"
+  },
+  "kj:336": {
+    "number": "336",
+    "title": "KJ 336 Indonesia, Negaraku",
+    "songbook": "KJ"
+  },
+  "kj:337": {
+    "number": "337",
+    "title": "KJ 337 Betapa Kita Tidak Bersyukur",
+    "songbook": "KJ"
+  },
+  "kj:338": {
+    "number": "338",
+    "title": "KJ 338 Marilah, Marilah, Hai Saudara",
+    "songbook": "KJ"
+  },
+  "kj:339": {
+    "number": "339",
+    "title": "KJ 339 Maju, Laskar Kristus",
+    "songbook": "KJ"
+  },
+  "kj:340": {
+    "number": "340",
+    "title": "KJ 340 Hai Bangkit Bagi Yesus",
+    "songbook": "KJ"
+  },
+  "kj:341": {
+    "number": "341",
+    "title": "KJ 341 KuasaMu dan NamaMulah",
+    "songbook": "KJ"
+  },
+  "kj:342": {
+    "number": "342",
+    "title": "KJ 342 Keluar Dari Kaum",
+    "songbook": "KJ"
+  },
+  "kj:343": {
+    "number": "343",
+    "title": "KJ 343 Dunia Dalam Rawa Paya",
+    "songbook": "KJ"
+  },
+  "kj:344": {
+    "number": "344",
+    "title": "KJ 344 Ingat akan Nama Yesus",
+    "songbook": "KJ"
+  },
+  "kj:345": {
+    "number": "345",
+    "title": "KJ 345 Sertai Kami, Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:346": {
+    "number": "346",
+    "title": "KJ 346 Tuhan Allah Beserta Engkau",
+    "songbook": "KJ"
+  },
+  "kj:347": {
+    "number": "347",
+    "title": "KJ 347 Haleluya, Hormat Sepenuhnya",
+    "songbook": "KJ"
+  },
+  "kj:348": {
+    "number": "348",
+    "title": "KJ 348 Anug'rah Tuhan kita, Yesus Kristus",
+    "songbook": "KJ"
+  },
+  "kj:349": {
+    "number": "349",
+    "title": "KJ 349 Haleluya, Pujilah Tuhanmu",
+    "songbook": "KJ"
+  },
+  "kj:350": {
+    "number": "350",
+    "title": "KJ 350 O Berkati Kami",
+    "songbook": "KJ"
+  },
+  "kj:351": {
+    "number": "351",
+    "title": "KJ 351 Pintu Satu-satunya",
+    "songbook": "KJ"
+  },
+  "kj:352": {
+    "number": "352",
+    "title": "KJ 352 Hai Jangan Sendirian",
+    "songbook": "KJ"
+  },
+  "kj:353": {
+    "number": "353",
+    "title": "KJ 353 Sungguh Lembut Tuhan Yesus Memanggil",
+    "songbook": "KJ"
+  },
+  "kj:354": {
+    "number": "354",
+    "title": "KJ 354 Dengan Lembut Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:355": {
+    "number": "355",
+    "title": "KJ 355 Yesus Memanggil",
+    "songbook": "KJ"
+  },
+  "kj:356": {
+    "number": "356",
+    "title": "KJ 356 Tinggallah dalam Yesus",
+    "songbook": "KJ"
+  },
+  "kj:357": {
+    "number": "357",
+    "title": "KJ 357 Dengar Panggilan Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:358": {
+    "number": "358",
+    "title": "KJ 358 Semua yang Letih Lesu",
+    "songbook": "KJ"
+  },
+  "kj:359": {
+    "number": "359",
+    "title": "KJ 359 Marilah Datang kepadaKu",
+    "songbook": "KJ"
+  },
+  "kj:360": {
+    "number": "360",
+    "title": "KJ 360 Biar Kanak-kanak Datang kepadaKu",
+    "songbook": "KJ"
+  },
+  "kj:361": {
+    "number": "361",
+    "title": "KJ 361 Di SalibMu 'Ku Sujud",
+    "songbook": "KJ"
+  },
+  "kj:362": {
+    "number": "362",
+    "title": "KJ 362 Aku MilikMu, Yesus, Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:363": {
+    "number": "363",
+    "title": "KJ 363 Bagi Yesus Kuserahkan",
+    "songbook": "KJ"
+  },
+  "kj:364": {
+    "number": "364",
+    "title": "KJ 364 Berserah kepada Yesus",
+    "songbook": "KJ"
+  },
+  "kj:365A": {
+    "number": "365A",
+    "title": "KJ 365A Tuhan, Ambil Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:365B": {
+    "number": "365B",
+    "title": "KJ 365B Tuhan, Ambil Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:365C": {
+    "number": "365C",
+    "title": "KJ 365C Tuhan, Ambil Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:366": {
+    "number": "366",
+    "title": "KJ 366 Ya Kasih yang Merangkulku",
+    "songbook": "KJ"
+  },
+  "kj:367": {
+    "number": "367",
+    "title": "KJ 367 PadaMu, Tuhan dan Allahku",
+    "songbook": "KJ"
+  },
+  "kj:368": {
+    "number": "368",
+    "title": "KJ 368 Pada Kaki SalibMu",
+    "songbook": "KJ"
+  },
+  "kj:369A": {
+    "number": "369A",
+    "title": "KJ 369A Ya Yesus, Ku Berjanji",
+    "songbook": "KJ"
+  },
+  "kj:369B": {
+    "number": "369B",
+    "title": "KJ 369B Ya Yesus, Ku Berjanji",
+    "songbook": "KJ"
+  },
+  "kj:370": {
+    "number": "370",
+    "title": "KJ 370 'Ku Mau Berjalan dengan Jurus'lamatku",
+    "songbook": "KJ"
+  },
+  "kj:371": {
+    "number": "371",
+    "title": "KJ 371 Aku Rindu pada Yesus",
+    "songbook": "KJ"
+  },
+  "kj:372": {
+    "number": "372",
+    "title": "KJ 372 Inginkah Kau Ikut Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:373": {
+    "number": "373",
+    "title": "KJ 373 Aku Mau Mengerti",
+    "songbook": "KJ"
+  },
+  "kj:374": {
+    "number": "374",
+    "title": "KJ 374 'Ku Bersandar PadaNya",
+    "songbook": "KJ"
+  },
+  "kj:375": {
+    "number": "375",
+    "title": "KJ 375 Saya Mau Ikut Yesus",
+    "songbook": "KJ"
+  },
+  "kj:376": {
+    "number": "376",
+    "title": "KJ 376 Ikut Dikau Saja, Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:377": {
+    "number": "377",
+    "title": "KJ 377 Sang Rajalah Gembalaku",
+    "songbook": "KJ"
+  },
+  "kj:378": {
+    "number": "378",
+    "title": "KJ 378 Yang Diperbuat Allahku",
+    "songbook": "KJ"
+  },
+  "kj:379": {
+    "number": "379",
+    "title": "KJ 379 Yang Mau Dibimbing oleh Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:380": {
+    "number": "380",
+    "title": "KJ 380 Asal Yesus Jua Tuhan Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:381": {
+    "number": "381",
+    "title": "KJ 381 Yang Mahakasih",
+    "songbook": "KJ"
+  },
+  "kj:382": {
+    "number": "382",
+    "title": "KJ 382 Ya Yesus, Terkasih",
+    "songbook": "KJ"
+  },
+  "kj:383": {
+    "number": "383",
+    "title": "KJ 383 Sungguh Indah Kabar Mulia",
+    "songbook": "KJ"
+  },
+  "kj:384": {
+    "number": "384",
+    "title": "KJ 384 Allah Bapa Melindungi",
+    "songbook": "KJ"
+  },
+  "kj:385": {
+    "number": "385",
+    "title": "KJ 385 Burung Pipit Yang Kecil",
+    "songbook": "KJ"
+  },
+  "kj:386": {
+    "number": "386",
+    "title": "KJ 386 Manisnya Nama Penebus",
+    "songbook": "KJ"
+  },
+  "kj:387": {
+    "number": "387",
+    "title": "KJ 387 'Ku Heran, Allah Mau Memb'ri",
+    "songbook": "KJ"
+  },
+  "kj:388": {
+    "number": "388",
+    "title": "KJ 388 S'lamat di Tangan Yesus",
+    "songbook": "KJ"
+  },
+  "kj:389": {
+    "number": "389",
+    "title": "KJ 389 Besarlah Kasih Bapaku",
+    "songbook": "KJ"
+  },
+  "kj:390": {
+    "number": "390",
+    "title": "KJ 390 Tuhan Tidak Lupa",
+    "songbook": "KJ"
+  },
+  "kj:391": {
+    "number": "391",
+    "title": "KJ 391 Puji Tuhan, Haleluya",
+    "songbook": "KJ"
+  },
+  "kj:392": {
+    "number": "392",
+    "title": "KJ 392 'Ku Berbahagia",
+    "songbook": "KJ"
+  },
+  "kj:393": {
+    "number": "393",
+    "title": "KJ 393 Tuhan, Betapa Banyaknya",
+    "songbook": "KJ"
+  },
+  "kj:394": {
+    "number": "394",
+    "title": "KJ 394 Salib Kristus Kubanggakan",
+    "songbook": "KJ"
+  },
+  "kj:395": {
+    "number": "395",
+    "title": "KJ 395 Betapa Indah Harinya",
+    "songbook": "KJ"
+  },
+  "kj:396": {
+    "number": "396",
+    "title": "KJ 396 Yesus Segala-galanya",
+    "songbook": "KJ"
+  },
+  "kj:397": {
+    "number": "397",
+    "title": "KJ 397 Terpuji Engkau, Allah Mahabesar",
+    "songbook": "KJ"
+  },
+  "kj:398": {
+    "number": "398",
+    "title": "KJ 398 Sukacita Hatiku",
+    "songbook": "KJ"
+  },
+  "kj:399": {
+    "number": "399",
+    "title": "KJ 399 Bersukacitalah",
+    "songbook": "KJ"
+  },
+  "kj:400": {
+    "number": "400",
+    "title": "KJ 400 Kudaki Jalan Mulia",
+    "songbook": "KJ"
+  },
+  "kj:401": {
+    "number": "401",
+    "title": "KJ 401 Makin Dekat, Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:402": {
+    "number": "402",
+    "title": "KJ 402 Kuperlukan Jurus'lamat",
+    "songbook": "KJ"
+  },
+  "kj:403": {
+    "number": "403",
+    "title": "KJ 403 Hujan Berkat 'Kan Tercurah",
+    "songbook": "KJ"
+  },
+  "kj:404": {
+    "number": "404",
+    "title": "KJ 404 'Ku Disalibkan dengan Tuhanku",
+    "songbook": "KJ"
+  },
+  "kj:405": {
+    "number": "405",
+    "title": "KJ 405 Kaulah, ya Tuhan, Surya Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:406": {
+    "number": "406",
+    "title": "KJ 406 Ya Tuhan, Bimbing Aku",
+    "songbook": "KJ"
+  },
+  "kj:407": {
+    "number": "407",
+    "title": "KJ 407 Tuhan, Kau Gembala Kami",
+    "songbook": "KJ"
+  },
+  "kj:408": {
+    "number": "408",
+    "title": "KJ 408 Di Jalanku 'Ku Diiring",
+    "songbook": "KJ"
+  },
+  "kj:409": {
+    "number": "409",
+    "title": "KJ 409 Yesus, Kau Nahkodaku",
+    "songbook": "KJ"
+  },
+  "kj:410": {
+    "number": "410",
+    "title": "KJ 410 Tenanglah Kini Hatiku",
+    "songbook": "KJ"
+  },
+  "kj:411": {
+    "number": "411",
+    "title": "KJ 411 Ya Cahya Kasih, Jalanku Kelam",
+    "songbook": "KJ"
+  },
+  "kj:412": {
+    "number": "412",
+    "title": "KJ 412 Tuntun Aku, Tuhan Allah",
+    "songbook": "KJ"
+  },
+  "kj:413": {
+    "number": "413",
+    "title": "KJ 413 Tuhan, Pimpin AnakMu",
+    "songbook": "KJ"
+  },
+  "kj:414": {
+    "number": "414",
+    "title": "KJ 414 Yesus, Pimpin Langkahku",
+    "songbook": "KJ"
+  },
+  "kj:415": {
+    "number": "415",
+    "title": "KJ 415 Gembala Baik Bersuling nan Merdu",
+    "songbook": "KJ"
+  },
+  "kj:416": {
+    "number": "416",
+    "title": "KJ 416 Tersembunyi Ujung Jalan",
+    "songbook": "KJ"
+  },
+  "kj:417": {
+    "number": "417",
+    "title": "KJ 417 Serahkan pada Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:418": {
+    "number": "418",
+    "title": "KJ 418 Baht'ra yang Dipandu Yesus",
+    "songbook": "KJ"
+  },
+  "kj:419": {
+    "number": "419",
+    "title": "KJ 419 Yesus, Pimpinlah",
+    "songbook": "KJ"
+  },
+  "kj:420": {
+    "number": "420",
+    "title": "KJ 420 Yesus, Kawan Anak-anak",
+    "songbook": "KJ"
+  },
+  "kj:421": {
+    "number": "421",
+    "title": "KJ 421 Yesus Saja Kawanku Musafir",
+    "songbook": "KJ"
+  },
+  "kj:422": {
+    "number": "422",
+    "title": "KJ 422 Yesus Berpesan",
+    "songbook": "KJ"
+  },
+  "kj:423": {
+    "number": "423",
+    "title": "KJ 423 Aku Dapat di Hatiku",
+    "songbook": "KJ"
+  },
+  "kj:424": {
+    "number": "424",
+    "title": "KJ 424 Yesus Menginginkan Daku",
+    "songbook": "KJ"
+  },
+  "kj:425": {
+    "number": "425",
+    "title": "KJ 425 Berkumandang Suara dari Seberang",
+    "songbook": "KJ"
+  },
+  "kj:426": {
+    "number": "426",
+    "title": "KJ 426 Kita Harus Membawa Berita",
+    "songbook": "KJ"
+  },
+  "kj:427": {
+    "number": "427",
+    "title": "KJ 427 'Ku Suka Menuturkan",
+    "songbook": "KJ"
+  },
+  "kj:428": {
+    "number": "428",
+    "title": "KJ 428 Lihatlah Sekelilingmu",
+    "songbook": "KJ"
+  },
+  "kj:429": {
+    "number": "429",
+    "title": "KJ 429 Masih Banyak Orang Berjalan",
+    "songbook": "KJ"
+  },
+  "kj:430": {
+    "number": "430",
+    "title": "KJ 430 Haruskah Hanya Penebus",
+    "songbook": "KJ"
+  },
+  "kj:431": {
+    "number": "431",
+    "title": "KJ 431 Mari Menjadi Penjala Orang",
+    "songbook": "KJ"
+  },
+  "kj:432": {
+    "number": "432",
+    "title": "KJ 432 Jika Padaku Ditanyakan",
+    "songbook": "KJ"
+  },
+  "kj:433": {
+    "number": "433",
+    "title": "KJ 433 Aku Suka membagi",
+    "songbook": "KJ"
+  },
+  "kj:434": {
+    "number": "434",
+    "title": "KJ 434 Allah Adalah Kasih",
+    "songbook": "KJ"
+  },
+  "kj:435": {
+    "number": "435",
+    "title": "KJ 435 Ketika Tuhanku Disalib",
+    "songbook": "KJ"
+  },
+  "kj:436": {
+    "number": "436",
+    "title": "KJ 436 Lawanlah Godaan",
+    "songbook": "KJ"
+  },
+  "kj:437": {
+    "number": "437",
+    "title": "KJ 437 Kucoba",
+    "songbook": "KJ"
+  },
+  "kj:438": {
+    "number": "438",
+    "title": "KJ 438 Apapun Juga Menimpamu",
+    "songbook": "KJ"
+  },
+  "kj:439": {
+    "number": "439",
+    "title": "KJ 439 Bila Topan K'ras Melanda Hidupmu",
+    "songbook": "KJ"
+  },
+  "kj:440": {
+    "number": "440",
+    "title": "KJ 440 Di Badai Topan Dunia",
+    "songbook": "KJ"
+  },
+  "kj:441": {
+    "number": "441",
+    "title": "KJ 441 'Ku Ingin Menyerahkan",
+    "songbook": "KJ"
+  },
+  "kj:442": {
+    "number": "442",
+    "title": "KJ 442 Tenteramlah, Hai Jiwaku",
+    "songbook": "KJ"
+  },
+  "kj:443": {
+    "number": "443",
+    "title": "KJ 443 Kau Sukacita",
+    "songbook": "KJ"
+  },
+  "kj:444": {
+    "number": "444",
+    "title": "KJ 444 Mengucap Syukurlah",
+    "songbook": "KJ"
+  },
+  "kj:445": {
+    "number": "445",
+    "title": "KJ 445 Harap Akan Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:446": {
+    "number": "446",
+    "title": "KJ 446 Setialah",
+    "songbook": "KJ"
+  },
+  "kj:447": {
+    "number": "447",
+    "title": "KJ 447 Dalam Rumah Yang Gembira",
+    "songbook": "KJ"
+  },
+  "kj:448": {
+    "number": "448",
+    "title": "KJ 448 Alangkah Indahnya",
+    "songbook": "KJ"
+  },
+  "kj:449": {
+    "number": "449",
+    "title": "KJ 449 Tuhan dalam Sorga",
+    "songbook": "KJ"
+  },
+  "kj:450": {
+    "number": "450",
+    "title": "KJ 450 Hidup Kita yang Benar",
+    "songbook": "KJ"
+  },
+  "kj:451": {
+    "number": "451",
+    "title": "KJ 451 Bila Yesus Berada di tengah Keluarga",
+    "songbook": "KJ"
+  },
+  "kj:452": {
+    "number": "452",
+    "title": "KJ 452 Naikkan Doa Tak Enggan",
+    "songbook": "KJ"
+  },
+  "kj:453": {
+    "number": "453",
+    "title": "KJ 453 Yesus Kawan yang Sejati",
+    "songbook": "KJ"
+  },
+  "kj:454": {
+    "number": "454",
+    "title": "KJ 454 Indahnya Saat yang Teduh",
+    "songbook": "KJ"
+  },
+  "kj:455": {
+    "number": "455",
+    "title": "KJ 455 Mintalah",
+    "songbook": "KJ"
+  },
+  "kj:456": {
+    "number": "456",
+    "title": "KJ 456 Bapa Kami Yang di Sorga",
+    "songbook": "KJ"
+  },
+  "kj:457": {
+    "number": "457",
+    "title": "KJ 457 Ya Tuhan, Tiap Jam",
+    "songbook": "KJ"
+  },
+  "kj:458": {
+    "number": "458",
+    "title": "KJ 458 Ya Tuhan dalam Sorga T'rang",
+    "songbook": "KJ"
+  },
+  "kj:459": {
+    "number": "459",
+    "title": "KJ 459 Ya Bapa, Jamah AnakMu",
+    "songbook": "KJ"
+  },
+  "kj:460": {
+    "number": "460",
+    "title": "KJ 460 Jika Jiwaku Berdoa",
+    "songbook": "KJ"
+  },
+  "kj:461": {
+    "number": "461",
+    "title": "KJ 461 Dengan KasihMu, ya Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:462": {
+    "number": "462",
+    "title": "KJ 462 Tolong Aku, Tuhan",
+    "songbook": "KJ"
+  },
+  "kj:463": {
+    "number": "463",
+    "title": "KJ 463 Tuhan, Datang Segera",
+    "songbook": "KJ"
+  },
+  "kj:464": {
+    "number": "464",
+    "title": "KJ 464 Tuhan, Pecahkanlah Roti Hayat",
+    "songbook": "KJ"
+  },
+  "kj:465": {
+    "number": "465",
+    "title": "KJ 465 Syukur Kupanjatkan",
+    "songbook": "KJ"
+  },
+  "kj:466A": {
+    "number": "466A",
+    "title": "KJ 466A Ya Tuhan, Isi Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:466B": {
+    "number": "466B",
+    "title": "KJ 466B Ya Tuhan, Isi Hidupku",
+    "songbook": "KJ"
+  },
+  "kj:467": {
+    "number": "467",
+    "title": "KJ 467 Tuhanku, Bila Hati Kawanku",
+    "songbook": "KJ"
+  },
+  "kj:468": {
+    "number": "468",
+    "title": "KJ 468 Berilah, Bapa, Hari Ini",
+    "songbook": "KJ"
+  },
+  "kj:469": {
+    "number": "469",
+    "title": "KJ 469 Ya Tuhan, T'rima kasih",
+    "songbook": "KJ"
+  },
+  "kj:470": {
+    "number": "470",
+    "title": "KJ 470 Puji, Syukur, Hormat",
+    "songbook": "KJ"
+  },
+  "kj:471": {
+    "number": "471",
+    "title": "KJ 471 Atas Makananku Ini",
+    "songbook": "KJ"
+  },
+  "kj:472": {
+    "number": "472",
+    "title": "KJ 472 Haleluya, Haleluya",
+    "songbook": "KJ"
+  },
+  "kj:473": {
+    "number": "473",
+    "title": "KJ 473 Haleluya",
+    "songbook": "KJ"
+  },
+  "kj:474": {
+    "number": "474",
+    "title": "KJ 474 KepadaMu Puji-pujian",
+    "songbook": "KJ"
+  },
+  "kj:475": {
+    "number": "475",
+    "title": "KJ 475 Kar'na Engkaulah",
+    "songbook": "KJ"
+  },
+  "kj:476": {
+    "number": "476",
+    "title": "KJ 476 Amin",
+    "songbook": "KJ"
+  },
+  "kj:477": {
+    "number": "477",
+    "title": "KJ 477 Amin, Amin",
+    "songbook": "KJ"
+  },
+  "kj:478": {
+    "number": "478",
+    "title": "KJ 478 Amin, Amin, Amin",
+    "songbook": "KJ"
+  }
+}
