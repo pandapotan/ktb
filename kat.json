@@ -1,0 +1,714 @@
+{
+  "title": "Katekhismus Kecil Martin Luther Multi-Bahasa",
+  "languages": ["Indonesian", "Batak Toba", "English"],
+  "chapters": [
+    {
+      "id": 1,
+      "titles": {
+        "indonesian": "BAB I. DASA TITAH",
+        "batak": "BINDU I. PATIK NI DEBATA",
+        "english": "CHAPTER I. THE TEN COMMANDMENTS"
+      },
+      "sections": [
+        {
+          "id": 1,
+          "titles": {
+            "indonesian": "TITAH PERTAMA",
+            "batak": "PATIK PARJOLO",
+            "english": "THE FIRST COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Akulah Tuhan Allahmu, seru Tuhan kita. Tidak boleh ada allah lain, kecuali Aku.",
+              "meaning": "Kita harus lebih takut, lebih kasih dan lebih yakin dan percaya terhadap Allah, dari pada terhadap segala-galanya."
+            },
+            "batak": {
+              "commandment": "Ahu do Jahowa DebataM, ninna Debatanta. Ndang jadi marangkup Ahu bahenonmu Debatam.",
+              "meaning": "On do: Ingkon umbiar rohanta jala humolong jala umpos mida Debata asa mida nasa na adong."
+            },
+            "english": {
+              "commandment": "Thou shalt have no other gods.",
+              "meaning": "We should fear, love, and trust in God above all things."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "titles": {
+            "indonesian": "TITAH KEDUA",
+            "batak": "PATIK PADUAHON",
+            "english": "THE SECOND COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan perbuat bagimu patung yang menyerupai apapun, yang ada di langit, atau yang ada di bumi, atau yang ada di dalam air untuk disembah atau bertakwa kepadanya.",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan bersembah sujud kepada Allah lain atau meminta kehidupan dari padanya, dan jangan memanggil roh-roh atau berkeyakinan kepada tenungan-tenungan dukun, dan jangan yakin kepada benda-benda bermana (sakti)."
+            },
+            "batak": {
+              "commandment": "Ndang jadi ganaonmu jala ndang jadi sumanonmu manang aha na di banuaginjang dohot na di banuatonga on ro di na di bagasan aek na di toru ni tano, ianggo tung gabe sisombaon manang siolon.",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa ndang jadi iba marsomba tu sombaon manang tu ganaganaan, mangido hangoluan sian i, jala ndang jadi oloan begu manang ulpahan ni hadatuon, jala ndang jadi pos roha di ugasan hahomitan."
+            },
+            "english": {
+              "commandment": "Thou shalt not take the name of the Lord, thy God, in vain.",
+              "meaning": "We should fear and love God that we may not curse, swear, use witchcraft, lie, or deceive by His name, but call upon it in every trouble, pray, praise, and give thanks."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "titles": {
+            "indonesian": "TITAH KETIGA",
+            "batak": "PATIK PATOLUHON",
+            "english": "THE THIRD COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan menyebut nama Tuhan Allah dengan sembarangan, karena Allah akan menghukum orang yang menyalah-gunakan namaNya.",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan mengutuki, mengumpat, memakai guna-guna, berbohong, menipu dengan memakai nama Allah; sebab hanya dalam penderitaan, kesusahan dan di dalam doa serta pujianlah kita layak menyebut nama Tuhan Allah."
+            },
+            "batak": {
+              "commandment": "Ndang jadi dohonon goar ni Debata, ianggo so ture dalanna. Ai hona uhumNa do sogot angka na marsineang di goarNa.",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang hita olo mamurai manang manolonnolon manang marujarujaran na roa, manang manmgansi marhite goar ni Debata; ai di na tarsosak dohot tangiang dohot pujipujian do sidohonon goar ni Debata."
+            },
+            "english": {
+              "commandment": "Thou shalt sanctify the holy-day.",
+              "meaning": "We should fear and love God that we may not despise preaching and His Word, but hold it sacred, and gladly hear and learn it."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "titles": {
+            "indonesian": "TITAH KEEMPAT",
+            "batak": "PATIK PAOPATHON",
+            "english": "THE FOURTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Ingat dan sucikanlah hari yang dikuduskan itu. Lakukanlah segala pekerjaanmu di dalam enam hari; tetapi pada hari yang ketujuh ialah Sabat bagi Allah Tuhanmu. Engkau tidak boleh bekerja pada hari itu, juga anakmu laki-laki atau perempuan, pembantumu laki-laki atau perempuan, ternakmu atau orang lain yang berada di tempat kediamanmu. Sebab Allah menciptakan langit dan bumi dan segala isinya di dalam enam hari. Kemudian Ia beristirahat pada hari yang ketujuh. Itulah sebabnya Allah memberkati hari itu dan menguduskannya.",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan menganggap rendah akan ajaran dan Firman Allah; hendaklah kita menganggap itu kudus, dan hendaklah kita tekun mendengar dan mempelajarinya dengan gembira."
+            },
+            "batak": {
+              "commandment": "Ingot hamu ma pabadiahon ari minggu i! Di na onom ari ma ula hamu nasa siulaonmu, alai anggo ari papituhon i, ari paradianan ni Jahowa Debatam do i. Ndang jadi ho mangula anggo di sadari i, manang anakmu pe manang borum, manang naposom lahilahi, manang naposom boruboru, ro di pinahanmu ro di pangisi ni huta ni halak pe na mangebati hutam. Ai di na onom ari do ditompa Debata langit dohot tano dohot laut dohot nasa isina; dung i maradian do Ibana di ari papituhon i. Dibahen i do umbahen na dipasupasu Debata Jahowa ari paradianan i jala diparbadiai.",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang tois rohanta di ajar na sian Hata ni Debata, ingkon badia do Hata ni Debata di rohanta jala ingkon ringgas rohanta tumangihon dohot mangguruhon."
+            },
+            "english": {
+              "commandment": "Thou shalt honor thy father and thy mother [that it may be well with thee and thou mayest live long upon the earth].",
+              "meaning": "We should fear and love God that we may not despise nor anger our parents and masters, but give them honor, serve, obey, and hold them in love and esteem."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "titles": {
+            "indonesian": "TITAH KELIMA",
+            "batak": "PATIK PALIMAHON",
+            "english": "THE FIFTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Hormatilah Bapa dan Ibumu agar engkau berbahagia dan lanjut umurmu di bumi yang diberikan Allah kepadamu.",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan kita bersikap remeh terhadap orangtua kita, terhadap pemerintah dan terhadap orang yang lebih tua. Jangan kita menimbulkan kemarahan mereka, tetapi hendaklah kita selalu menghormati dan mengasihi mereka, menuruti dan menyelami jiwa mereka, serta senantiasa berbuat baik kepada mereka."
+            },
+            "batak": {
+              "commandment": "Ingkon pasangaphonmu do natorasmu asa martua ho, jala leleng mangolu di tano na nilehon ni Jahowa Debatam di ho.",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang lea rohanta mida natorasta dohot mida angka rajanta ro di angka natuatua. Ndang jadi paroonta rimas nasida, ingkon pantun do hita jala ingkon holong rohanta tu nasida, sioloan do nasida jala sisubuton do rohana."
+            },
+            "english": {
+              "commandment": "Thou shalt not kill.",
+              "meaning": "We should fear and love God that we may not hurt nor harm our neighbor in his body, but help and befriend him in every bodily need [in every need and danger of life and body]."
+            }
+          }
+        },
+        {
+          "id": 6,
+          "titles": {
+            "indonesian": "TITAH KEENAM",
+            "batak": "PATIK PAONOMHON",
+            "english": "THE SIXTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan engkau membunuh!",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan kita mengancam kehidupan tentangga kita (sesama) maupun mendatangkan bahaya kepadanya, melainkan kita harus bersahabat dan membantu kebutuhan hidup mereka."
+            },
+            "batak": {
+              "commandment": "Unang ho mamunu",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang hita olo mambahen sahitsahit tu nasa na mangolu, ingkon roha pangoluhon do rohanta di nasa na mamngolu."
+            },
+            "english": {
+              "commandment": "Thou shalt not commit adultery.",
+              "meaning": "We should fear and love God that we may lead a chaste and decent life in words and deeds, and each love and honor his spouse."
+            }
+          }
+        },
+        {
+          "id": 7,
+          "titles": {
+            "indonesian": "TITAH KETUJUH",
+            "batak": "PATIK PAPITUHON",
+            "english": "THE SEVENTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan engkau berzinah!",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu kita harus senantiasa hidup suci dan bersih dan bersikap sopan dalam kata dan perbuatan. Orang yang telah berumahtangga harus setia dan saling mencintai."
+            },
+            "batak": {
+              "commandment": "Unang ho mangalangkup",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa toman rohanta jala porman dohot pangalahonta ro di hatanta, ianggo angka naung marbagas i ingkon masiparhamaolan jala masihaholongan."
+            },
+            "english": {
+              "commandment": "Thou shalt not steal.",
+              "meaning": "We should fear and love God that we may not take our neighbor's money or property, nor get them by false ware or dealing, but help him to improve and protect his property and business [that his means are preserved and his condition is improved]."
+            }
+          }
+        },
+        {
+          "id": 8,
+          "titles": {
+            "indonesian": "TITAH KEDELAPAN",
+            "batak": "PATIK PAUALUHON",
+            "english": "THE EIGHTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan engkau mencuri",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan kita mencuri uang atau harta sesama manusia, atau mempergunakan tipu daya menjatuhkan usaha dan niaga sesama manusia untuk kepentingan kita. Kita harus membantu memajukan usaha mereka serta memeliharanya."
+            },
+            "batak": {
+              "commandment": "Unang ho manangko",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang hita olo mandobo hepeng di dongan jolma manang mambahen bisukbisuk mangalansumhon boniaga, ingkon sipagandaon ni rohanta arta ni dongan jala siramothononhon."
+            },
+            "english": {
+              "commandment": "Thou shalt not bear false witness against thy neighbor.",
+              "meaning": "We should fear and love God that we may not deceitfully belie, betray, slander, or defame our neighbor, but defend him, [think and] speak well of him, and put the best construction on everything."
+            }
+          }
+        },
+        {
+          "id": 9,
+          "titles": {
+            "indonesian": "TITAH KESEMBILAN",
+            "batak": "PATIK PASIAHON",
+            "english": "THE NINTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan engkau berdusta!",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan kita mendustai, mengkhianati, menfitnah, maupun bersaksi palsu serta merendahkan martabat sesama manusia. Kita harus saling melindungi dan menyatakan hal-hal yang baik saja emngenai sesama manusia apabila belum nyata dan jelas diketahui kesalahannya."
+            },
+            "batak": {
+              "commandment": "Unang ho olo manghatindanghon hata na so tutu maralohon dongan jolma.",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang hita olo manggapgapi dongan jolma manang manjehehon manang pahatahatahon, paoruhon sangapnasida, ingkon niampinan do dongan jolma anggo so tangkas dope diboto salana. Holan uhum na denggan i do paboaboaon."
+            },
+            "english": {
+              "commandment": "Thou shalt not covet thy neighbor's house.",
+              "meaning": "We should fear and love God that we may not craftily seek to get our neighbor's inheritance or house, and obtain it by a show of right, etc., but help and be of service to him to keep it."
+            }
+          }
+        },
+        {
+          "id": 10,
+          "titles": {
+            "indonesian": "TITAH KESEPULUH",
+            "batak": "PATIK PASAMPULUHON",
+            "english": "THE TENTH COMMANDMENT"
+          },
+          "content": {
+            "indonesian": {
+              "commandment": "Jangan engkau mendambakan akan rumah sesamamu. Jangan engkau mendambakan akan istrinya, atau pembantunya laki-laki maupun perempuan, ternaknya atau segala sesuatu milik mereka.",
+              "meaning": "Kita harus takut serta kasih kepada Allah, sebab itu jangan kita mempergunakan tipu daya untuk memiliki harta sesama manusia serta harta warisannya. Kita harus membantu mereka memelihara hartanya. Dan jangan kita menghasut, baik istri maupun pembantunya dan menipu ternaknya. Kita patut menasehati mereka serta membujuknya agar tetap cinta dan setia kepada tugasnya."
+            },
+            "batak": {
+              "commandment": "Ndang jadi haliangan ni rohan bagas ni donganmu, ndang jadi haliangan ni roham dongan saripe ni donganmu, manang naposona baoa manang naposona boruboru, manang lombuna manang hodana, manang dia pe ugasan ni donganmu.",
+              "meaning": "On do: Ingkon dihabiari rohanta Debata jala ingkon holong rohanta di Ibana, asa unang hita olo marangkal mangarohai ugasan ni dongan jolma dohot ugasan tinadinghon ni ompuna, siurupan do nasida mangaramoti asa ugasanna. Angkup ni i ndang jadi bolabolaonta pardihuta ni dongan jolma manang naposona pe, siapoan do nasida jala sidasdason mandapothon ulaonna hian."
+            },
+            "english": {
+              "commandment": "Thou shalt not covet thy neighbor's wife, nor his man-servant, nor his maid-servant, nor his cattle, nor anything that is his.",
+              "meaning": "We should fear and love God that we may not estrange, force, or entice away our neighbor's wife, servants, or cattle, but urge them to stay and do their duty."
+            }
+          }
+        },
+        {
+          "id": "conclusion",
+          "titles": {
+            "indonesian": "Apakah ketentuan Tuhan Allah akan Dasa TitahNya itu?",
+            "batak": "Beha do pandok ni Debata taringot tu Patik nasampulu i?",
+            "english": "What does God say of all these commandments?"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Demikian: Akulah Tuhan Allahmu, Allah pencemburu, yang membalaskan kesalahan bapak kepada anak-anaknya, kepada turunan yang ketiga dan keempat dari orang yang melanggar titah atau FirmanNya, tetapi Aku menunjukkan kasih setia kepada beribu-ribu orang, yaitu mereka yang mengasihi Aku dan yang berpegang pada perintah-perintahKu.",
+              "meaning": "Allah mengancam akan menghukum segala orang yang melanggar titah atau FirmanNya. Oleh karena itu kita harus takut akan murkaNya dan jangan melanggar titah atau FirmanNya. Ia menjanjikan anugerah kasihNya dan segala yang baik bagi semua orang yang memelihara serta menaati titah atau FirmanNya. Dengan demikian kita harus kasih dan percaya akan Dia dan dengan ikhlas serta gembira melaksanakannya."
+            },
+            "batak": {
+              "text": "On do: Ahu do jahowa Debatam, ninna Debatanta, pargogo na so hatudosan jala parrimas, sai luluhononku do dosa ni amaama tu pinomparna ro disundut patoluhon, ro di sundut paopathon, pinompar ni angka na sogo roha di ahu, alai asi do rohangKu di angka na marriburibu angka na marholong ni roha di Ahu, na so mangalaosi PatikHi.",
+              "meaning": "On do: Dipalumba Debata do hita disi, didok do pinsangonNa nasa namangalaosi PatikNa i. Dibahen i tama do dihabiari rohanta rimasNa, unang ma nilaosan PatikNa. Alai diparbagabaga do asi ni rohaNa, angkup ni i nasa na denggan di angka na so mangalaosi PatikNa. Dibahen i tama haholongan ni rohanta dohot haposan ni rohanta Ibana, jala las rohanta mangoloi PatikNa."
+            },
+            "english": {
+              "text": "He says thus: I the Lord, thy God, am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate Me, and showing mercy unto thousands of them that love Me and keep My commandments.",
+              "meaning": "God threatens to punish all that transgress these commandments. Therefore we should fear His wrath and do not act contrary to these commandments. But He promises grace and every blessing to all that keep these commandments. Therefore we should also love and trust in Him, and gladly do [zealously and diligently] according to His commandments."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titles": {
+        "indonesian": "BAB II. KESAKSIAN IMAN ORANG KRISTEN",
+        "batak": "BINDU II. HATA HAPORSEAON NI HALAK KRISTEN",
+        "english": "CHAPTER II. THE CREED"
+      },
+      "sections": [
+        {
+          "id": 1,
+          "titles": {
+            "indonesian": "PASAL PERTAMA: IMAN TERHADAP ALLAH BAPA",
+            "batak": "PONGGOL PARJOLO MULA NI NASA NA ADONG",
+            "english": "THE FIRST ARTICLE OF CREATION"
+          },
+          "content": {
+            "indonesian": {
+              "article": "Aku percaya kepada Allah Bapa Yang Makakuasa, yang menciptakan semesta langit dan bumi.",
+              "meaning": "Aku percaya bahwa ada Allah yang menciptkan aku dan segala yang ada. DiperlengkapiNya aku dengan tubuh dan jiwa, mata, telinga dan seluruh anggota tubuhku, pikiran dan segala perasaan, dan hingga kini dipeliharaNya semua. Juga diberikan kepadaku pakaian, makanan setiap hari, rumah dan kampung halaman, keluarga dan harta benda dan segala sesuatu yang kubutuhkan dalam hidup ini. Hidupku dipelihara agar jangan binasa dan dilindungi dari segala bahaya dan kejahatan. Segala kebaikan Allah tersebut diberikan kepadaku bukanlah karena kebaikan kelakuanku oleh karena untung nasib hidupku, melainkan hanya anugerah Tuhan dan kebaikanNya saja. Oleh itu menjadi kewajibanku berterimakasih, memuji, melayani serta mentaati FirmanNya. Demikianlah sesungguhnya."
+            },
+            "batak": {
+              "article": "Ahu porsea di Debata Jahowa, I do Ama pargogo na so hatudosan, na tumompa langit dohot tano.",
+              "meaning": "On do: Diparhatutu rohangku do adong Debata na tumompa nasa na manggulmit. Ditompa do dagingku marparnidaan, marparbinegean, marparnianggoan, marpanghilalaan, marpandaian, dilehon do roha tu tondingku jala dipatureture do i saluhutna rasirasa nuaeng; angkup ni i dilehon do tu au parabiton dohot sipanganon siganup ari, ro di nasa na hasea di ahu di hangoluan on; diramoti do ahu asa unang mago jala diondingi do ahu diparmaraan; luhutna i ndang sian denggan ni parangengku manang sian jinou ni tua; tung asi ni rohaNa sambing do i dohot denggan ni basaNa umbahen na dilehon; dibahen i tama hupapujipuji Ibana jala tama huoloi na nidokNa ala saluhutna i, paboa las ni rohangku di Ibana. I ma na tutu situtu!"
+            },
+            "english": {
+              "article": "I believe in God the Father Almighty, Maker of heaven and earth.",
+              "meaning": "I believe that God has made me and all creatures; that He has given me my body and soul, eyes, ears, and all my limbs, my reason, and all my senses, and still preserves them; in addition thereto, clothing and shoes, meat and drink, house and homestead, wife and children, fields, cattle, and all my goods; that He provides me richly and daily with all that I need to support this body and life, protects me from all danger, and guards me and preserves me from all evil; and all this out of pure, fatherly, divine goodness and mercy, without any merit or worthiness in me; for all which I owe it to Him to thank, praise, serve, and obey Him. This is most certainly true."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "titles": {
+            "indonesian": "PASAL KEDUA: KESELAMATAN MANUSIA",
+            "batak": "PONGGOL PADUAHON HATA HALUAON NI MANISIA",
+            "english": "THE SECOND ARTICLE OF REDEMPTION"
+          },
+          "content": {
+            "indonesian": {
+              "article": "Aku percaya kepada Yesus Kristus, Anak Allha yang tunggal, Tuhan kita, yang dikandung daripada Roh Kudus, alhir dari gadis perawan Maria, yang menderita di bawah pemerintahan Pontius Pilatus, disalibkan, mati dan dikuburkan, turun ke dalam kerajaan maut, pada hari yang ketiga bangkit pula dari antara orang mati, naik ke Sorga, duduk di sebelah kanan Allah, Bapa yang Mahakuasa, dan akan turun dari Sorga untuk menghakimi orang hidup dan mati.",
+              "meaning": "Aku percaya, bahwa Yesus Kristus adalah Allah sesungguhnya, yang diperanak BapaNya dari kekekalan, dan juga Dia adalah manusia yang sesungguhnya, yang lahir dari gadis perawan Maria. Dia adalah Tuhanku, yang menebus dan menyelamatkan aku, manusia yang sesat dan terkutuk, ditebusNya dan membebaskan aku dari segala dosa, dari kematian dan dari kuasa iblis, bukanlah dengan emas atau perak, melainkan dengan darahNya yang kudus dan mahal, dan dengan penderitaan dan kematianNya yang tidak karena dosaNya supaya aku menjadi milikNya dan hidup menjadi warga KerajaanNya, serta melayaniNya di dalam keadilan yang kekal, tidak berdosa, penuh berkat, juga sama seperti Dia bangkit dari kematian, hidup dan memerintah untuk selama-lamanya. Demikianlah sesungguhnya."
+            },
+            "batak": {
+              "article": "Ahu porsea di Jesus Kristus Anak ni Debata Jahowa nasasada i; i ma na tinubuhon ni si Maria, na gabegabean sian Tondi Parbadia andorang so habubuhan. I do Tuhanta na tumaon na bernit di panguhuman ni si Latus, na mate tarpajal do Ibana di hau pinarsilang, na tuat tu banuatoru dung ditanom, na mulak mangolu di ari patoluhon, na manaek tu Surgo laho hundul tu siamun ni Debata Jahowa, AmaNa i pargogo na so hatudosan i, disi ma Ibana paima mulak sogot tu tano on manguhumi halak na mangolu dohot na mate.",
+              "meaning": "On do: Na diparhatutu rohangku do Anak ni Debata situtu Jesus Kristus, na tinubuhon ni AmaNa di narobi ni narobi jala jolma situtu do Ibana ditubuhon si Maria andorang so habubuhan, I do Tuhanku na humophop ahu jala na manghamonanghon. Dipalua do ahu sian hamagoan, ahu na hona toru dohot sian dosa dohot sian hamatean dohot sian gomgoman ni sibolis i, ndada sere manang perak dibahen, tung mudarNa do na arga jala na badia dohot habebernit ni sian ni bagi na tinaonNa i dohot hamtean na so sian salaNa, asa Ibana nampuna ahu jala asa tigor rohangku jala bontor jala sonang mangoloi Ibana salelenglelengna di gomgomanNa; asa songon Ibana ahu na hehe sian hamatean, na mangolu jala manggomgomi salelenglelengna. I ma na tutu situtu."
+            },
+            "english": {
+              "article": "And in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.",
+              "meaning": "I believe that Jesus Christ, true Son of God, is my Lord. He has redeemed me, a lost and condemned creature, purchased and won me from all sins, from death, and from the power of the devil; not with gold or silver, but with His holy, precious blood and with His innocent suffering and death, that I may be His own, and live under Him in His kingdom, and serve Him in everlasting righteousness, innocence, and blessedness, even as He is risen from the dead, lives and reigns to all eternity. This is most certainly true."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "titles": {
+            "indonesian": "PASAL KETIGA: KEKUDUSAN ORANG KRISTEN",
+            "batak": "PONGGOL PA TOLUHON HATA HABADIAON NI HALAK KRISTEN",
+            "english": "THE THIRD ARTICLE OF SANCTIFICATION"
+          },
+          "content": {
+            "indonesian": {
+              "article": "Aku percaya kepada Roh Kudus, satu Gereja Kristen yang kudus, persekutuan orang-orang kudus, pengampunan dosa, kebangkitan daging dan hidup yang kekal. Amin.",
+              "meaning": "Aku percaya, bahwa aku tidak dapat dengan pikiran atau kekuatanku sendiri mempercayai Yesus Kristus, Tuhanku atau datang kepadaNya; tetapi Roh Kudus telah memanggil aku melalui Injil, menerangi hatiku dengan pemberianNya, menguduskan dan memelihara aku di dalam kepercayaan yang benar. Juga seperti Dia, selalu memanggil, mengumpulkan, menerangi dan menguduskan seluruh Gereja Kristen di dunia dan memeliharanya di dalam kesatuan dalam Yesus Kristus di dalam satu-satunya iman yang benar itu. Di dalam gereja itu Dia setiap hari bermurah hati mengampuni dosaku dan dosa seluruh orang percaya. Dan pada hari yang terakhir Ia akan membangkitkan aku serta semua orang mati dan memberikan kepadaku serta kepada semua orang yang percaya kepada Yesus Kristus kegidupan yang kekal. Demikianlah sesungguhnya."
+            },
+            "batak": {
+              "article": "Ahu porsea di Tondi Parbadia, jala adong sada Huria na badia, Huria hatopan ni halak Kristen angka na badia, dohot di hasesaan ni dosa dohot di Hata i na mandok: Mulak mangolu do sogot daging ni halak naung mate, dohot di hangoluan na so ra suda.",
+              "meaning": "On do: Na diparhatutu rohangku do, na so tarbahen ahu porsea di Jesus Kristus Tuhanku manang mandapothon Ibana, ianggo tung sian roharohangku manang sian gogongku sandiri, na dijou Tondi Parbadia i do ahu marhite sian Barita Nauli, dilehon do asi ni rohaNa patiurhon rohangku, diparbadiai do rohangku jala dipatongtong do ahu dibagasan haporseaon na ture, tudos tu na binahenNa i nuaeng tu saluhut halak Kristen na di tano on; ai dijou do nasida jala dipapungu jala dipatiur do rohanasida jala diparbadiai jala dipatongtong do nasida di Tuhan Jesus dibagasan haporseaon na sasada i na tigor i. Angkup ni i buas do rohaNa manesa dosangku ganup ari, ro di dosa ni angka donganku na porsea; dung i pangoluonNa do ahu di ari parpudi ro di nasa na mate, dung i lehononNa do tu ahu dohot tu nasa na porsea di Tuhan Jesus hangoluan na so ra suda. I ma na tutu situtu."
+            },
+            "english": {
+              "article": "I believe in the Holy Ghost; the holy Christian Church, the communion of saints; the forgiveness of sins; the resurrection of the body; and the life everlasting. Amen.",
+              "meaning": "I believe that I cannot by my own reason or strength believe in Jesus Christ, my Lord, or come to Him; but the Holy Ghost has called me through the Gospel, enlightened me with His gifts, sanctified and kept me in the true faith; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and keeps it with Jesus Christ in the one true faith; in which Christian Church He daily and richly forgives all my sins, and the sins of all believers; and on the last day will raise up me and all the dead, and will give unto me everlasting life. This is most certainly true."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titles": {
+        "indonesian": "BAB III. DOA YANG DIAJARKAN TUHAN YESUS KEPADA MURID-MURIDNYA",
+        "batak": "BINDU III. TANGIANG NA PINODAHON NI TUHAN JESUS TU ANGKA SIESANNA",
+        "english": "CHAPTER III. THE LORD’S PRAYER"
+      },
+      "sections": [
+        {
+          "id": "introduction",
+          "titles": {
+            "indonesian": "KATA PEMBUKAAN",
+            "batak": "HATA PAMUNGKAAN",
+            "english": "THE INTRODUCTION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Bapa kami yang di Sorga.",
+              "meaning": "Dengan kata-kata ini Allah mengajak kita supaya kita mempercayaiNya bahwa Dialah Bapa kita yang sesungguhnya dan kita anak-anakNya yang sesungguhnya. Berdasarkan hubungan ini, kita dengan segala keberanian dan keyakinan meminta kepadaNya seperti seorang anak yang dikasihi, kepada bapa yang disayangi."
+            },
+            "batak": {
+              "text": "Ale Amanami na di banuaginjang!",
+              "meaning": "On do: Apoapo ni Debata do i tu hita paboa Amanta situtu Ibana jala anakNa situtu hita, asa pos rohanta mangido tu Ibana songon pos ni roha ni dakdanak na mangido tu amana."
+            },
+            "english": {
+              "text": "Our Father who art in heaven.",
+              "meaning": "With these words God tenderly invites us to believe that He is our true Father, and that we are His true children, so that we may ask Him with all boldness and confidence, as children ask their dear father."
+            }
+          }
+        },
+        {
+          "id": 1,
+          "titles": {
+            "indonesian": "PERMINTAAN PERTAMA",
+            "batak": "SIPANGIDOAN PARJOLO",
+            "english": "THE FIRST PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Dikuduskanlah namaMu.",
+              "meaning": "Sesungguhnya nama Allah itu sendiri kudus, tetapi kita meminta di dalam doa, supaya namaNya juga kudus dalam kehidupan kita. Bagaimana hal ini terlaksana? Demikian: Apabila Firman Tuhan diajarkan benar dan murni, dan kita sebagai anak Allah juga hidup dalam hidup yang suci sesuai dengan Firman itu. Ya Bapa yang di Sorga! Tolonglah kami melaksanakan ini. Tetapi siapa yang mengajarkan serta berkelakuan yang berbeda dengan ajaran Firman Tuhan, adalah menodai nama Allah di tengah-tengah kita. Dalam hal seperti ini, lindungilah kami Ya Bapa yang di Sorga."
+            },
+            "batak": {
+              "text": "Sai pinarbadia ma goarMu!",
+              "meaning": "On do: Na badia hian do goar ni Debata, alai naeng ma badia goar ni Debata idaon ni rohanta, i do na tapangido disi. Beha do pangalahona? Songon on do: Molo polin Hata ni Debata pinodahon, unang adong na lipe, dung i molo badia parangenta songon parange na tama parange ni angka anak ni Debata, jadi ma i. “Ale Amanami na di banuaginjang sai urupi ma hami asa tung songon i hami”. Alai manang sie hita on na mamodahon goar poda jala na marparangehon parange na lipe sian na nidok ni Debata, i do na paroahon goar ni Debata. “Ale Amanami na di banuaginjang, ramoti ma hami, asa unang tung songon i hami!”"
+            },
+            "english": {
+              "text": "Hallowed be Thy name.",
+              "meaning": "God's name is indeed holy in itself; but we pray in this petition that it may become holy among us also. How is this done? When the Word of God is taught in its truth and purity, and we, as the children of God, also lead holy lives in accordance with it. This grant us, dear Father in heaven. But he that teaches and lives otherwise than God's Word professes, profanes the name of God among us. From this preserve us, Heavenly Father."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "titles": {
+            "indonesian": "PERMINTAAN KEDUA",
+            "batak": "SIPANGIDOON PADUAHON",
+            "english": "THE SECOND PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Datanglah KerajaanMu.",
+              "meaning": "Sesungguhnya Kerajaan Allah dengan sendirinya datang, walaupun kita tidak memintanya. Tetapi kita minta di dalam doa, supaya KerajaanNya datang juga kepada kita. Bagaimanakah hal ini terlaksana? Demikian: Apabila Bapa kita yang di Sorga memberikan RohNya yang kudus supaya dengan anugerahNya kita dapat percaya kepada FirmanNya yang kudus, dan berbuat sesuai dengan kehendakNya dalam hidup kita, masa kini dan masa mendatang selama-lamanya."
+            },
+            "batak": {
+              "text": "Sai ro ma harajaonMu!",
+              "meaning": "On do: Ia Harajaon ni Debata, sai na ro do i nang so itapangido, alai asa haru sahat ro tu hita on, i do na itapangido disi. Beha do Pangalahona? Songon on do: Dilehon Amanta na di banuaginjang i do tu hita Tondi Parbadia i, asa porsea hita di HataNa na badia i hinorhon ni asi ni rohaNa jala asa itaparangehon parange ni Debata di ngolunta on dohot di hangoluanta sogot salelenglelengna."
+            },
+            "english": {
+              "text": "Thy kingdom come.",
+              "meaning": "The kingdom of God comes indeed without our prayer, of itself; but we pray in this petition that it may come unto us also. How is this done? When our heavenly Father gives us His Holy Spirit, so that by His grace we believe His holy Word and lead a godly life, here in time and yonder in eternity."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "titles": {
+            "indonesian": "PERMINTAAN KETIGA",
+            "batak": "SIPANGIDOON PATOLUHON",
+            "english": "THE THIRD PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Jadilah kehendakMu di bumi seperti di Sorga.",
+              "meaning": "Sesungguhnya kehendak Allah yang baik dan penuh anugerah itu terjadi juga tanpa permintaan kita. Akan tetapi, kita minta di dalam doa supaya terlaksana juga kepada kita. Itulah yang kita mintakan. Bagaimanakah hal ini terlaksana? Demikian: Kalau Allah membinasakan dan mencegah segala rencana dan keinginan jahat yang tidak mengijinkan kita menguduskan namaNya dan menghalangi kedatangan KerajaanNya, seperti keinginan duniawi dan manusiawi. Sebaliknya, Allah menguatkan dan melindungi kita dengan kokoh di dalam FirmanNya dan iman hingga akhir hidup kita. Inilah anugerah dan kehendakNya yang baik."
+            },
+            "batak": {
+              "text": "Sai saut ma lomo ni rohaM di banuatonga on songon na di banuaginjang!",
+              "meaning": "On do: Ia roha ni Debata na denggan jala na marasi i, na saut hian do nang so itapangido, alai asa tung saut rohaNa di hita on, i do na itapangido disi. Beha do pangalahona? Songon on do: Molo disegai jala disundati Debata nasa tahi dohot lomo ni roha ni angka na jahat i, angka roha ni sibolis i dohot roha ni hajolmaon dohot roha ni dagingta angka na naeng manundati Harajaon ni Debata jala na naeng mangambati hita, asa unang diparbadiai rohanta Goar ni Debata. Angkup ni i molo dipargogoi jala dipatongtong Ibana hita hot di HataNa dohot di haporseaonta i rasirasa mate hita. I do asi ni roha ni Debata dohot lomo ni rohaNa."
+            },
+            "english": {
+              "text": "Thy will be done on earth as it is in heaven.",
+              "meaning": "The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also. How is this done? When God breaks and hinders every evil counsel and will which would not let us hallow the name of God nor let His kingdom come, such as the will of the devil, the world, and our flesh; but strengthens and preserves us steadfast in His Word and faith unto our end. This is His gracious and good will."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "titles": {
+            "indonesian": "PERMINTAAN KEEMPAT",
+            "batak": "SIPANGIDOON PAOPATHON",
+            "english": "THE FOURTH PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Berilah kami pada hari ini makanan kami yang secukupnya",
+              "meaning": "Sesunguhnya Allah selalu memberi makanan sehari-hari kepada kita walaupun kita tidak minta, demikian juga kepada semua orang jahat. Tetapi kita minta di dalam doa, supaya Dia membimbing kita untuk menyadarinya dan untuk menerimanya dengan ucapan syukur dan terimakasih. Itulah yang kita mintakan. Apakah yang dimaksud engan makanan sehari-hari? Antara lain: Makanan, minuman, pakaian, perumahan, ladang, ternak, uang, barang-barang, suami-istri yang rukun, anak-anak yang baik, pelayan-pelayan yang baik, pegawai-pegawai yang baik dan setia, pemerintah yang baik, damai sejahtera dan ketertiban, sahabat yang baik, tetangga yang setia dan segala sesuatu kebutuhan hidup."
+            },
+            "batak": {
+              "text": "Lehon ma tu hami hangoluan siapari!",
+              "meaning": "On do: Dilehon Debata do nian hangoluan siapari dohot tu halak angka na jahat i, nang so itapangido alai asa dipaingot Debata hita marhatopothon asi ni rohaNa, asa mandok mauliate hita tu Ibana di na manjalo hangoluan siapari i hita sian Ibana. I do na itapangido disi. Dia do lapatan ni hangoluan siapari i? Sipanganon do i dohot siinumon dohot parabiton dohot arta dohot bagas dohot dongan saripe na burju dohot ianakhon na burju, ro di angka naposo ro di raja na tigor roha, dohot uhum na sintong, dohot ari na hasea dohot dame, dohot hisar ni daging dohot sangap, dohot aleale na denggan roha, dohot dongan sahuta na ture, ro di nasa na hasea di hajolmaon."
+            },
+            "english": {
+              "text": "Give us this day our daily bread.",
+              "meaning": "God gives daily bread, even without our prayer, to all wicked men; but we pray in this petition that He would lead us to know it, and to receive our daily bread with thanksgiving. What is meant by daily bread? Everything that belongs to the support and wants of the body, such as meat, drink, clothing, shoes, house, home, field, cattle, money, goods, a pious spouse, pious children, pious servants, pious and faithful magistrates, good government, good weather, peace, health, discipline, honor, good friends, faithful neighbors, and the like."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "titles": {
+            "indonesian": "PERMINTAAN KELIMA",
+            "batak": "SIPANGIDOON PALIMAHON",
+            "english": "THE FIFTH PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Dan ampunilah akan kesalahan kami, seperti kami mengampuni orang yang bersalah kepada kami.",
+              "meaning": "Kita minta di dalam doa ini supaya Bapa yang di Sorga tidak memperhitungkan dosa maupun mempertimbangkannya, sehingga menolak permintaan kita. Karena kita tidak patut meminta sesuatu maupun mempunyai hak atas yang kita minta itu. Tetapi supaya Dia memberikannya semua kepada kita sebagai anugerah; walaupun kita setiap hari melakukan banyak dosa dan sesungguhnya kita tidak mempunyai hak akan yang kita minta, tetapi hanya hukuman saja yang patut bagi kita. Maka hendaklah kita juga mengampuni dengan hati yang sungguh dan selalu bersedia berbuat baik kepada mereka yang bersalah kepada kita."
+            },
+            "batak": {
+              "text": "Sesa dosanami songon panesanami di dosa ni dongan na mardosa tu hami.",
+              "meaning": "On do: Itapangido asi ni roha ni Amanta na di banuaginjang i, asa anggiat unang dijujur dosanta, jala asa anggiat unang biasan rohaNa ala dosanta i, mangoloi na itapangido sian Ibana. Ai apala tama lehononNa nian tu hita na itapangido dibahen na so ture i parangenta i, ai lan do dosanta ganup ari, sipinsangon do hita nian, i do na tama, alai sai asi ma rohana dilehon ma tu hita na itapangido, ai hita pe, na olo do hita dohot nasa rohanta manesa dosa ni angka na mardosa tu hita dohot sumuan uhum na denggan tu nasida."
+            },
+            "english": {
+              "text": "And forgive us our trespasses, as we forgive those who trespass against us.",
+              "meaning": "We pray in this petition that our Father in heaven would not look upon our sins, nor on their account deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace; for we daily sin much, and indeed deserve nothing but punishment. So will we verily, on our part, also heartily forgive and also readily do good to those who sin against us."
+            }
+          }
+        },
+        {
+          "id": 6,
+          "titles": {
+            "indonesian": "PERMINTAAN KEENAM",
+            "batak": "SIPANGIDOON PAONOMHON",
+            "english": "THE SIXTH PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Dan jangalah membawa kami ke dalam pencobaan.",
+              "meaning": "Sesungguhnya Allah tidak mencobai seorang pun, tetapi kita minta di dalam doa supaya Allah melindungi dan memelihara kita, sehingga iblis, dunia, daging kita tidak akan menipu maupun menyesatkan kita ke dalam hal-hal yang sangat memalukan dan bercela. Dan sekiranya kita diserang oleh pencobaan-pencobaan tersebut, pada akhirnya kita masih dapat mengalahkan serta memperoleh kemenangan atasnya."
+            },
+            "batak": {
+              "text": "Unang hami togihon tu pangunjunan.",
+              "meaning": "On do: Ia Debata ndang adong manang ise nian diunjuni, alai asa sai diramoti Debata hita, asa unang diansi sibolis i manang hajolmaon, manang roha ni dagingta i hita, jala asa unang olo hita manopot pandelean manang haurahon dohot hajahaton na asing, dung i molo tung adong sisongon i ro tu hita asa ditumpak hita monang. I do na itapangido disi."
+            },
+            "english": {
+              "text": "And lead us not into temptation.",
+              "meaning": "God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor seduce us into misbelief, despair, and other great shame and vice; and though we be assailed by them, that still we may finally overcome and obtain the victory."
+            }
+          }
+        },
+        {
+          "id": 7,
+          "titles": {
+            "indonesian": "PERMINTAAN KETUJUH",
+            "batak": "SIPANGIDOON PAPITUHON",
+            "english": "THE SEVENTH PETITION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Tetapi lepaskanlah kami daripada yang jahat.",
+              "meaning": "Kita minta di dalam doa ini seperti semua yang telah kita minta terdahulu, supaya bapak yang di sorga melindungi kita dari setiap kejahatan apakah itu mengenai tubuh dan roh, godaan kekayaan dan kedudukan yang tinggi; dan apabila hidup kita tiba pada saat terakhir, diberikanNya berkat dan kasih karuniaNya yang membawa kita dari hidup yang penuh penderitaan kepada kehidupan di Sorga."
+            },
+            "batak": {
+              "text": "Palua ma hami sian pangago.",
+              "meaning": "On do: Itapangido sian Debata hadadao ni nasa hamagoan ni daging dohot tondi dohot pansamotan dohot hasangaphon; angkup ni i itapangido sian Debata, hasonangan lehononNa tu hita di hasusuda ni bohalta; sai asi ma rohaNa, diboan ma hita sian rura hasusaan on tu banuaginjang tu lambungna. I do na itapangido disi."
+            },
+            "english": {
+              "text": "But deliver us from evil.",
+              "meaning": "We pray in this petition, as in a summary, that our Father in heaven would deliver us from all manner of evil, of body and soul, property and honor, and at last, when our last hour shall come, grant us a blessed end, and graciously take us from this vale of tears to Himself into heaven."
+            }
+          }
+        },
+        {
+          "id": "conclusion",
+          "titles": {
+            "indonesian": "DOA PENUTUP",
+            "batak": "U JUNG NI TANGIA NG I",
+            "english": "THE CONCLUSION"
+          },
+          "content": {
+            "indonesian": {
+              "text": "Karena Engkau yang empunya Kerajaan dan kuasa dan kemuliaan sampai selama-lamanya. Amin",
+              "meaning": "Amin, yaitu ya, sesungguhnya permintaanmu didengar. Supaya saya menjadi yakin bahwa permintaan saya dikabulkan dan didengar Bapa yang di Sorga, sebab Dia sendirilah yang menyuruh kita meminta dan Ia telah menjanjikan untuk mendengar doa kita."
+            },
+            "batak": {
+              "text": "Ai Ho do nampuna Harajaan dohot hagogoon ro di hasangaphon saleleng ni lelengna. Amen",
+              "meaning": "Na mandok on do: Olo i ma tutu, jumpang ho ma na pinangidom. Umbahen na nidokhon hita mandok Amen, asa tung porsea rohanta naung lomo situtu roha ni Amanta na di banuaginjang i manangihon tangiangta i, diparbagabaga do oloanNa na itapangido ai Ibana do mandokhon hita mangidohonsa sian Ibana."
+            },
+            "english": {
+              "text": "For Thine is the kingdom and the power and the glory, forever and ever. Amen.",
+              "meaning": "That I should be certain that these petitions are pleasing to our Father in heaven, and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, Amen; that is, Yea, yea, it shall be so."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titles": {
+        "indonesian": "BAB IV. SAKRAMEN BAPTISAN KUDUS",
+        "batak": "BINDU IV. PANDIDION",
+        "english": "CHAPTER IV. THE SACRAMENT OF HOLY BAPTISM"
+      },
+      "content_as_qna": {
+        "indonesian": [
+          {
+            "question": "Apakah Baptisan itu?",
+            "answer": "Baptisan itu bukanlah hanya air semata-mata, melainkan air yang dilaksanakan menurut perintah Allah dan dihubungkan dengan Firman Allah."
+          },
+          {
+            "question": "Di manakah pesan Allah itu tertulis?",
+            "answer": "Sebagaimana tertulis dalam Injil Matius 28:19, Kristus berkata: “Pergilah kamu ke seluruh dunia, ajarlah semua bangsa dan baptiskanlah mereka dalam nama Bapa, Anak dan Roh Kudus”."
+          },
+          {
+            "question": "Apakah pemberian dan keuntungan Baptisan itu?",
+            "answer": "Baptisan ini memberikan keampunan dosa, kelepasan dari kematian dan iblis serta memberi keselamatan yang kekal kepada semua orang yang percaya kepada Baptisan itu sebagai Firman dan janaji Allah yang dinyatakan."
+          },
+          {
+            "question": "Bagaimana bunyi janji Allah itu?",
+            "answer": "Sebagaimana tertulis dalam Injil Markus 16:16, Kristus berkata: “Barangsiapa yang percaya dan dibaptiskan, akan diselamatkan, tetapi barangsiapa yang tidak percaya akan dihukum”."
+          },
+          {
+            "question": "Bagaimana air itu memberikan kekuatan yang begitu besar?",
+            "answer": "Sesungguhnya bukan air itu yang mempunyai kekuatan melainkan Firman Tuhan yang ada di dalam air itu, serta iman kita yang percaya bahwa Firman Tuhan berada di dalam air itu. Karena tanpa Firman Tuhandi dalamnya, air itu hanya air biasa saja dan bukan Baptisan. Tetapi apabila dihubungkan dengan Firman Allah, air itu adalah Baptisan, yaitu air yang penuh berkat kehidupan dan menyucikan kelahiran kembali di dalam Roh Kudus seperti yang dikatakan oleh Rasul Paulus kepada Titus dalam Pasal tiga, “Tetapi karena rahmatNya oleh permandian kelahiran kembali dan oleh pembaharuan yang dikerjakan oleh Roh Kudus, yang sudah dilimpahkanNya kepada kita oleh Yesus Kristus Juruselamat kita, supaya kita sebagai orang yang dibenarkan oleh kasih karuniaNya, berhak menerima hidup yang kekal, sesuai dengan pengharapan kita”."
+          },
+          {
+            "question": "Bagaimanakah sikap dan tingkah laku seseorang yang telah menerima Baptisan?",
+            "answer": "Sikap dan tingkah laku seseorang yang telah dibaptiskan ialah: Hendaklah Adam yang buruk di dalam hidup kita itu dihanyutkan melalui penyesalan dan pertobatan setiap hari, dan mati bersama semua dosa dan nafsu jahat, sebaliknya setiap hari tumbuh dan bangkit menjadi manusia baru yang akan hidup di hadapan Allah di dalam kebenaran dan kesucian yang kekal."
+          },
+          {
+            "question": "Di manakah tertulis pesan yang demikian?",
+            "answer": "Rasul Paulus mengatakan dalam suratnya kepada Jemaat di Roma, pada pasal enam, “Demikianlah kita telah terkubur bersama Kristus dalam upacara pembaptisan itu ke dalam kematian, supaya sebagaimana Kristus telah dibangkitkan dari antara orang mati oleh kemuliaan Bapa, demikian juga kita akan dibangkitkan menempuh hidup baru”."
+          }
+        ],
+        "batak": [
+          {
+            "question": "Aha do lapatan ni Pandidion i?",
+            "answer": "Ia Pandidion i ndada holan aek sambing, aek na marsaor Hata ni Debata do aek i; ai tona ni Debata do umbahen na binuat aek i."
+          },
+          {
+            "question": "Beha do pandok ni Debata?",
+            "answer": "Didok Tuhanta Jesus Kristus di ujung ni surat na sinurathon ni si Mateus: “Laho ma hamu, podai hamu ma saluhut bangso, didi hamu ma nasida tu bagasan goar ni Ama, Anak dohot Tondi Parbadia”."
+          },
+          {
+            "question": "Aha do uli sian Pandidion i?",
+            "answer": "On do: Saluhut halak na porsea di Hata ni Debata dohot dibagasan bagabagaNa, dapotan hasesaan ni dosa, dapotan dohot haluaon sian hamatean dohot sian sibolis jala dapotan hasonangan salelenglelengna."
+          },
+          {
+            "question": "Dia do didok Debata bagabagaNa?",
+            "answer": "Didok Tuhanta Jesus Kristus do di ujung ni surat na sinurathon ni si Markus: “Na porsea jala tardidi dapotan haluaon; alai na so porsea i, hona uhum do."
+          },
+          {
+            "question": "Beha do pangalaho ni aek i umbahen tung dihorhon i ulaon na sai godang?",
+            "answer": "Apala hinorhon ni aek i, na hinorhon ni Hata ni Debata do i, mandongani aek i dohot haporseaonniba na marhatutuhon mardongan Hata ni Debata aek i, ai anggo so Hata ni Debata dongan ni aek i, aek sambing do i, ndang tardok Pandidion; alai ia Hata ni Debata dongan aek i tardok ma Pandidion aek i. Na suksuk do asiasi di aek hangoluan i; ai Pandidion paimbaruhon hatutubu do aek i honrhon ni Tondi Parbadia. Ai songon do didok si Paulus di suratna tu si Titus di bindu patoluhon: “Dipangolu Debata do hita marhitehite Pandidion paimbaruhon hatutubu binahen ni Tondi Parbadia na nilehonNa i, dihabuashon tu hita ala ni Jesus Kristus partuaanta i asa pintor hita ala ni asi ni rohaNa, jala asa di hita hangoluan na so ra suda songon na hinirim ni rohanta i”. I do na tutu situtu."
+          },
+          {
+            "question": "Dia do lapatan ni na tardidi?",
+            "answer": "On do: Siauponta do ganup ari hinorhon solsol ni roha dohot hinorhon ni paimbaruhon roha isara ni ompungta si Adam rap dohot dosanta ro di angka sangkap ni roha na jahat asa mate sudena jala mulak mangolu hita ganup ari gabe jolma na imbaru, na tigor jala na ias roha, na mangolu di jolo ni Debata salelenglelengna."
+          },
+          {
+            "question": "Di dia do tarsurat hata i?",
+            "answer": "Didok si Paulus do di suratna tu halak Rom i di bindu paonomhon: “Na tartanom do hita rap dohot Ibana marhitehite Pandidion i tu bagasan hamatean, asa marparange hita dibagasan ngolu na imbaru, songon Kristus naung hehe sian angka na mate hinorhon hasangaphon ni AmaNa”."
+          }
+        ],
+        "english": [
+          {
+            "question": "What is Baptism?",
+            "answer": "Baptism is not water only, but it is water used according to God's command and connected with God's Word."
+          },
+          {
+            "question": "Where is this written?",
+            "answer": "As written in Matthew 28:19, Christ says: Go ye therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost."
+          },
+          {
+            "question": "What does Baptism give or profit?",
+            "answer": "It works forgiveness of sins, delivers from death and the devil, and gives eternal salvation to all who believe, as the Word and promises of God declare."
+          },
+          {
+            "question": "How can water do such great things?",
+            "answer": "It is not the water indeed that does them, but the Word of God which is in and with the water, and faith which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism. But with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says, Titus, chapter three: By the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ, our Savior, that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is faithfully taught."
+          },
+          {
+            "question": "What does such baptizing with water signify?",
+            "answer": "It signifies that the old Adam in us, by daily contrition and repentance, is to be drowned and die with all sins and evil lusts; and that again a new man daily come forth and arise, who shall live before God in righteousness and purity forever."
+          },
+          {
+            "question": "Where is this written?",
+            "answer": "St. Paul says, Romans, chapter 6: We are buried with Christ by Baptism into death, that, like as He was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "titles": {
+        "indonesian": "BAB V. SAKRAMEN PERJAMUAN KUDUS",
+        "batak": "BINDU V. MARULAON NA BADIA",
+        "english": "CHAPTER V. THE SACRAMENT OF THE ALTAR"
+      },
+      "content_as_qna": {
+        "indonesian": [
+          {
+            "question": "Apakah Perjamuan Kudus itu?",
+            "answer": "Perjamuan Kudus adalah daging dan darah yang sebenarnya dari Tuhan kita Yesus Kristus melalui roti dan anggur yang diberikan bagi orang Kristen, sesuai dengan penetapan Yesus Kristus sendiri."
+          },
+          {
+            "question": "Di manakah tertulis pesan yang demikian?",
+            "answer": "Para Pekabar Injil Matius, Markus, Lukas dan Paulus menuliskan: “Pada malam Tuhan Yesus Kristus dihianati, diambilNya roti dan setelah Ia mengucapkan syukur lalu dipecah-pecahkanNya roti itu serta memberikan kepada murid-muridNya dan berkata: ‘Terimalah, makanlah, inilah tubuhKu yang diserahkan karena engkau; perbuatlah demikian untuk mengingat Aku’. Sesudah makan, diangkatNya piala minuman dan setelah Ia mengucapkan syukur, lalu diberikanNya kepada mereka sambil berkata: ‘Minumlah kamu sekalian dari piala ini, karena inilah darahKu, yaitu darah Perjanjian baru yang ditumpahkan karena engkau, untuk keampunan dosa. Perbuatlah demikian, setiap engkau meminumnya untuk mengingat Aku”."
+          },
+          {
+            "question": "Apakah keuntungan memakan dan meminum itu?",
+            "answer": "Keuntungannya telah jelas dinyatakan dalam Firman ini: “Yang diserahkan dan ditumpahkan karena engkau untuk keampunan dosa”. Disebut bahwa di dalam sakramen itu keampunan dosa, kehidupan dan keselamatan diberikan kepada kita melalui FirmanNya. Karena di mana ada pengampunan dosa, di situ ada kehidupan dan keselamatan."
+          },
+          {
+            "question": "Bagaimanakah mungkin hanya dengan memakan daging dan meminum darah memberi keuntungan yang begitu besar?",
+            "answer": "Sesungguhnya bukan karena memakan dan meminum itu memberikan kemungkinan, melainkan Firman itu yang mengatakan demikian: “Yang diserahkan dan ditumpahkan karena engkau untuk keampunan dosa”. Firman inilah yang terutama dalam sakramen tersebut, di samping memakan roti dan meminum anggur. Dan barangsiapa yang mempercayai Firman tersebut memperoleh apa yang dinyatakan Firman itu, yaitu keampunan dosa."
+          },
+          {
+            "question": "Siapakah yang layak menerima Perjamuan Kudus itu?",
+            "answer": "Sesungguhnya berpuasa dan melatih diri adalah suatu kebiasaan yang baik. Tetapi yang sebenarnya layak dan dengan persiapan yang baik, adalah orang yang mempercayai Firman ini: “Yang diserahkan dan ditumpahkan KARENA ENGKAU untuk keampunan dosa”. Tetapi barangsiapa yang tidak percaya atau bimbang akan Firman itu, dialah yang tidak bersedia dan layak. Sebab Firman itu berkata: “Karena engkau”, membutuhkan kepercayaan yang sebulat-bulatnya."
+          }
+        ],
+        "batak": [
+          {
+            "question": "Dia do lapatan ni na marulaon na badia?",
+            "answer": "Mangan sagusagu parhitean ni daging ni Tuhanta Jesus Kristus dohot minum anggur parhitean ni mudar ni Tuhanta Jesus Kristus songon na tinonahonNa i tu halak Kristen."
+          },
+          {
+            "question": "Di dia do tarsurat na songon i?",
+            "answer": "Songon on do pandok ni si Mateus, si Markus, si Lukas dohot si Paulus, angka na mamaritahon Barita na Uli: “Dibuat Tuhan Jesus Kristus ma sagusagu borngin i uju tarjehe Ibana, didok mauliate, dung i diponggoli ma i, diparlehon ma i tu angka siseanNa huhut ma didok: ‘Jalo hamu ma, pangan ma, daginghu do i na nilehon humophop hamu. Bahen hamu ma songon i bahen parningotan di Ahu. Asa dung sun nasida mangan, dibuat ma panginuman i, didok mauliate, dung i ninna ma mandok nasida: ‘Jalo hamu ma, sude hamu manginum sian i. Ia panginuman on padan na imbaru ma on, hinorhon ni mudar na niusehon humophop hamu bahen hasesaan ni dosa. Molo hamu manginum songon i, bahen ma i parningotanmu di Ahu’."
+          },
+          {
+            "question": "Aha do laba ni na mangan dohot minum sisongon i?",
+            "answer": "Dipaboa Hata i do labana ai ninna do: “Na nilehon humophop hamu bahen hasesaan ni dosa, hangoluan dohot hasonangan marhitehite panganon na badia i. Ai disi hasesaan ni dosa, disi do dohot hangoluan dohot hasonangan”."
+          },
+          {
+            "question": "Hinorhon ni sipanganon dohot siinumon i do na nidokmi?",
+            "answer": "Ndang na hinorhon ni sipanganon dohot siinumon i, na hinorhon ni Hata i do na mandok: “Na nilehon humophop hamu, dohot na niusehon humophop hamu bahen hasesaan ni dosa”. Ai angka hata na mandongani sipanganon dohot siinumon i, i do situan ni sipanganon na badia i, dung i manang ise na porsea di Hata i dapotan hasesaan ni dosa; ai i do pandok ni Hata i."
+          },
+          {
+            "question": "Ise do na manjalo panganon na badia i sian na ture?",
+            "answer": "Ia na mangontik sipanganon dohot na mangalinggas daging, ruhut na denggan do i nian, alai manang ise na porsea di Hata i, na mandok na nilehon humophop hamu bahen hasesaan ni dosa, i do na manjalo panganon na badia i sian na ture; Alai manang ise na so porsea, na ganggu roha, i do na so tau dohot majal ai ingkon porsea situtu do roha di Hata i na mandok: “Humophop hamu!”"
+          }
+        ],
+        "english": [
+          {
+            "question": "What is the Sacrament of the Altar?",
+            "answer": "It is the true body and blood of our Lord Jesus Christ, under the bread and wine, for us Christians to eat and to drink, instituted by Christ Himself."
+          },
+          {
+            "question": "Where is this written?",
+            "answer": "The holy Evangelists, Matthew, Mark, Luke, and St. Paul, write thus: Our Lord Jesus Christ, the same night in which He was betrayed, took bread: and when He had given thanks, He brake it, and gave it to His disciples, and said, Take, eat; this is My body, which is given for you: this do in remembrance of Me. After the same manner also He took the cup, when He had supped, gave thanks, and gave it to them, saying, Drink ye all of it; this cup is the new testament in My blood, which is shed for you for the remission of sins: this do ye, as oft as ye drink it, in remembrance of Me."
+          },
+          {
+            "question": "What is the benefit of such eating and drinking?",
+            "answer": "That is shown us in these words: Given, and shed for you, for the remission of sins; namely, that in the Sacrament forgiveness of sins, life, and salvation are given us through these words. For where there is forgiveness of sins, there is also life and salvation."
+          },
+          {
+            "question": "How can bodily eating and drinking do such great things?",
+            "answer": "It is not the eating and drinking, indeed, that does them, but the words which stand here, namely: Given, and shed for you, for the remission of sins. These words, besides the bodily eating and drinking, are the chief thing in the Sacrament; and he that believes these words has what they say and declare, namely, the forgiveness of sins."
+          },
+          {
+            "question": "Who, then, receives such Sacrament worthily?",
+            "answer": "Fasting and bodily preparation is, indeed, a fine outward training; but he is truly worthy and well prepared who has faith in these words: Given, and shed for you, for the remission of sins. But he that does not believe these words, or doubts, is unworthy and unfit; for the words, For you, require truly believing hearts."
+          }
+        ]
+      }
+    }
+  ]
+}
