@@ -1,0 +1,46 @@
+{
+  "book": "Mazmur",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Alualu ni si Daud mangarsakkon roha mago ni manisia 1-3. II. Uhum madabu tu angka parjahat. Las ni roha ni angka na daulat marroha 4-7.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Ende sian si Daud. Ninna na oto i do di bagasan rohana: Ndang adong Debata; jahat jala sogir do nasida marpangalaho, ndang adong sibahen na denggan.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Manatapnatap do Jahowa sian banua ginjang, paidaida jolma manisia, marnida manang na adong na marroha, na usouso di Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Hape tung saluhut do nasida sumurut, tung sange do nasida marroha mago, ndang adong sibahen na denggan, nanggo sahalak.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "(II.) Tung na so mananda do ulaning sude angka sibahen hajahaton? Angka na manganhon bangsongku songon na mangan roti, ia Jahowa ndang dijou nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Alai tarsonggot situtu do nasida disi sogot, ai matua didongani Debata do pinompar ni na tigor roha i.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Ditungkol hamu pe tahi ni na dangol, hape sai Jahowa do parsigantunganna.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Ise ma ulaning sian Sion mangalehon haluaon di Israel? Molo disuhe Jahowa habuangan ni bangsona, marolopolop ma ho, ale Jakkob, marlas ni roha ma ia Israel.",
+      "type": "content"
+    }
+  ]
+}

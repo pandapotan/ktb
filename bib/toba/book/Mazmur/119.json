@@ -1,0 +1,891 @@
+{
+  "book": "Mazmur",
+  "chapter": 119,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I-XXII. Ende sipodaon mangihuthon angka sisiasia ni hata ni halak Jahudi bahen pujipujian di patik ni Debata taringot tu hagogoonna dohot taringot tu tua hinorhonna i 1-176. -Alep",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Martua ma halak angka na daulat marpangalaho, angka na marpangalahohon patik ni Jahowa.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Martua ma halak angka na mangaradoti angka panindangionna i, angka na mangalului Ibana sian nasa roha.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Huhut angka na so mangulahon hageduhon, angka na mangkampungi angka dalanna i.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Nunga ditonahon Ho angka parentam, siradotan situtu.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Aut ni sai marsihohot angka dalanku mangaradoti angka aturanmu!",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Dung i ndang tagamon tarurak ahu, molo sai huparateatehon sude angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Sai mandok mauliate ma ahu di Ho sian hatigoran ni roha, molo huguruhon angka uhum ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Sai radotanku do angka aturanmi, unang tung tadingkon ahu situtu.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "(II.) Marhitehite aha tarpabontor dolidoli langkana? Molo dipahombarhombar tu hatam.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Sai hulului do Ho sian nasa rohangku unang tung loas ahu lilu sian angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Nunga hupajop hatami di bagasan rohangku, asa unang mardosa ahu tu Ho.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Pinuji ma Ho, ale Jahowa, sai podahon ma tu ahu angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Nunga dipajojor angka bibirhon sude uhum, angka na ruar sian pamanganmi.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Hinsaan do rohangku mida dalan ni angka panindangionmu, asa mida nasa hamoraon.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Sai papingkirpingkironku do angka parentam, jala sai berengonku do angka bogasmi.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Sai huhahilashon do angka aturanmi, ndang tagamon halupahononku hatami.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "(III.) Mardenggan basa ma Ho tu naposom, pangolu ma ahu! Asa huradoti hatam.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "Sai pabuha ma matangku, asa huida halongangan, angka sian patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Paisolat do ahu di tano on, unang tung tabunihon angka tonami sian ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Malampot do rohangku mangkalungunhon angka uhummu manipat ari.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Mangonai hata do Ho mamulasi angka na jungkat roha, angka na manimbil sian tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Gilingi ma sian ahu haurahon dohot haleaon, ai nunga huradoti angka panindangionmi.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Hundul pe angka raja manuptupi mangalo ahu, sai angka aturanmi do dipingkirpingkiri naposom.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Tongon angka panindangionmi do hasoloan ni rohangku, angka i do jolma panuturingku.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "(IV.) Lohot di rere do rohangku, sai pangolu ma ahu hombar tu hatam!",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Hupajojor do angka dalanku, jadi dialusi Ho ahu, sai podahon ma tu ahu angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Sai parroha i ahu mangantusi dalan ni angka parentam, asa hupingkirpingkiri halongangan angka na binahenmi.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Malampot do rohangku dibahen holsoholso, sai pahehe ma ahu hombar tu hatam.",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Sai paholang ma sian ahu dalan ni pangansion, jala asinirohahon tu ahu patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Nunga hupillit dalan hasintongan, angka uhummu nunga hubahen tu jolongku.",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Sai marsihohot do ahu di angka panindangionmu, unang tung paurak ahu, ale Jahowa.",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "Sai dalan ni angka tonami do tulusonku, ai nunga dipalumbang Ho rohangku.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "(V.) Sai podahon ma tu ahu, ale Jahowa dalan ni angka aturanmi, asa huradoti ro di ujung.",
+      "type": "content"
+    },
+    {
+      "verse": 34,
+      "text": "Sai parroha i ahu, asa huradoti patikmi, jalahuhajongjongkon sian nasa roha!",
+      "type": "content"
+    },
+    {
+      "verse": 35,
+      "text": "Sai panonohon ma tu ahu dalan balobung ni angka tonami, ai lomo do rohangku disi.",
+      "type": "content"
+    },
+    {
+      "verse": 36,
+      "text": "Sai paeleng ma rohangku tu angka panindangionmu, unang tung tu parhilangon.",
+      "type": "content"
+    },
+    {
+      "verse": 37,
+      "text": "Sai pasalpu ma angka matangku, unang marnida na so gabeak, sai pangolu ma ahu hinorhon ni angka dalanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 38,
+      "text": "Hajongjongkon ma tu naposom bagabagam taringot tu biar maradophon Ho.",
+      "type": "content"
+    },
+    {
+      "verse": 39,
+      "text": "Sai pasalpu ma haurahonku, na huholsohon, ai denggan do angka uhummi.",
+      "type": "content"
+    },
+    {
+      "verse": 40,
+      "text": "Ida ma, sai huhalungunhon do angka parentami sai pangolu ma ahu hinorhon ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 41,
+      "text": "(VI.) Sai tolhas ma tu ahu angka asi ni roha, ale Jahowa, hatuaonmi pe hombar tu bagabagam.",
+      "type": "content"
+    },
+    {
+      "verse": 42,
+      "text": "Asa hualushon sada hata tu na mangelesi ahu, ai marhaposan tu hatam do ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 43,
+      "text": "Jala unang tung paunsat situtu hata hasintongan i sian pamanganku, ni angka uhummi do na huhalungunhon.",
+      "type": "content"
+    },
+    {
+      "verse": 44,
+      "text": "Sai tongtong do radotanku patikmi ro di saleleng ni lelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 45,
+      "text": "Sai mardalani ma ahu di halambason, ai huharingkoti do angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 46,
+      "text": "Sai hatahononku do angka panindangionmu di jolo ni angka raja jala ndang hailahononku.",
+      "type": "content"
+    },
+    {
+      "verse": 47,
+      "text": "Sai dihahinsahon rohangku do tonami, angka na huhaholongi.",
+      "type": "content"
+    },
+    {
+      "verse": 48,
+      "text": "Jala sai hupataretare do tanganku tu tonami, angka na huhaholongi, jala sai pingkirpingkiranku do angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 49,
+      "text": "(VII.) Sai ingot ma hata tu naposom, na pinalungunhonmu tu ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 50,
+      "text": "Sai on do sabam ni rohangku di pardangolankon, ai bagabagami do pangoluhon ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 51,
+      "text": "Mansai eles situtu do angka na jungkat roha tu ahu, alai ndang manimbil anggo ahu sian patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 52,
+      "text": "Sai huingot do angka uhummu sian narobi, ale Jahowa, jadi sabam ma rohangku.",
+      "type": "content"
+    },
+    {
+      "verse": 53,
+      "text": "Marpiarpiar do murukku mida parjahat, angka na tumadingkon patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 54,
+      "text": "Jadi gabe endengku do angka aturanmi, di bagasan bagas paisolatanki.",
+      "type": "content"
+    },
+    {
+      "verse": 55,
+      "text": "Sai huingoti do bornginna i goarmi, ale Jahowa, jala huradoti patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 56,
+      "text": "On do na sorang tu ahu: Sai naeng radotanku angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 57,
+      "text": "(VIII.) Parjambaranku do Ho, ale Jahowa, nunga pola hudok, sai radotanku do angka hatami.",
+      "type": "content"
+    },
+    {
+      "verse": 58,
+      "text": "Marhuraja do ahu tu bohimi sian nasa roha, asi ma roham di ahu hombar tu bagabagam.",
+      "type": "content"
+    },
+    {
+      "verse": 59,
+      "text": "Nunga tung hutimbangi angka dalanku, jadi sai mulak tu angka panindangionmi do pathu.",
+      "type": "content"
+    },
+    {
+      "verse": 60,
+      "text": "Sai humalaput do ahu, jala ndang huhabendahon mangaradoti angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 61,
+      "text": "Sai dihaliangi angka aring ni angka parjahat i do ahu, ianggo patikmi ndang huhalupahon.",
+      "type": "content"
+    },
+    {
+      "verse": 62,
+      "text": "Hehe do ahu tonga borngin laho mandok mauliate tu Ho ala ni angka uhum ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 63,
+      "text": "Aleale ni sude angka na mangkabiari Ho do ahu, ro di angka na mangaradoti angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 64,
+      "text": "Gok asi ni roham do tano on, ale Jahowa, sai podahon ma tu ahu angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 65,
+      "text": "(IX.) Nunga denggan uhummi dibahen Ho tu naposom, ale Jahowa, hombar tu hatami.",
+      "type": "content"
+    },
+    {
+      "verse": 66,
+      "text": "Sai podahon ma tu ahu roha hapantason dohot parbinotoan na denggan, ai huhaporseai do angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 67,
+      "text": "Tagan so tarjepol ahu, sai lilu do ahu, alai anggo nuaeng sai bagabagami do na huradoti.",
+      "type": "content"
+    },
+    {
+      "verse": 68,
+      "text": "Denggan do Ho marroha jala pardengganbasa, sai ajarhon ma tu ahu angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 69,
+      "text": "Sai patubutubu gasa do angka na jungkat roha mangalo ahu, ianggo ahu sai radotanku do angka parentam sian nasa roha.",
+      "type": "content"
+    },
+    {
+      "verse": 70,
+      "text": "Ndang mangilala rohanasida songon tabotabo, ianggo ahu patikmi do na huhahilashon.",
+      "type": "content"
+    },
+    {
+      "verse": 71,
+      "text": "Untungku do i na tarjepol i ahu, asa huguruhon angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 72,
+      "text": "Tagonan do di rohangku patik sian pamanganmi asa sere dohot perak marriburibu.",
+      "type": "content"
+    },
+    {
+      "verse": 73,
+      "text": "(X.) Angka tanganmi do tumompa ahu jala pauliuli ahu, sai parroha i ahu, asa huguruhon angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 74,
+      "text": "Ia diida angka na mangkabiari Ho ahu, sai las ma rohanasida, ala na huhalungunhon hatami.",
+      "type": "content"
+    },
+    {
+      "verse": 75,
+      "text": "Nunga huboto, ale Jahowa, hatigoran do tongon angka uhummi, jala mardongan haburjuon do dijepol Ho ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 76,
+      "text": "Sai apulapul tu ahu ma nian asi ni rohami hombar tu bagabagam tu naposom.",
+      "type": "content"
+    },
+    {
+      "verse": 77,
+      "text": "Sai tolhas ma tu ahu angka asi ni roham, asa mangolu ahu, ai patikmi do na huhahilashon.",
+      "type": "content"
+    },
+    {
+      "verse": 78,
+      "text": "Sai tarurak ma angka na jungkat roha i ala dipatungki ahu marhitehite gabus; ianggo ahu, sai angka parentam do hupingkirpingkiri.",
+      "type": "content"
+    },
+    {
+      "verse": 79,
+      "text": "Sai mulak tu ahu ma angka na mangkabiari Ho dohot angka na umboto angka panindangionmi.",
+      "type": "content"
+    },
+    {
+      "verse": 80,
+      "text": "Sai sisangunjur ma rohangku tu angka aturanmi, asa unang tarurak ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 81,
+      "text": "(XI.) Pola maheu rohangku dibahen siholna di hatuaonmi, sai hatami do na huhalungunhon.",
+      "type": "content"
+    },
+    {
+      "verse": 82,
+      "text": "Pola do rambon angka matangku mangkalungunhon bagabagami, angka ninna do: Andigan pe ulaning apulonmu ahu?",
+      "type": "content"
+    },
+    {
+      "verse": 83,
+      "text": "Ai nunga pola doshon hajut bobak sinale ni timus ahu, ianggo angka aturanmi ndang huhalupahon.",
+      "type": "content"
+    },
+    {
+      "verse": 84,
+      "text": "Pola piga ariari ni naposom? Andigan pe dabuonmu uhum tu angka na mangalotongi ahu?",
+      "type": "content"
+    },
+    {
+      "verse": 85,
+      "text": "Nunga pola dihali angka na jungkat roha i angka godung tu ahu, nasida angka na so marparange hombar tu patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 86,
+      "text": "Hasintongan do sude angka tonami; pangansion dibahen nasida mangalotongi ahu; sai urupi ma ahu!",
+      "type": "content"
+    },
+    {
+      "verse": 87,
+      "text": "Otik nari tung siap ahu bahenonnasida di tano on, alai laos so hutadingkon do angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 88,
+      "text": "Sai pangolu ma ahu hombar tu asi ni roham, asa huradoti panindangion sian pamanganmi.",
+      "type": "content"
+    },
+    {
+      "verse": 89,
+      "text": "(XII.) Ro di salelenglelengna do hot hatami di angka banua ginjang, ale Jahowa.",
+      "type": "content"
+    },
+    {
+      "verse": 90,
+      "text": "Marsundutsundut do hasintonganmi, nunga dipaojak Ho tano on, jadi hot ma jongjong.",
+      "type": "content"
+    },
+    {
+      "verse": 91,
+      "text": "Rasirasa sadarion sai hot do angka uhummu, ai angka naposom, do nasida saluhutna.",
+      "type": "content"
+    },
+    {
+      "verse": 92,
+      "text": "Aut unang patikmi ma huhahilashon, nunga leleng mago ahu di pardangolankon.",
+      "type": "content"
+    },
+    {
+      "verse": 93,
+      "text": "Ro di salelenglelengna do ndang tagamon halupahononku angka parentami ai marhitehite angka i do dipangolu Ho ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 94,
+      "text": "Gok di Ho do ahu, sai palua ma ahu, ai angka aturanmi do na hulului.",
+      "type": "content"
+    },
+    {
+      "verse": 95,
+      "text": "Sai diaropi angka parjahat i do ahu, naeng agoonna ahu, sai angka panindangionmi do huparateatehon.",
+      "type": "content"
+    },
+    {
+      "verse": 96,
+      "text": "Sai marujung do huida saluhutna pangabahan, mansai hangkam do ianggo tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 97,
+      "text": "(XIII.) Mansai huhaholongi do patikmi, sai i do hupingkirpingkiri manipat ari.",
+      "type": "content"
+    },
+    {
+      "verse": 98,
+      "text": "Bisukan do ahu sian angka musungku dibahen angka tonami, ai gok disi do ahu salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 99,
+      "text": "Marrohaan do ahu sian sude angka gurungku, ai sai angka panindangionmi do na huparateatehon.",
+      "type": "content"
+    },
+    {
+      "verse": 100,
+      "text": "Marrohaan do ahu sian angka natuatua, ai sai huradoti do angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 101,
+      "text": "Sai huambatambat do angka pathu sian nasa dalan na roa, asa huradoti hatami.",
+      "type": "content"
+    },
+    {
+      "verse": 102,
+      "text": "Ndang dung manimbil ahu sian angka uhummi, ai nunga dipodai Ho ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 103,
+      "text": "Tumonggi do bagabagami didai aruarungku sian situak ni loba di pamanganku.",
+      "type": "content"
+    },
+    {
+      "verse": 104,
+      "text": "Binahen ni angka parentam do ahu marroha, ala ni do umbahen huhagigihon nasa dalan pangansion.",
+      "type": "content"
+    },
+    {
+      "verse": 105,
+      "text": "(XIV.) Hatami do sulusulu ni pathu jala hatiuron di dalanku.",
+      "type": "content"
+    },
+    {
+      "verse": 106,
+      "text": "Nunga pola huuarihon, jadi sai huhajongjongkon do: Mangaradoti angka uhum ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 107,
+      "text": "Tarjepol situtu do ahu, sai pangolu ma ahu, ale Jahowa, hombar tu hatam.",
+      "type": "content"
+    },
+    {
+      "verse": 108,
+      "text": "Sai halomohon ma, ale Jahowa, angka pelean pujipujian ni pamanganku sian nasa roha, jala ajarhon tu ahu angka uhummu!",
+      "type": "content"
+    },
+    {
+      "verse": 109,
+      "text": "Sai tongtong do huhomolhomol tondingki di bagasan tanganku, jala ndang huhalupahon patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 110,
+      "text": "Sai ditaoni angka parjahat i do jorgong tu ahu, alai laos so manimbil do ahu sian angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 111,
+      "text": "Angka panindangionmi do hubahen parjambaranku salelenglelengna, ai hahilason ni rohangku do angka i.",
+      "type": "content"
+    },
+    {
+      "verse": 112,
+      "text": "Sai hupaunduk do rohangku, laho mangulahon angka aturanmi salelenglelengna ro di ujung sogot.",
+      "type": "content"
+    },
+    {
+      "verse": 113,
+      "text": "(XV.) Sai huhagigihon do angka simeoleol, jala huhaholongi patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 114,
+      "text": "Pangondianku jala lombulombungku do Ho, sai hatami do na huhalungunhon.",
+      "type": "content"
+    },
+    {
+      "verse": 115,
+      "text": "Sumurut ma sian ahu, hamu ale angka parjahat i, sai angka tona ni Debatangku do radotanku.",
+      "type": "content"
+    },
+    {
+      "verse": 116,
+      "text": "Sai tiopi ahu hombar tu bagabagam, asa mangolu ahu, jala sai unang loas ahu tarurak mida na hinirim ni rohangku.",
+      "type": "content"
+    },
+    {
+      "verse": 117,
+      "text": "Sai sande ma ahu, asa martua ahu, asa tongtong huhahilashon angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 118,
+      "text": "Diparhamuda roham do sude angka na manimbil sian angka aturanmi, ai gabus do sipaotooto binahennasida i.",
+      "type": "content"
+    },
+    {
+      "verse": 119,
+      "text": "Disiaphon Ho do sude angka parjahat ni tano on, hira gubogubo, dibahen i huhaholongi do angka panindangionmi.",
+      "type": "content"
+    },
+    {
+      "verse": 120,
+      "text": "Manindang do imbulungku panonditnonditon mida Ho, jala huhabiari do angka uhummi.",
+      "type": "content"
+    },
+    {
+      "verse": 121,
+      "text": "(XVI.) Sai huulahon do uhum dohot hatigoran, sai unang loas ahu rupaon ni angka siulahon gogo mangalo ahu!",
+      "type": "content"
+    },
+    {
+      "verse": 122,
+      "text": "Sai ondihon ma naposom tu na denggan, asa unang dirupa angka na jungkat roha i ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 123,
+      "text": "Pola do rambon angka matangku mangkalungunhon hatuaonmi dohot bagabaga ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 124,
+      "text": "Bahen ma tu naposom hombar tu asi ni roham, jala podahon tu ahu angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 125,
+      "text": "Naposom do ahu, sai parroha i ma ahu, asa huboto angka panindangionmi.",
+      "type": "content"
+    },
+    {
+      "verse": 126,
+      "text": "Nunga jumpang tingki ni Jahowa painonahon uhum, ai nunga ditorbangi halak angka patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 127,
+      "text": "Ala ni do umbahen na huhaholongi angka tonami lobi sian sere, tongon tahe lobi sian sere palangki.",
+      "type": "content"
+    },
+    {
+      "verse": 128,
+      "text": "Ala ni do umbahen huparhatongon salulut angka parentam di saluhutna, sai huhagigihon do nasa lapang pangansion.",
+      "type": "content"
+    },
+    {
+      "verse": 129,
+      "text": "(XVII.) Tung na sumurung do angka panindangionmi, ala ni do umbahen diradoti rohangku angka i.",
+      "type": "content"
+    },
+    {
+      "verse": 130,
+      "text": "Pangungkapon di angka hatami do patiur parnidaan, marrohaihon angka na oto.",
+      "type": "content"
+    },
+    {
+      "verse": 131,
+      "text": "Sai hupangangang do pamanganku jala marhoi, ai angka tonami do na huhauashon.",
+      "type": "content"
+    },
+    {
+      "verse": 132,
+      "text": "Sai dompakkon ma ahu, jala asi ma roham di ahu, mangihuthon uhum tu angka na mangkaholongi goarmi.",
+      "type": "content"
+    },
+    {
+      "verse": 133,
+      "text": "Sai pahot ma langkalangkangku marhitehite bagabagam, jala unang loas dirajai manang hajahaton dia ahu!",
+      "type": "content"
+    },
+    {
+      "verse": 134,
+      "text": "Sai palua ma ahu sian pangarupaon ni jolma, asa huradoti angka parentam!",
+      "type": "content"
+    },
+    {
+      "verse": 135,
+      "text": "Sai bahen ma bohim marsinondang tu naposom, jala podahon tu ahu angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 136,
+      "text": "Sai mabakbak do ilu ni matangku hira pansur, ala so diradoti halak angka patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 137,
+      "text": "(XVIII.) Nabonar do Ho, ale Jahowa, jala na tigor do angka uhummu.",
+      "type": "content"
+    },
+    {
+      "verse": 138,
+      "text": "Nunga tung ditingtingkon Ho paboa hatigoran do angka panindangionmu jala hasintongan situtu.",
+      "type": "content"
+    },
+    {
+      "verse": 139,
+      "text": "Ngaetan do ahu dibahen hajugulonki, ala dihalupahon angka alongku angka hatami.",
+      "type": "content"
+    },
+    {
+      "verse": 140,
+      "text": "Na pinindan situtu do bagabagami, jadi holong roha ni naposom disi.",
+      "type": "content"
+    },
+    {
+      "verse": 141,
+      "text": "Metmet pe ahu jala lea, ianggo angka parentam ndang dung huhalupahon.",
+      "type": "content"
+    },
+    {
+      "verse": 142,
+      "text": "Hatigoran ro di salelenglelengna do hatigoranmu, jala hasintongan do patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 143,
+      "text": "Songgop pe hagogotan dohot hasusaan tu ahu, ianggo angka tonami sai huhahilashon do.",
+      "type": "content"
+    },
+    {
+      "verse": 144,
+      "text": "Sai hatigoran do angka panindangionmi ro di salelenglelengna, parroha i ahu, asa mangolu ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 145,
+      "text": "(XIX.) Sai joujou do ahu sian nasa roha, sai alusi ma ahu, ale Jahowa; sai radotanku do angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 146,
+      "text": "Sai joujou ahu tu Ho: Tumpahi ma ahu! Asa sai huradoti angka panindangionmi.",
+      "type": "content"
+    },
+    {
+      "verse": 147,
+      "text": "Hujoloani do buha siang ari asa maungaung, angka hatami do huhalungunhon.",
+      "type": "content"
+    },
+    {
+      "verse": 148,
+      "text": "Dijoloani angka matangku do angka gansi borngin, naeng mamingkirmingkiri bagabagami.",
+      "type": "content"
+    },
+    {
+      "verse": 149,
+      "text": "Sai tangihon ma soarangki hombar tu asi ni roham, sai pangolu ma ahu, ale Jahowa, hombar tu angka uhummi.",
+      "type": "content"
+    },
+    {
+      "verse": 150,
+      "text": "Dumonokdonok do angka sieahi hajahaton, holang do nasida sian patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 151,
+      "text": "Donok do Ho, ale Jahowa, jala hasintongan do sude angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 152,
+      "text": "Tibu hian do huboto sian angka panindangionmi, paboa Ho paojakkon angka i ro di salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 153,
+      "text": "(XX.) Sai tatap ma pardangolankon, jala palua ahu, ai ndang huhalupahon patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 154,
+      "text": "Badahon ma parbadaanki, jala palua ahu, sai pangolu ma ahu ala ni bagabagami.",
+      "type": "content"
+    },
+    {
+      "verse": 155,
+      "text": "Mandao do hatuaon sian angka parjahat, ai ndang dilului nasida angka aturanmi.",
+      "type": "content"
+    },
+    {
+      "verse": 156,
+      "text": "Torop do angka asi ni roham, ale Jahowa, sai pangolu ma ahu hombar tu angka uhummi.",
+      "type": "content"
+    },
+    {
+      "verse": 157,
+      "text": "Torop do angka silotongi dohot sisosak ahu, laos so manimbil do ahu sian angka panindangionmi.",
+      "type": "content"
+    },
+    {
+      "verse": 158,
+      "text": "Huida angka parjehe, jadi gine ateatengku, ala so diradoti nasida bagabagami.",
+      "type": "content"
+    },
+    {
+      "verse": 159,
+      "text": "Sai tatap ma, ai sai huhaholongi do angka parentam, ale Jahowa, sai pangolu ma ahu hombar tu asi ni roham.",
+      "type": "content"
+    },
+    {
+      "verse": 160,
+      "text": "Hasintongan do pangarimpunan ni hatam, jala ro di salelenglelengna do nasa uhum ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 161,
+      "text": "(XXI.) Dilotongi angka raja do ahu soada alana, alai holan hatami do dihabiari rohangku.",
+      "type": "content"
+    },
+    {
+      "verse": 162,
+      "text": "Marhilas ni roha do ahu ala ni bagabagami, songon halak na jumpangan godang taban.",
+      "type": "content"
+    },
+    {
+      "verse": 163,
+      "text": "Huhagigihon jala huhabiashon do sipaotooto, huhaholongi do ianggo patikmi.",
+      "type": "content"
+    },
+    {
+      "verse": 164,
+      "text": "Pitu hali di na sadari hupuji Ho, ala ni angka uhum ni hatigoranmi.",
+      "type": "content"
+    },
+    {
+      "verse": 165,
+      "text": "Mardame situtu do angka na mangkaholongi patikmi, jala ndang adong partuktuhan di nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 166,
+      "text": "Sai huhalungunhon do hatuaonmi, ale Jahowa, jala huulahon angka tonami.",
+      "type": "content"
+    },
+    {
+      "verse": 167,
+      "text": "Sai diradoti rohangku do angka panindangionmi, jala huhaholongi situtu angka i.",
+      "type": "content"
+    },
+    {
+      "verse": 168,
+      "text": "Sai huradoti do angka parentam dohot panindangionmi, ai di jolom do saluhut angka dalanku.",
+      "type": "content"
+    },
+    {
+      "verse": 169,
+      "text": "(XXII.) Sai loas ma alualungku dumonok tu bohim, ale Jahowa, sai parroha i ma ahu hombar tu hatam.",
+      "type": "content"
+    },
+    {
+      "verse": 170,
+      "text": "Sai tolhas tujolo ni bohim ma angguhangguk i, sai palua ma ahu hombar tu bagabagam.",
+      "type": "content"
+    },
+    {
+      "verse": 171,
+      "text": "Sai marbulakkon pujipujian ma angka bibirhu, ala dipodahon Ho angka aturanmi tu ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 172,
+      "text": "Sai tariashonon ni dilangku do bagabagami, ai hatigoran do angka tonami saluhutna.",
+      "type": "content"
+    },
+    {
+      "verse": 173,
+      "text": "Sai ditumpahi tanganmi ma ahu, ai nunga hupillit angka parentam.",
+      "type": "content"
+    },
+    {
+      "verse": 174,
+      "text": "Sai dihalungunhon rohangku do hatuaonmi, ale Jahowa, jala patikmi do hasudungan ni rohangku.",
+      "type": "content"
+    },
+    {
+      "verse": 175,
+      "text": "Sai mangolu ma tondingku, asa Ho dipuji, jala ditumpahi angka uhummu ma ahu!",
+      "type": "content"
+    },
+    {
+      "verse": 176,
+      "text": "Nalilu do ahu, songon birubiru na mago, sai lulu i ma naposom, ai ndang huhalupahon angka tonami.",
+      "type": "content"
+    }
+  ]
+}

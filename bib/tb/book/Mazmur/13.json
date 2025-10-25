@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Doa kepercayaan",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Untuk pemimpin biduan. Mazmur Daud. (13-2) Berapa lama lagi, TUHAN, Kaulupakan aku terus-menerus? Berapa lama lagi Kausembunyikan wajah-Mu terhadap aku?",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "(13-3) Berapa lama lagi aku harus menaruh kekuatiran dalam diriku, dan bersedih hati sepanjang hari? Berapa lama lagi musuhku meninggikan diri atasku?",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "(13-4) Pandanglah kiranya, jawablah aku, ya TUHAN, Allahku! Buatlah mataku bercahaya, supaya jangan aku tertidur dan mati,",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "(13-5) supaya musuhku jangan berkata: \"Aku telah mengalahkan dia,\" dan lawan-lawanku bersorak-sorak, apabila aku goyah.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "(13-6a) Tetapi aku, kepada kasih setia-Mu aku percaya, hatiku bersorak-sorak karena penyelamatan-Mu.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "(13-6b) Aku mau menyanyi untuk TUHAN, karena Ia telah berbuat baik kepadaku.",
+      "type": "content"
+    }
+  ]
+}

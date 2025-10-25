@@ -1,0 +1,26 @@
+{
+  "book": "Mazmur",
+  "chapter": 131,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Menyerah kepada TUHAN",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Nyanyian ziarah Daud. TUHAN, aku tidak tinggi hati, dan tidak memandang dengan sombong; aku tidak mengejar hal-hal yang terlalu besar atau hal-hal yang terlalu ajaib bagiku.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Sesungguhnya, aku telah menenangkan dan mendiamkan jiwaku; seperti anak yang disapih berbaring dekat ibunya, ya, seperti anak yang disapih jiwaku dalam diriku.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Berharaplah kepada TUHAN, hai Israel, dari sekarang sampai selama-lamanya!",
+      "type": "content"
+    }
+  ]
+}

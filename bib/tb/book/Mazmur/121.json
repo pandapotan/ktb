@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 121,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "TUHAN, Penjaga Israel",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Nyanyian ziarah. Aku melayangkan mataku ke gunung-gunung; dari manakah akan datang pertolonganku?",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Pertolonganku ialah dari TUHAN, yang menjadikan langit dan bumi.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Ia takkan membiarkan kakimu goyah, Penjagamu tidak akan terlelap.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Sesungguhnya tidak terlelap dan tidak tertidur Penjaga Israel.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Tuhanlah Penjagamu, Tuhanlah naunganmu di sebelah tangan kananmu.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Matahari tidak menyakiti engkau pada waktu siang, atau bulan pada waktu malam.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "TUHAN akan menjaga engkau terhadap segala kecelakaan; Ia akan menjaga nyawamu.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "TUHAN akan menjaga keluar masukmu, dari sekarang sampai selama-lamanya.",
+      "type": "content"
+    }
+  ]
+}

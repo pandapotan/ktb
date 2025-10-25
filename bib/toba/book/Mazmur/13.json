@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tangiang mangido haluaon sian angka musu dohot nalom ni rohana alusan ni Debata tangiangna i 2-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sian si Daud.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Sadia leleng on do, ale Jahowa, sai halupahononmu ahu tongtong? Sadia leleng on do tabunihononmu bohim sian ahu?",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sadia leleng on sai mardondami rohangku, sai humasusa rohangku di bagasan manipat ari? Sadia leleng on sai angatan ni alongku ahu?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Tatap tu on, jala alusi ahu, ale Jahowa, Debatangku; sai patiur ma parnidaanku, asa unang laos mate modom boti ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Asa unang dohonon ni musungku: Nunga tung hupatunduk ibana, gabe marsurak angka alongku maon, molo tung reberebe ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Alai anggo ahu, marhaposan tu asi ni roham do ahu, ingkon marolopolop rohangku mida pangurupim, marende ma ahu tu Jahowa, ai denggan do uhumna tu ahu.",
+      "type": "content"
+    }
+  ]
+}

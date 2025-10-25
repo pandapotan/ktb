@@ -1,0 +1,16 @@
+{
+  "book": "Mazmur",
+  "chapter": 131,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> LORD, my heart is not haughty, Nor my eyes lofty. Neither do I concern myself with great matters, Nor with things too profound for me.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "O Israel, hope in the LORD From this time forth and forever.",
+      "type": "content"
+    }
+  ]
+}

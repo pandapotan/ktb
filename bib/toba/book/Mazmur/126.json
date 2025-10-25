@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 126,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tangiang mangido haluaon situtu sian habuangan 1-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok. Di na mulak tinogihon ni Jahowa angka na tarbuang sian Sion, doshon halak na marnipi do hita.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Gok parengkelon ma uju i pamanganta, jala marolopolop dilanta, martaringot ma uju i di tongatonga ni angka parbegu: Godang ma na binahen ni Jahowa tu nasida!",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Godang ma tongon na binahen ni Jahowa tu hita, jadi marhilas ni roha ma hita.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Sai togihon ma mulak, ale Jahowa, angka na tarbuang sian hami, songon angka sunge di tano tungkan dangsina.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Angka na mariluilu laho manabur, marolopolop do sogot laho manggotil.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Mardalandalan pe ibana huhut tangis pausungusung boni sisaburhononhon, ro do ibana sogot marolopolop mangusung angka tibalanna.",
+      "type": "content"
+    }
+  ]
+}

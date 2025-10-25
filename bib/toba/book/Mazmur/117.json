@@ -1,0 +1,21 @@
+{
+  "book": "Mazmur",
+  "chapter": 117,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tingting mandokkon sude angka bangso mamuji Debata 1-2",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Puji ma Jahowa, hamu ale angka parbegu sudena! Puji ma Ibana hamu ale angka bangso sudena!",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ai tung na godang do asi ni rohana tu hita jala ro di salelenglelengna do habonaron ni Jahowa. Halleluya!",
+      "type": "content"
+    }
+  ]
+}

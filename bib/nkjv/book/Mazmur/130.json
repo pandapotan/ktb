@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 130,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> Out of the depths I have cried to You, O LORD;",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "If You, LORD, should mark iniquities, O Lord, who could stand?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "But  there is  forgiveness with You, That You may be feared.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "I wait for the LORD, my soul waits, And in His word I do hope.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "My soul  waits  for the Lord More than those who watch for the morning–– Yes, more than  those who watch for the morning.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "O Israel, hope in the LORD; For with the LORD  there is  mercy, And with Him  is  abundant redemption.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "And He shall redeem Israel From all his iniquities.",
+      "type": "content"
+    }
+  ]
+}

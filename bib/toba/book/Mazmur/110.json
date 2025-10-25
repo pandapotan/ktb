@@ -1,0 +1,46 @@
+{
+  "book": "Mazmur",
+  "chapter": 110,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Panurirangon taringot tu Raja-Malim, mandok Messias i 1-7.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sian si Daud. Nunga didok Jahowa mandok Tuhanku: Hundul ma Ho tu siamunhon, paima hubahen angka musum sidegedegean ni patmu.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Tongoson ni Jahowa ma sian Sion tungkot harajaon ni huasomi; antong mangarajai ma Ho di tongatonga ni musum!",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Marrongoman bangsom ro sian lomona di ari parporanganmu marpangkean habadiaon, sian ampuan ni andostorang ro do tu Ho nambur ni paranganmu angka na bajar.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Nunga pola maruari Jahowa, jala ndang tagamon solsolanna bagina: Sai Ho do malim ro di salelenglelengna mangihuthon horong ni si Melkisedek.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Tuhan i do di siamunmu, Ibana mangalengsehon angka raja di ari panombo ni rimasna.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Ibana mandabu uhum di tongatonga ni angka parbegu, Ibana mambahen gok angka bangke; Ibana do mangarosak ulu di tano adaran bidang.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Inumonna ma sian sunge di dalan, ala ni patimbulonna ma muse uluna.",
+      "type": "content"
+    }
+  ]
+}

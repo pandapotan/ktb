@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 142,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> I cry out to the LORD with my voice; With my voice to the LORD I make my supplication.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "When my spirit was overwhelmed within me, Then You knew my path. In the way in which I walk They have secretly set a snare for me.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Look on  my  right hand and see, For  there is  no one who acknowledges me; Refuge has failed me; No one cares for my soul.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "I cried out to You, O LORD: I said, \"You  are  my refuge, My portion in the land of the living.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Attend to my cry, For I am brought very low; Deliver me from my persecutors, For they are stronger than I.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Bring my soul out of prison, That I may praise Your name; The righteous shall surround me, For You shall deal bountifully with me.\"",
+      "type": "content"
+    }
+  ]
+}

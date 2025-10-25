@@ -1,0 +1,41 @@
+{
+  "book": "Yesaya",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Pujipujian ni bangso ni Debata na malua i 1-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Jadi dohononmu ma di ari na sasada i: Mauliate ma ahu tu ho, ale Jahowa, ala dirimasi ho ahu, alai nunga marpamuati rimasmu, jala nunga diapuli ho ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ida ma, Debata do hatuaonku, Ibana huhaposi, jadi ndang mabiar ahu, ai Tuhan Jahowa do hagogoonku dohot pujipujianku dohot manjadi hatuaon di ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Jadi marlas ni roha hamu manahui aek sian mual ni hatuaon.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Jadi dohononmuna ma di ari na sasada i: Puji hamu ma Jahowa, jala jou hamu ma goarna, pabotohon hamu angka jadijadianna di tongatonga ni angka bangso, jamitahon hamu goarna na timbul i.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Endehon hamu ende pujipujian tu Jahowa, ai nunga dijadihon halongangan, sibotoon ni liat portibi on sogot.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Marolopolop jala mariaia ma ho, ale isi ni Sion, ai timbul do di parsitongaanmi na badia ni Israel.",
+      "type": "content"
+    }
+  ]
+}

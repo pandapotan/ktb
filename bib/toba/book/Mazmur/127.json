@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 127,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Debata do haroroan ni nasa pasupasu, nang taringot tu anak tubu 1-5",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok sian si Salomo. Molo so Jahowa paulihon bagas, loja sambing do angka na mamandei; molo so Jahowa marhal huta i, ndang marniula hadudungo ni parhal.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ndang adong labamuna dipasogot hamu hehe, dipaleleng hamu muse laho hundul manganhon roti hangaluton, songon i modom dilehon Ibana tongon tu hasianna.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Ida ma, pala ni Jahowa sambing do di anak, silehonlehonna do parbue ni bortian.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Songon angka sumbia di tangan ni ulubalang, songon i do angka anak di haroro ni daging.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Martua ma baoa na manggohi parnangkatanna sian nasida: Ndang tagamon tarurak nasida, molo marsiuaan nasida dohot angka musu di parjompahan.",
+      "type": "content"
+    }
+  ]
+}

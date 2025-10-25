@@ -1,0 +1,26 @@
+{
+  "book": "Mazmur",
+  "chapter": 134,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tingting mandokkon angka parhalado ni bagas na badia i mamuji Debata 1-3",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok. Ida ma, puji ma Jahowa, sude hamu ale naposo ni Jahowa, hamu ale angka na jongjong di bagas ni Jahowa ganup borngin.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Paherbang hamu ma tanganmuna tu habadiaon, jala puji hamu ma Jahowa!",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sai dipasupasu Jahowa, Sitompa langit dohot tano on, ma ho sian Sion!",
+      "type": "content"
+    }
+  ]
+}

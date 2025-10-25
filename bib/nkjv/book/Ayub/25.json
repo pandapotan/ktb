@@ -1,0 +1,36 @@
+{
+  "book": "Ayub",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Bildad the Shuhite answered and said:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "\"Dominion and fear  belong  to Him; He makes peace in His high places.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Is there any number to His armies? Upon whom does His light not rise?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "How then can man be righteous before God? Or how can he be pure  who is  born of a woman?",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "If even the moon does not shine, And the stars are not pure in His sight,",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "How much less man,  who is  a maggot, And a son of man,  who is  a worm?\"",
+      "type": "content"
+    }
+  ]
+}

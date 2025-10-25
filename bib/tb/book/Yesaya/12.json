@@ -1,0 +1,41 @@
+{
+  "book": "Yesaya",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Nyanyian syukur atas keselamatan",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Pada waktu itu engkau akan berkata: \"Aku mau bersyukur kepada-Mu, ya TUHAN, karena sungguhpun Engkau telah murka terhadap aku: tetapi murka-Mu telah surut dan Engkau menghibur aku.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Sungguh, Allah itu keselamatanku; aku percaya dengan tidak gementar, sebab TUHAN ALLAH itu kekuatanku dan mazmurku, Ia telah menjadi keselamatanku.\"",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Maka kamu akan menimba air dengan kegirangan dari mata air keselamatan.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Pada waktu itu kamu akan berkata: \"Bersyukurlah kepada TUHAN, panggillah nama-Nya, beritahukanlah perbuatan-Nya di antara bangsa-bangsa, masyhurkanlah, bahwa nama-Nya tinggi luhur!",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Bermazmurlah bagi TUHAN, sebab perbuatan-Nya mulia; baiklah hal ini diketahui di seluruh bumi!",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Berserulah dan bersorak-sorailah, hai penduduk Sion, sebab Yang Mahakudus, Allah Israel, agung di tengah-tengahmu!\"",
+      "type": "content"
+    }
+  ]
+}

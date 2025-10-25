@@ -1,0 +1,21 @@
+{
+  "book": "Mazmur",
+  "chapter": 134,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A song of ascents.  Praise the LORD, all you servants of the LORD who minister by night in the house of the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Lift up your hands in the sanctuary and praise the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "May the LORD, the Maker of heaven and earth, bless you from Zion.",
+      "type": "content"
+    }
+  ]
+}

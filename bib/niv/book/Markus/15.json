@@ -1,0 +1,241 @@
+{
+  "book": "Markus",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Very early in the morning, the chief priests, with the elders, the teachers of the law and the whole Sanhedrin, reached a decision. They bound Jesus, led him away and turned him over to Pilate.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "\"Are you the king of the Jews?\" asked Pilate. \"Yes, it is as you say,\" Jesus replied.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "The chief priests accused him of many things.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "So again Pilate asked him, \"Aren’t you going to answer? See how many things they are accusing you of.\"",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "But Jesus still made no reply, and Pilate was amazed.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Now it was the custom at the Feast to release a prisoner whom the people requested.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "A man called Barabbas was in prison with the insurrectionists who had committed murder in the uprising.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "The crowd came up and asked Pilate to do for them what he usually did.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "\"Do you want me to release to you the king of the Jews?\" asked Pilate,",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "knowing it was out of envy that the chief priests had handed Jesus over to him.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "But the chief priests stirred up the crowd to have Pilate release Barabbas instead.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "\"What shall I do, then, with the one you call the king of the Jews?\" Pilate asked them.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "\"Crucify him!\" they shouted.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "\"Why? What crime has he committed?\" asked Pilate. But they shouted all the louder, \"Crucify him!\"",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Wanting to satisfy the crowd, Pilate released Barabbas to them. He had Jesus flogged, and handed him over to be crucified.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "The soldiers led Jesus away into the palace (that is, the Praetorium) and called together the whole company of soldiers.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "They put a purple robe on him, then twisted together a crown of thorns and set it on him.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "And they began to call out to him, \"Hail, king of the Jews!\"",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Again and again they struck him on the head with a staff and spat on him. Falling on their knees, they paid homage to him.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "And when they had mocked him, they took off the purple robe and put his own clothes on him. Then they led him out to crucify him.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "A certain man from Cyrene, Simon, the father of Alexander and Rufus, was passing by on his way in from the country, and they forced him to carry the cross.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "They brought Jesus to the place called Golgotha (which means The Place of the Skull).",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Then they offered him wine mixed with myrrh, but he did not take it.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "And they crucified him. Dividing up his clothes, they cast lots to see what each would get.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "It was the third hour when they crucified him.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "The written notice of the charge against him read: THE KING OF THE JEWS.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "They crucified two robbers with him, one on his right and one on his left.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "[[EMPTY]]",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Those who passed by hurled insults at him, shaking their heads and saying, \"So! You who are going to destroy the temple and build it in three days,",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "come down from the cross and save yourself!\"",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "In the same way the chief priests and the teachers of the law mocked him among themselves. \"He saved others,\" they said, \"but he can’t save himself!",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "Let this Christ, this King of Israel, come down now from the cross, that we may see and believe.\" Those crucified with him also heaped insults on him.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "At the sixth hour darkness came over the whole land until the ninth hour.",
+      "type": "content"
+    },
+    {
+      "verse": 34,
+      "text": "And at the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"—which means, \"My God, my God, why have you forsaken me?\"",
+      "type": "content"
+    },
+    {
+      "verse": 35,
+      "text": "When some of those standing near heard this, they said, \"Listen, he’s calling Elijah.\"",
+      "type": "content"
+    },
+    {
+      "verse": 36,
+      "text": "One man ran, filled a sponge with wine vinegar, put it on a stick, and offered it to Jesus to drink. \"Now leave him alone. Let’s see if Elijah comes to take him down,\" he said.",
+      "type": "content"
+    },
+    {
+      "verse": 37,
+      "text": "With a loud cry, Jesus breathed his last.",
+      "type": "content"
+    },
+    {
+      "verse": 38,
+      "text": "The curtain of the temple was torn in two from top to bottom.",
+      "type": "content"
+    },
+    {
+      "verse": 39,
+      "text": "And when the centurion, who stood there in front of Jesus, heard his cry and saw how he died, he said, \"Surely this man was the Son of God!\"",
+      "type": "content"
+    },
+    {
+      "verse": 40,
+      "text": "Some women were watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.",
+      "type": "content"
+    },
+    {
+      "verse": 41,
+      "text": "In Galilee these women had followed him and cared for his needs. Many other women who had come up with him to Jerusalem were also there.",
+      "type": "content"
+    },
+    {
+      "verse": 42,
+      "text": "It was Preparation Day (that is, the day before the Sabbath). So as evening approached,",
+      "type": "content"
+    },
+    {
+      "verse": 43,
+      "text": "Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus’ body.",
+      "type": "content"
+    },
+    {
+      "verse": 44,
+      "text": "Pilate was surprised to hear that he was already dead. Summoning the centurion, he asked him if Jesus had already died.",
+      "type": "content"
+    },
+    {
+      "verse": 45,
+      "text": "When he learned from the centurion that it was so, he gave the body to Joseph.",
+      "type": "content"
+    },
+    {
+      "verse": 46,
+      "text": "So Joseph bought some linen cloth, took down the body, wrapped it in the linen, and placed it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb.",
+      "type": "content"
+    },
+    {
+      "verse": 47,
+      "text": "Mary Magdalene and Mary the mother of Joses saw where he was laid.",
+      "type": "content"
+    }
+  ]
+}

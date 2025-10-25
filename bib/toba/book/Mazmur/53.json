@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 53,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Alualu taringot tu hinaroa ni parrohaon ni jolma 2-5. II. Uhum madabu tu angka parjahat. Halalas ni roha ni angka pardaulat 6-7.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sipodaon sian si Daud.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "(I.) Ninna na oto i do di bagasan rohana: Ndang adong Debata; jahat jala sogir do nasida marpangalahohon hajahaton, ndang adong siulahon na denggan.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Manatap manonggor Debata sian banua ginjang, marnida jolma manisia, manang na adong na marroha, na usouso di Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Alai tung saluhut do nasida sumurut tu pudi, tung sange do nasida marroha mago: Ndang adong siulahon na denggan, nanggo sahalak.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Tung na so mananda do ulaning angka siulahon hajahaton, angka na manganhon bangsongku, songon na mangan roti? Ia Debata ndang dijou nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "(II.) Alai tarsonggot situtu do nasida disi sogot, nang so adong habiaran; ai paserahon ni Debata do holiholi ni na tumungkum ho; tarurak do nasida bahenonmu, ai nunga diambolongkon Debata nasida. (53-7) Ise do ulaning sian Sion mangalehon hatuaon di Israel? Molo mulak sogot boanon ni Debata angka na tarbuang sian bangsona, marolopolop ma Jakkob jala marlas ni roha ma Israel.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 124,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hamauliateon dohot pujipujian marningot haluaon binahen ni Debata 1-8",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok sian si Daud. Aut unang Jahowa mandongani hita, sai i ma didok Israel.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Aut unang Jahowa mandongani hita, uju hehe jolma mangalo hita:",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sai ngolungolu hita bondutonna, uju i di panombo ni rimasnasida dompak hita.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Sai na aupon ni angka aek do hita uju i, sai na boluson ni batang aek i do tondinta.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Sai na boluson ni angka aek na marhasahi do tongon tondinta uju i.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Pinuji ma Jahowa, na so mangalehon hita sisoroon ni angka nginginasida i.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Nunga malua tondinta i songon pidong, na malua sian sambil ni parsambil, nunga matos sambil i, jadi malua hita.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Ianggo pangurupion di hita di bagasan goar ni Jahowa, Sitompa langit dohot tano on do.",
+      "type": "content"
+    }
+  ]
+}

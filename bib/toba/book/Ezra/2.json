@@ -1,0 +1,361 @@
+{
+  "book": "Ezra",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Goargoar ni angka na mulak marompuompu 1-67. II. Guguannasida laho paulihon joro i 68-70.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Jala on do pinompar ni Juda marluatluat, angka na nangkok sian habuangan, angka na binuangkon ni si Nebukadnesar, raja sian Babel tu Babel, jala angka na mulak tu Jerusalem dohot tu Juda, ganup tu hutana be.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Angka na ro rap dohot si Serubabel, si Josua, si Nehemia, si Seraia, si Reelaia, si Mordahai, si Bilsan, si Mispar, si Bigpai, si Rehum dohot si Baana. On do bilangan ni angka baoa sian bangso Israel.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Pinompar ni si Paras dua ribu saratus pitupulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Pinompar ni si Sepatia tolu ratus pitupulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Pinompar ni si Ara pitu ratus pitupulu lima.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Pinompar ni si Pahat-Moab, sian pinompar ni si Jesua-Joab dua ribu ualu ratus sampulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Pinompar ni si Elam saribu dua ratus limapulu opat.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Pinompar ni si Jattu siaratus opatpulu lima.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Pinompar ni si Sakai pitu ratus onompulu.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Pinompar ni si Bani onom ratus opatpulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Pinompar ni si Bebai onom ratus duapulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Pinompar ni si Asgad saribu dua ratus duapulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Pinompar ni si Adonikam onom ratus onompulu onom.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Pinompar ni si Bigpai dua ribu limapulu onom.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Pinompar ni si Adin opat ratus limapulu opat.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Pinompar ni si Ater sian si Hiskia siapulu ualu.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Pinompar ni si Bisia tolu ratus duapulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "Pinompar ni si Jora saratus sampulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Pinompar ni si Hasum dua ratus duapulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Pinompar ni si Gibar siapulu lima.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Pinompar sian Betlehem saratus duapulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Angka baoa sian Netopa limapulu onom.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Angka baoa sian Anatot saratus duapulu ualu.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Pinompar sian Asmapet opatpulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "Pinompar sian Kiriat Jearim, Kepira dohot Beerot pitu ratus opatpulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Pinompar sian Rama dohot Geba onom ratus duapulu sada.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Angka baoa sian Mikhmas saratus duapulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Angka baoa sian Betel dohot Ai dua ratus duapulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Pinompar sian Nebo limapulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Pinompar ni si Magbis saratus limapulu onom.",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Pinompar ni si Elam na asing saribu dua ratus limapulu opat.",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "Pinompar ni si Harim tolu ratus duapulu.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "Pinompar ni si Lod, si Hadid dohot si Ono pitu ratus duapulu lima.",
+      "type": "content"
+    },
+    {
+      "verse": 34,
+      "text": "Pinompar sian Jeriko tolu ratus opatpulu lima.",
+      "type": "content"
+    },
+    {
+      "verse": 35,
+      "text": "Pinompar sian Sena tolu ribu onom ratus tolupulu.",
+      "type": "content"
+    },
+    {
+      "verse": 36,
+      "text": "Angka malim: Pinompar ni si Jedaia sian pinompar ni si Jesua sia ratus pitupulu tolu.",
+      "type": "content"
+    },
+    {
+      "verse": 37,
+      "text": "Pinompar ni si Immer saribu limapulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 38,
+      "text": "Pinompar ni si Pashur saribu dua ratus opatpulu pitu.",
+      "type": "content"
+    },
+    {
+      "verse": 39,
+      "text": "Pinompar ni si Harim saribu sampulu pitu.",
+      "type": "content"
+    },
+    {
+      "verse": 40,
+      "text": "Halak Lepi: Pinompar ni si Jesua dohot si Kadmiel, sian pinompar ni si Hodapia, pitupulu opat.",
+      "type": "content"
+    },
+    {
+      "verse": 41,
+      "text": "Angka parende: Pinompar ni si Asap saratus duapulu ualu.",
+      "type": "content"
+    },
+    {
+      "verse": 42,
+      "text": "Pinompar ni angka sijaga pintu: Pinompar ni si Sallum, pinompar ni si Ater, pinompar ni si Talmon, pinompar ni si Akkub, pinompar ni si Hatita, pinompar ni si Sobai, luhutna i saratus tolupulu sia.",
+      "type": "content"
+    },
+    {
+      "verse": 43,
+      "text": "Angka Netinim: Pinompar ni si Siha, pinompar ni si Hasupa, pinompar ni si Tabaot.",
+      "type": "content"
+    },
+    {
+      "verse": 44,
+      "text": "Pinompar ni si Keros, pinompar ni si Siaha, pinompar ni si Padon.",
+      "type": "content"
+    },
+    {
+      "verse": 45,
+      "text": "Pinompar ni si Lebana, pinompar ni si Hagaba, pinompar ni si Akkub.",
+      "type": "content"
+    },
+    {
+      "verse": 46,
+      "text": "Pinompar ni si Hagab, pinompar ni si Salmai, pinompar ni si Hanan.",
+      "type": "content"
+    },
+    {
+      "verse": 47,
+      "text": "Pinompar ni si Gidel, pinompar ni si Gohar, pinompar ni si Reia.",
+      "type": "content"
+    },
+    {
+      "verse": 48,
+      "text": "Pinompar ni si Resin, pinompar ni si Nekoda, pinompar ni si Gasam.",
+      "type": "content"
+    },
+    {
+      "verse": 49,
+      "text": "Pinompar ni si Usa, pinompar ni si Pasea, pinompar ni si Bisia.",
+      "type": "content"
+    },
+    {
+      "verse": 50,
+      "text": "Pinompar ni si Asna, pinompar ni si Meunim, pinompar ni si Nepusim.",
+      "type": "content"
+    },
+    {
+      "verse": 51,
+      "text": "Pinompar ni si Bakbuk, pinompar ni si Hakupa, pinompar ni si Harhur.",
+      "type": "content"
+    },
+    {
+      "verse": 52,
+      "text": "Pinompar ni si Baslut, pinompar ni si Mehida, pinompar ni si Harsa.",
+      "type": "content"
+    },
+    {
+      "verse": 53,
+      "text": "Pinompar ni si Barkos, pinompar ni si Sisera, pinompar ni si Tama.",
+      "type": "content"
+    },
+    {
+      "verse": 54,
+      "text": "Pinompar ni si Nesia, pinompar ni si Hatipa.",
+      "type": "content"
+    },
+    {
+      "verse": 55,
+      "text": "Pinompar ni angka naposo ni si Salomo: Pinompar ni si Sotai, pinompar ni si Soperet, pinompar ni si Perida.",
+      "type": "content"
+    },
+    {
+      "verse": 56,
+      "text": "Pinompar ni si Jaala, pinompar ni si Darkon, pinompar ni si Gidel.",
+      "type": "content"
+    },
+    {
+      "verse": 57,
+      "text": "Pinompar ni si Sepatia, pinompar ni si Hatil, pinompar ni si Rokeret Hasebaim, pinompar ni si Ami.",
+      "type": "content"
+    },
+    {
+      "verse": 58,
+      "text": "Luhut angka Netinim dohot pinompar ni angka naposo ni si Salomo tolu ratus siapulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 59,
+      "text": "Jala on do huhut angka na nangkok sian Tel-Mela, Tel-Harsa, Kerub, Addon dohot Immer; alai ndang tarpajojor nasida pinompar ni amanasida i, manang pinomparna sandiri pe, manang tung sian halak Israel nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 60,
+      "text": "Pinompar ni si Delaia, pinompar ni si Tobia, pinompar ni si Nekoda, onom ratus limapulu dua.",
+      "type": "content"
+    },
+    {
+      "verse": 61,
+      "text": "Jala sian pinompar ni angka malim: Pinompar ni si Habai, pinompar ni si Hakos, pinompar ni si Barsilai na mambuat boru sian si Barsilai, halak Gilead bahen jolmana, laos dibuat goarna i.",
+      "type": "content"
+    },
+    {
+      "verse": 62,
+      "text": "Angka i ma mandiori surat aturan ni partubunasida, alai ndang jumpangsa, jadi ramun nasida dietong, laos dipabali nasida sian hamalimon.",
+      "type": "content"
+    },
+    {
+      "verse": 63,
+      "text": "Dung i ro ma hata ni pangarajai mandok tu nasida: Tung na so jadi do nasida mangan sian na badia sahali, paima adong hehe malim sada mangkajongjongkon Urim dohot Tummum.",
+      "type": "content"
+    },
+    {
+      "verse": 64,
+      "text": "Sandok luhutan i hira sahalak do, opatpulu dua ribu tolu ratus onompulu halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 65,
+      "text": "So padohot angka naposonasida baoa dohot parompuan, pitu ribu tolu ratus tolupulu pitu halak toropna; mangihut tu nasida do halak parende baoa dohot parompuan dua ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 66,
+      "text": "Ia hodanasida pitu ratus tolupulu onom, ia hodanasida angka na marsahe dua ratus opatpulu lima.",
+      "type": "content"
+    },
+    {
+      "verse": 67,
+      "text": "Ia untonasida opat ratus tolupulu lima, ia halodenasida onom ribu pitu ratus duapulu.",
+      "type": "content"
+    },
+    {
+      "verse": 68,
+      "text": "(II.) Jadi dung sahat deba induk marompuompu tu joro ni Jahowa na di Jerusalem, margugu ma nasida sian lomona tu joro ni Debata, asa pajongjongonna di hajongjonganna hian.",
+      "type": "content"
+    },
+    {
+      "verse": 69,
+      "text": "Marguru tu gogonasida dilehon nasida pasingkop bohal tu ulaon i onom loksa saribu dirham sere, jala lima ribu hati perak, angkup ni saratus salinan pangkean malim.",
+      "type": "content"
+    },
+    {
+      "verse": 70,
+      "text": "Jadi maringan ma angka malim dohot halak Lepi, nang sian situan na torop i, ro di halak parende dohot sijaga pintu dohot halak Netinim di bagasan hutana be, sandok Israel pe di bagasan hutana be maringan.",
+      "type": "content"
+    }
+  ]
+}

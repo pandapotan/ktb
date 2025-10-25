@@ -1,0 +1,156 @@
+{
+  "book": "1 Yohanes",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Parange hatiuron mangasahon Tuhan Jesus 1-11. II. Sirang sian portibi on! 12-17. III. Holang sian na mangaliluhon! 18-29",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Ale angka anaha, umbahen husurat on tu hamu, asa unang mardosa hamu. Molo tung adong na mardosa, adong do pangondianta tu Ama i, i ma Jesus Kristus, partigor i.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ibana do pardengganan pasaehon angka dosanta; alai ndada holan dosanta, tung dohot do dosa ni sandok portibi on.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sian on do taboto, naung tatanda Ibana: Molo taradoti angka patikna.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Na mandok: Hutanda do Ibana; alai ndang diradoti patikna, pargabus do i, ndang adong hasintongan di bagasan ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Alai na mangaradoti hatana, naung tutu ma gok haholongon ni roha ni Debata di bagasan ibana. Sian i ma taboto, hita di bagasan ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Na mandok, mian di bagasan Ibana, ingkon diparangehon ma songon Ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Ale dongan, na hinaholongan, ndada patik na imbaru na husurat tu hamu, patik naung leleng do, na di hamu sian mulana. Patik naung leleng, i do hata na binegemuna i.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Tong do na imbaru patik na husurat tu hamu, sintong do i di bagasan Ibana dohot di bagasan hamu, ai na salpu ma na holom; nunga marsinondang nuaeng Panondang na sintong i.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Halak na mandok di bagasan na tiur i ibana, huhut dihosomi donganna: Na tongtong dope mian i di bagasan na holom.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Na holong roha di donganna, i do na mian di bagasan na tiur; ndang pargasipan ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Alai na manghosomi donganna, di bagasan na holom do i; di bagasan na holom do dalanna. Ndang diboto, manang tudia ibana laho, ai dipapitung na holom i do matana.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "(II.) Hubahen surat tu hamu, angka anak, dibahen naung sesa dosamuna, ala ni Goarna i.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Hubahen surat tu hamu, angka ama, ala ditanda hamu Ibana, na sian mulana i; hubahen surat tu hamu, angka dolidoli, ala naung ditaluhon hamu parjahat i; hubahen surat tu hamu, angka anak, ala ditanda hamu Ama i.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Nunga hubahen surat tu hamu, angka ama, ala naung ditanda hamu Ibana, na sian mulana i; nunga hubahen surat tu hamu, angka dolidoli, ala margogo hamu, jala ala mian hata ni Debata di bagasan hamu, jala ala naung ditaluhon hamu parjahat i.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Unang ma haholongi hamu portibi on, nang angka na dibagasanna! Anggo dihaholongi halak portibi on, ndang di bagasan ibana holong ni roha ni Ama i.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Ai nasa na di portibi on, i ma lomolomo ni roha ni daging, giotgiot ni roha ni mata dohot na manenganengahon sinadongan, ndada sian Ama i anggo i, tung sian portibi on do.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Jala na laho salpu do portibi on rap dohot na pinarhagiotna; alai na mian ro di salelenglelengna do na mangulahon lomo ni roha ni Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "(III.) Hamu angka anaha, tingki parpudi do nuaeng; jala songon naung binegemuna, na naeng ro Antikristus i; nunga lan gabe Antikristus; sian i do taboto, nuaeng ma tingki parpudi.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Sian tongatonganta do nian haroroannasida, alai ndang donganta nasida; ai aut donganta nasida, udur ma nasida dohot hita; alai naeng patar ma nasida, na so donganta saluhutna i.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Naung miniahan ni Na-badia i do hamu, jala saluhut hamu umbotosa.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Hubahen pe surat tu hamu, ndada ala so diboto hamu hasintongan i, ala naung diboto hamu i tahe, jala ndang sian hasintongan nasa gabus.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Ise do sipargabus i, ia so na mansoadahon, na mandok: Ndang Kristus i Jesus? I ma Antikristus, na mansoadahon Ama i dohot Anak i.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Ganup na mansoadahon Anak i, ndang di ibana nang Ama i. Halak na marhatopothon Anak i, di ibana do nang Ama i.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Mian ma di bagasan hamu na binegemuna sian mulana i! Molo mian di bagasan hamu na binegemuna sian mulana i, mian ma nang hamu di bagasan Anak i dohot di bagasan Ama i.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "Jala anggo bagabaga na pinarbagabaga na i tu hita, i ma ngolu na salelenglelengna i.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Angka i do husurat tu hamu taringot tu angka na mangaliluhon hamu.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Na mian do di bagasan hamu pamiahion, naung jinalomuna sian Ibana; ndang pola hamu ajaran ni halak. Sintong do na niajarhon ni pamiahion i saluhutna tu hamu, ndang adong gabus disi. Mian ma hamu di bagasan Ibana, songon naung niajarhon tu hamu!",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Nuaeng pe, angka anaha, mian ma hamu di bagasan Ibana, asa marhiras ni roha hita, di na gabe patar Ibana, unang tarila hita maradophon Ibana di harorona i!",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Molo diboto hamu, tigor Ibana, boto hamu ma: Naung tubu sian Ibana do nasa na mangulahon hatigoran i.",
+      "type": "content"
+    }
+  ]
+}

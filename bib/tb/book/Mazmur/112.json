@@ -1,0 +1,61 @@
+{
+  "book": "Mazmur",
+  "chapter": 112,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bahagia orang benar",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Haleluya! Berbahagialah orang yang takut akan TUHAN, yang sangat suka kepada segala perintah-Nya.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Anak cucunya akan perkasa di bumi; angkatan orang benar akan diberkati.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Harta dan kekayaan ada dalam rumahnya, kebajikannya tetap untuk selamanya.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Di dalam gelap terbit terang bagi orang benar; pengasih dan penyayang orang yang adil.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Mujur orang yang menaruh belas kasihan dan yang memberi pinjaman, yang melakukan urusannya dengan sewajarnya.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Sebab ia takkan goyah untuk selama-lamanya; orang benar itu akan diingat selama-lamanya.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Ia tidak takut kepada kabar celaka, hatinya tetap, penuh kepercayaan kepada TUHAN.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Hatinya teguh, ia tidak takut, sehingga ia memandang rendah para lawannya.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Ia membagi-bagikan, ia memberikan kepada orang miskin; kebajikannya tetap untuk selama-lamanya, tanduknya meninggi dalam kemuliaan.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Orang fasik melihatnya, lalu sakit hati, ia menggertakkan giginya, lalu hancur; keinginan orang fasik akan menuju kebinasaan.",
+      "type": "content"
+    }
+  ]
+}

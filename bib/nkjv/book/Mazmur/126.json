@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 126,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> When the LORD brought back the captivity of Zion, We were like those who dream.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "The LORD has done great things for us,  And  we are glad.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Bring back our captivity, O LORD, As the streams in the South.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Those who sow in tears Shall reap in joy.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "He who continually goes forth weeping, Bearing seed for sowing, Shall doubtless come again with rejoicing, Bringing his sheaves  with him .",
+      "type": "content"
+    }
+  ]
+}

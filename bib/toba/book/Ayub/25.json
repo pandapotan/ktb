@@ -1,0 +1,41 @@
+{
+  "book": "Ayub",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Hata ni si Bildad patoluhalihon: Diondolhon disi hatana na sai laon, na so adong jolma na pintor anggo moradophon Debata 1-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Dung i ninna si Bildad na sian Sua ma mangalusi:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Saguru di Debata do panggomgomon dohot hasongkalon, Ibana mambahen hadameon di bagasan ingananna angka na timbo i.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Tung habilangan ma torop ni angka paranganna? Jala tung ise ma na so hona sondangna?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Tung beha ma pambahenna tigor jolma na gale i anggo moradophon Debata? Jala beha ma pambahenna bontor tubu ni parompuan?",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Ida ma, gari bulan ndang marhatiuron, angka bintang pe ndang ias anggo moradophon ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Lam jolma na gale, na songon gulok i ma; jala anak ni jolma, na songon gea i!",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "book": "Yesaya",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Bagabaga bolon tu angka na teba i 1-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Jadi di ari na sasada i soroon ni pitu boruboru ma sada baoa, huhut mandok: Mangan indahannami pe hami, jala hami pasarisari parulosonnami, asal marpanggoarhon goarmu hami; sai buati ma haurahonnami!",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Di ari na sasada i sogot, uli jala marmulia ma tunas ni Jahowa, gabe huhut uli parbue ni tano i di angka ma malua sian Israel.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Jala targoar na badia sogot angka na teba di Sion dohot di Jerusalem, nasa na tarsurat goarna di Jerusalem dapotan hangoluan.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Ia dung diburi Tuhan i taktak ni angka boru Sion, jala diaup angka utang mudar ni Jerusalem, sian tongatongana marhitehite tondi ni uhum dohot marhitehite tondi ni parsegeon.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Jadi tompaon ni Jahowa ma di atas ni saluhut inganan ni dolok Sion dohot di atas ni parluhutanna sada ombun arian dohot timus ro di sondang ni api na marsigorgor borngin, ai linggomanna ma saluhut hamuliaon.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Jala adong sogot parlapelapean bahen parlinggoman arian maradophon parngiar ni ari, jala haporusan dohot panisioan maradophon ari dohot udan na por.",
+      "type": "content"
+    }
+  ]
+}

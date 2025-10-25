@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 93,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD reigns, he is robed in majesty; the LORD is robed in majesty and is armed with strength. The world is firmly established; it cannot be moved.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Your throne was established long ago; you are from all eternity.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "The seas have lifted up, O LORD, the seas have lifted up their voice; the seas have lifted up their pounding waves.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Mightier than the thunder of the great waters, mightier than the breakers of the sea—the LORD on high is mighty.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Your statutes stand firm; holiness adorns your house for endless days, O LORD.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 93,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Pujipujian di hasangapon dohot hagogoon ni Debata 1-5",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Jahowa do raja, nunga marpangkean hamuliaon Ibana, marpangkean tongon Jahowa, nunga dihohoshon hagogoon: Jadi hot ma portibi on, ndang tagamon humuntal.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Hot do habangsam sian na robi, sian saleleng ni lelengna do Ho.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Nunga martimpul angka batang aek, ale Jahowa, nunga martimpul hasak ni angka batang aek, nunga diumbakkon angka batang aek panunjanasida.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Gumogo sian angka parhasak ni aek na godang do angka galumbang ni laut, alai tumongam sahali do Jahowa di banua ginjang.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Sintong situtu do angka panindangionmu, habadiaon do na tama di bagasmu, ale Jahowa, ro di salelenglelengna.",
+      "type": "content"
+    }
+  ]
+}

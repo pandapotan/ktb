@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> Blessed  is  every one who fears the LORD, Who walks in His ways.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Your wife  shall be  like a fruitful vine In the very heart of your house, Your children like olive plants All around your table.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Behold, thus shall the man be blessed Who fears the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "The LORD bless you out of Zion, And may you see the good of Jerusalem All the days of your life.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Yes, may you see your children’s children. Peace  be  upon Israel!",
+      "type": "content"
+    }
+  ]
+}

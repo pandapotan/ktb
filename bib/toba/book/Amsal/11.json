@@ -1,0 +1,166 @@
+{
+  "book": "Amsal",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Udutna: Taringot tu hatigoran, tarida bahenon sian pangalaho ariari 1-31",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Hatian na marpangansi do na hinabiashon ni Jahowa, alai batu an na gok do lomo ni rohana.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ia ro hajungkaton, ro ma dohot haurahon: Alai jumpang do hapistaran di halak na serep marroha.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Hadaulaton ni halak partigor manogihon nasida, alai ansiansi ni halak pangoseose mangago nasida sandiri.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Ndang marguna hamoraon uju di ari pangarimasan, alai anggo hatigoran paluahon sian hamatean.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Hatigoran ni na daulat roha patigor dalanna, alai tinggang do anggo parjahat i, binahen ni hajahatonna.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Hatigoran ni angka partigor paluahon nasida, alai tarjorgong do anggo halak pangoseose, binahen ni hisapna sandiri.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Molo mate jolma parjahat i, mate do dohot arop ni rohana, jala pangkirimon marhite sian hajahaton mago do.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Malua do halak partigor sian hagogotan, parjahat i do soluk singkatna tusi.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Marhitehite pamangan ni pangansi mago donganna dibahen, alai marhitehite parbinotoan ni halak partigor malua nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Marolopolop do isi ni sada huta mida hadoharon ni halak partigor, jala ia mago halak parjahat masa suraksurak.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Marhitehite pasupasu ni halak partigor, gabe timbul huta, alai marhitehite pamangan ni halak parjahat maloha do huta i.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Manang ise na paro lea di donganna, i ma na so marroha, alai anggo baoa na pantas marroha hohom do.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Manang ise na mangalap manaruhon hata, i ma manjehehon hahomion; alai anggo partondi na marsihohot mangkuphupi hatahata.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Molo soada ruhut harentaon, peut ma na sabangso i, alai hatuaon do i, molo torop panuturi.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Tung na marjea situtu do manang ise na girgir mangkangkungi halak sileban, alai manang ise na mangkasogohon pangkangkungion, na marsijamaan tangan, i ma na sonang.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Inaina na basar marsihohot do maniopi hamuliaon, tudos tu halak siulahon gogo mangahuti hamoraon.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Mambahen na denggan tu dirina do baoa na basa, alai pasusa sibukna sandiri do halak na garang roha.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "Marpangomoan sipaotooto do halak parjahat; alai manang ise na manaburhon hatigoran, maruli upa haburjuon do.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Manang ise na marsihohot di hatigoran, sahat do tu hangoluan; alai manang ise na mangeahi hajahaton, patibu hamamatena.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Marbiasbias do roha ni Jahowa mida halak parroha na geduk, alai lomo ni rohana do halak na daulat marpangalaho.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Sian sundut tu sundut, tung na so tarbahen lias do parjahat i; alai anggo pinompar ni halak partigor malua do.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Songon harihir sere di bagasan igung ni babi, suman tusi do parompuan na uli na tumundalhon hatomanon.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Pangidoan ni halak partigor denggan sambing do, alai anggo arop ni roha ni halak parjahat, mangalap torutoru situtu do.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Adong deba halak na buas manaburhon, hape lam ganda do, adong huhut deba mangkolit hamoraonna, hape lam marpogospogos do.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "Halak pardenggan basa mokmohan do, jala lam lobian manang ise na mardenggan basa.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Manang ise na manongkik arga ni emena, buraan ni halak ma ibana, alai maruli pasupasu do ulu ni panggadis.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Manang ise na manjugulhon na denggan, mangalului lomo ni Debata, alai manang ise na manjalahi hajahaton, sai na manginona tu ibana sandiri do.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Manang ise na marhaposan tu hamoraonna, sai na tinggang do ibana, alai martumbur do songon bulung anggo halak partigor i.",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Manang ise na mangarapari isi ni bagasna, teanonna ma alogo, jala gabe naposo ni na pistar roha do halak na oto i.",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Parbue ni partigor do hau hangoluan, jala manang ise na malo sumambut roha ni halak, na pistar do i.",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Ida ma, gari halak partigor maruli pamaloson di tano on, lam halak parjahat ma dohot pardosa.",
+      "type": "content"
+    }
+  ]
+}

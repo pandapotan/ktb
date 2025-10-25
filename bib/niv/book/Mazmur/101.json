@@ -1,0 +1,46 @@
+{
+  "book": "Mazmur",
+  "chapter": 101,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " Of David. A psalm.  I will sing of your love and justice; to you, O LORD, I will sing praise.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "I will be careful to lead a blameless life—when will you come to me? I will walk in my house with blameless heart.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "I will set before my eyes no vile thing. The deeds of faithless men I hate; they shall not cling to me.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Men of perverse heart shall be far from me; I will have nothing to do with evil.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Whoever slanders his neighbour in secret, him will I put to silence; whoever has haughty eyes and a proud heart, him will I not endure.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "My eyes will be on the faithful in the land, that they may dwell with me; he whose walk is blameless will minister to me.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "No-one who practises deceit will dwell in my house; no-one who speaks falsely will stand in my presence.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of the LORD.",
+      "type": "content"
+    }
+  ]
+}

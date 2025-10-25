@@ -1,0 +1,46 @@
+{
+  "book": "Mazmur",
+  "chapter": 82,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A psalm of Asaph.  God presides in the great assembly; he gives judgment among the \"gods\":",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "\"How long will you defend the unjust and show partiality to the wicked? Selah",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Defend the cause of the weak and fatherless; maintain the rights of the poor and oppressed.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Rescue the weak and needy; deliver them from the hand of the wicked.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "\"They know nothing, they understand nothing. They walk about in darkness; all the foundations of the earth are shaken.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "\"I said, ‘You are \"gods\"; you are all sons of the Most High.’",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "But you will die like mere men; you will fall like every other ruler.\"",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Rise up, O God, judge the earth, for all the nations are your inheritance.",
+      "type": "content"
+    }
+  ]
+}

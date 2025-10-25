@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Halak na tau masuk tu huria ni Jahowa 1-5.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sian si Daud. Ale Jahowa, ise do na jadi sorang di bagasan undungundungmu? Ise do na jadi mian di dolok ni habadiaonmi?",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Halak na sun burju marpangalaho dohot siulahon hatigoran, jala sidon na sintong sian bagasan rohana.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Halak na so olo mangkata tundal, na so olo mambahen hajahaton tu donganna, jala na so olo mambahen haurahon tu sisolhotna.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Halak na mansoadahon na lea, jala dipasangap do angka na mangkabiari Jahowa; halak na so olo manguba naung sinumpahonna, nang tung marharugian ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Halak na so olo paanakkon hepengna, jala na so olo manjalo sisip mangalo na lidang roha i. Halak na mangulahon sisongon i, ndang tagamon humordit salelenglelengna.",
+      "type": "content"
+    }
+  ]
+}

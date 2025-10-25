@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 120,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A song of ascents.  I call on the LORD in my distress, and he answers me.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Save me, O LORD, from lying lips and from deceitful tongues.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "What will he do to you, and what more besides, O deceitful tongue?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "He will punish you with a warrior’s sharp arrows, with burning coals of the broom tree.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Woe to me that I dwell in Meshech, that I live among the tents of Kedar!",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Too long have I lived among those who hate peace.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "I am a man of peace; but when I speak, they are for war.",
+      "type": "content"
+    }
+  ]
+}

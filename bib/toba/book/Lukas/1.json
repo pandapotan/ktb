@@ -1,0 +1,411 @@
+{
+  "book": "Lukas",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Hata patujolo 1-4. II. Dilumbahon surusuruan hatutubu ni si Johannes pandidi 5-25. III. Songon i hatutubu ni Tuhan Jesus 26-38. IV. Ende pujipujian ni si Maria 39-56. V. Hatutubu ni si Johannes 57-66. VI. Ende pujipujian ni si Sakarias 67-80",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Nunga na nia nian manguji manurathon jojor barita ni naung tangkas masa di tongatonganami,",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "mangihuthon pamaritahon ni angka sitindangi sian mulana i tu hami, i ma angka naung gabe parhalado di hata i.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Jadi dohot ma ahu pasadahon rohangku manurathonsa jojorjojor di ho, ale Teopilus na pinarsangapan, dung jolo hupamanat sude sian mulana i,",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "asa ditanda ho hasintongan ni hata, naung dipodahon tu ho.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "(II.) Uju Herodes raja di tano Judea, adong ma sada malim na margoar Sakarias na sian horong ni si Abia; boru Aron do dongan saripena, si Elisabet do goarna.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Bonar do nasida duansa maradophon Debata, diparangehon do nasa patik dohot aturan ni Tuhan i, so hasurahan.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Ndang adong anakkonnasida, ai na hol do si Elisabet; jala nunga ganjang umurnasida be.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Jala jumpang ma di anggap ni horongna i mangulahon hamalimon ibana di adopan ni Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Mangihuthon na hinasomalhon ni malim marsijomput na sinurat nasida, gabe ibana ma mambongoti joro ni Tuhan i manutung daupa.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Di ruar do anggo halak natorop sudena martangiang di tingki manutung daupa i.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Gabe diida ibana ma surusuruan ni Tuhan i, jongjong di siamun ni langgatan pardaupaan i.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Tarsonggot ma si Sakarias marnidasa jala laos hatahutan ma.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Didok surusuruan i ma tu ibana: Unang ho mabiar, Sakarias; ai nunga ditangihon pangidoanmi: Tubuhonon di donganmu saripe ma anak di ho; si Johannes ma bahenonmu goarna.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Marlas ni roha jala mariaia ma ho, jala torop do mangkalashon hatotopakna i.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Ai balga ma ibana di adopan ni Tuhan i; na so tupa inumonna tuak anggur ro di nasa siinumon na pang, jala gok Tondi Parbadia ma ibana sian bortian dope.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Torop ma anak Israel pasuangonna tu Tuhan Debatanasida.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Patujolona ma ibana di bagasan tondi dohot hagogoon ni si Elia, pasuangonna ma roha ni angka ama tu anakkonna jala angka na tois marroha gabe parroha na bonar, laho padirihon di Tuhan i bangso naung ture.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "Gabe didok si Sakarias ma tu surusuruan i: Sian dia ma tandaonku i? Ai ahu nunga matua, dongan saripengku pe nunga ganjang umurna.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Dialusi surusuruan i ma ibana: Gabariel do ahu, na jongjong di jolo ni Debata; disuru do ahu mangkatai dohot ho, mamboan barita las ni roha on tu ho.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Alai gabe ngungu ma ho, ndang botoonmu mangkuling sahat ro di ari hamamasana, ala so dihaporseai ho hatangki, na naeng tulus di tingkina i.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Ia natorop i, sai maimaima do di si Sakarias; longang do rohanasida, ala songon i gele ibana di joro i.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Jadi laho ruar, ndang diboto mamangkulingi nasida, gabe manganto ma nasida, naung adong niidana di joro i. Mangkilapi nama ibana tu nasida, laos tong ngungu.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Asa dung sae tingkina marhalado, mulak ma ibana tu jabuna.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Ndang piga ari nari gabegabean ma si Elisabet, dongan saripena i, jadi martabunitabuni ma ibana lima bulan lelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "Ninna ma: Pambahen ni Tuhan i do i di ahu di tingki on, ai lomo do rohana mambuat haurahonki di jolo ni halak.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "(III.) Salpu onom bulan disuru Debata ma pardisurgo Gabariel tu Nasaret, i ma sada huta di luat Galilea,",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "manopot sada anak boru, oroan ni sada baoa na margoar Josep, na sian pomparan ni si Daud; si Maria do goarna.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Laho mamasuhi jabuna i, ninna ma: Tabi di ho, na niasian! Didongani Tuhan i ma ho!",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Alai tarsongot do nasida umbege hata i, ninna rohana do, parsantabian dia do i ulaning?",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Jala didok surusuruan i ma tu nasida: Unang ho mabiar, ale Maria; ai dapotan asi ni roha do ho di Debata!",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Gabegabean ma ho, tubuan anak ma ho; Jesus ma bahenonmu Goarna!",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "Balga ma Ibana muse, goaron do Ibana Anak ni Natumimbul i; lehonon ni Tuhan Debata do tu Ibana habangsa ni si Daud, amana i.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "Rajaanna do pomparan ni si Jakkob salelenglelengna, jala ndang marhaujungan harajaonna i.",
+      "type": "content"
+    },
+    {
+      "verse": 34,
+      "text": "Didok si Maria ma mandok surusuruan i: Songon dia ma pangalaho ni i, ai so adong hutanda baoa.",
+      "type": "content"
+    },
+    {
+      "verse": 35,
+      "text": "Jadi dialusi surusuruan i ma nasida: Songgopan ni Tondi Parbadia ma ho jala linggoman ni hagogoon ni Natumimbul i do ho; ala ni i na badia do dohonon na tubu i, Anak ni Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 36,
+      "text": "Ia si Elisabet, sisolhotmi na sai tua i, naung digoar na hol, marhangoluan anak do; paonombulanhon ma nuaeng.",
+      "type": "content"
+    },
+    {
+      "verse": 37,
+      "text": "Ai ndang adong na so tarpatupa Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 38,
+      "text": "Gabe didok si Maria ma: Naposo ni Tuhan i do ahu. Sai saut ma tu ahu songon na nidokmi! Dung i ditadingkon surusuruan i ma nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 39,
+      "text": "(IV.) Di tingki i ma borhat si Maria dipahatop ma laho tu dolok, tu huta Juda.",
+      "type": "content"
+    },
+    {
+      "verse": 40,
+      "text": "Bagas ni si Sakarias do dibongoti, ditabi ma si Elisabet.",
+      "type": "content"
+    },
+    {
+      "verse": 41,
+      "text": "Umbege tabi ni si Maria i si Elisabet manggunjal ma posoposo di bagasan bortianna, jadi gok Tondi Parbadia ma si Elisabet.",
+      "type": "content"
+    },
+    {
+      "verse": 42,
+      "text": "Laos marsoara na gogo ma ibana, dijouhon ma: Dapotan pasupasu do ho di tongatonga ni angka ina; dapotan pasupasu do na pinarorotmi!",
+      "type": "content"
+    },
+    {
+      "verse": 43,
+      "text": "Marhua ma pola ro ina ni Tuhanki manopot ahu on!",
+      "type": "content"
+    },
+    {
+      "verse": 44,
+      "text": "Ai disi dapot pinggolhu soara ni tabimi, manggunjal do posoposo i di siubeonku, sian las ni rohana.",
+      "type": "content"
+    },
+    {
+      "verse": 45,
+      "text": "Martua ma ho, ala dihaporseai ho, ingkon tulus na tinonahon ni Tuhan i tu ho!",
+      "type": "content"
+    },
+    {
+      "verse": 46,
+      "text": "Gabe didok si Maria ma: Dipatimbul rohangku do Tuhan i.",
+      "type": "content"
+    },
+    {
+      "verse": 47,
+      "text": "Mariaia do tondingku mida Debata, Sipalua ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 48,
+      "text": "Ai ditatap do haetehon ni naposona on. Parhatuaon ma ahu olat ni on marsundutsundut.",
+      "type": "content"
+    },
+    {
+      "verse": 49,
+      "text": "Ai habalgaon do dibahen Pargogo i tu ahu. Na badia do Goarna i.",
+      "type": "content"
+    },
+    {
+      "verse": 50,
+      "text": "Ai marsundutsundut do asi ni rohana mida angka na mangkabiari Ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 51,
+      "text": "Hagogoon do diula tanganna i, dipanserakkon do angka na ginjang marroha.",
+      "type": "content"
+    },
+    {
+      "verse": 52,
+      "text": "Angka na gogo i dipaijur do sian habangsanasida, dipabangkit do angka na metmet.",
+      "type": "content"
+    },
+    {
+      "verse": 53,
+      "text": "Na denggan dipasuksuk Ibana tu angka na male, jala angka na lobian hian rumar do dipalaho.",
+      "type": "content"
+    },
+    {
+      "verse": 54,
+      "text": "Dipainuinu do Israel naposona i, marningot asi ni rohana i,",
+      "type": "content"
+    },
+    {
+      "verse": 55,
+      "text": "mangihuthon bagabagana na tu angka ompunta, tu si Abraham dohot tu pomparanna salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 56,
+      "text": "Laos mian ma si Maria i disi arga tolu bulan jala mulak muse tu jabuna i.",
+      "type": "content"
+    },
+    {
+      "verse": 57,
+      "text": "(V.) Jadi gok ma tingki ni hangoluan ni si Elisabet; anak ma ditubuhon.",
+      "type": "content"
+    },
+    {
+      "verse": 58,
+      "text": "Marlas ni roha ma rap dohot ibana angka hombar bagasna dohot sisolhotna, umbege naung marasi ni roha godang Tuhan i di ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 59,
+      "text": "Di ari paualuhon i ro ma nasida, laho manunat posoposo i; jala dibahen ma goarna Sakarias, mangihuthon goar ni amana.",
+      "type": "content"
+    },
+    {
+      "verse": 60,
+      "text": "Alai mangkuling ma inana i, didok ma: Nda tung; si Johannes do goarna bahenon!",
+      "type": "content"
+    },
+    {
+      "verse": 61,
+      "text": "Gabe didok nasida ma mangalusi ibana: So adong agia ise di angka sisolhotmi na margoar songon i!",
+      "type": "content"
+    },
+    {
+      "verse": 62,
+      "text": "Dihilapi nasida ma amana, manang ise goarna bahenon dipangido rohana.",
+      "type": "content"
+    },
+    {
+      "verse": 63,
+      "text": "Gabe dipangido ibana ma panuratan, disurathon ma: Si Johannes do goarna! Jadi tarhalomong ma nasida sude.",
+      "type": "content"
+    },
+    {
+      "verse": 64,
+      "text": "Alai di na satongkin i mungkap ma pamanganna, sumuang ma pangkataionna, marsoara ma ibana mamudii Debata.",
+      "type": "content"
+    },
+    {
+      "verse": 65,
+      "text": "Gabe hatahutan ma sude hombar hundulnasida, jala di sandok dolok Judea dipanghatahatahon do sasude na masa i.",
+      "type": "content"
+    },
+    {
+      "verse": 66,
+      "text": "Jala saluhut na umbegesa, diparateatehon be do barita i, ninna ma: Na gabe aha ma ulaning dakdanak on? Ai tung didongani tangan ni Tuhan i do ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 67,
+      "text": "(VI.) Gok Tondi Parbadia ma si Sakarias, amana i, gabe manurirangi ma:",
+      "type": "content"
+    },
+    {
+      "verse": 68,
+      "text": "Pinuji ma Tuhan i, Debata ni Israel, ala ditopot bangsona jala dipatupa haluaonna.",
+      "type": "content"
+    },
+    {
+      "verse": 69,
+      "text": "Dipatindang do di hita tanduk haluaon, di bagas ni si Daud naposona i,",
+      "type": "content"
+    },
+    {
+      "verse": 70,
+      "text": "hombar tu na hinatahonna marhite sian soara ni angka panurirangna na badia i sian na robi:",
+      "type": "content"
+    },
+    {
+      "verse": 71,
+      "text": "Haluaon sian angka musunta dohot sian tangan ni angka na mangkosomi hita,",
+      "type": "content"
+    },
+    {
+      "verse": 72,
+      "text": "laho mangasii angka amanta marningot padanna na badia i,",
+      "type": "content"
+    },
+    {
+      "verse": 73,
+      "text": "i ma uarina na niuarihonna di si Abraham amanta i,",
+      "type": "content"
+    },
+    {
+      "verse": 74,
+      "text": "paboa lehononna tu hita, asa hita marhalado di adopanna i, so pola marhabiaran be, dung malua hita sian tangan ni angka musu,",
+      "type": "content"
+    },
+    {
+      "verse": 75,
+      "text": "marhabadiaon jala marhatigoran di adopanna i, saleleng hita mangolu.",
+      "type": "content"
+    },
+    {
+      "verse": 76,
+      "text": "Ia ho, anaha, targoar ma panurirang ni Natumimbul, ai patujolo ni Bohi ni Tuhan i do ho, paturehon angka dalanna,",
+      "type": "content"
+    },
+    {
+      "verse": 77,
+      "text": "laho patandahon tu bangsona haluaon marhite sian hasesaan ni dosanasida,",
+      "type": "content"
+    },
+    {
+      "verse": 78,
+      "text": "hinorhon ni pangasii ni Debatanta; ai binahen ni i do ro na binsar sian ginjang i manopot hita,",
+      "type": "content"
+    },
+    {
+      "verse": 79,
+      "text": "laho sumondangi angka na hundul di bagasan haholomon, angka na nilinggoman ni hamatean, patongonhon langkanta tu dalan hadameon.",
+      "type": "content"
+    },
+    {
+      "verse": 80,
+      "text": "Ianggo dakdanak i, lam magodang do, lam togu marroha jala di halongonan do mian, paima papataronna dirina tu bangso Israel.",
+      "type": "content"
+    }
+  ]
+}

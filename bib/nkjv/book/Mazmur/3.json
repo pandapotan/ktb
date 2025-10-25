@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> LORD, how they have increased who trouble me! Many  are  they who rise up against me.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "But You, O LORD,  are  a shield for me, My glory and the One who lifts up my head.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "I cried to the LORD with my voice, And He heard me from His holy hill. Selah",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "I lay down and slept; I awoke, for the LORD sustained me.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "I will not be afraid of ten thousands of people Who have set  themselves  against me all around.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Arise, O LORD; Save me, O my God! For You have struck all my enemies on the cheekbone; You have broken the teeth of the ungodly.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Salvation  belongs  to the LORD. Your blessing  is  upon Your people. Selah",
+      "type": "content"
+    }
+  ]
+}

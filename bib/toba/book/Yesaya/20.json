@@ -1,0 +1,41 @@
+{
+  "book": "Yesaya",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Pambahenan ni si Jesaya manuman hajijimput ni Misir, Kus dohot Palistim 1-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Di taon haroro ni si Tartan tu Asdod, sinuru ni si Sargon, raja sian Assur, asa dimusui jala dipapatu Asdod.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Hata ni Jahowa uju i marhitehite Jesaya, anak ni si Amos, songon on: Laho ma ho, jala tanggali ma abit tangki sian gontingmu, jala tanggali ma sipatum sian patmu! Jadi dibahen ma songon i, laos mardalan marsaemara, jala ndang marsipatu.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Jadi ninna Jahowa ma: Songon pardalan ni naposongku Jesaya marsaemara, jala ndang marsipatu, pola tolu taon lelengna, bahen tanda dohot halongangan do i taringot tu na masa sogot tu Misir dohot tu Kus.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Songon i ma onjaronjaron ni raja sian Assur angka na tinangkup sian Misir dohot angka na tarbuang sian Kus, angka dolidoli dohot angka na ubanon marsaemara, jala ndang marsipatu, jala manangkas ombaombana, gabe haurahon ni halak Misir.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Jadi tarsonggot ma nasida, jala maila maradophon Kus haposannasida dohot maradophon Misir asangasangnasida.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Jadi dohonon ni isi ni pulopulo ma di ari na sasada i: Ida ma, songon i do hape pangalaho ni jolma haposanta, haporusanta nasailaon, mangido panumpahion nian, asa malua hita maradophon raja ni Assur; jala songon dia ma tarbahen hita malua?",
+      "type": "content"
+    }
+  ]
+}

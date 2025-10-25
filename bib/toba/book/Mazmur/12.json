@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Tangiang mangalualuhon halumlamon ni hatigoran dohot haburjuon 2-5. II. Tangiang nalom ni roha mida Debata 6-9",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sian si Daud.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "(I.) Sai manumpak ma Ho, ale Jahowa, ai nunga lam moru angka na daulat marroha i, lam otik do manisia, angka na burju marroha.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Na so hasea i do dihata i be dohot donganna, marbibir na landit, jala mardua roha nasida mangkatai.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Sai diginsir Jahowa ma sude bibir angka na landit i, dohot angka dila, na jungkat marpangkuling.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Angka na mandok: Sai monang do hami dibahen dilanami, bibirnami do mandongani hami, tung ise ma rajanami?",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "(II.) Mida hamamago ni angka na dangol dohot mida andung ni angka na pogos, hehe ma Ahu nuaeng, ninna Jahowa, ampehononku ma tua tu angka na mangkalungunhonsa.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Na sintong do angka hata ni Jahowa, songon perak naung nilala di bagasan balanga, pola pitu hali tinapis.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Ho do, ale Jahowa, mangondingi nasida, paluaonmu do ibana sian halak na sansundut on, ro di salelenglelengna. (12-9) Nang pe monsong humaliang angka parjahat i dibahen panimbuk ni hajungkaton ni jolma manisia.",
+      "type": "content"
+    }
+  ]
+}

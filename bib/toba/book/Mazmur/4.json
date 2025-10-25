@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Si Daud mangido haluaon. Pamangkulingina tu musuna 2-6. II. Nalom ni rohana mida Debata 7-9",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sian si Daud.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "(I.) Sai alusi ma ahu, ale Debata ni hatigoranku, ia hujou Ho, jala palumbang ahu jumpa hagogotan, asi ma roham di ahu, jala tangihon ma tangiangki.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Ia hamu, pinompar ni jolma, sadia leleng on do lea rohamu di hasahalaonki, sadia leleng on do haholongan ni rohamuna na so hasea, jala dioronmuna gabus. Sela.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Unang so boto hamu: Marhasurungan do dibahen Jahowa angka hasianna, matua ditangihon Jahowa do, molo hujou Ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Holsohon hamu hian ma, asa unang dapotan dosa, marhusari ma rohamuna, dung ro di podoman hamu, asa sonang hamu. Sela.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Pelehon hamu ma pelean hatigoran, jala marhaposan tu Jahowa ma hamu.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "(II.) Lan do angka ma mandok: Tung ise ma manumpakkon na denggan tu hita? Alai ale Jahowa, sai pasondangkon ma tu hami sondang ni bohim!",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Gumodang do las ni rohangku dilehon Ho, sian di nasida di hamamasa ni gotilon eme dohot anggur na gabe situtu. (4-9) Sonang do ahu hupapeak huhut mamintor nok; ai sasada Ho do, ale Jahowa, pasonang ahu maringanan.",
+      "type": "content"
+    }
+  ]
+}

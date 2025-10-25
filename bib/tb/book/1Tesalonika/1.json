@@ -1,0 +1,66 @@
+{
+  "book": "1 Tesalonika",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salam",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Dari Paulus, Silwanus dan Timotius kepada jemaat orang-orang Tesalonika yang di dalam Allah Bapa dan di dalam Tuhan Yesus Kristus. Kasih karunia dan damai sejahtera menyertai kamu.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Buah pemberitaan Paulus",
+      "type": "title"
+    },
+    {
+      "verse": 2,
+      "text": "Kami selalu mengucap syukur kepada Allah karena kamu semua dan menyebut kamu dalam doa kami.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sebab kami selalu mengingat pekerjaan imanmu, usaha kasihmu dan ketekunan pengharapanmu kepada Tuhan kita Yesus Kristus di hadapan Allah dan Bapa kita.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Dan kami tahu, hai saudara-saudara yang dikasihi Allah, bahwa Ia telah memilih kamu.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Sebab Injil yang kami beritakan bukan disampaikan kepada kamu dengan kata-kata saja, tetapi juga dengan kekuatan oleh Roh Kudus dan dengan suatu kepastian yang kokoh. Memang kamu tahu, bagaimana kami bekerja di antara kamu oleh karena kamu.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Dan kamu telah menjadi penurut kami dan penurut Tuhan; dalam penindasan yang berat kamu telah menerima firman itu dengan sukacita yang dikerjakan oleh Roh Kudus,",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "sehingga kamu telah menjadi teladan untuk semua orang yang percaya di wilayah Makedonia dan Akhaya.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Karena dari antara kamu firman Tuhan bergema bukan hanya di Makedonia dan Akhaya saja, tetapi di semua tempat telah tersiar kabar tentang imanmu kepada Allah, sehingga kami tidak usah mengatakan apa-apa tentang hal itu.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Sebab mereka sendiri berceritera tentang kami, bagaimana kami kamu sambut dan bagaimana kamu berbalik dari berhala-berhala kepada Allah untuk melayani Allah yang hidup dan yang benar,",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "dan untuk menantikan kedatangan Anak-Nya dari sorga, yang telah dibangkitkan-Nya dari antara orang mati, yaitu Yesus, yang menyelamatkan kita dari murka yang akan datang.",
+      "type": "content"
+    }
+  ]
+}

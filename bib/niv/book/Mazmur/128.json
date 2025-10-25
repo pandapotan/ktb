@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A song of ascents.  Blessed are all who fear the LORD, who walk in his ways.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "You will eat the fruit of your labour; blessings and prosperity will be yours.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Your wife will be like a fruitful vine within your house; your sons will be like olive shoots round your table.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Thus is the man blessed who fears the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "May the LORD bless you from Zion all the days of your life; may you see the prosperity of Jerusalem,",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "and may you live to see your children’s children. Peace be upon Israel.",
+      "type": "content"
+    }
+  ]
+}

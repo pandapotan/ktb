@@ -1,0 +1,51 @@
+{
+  "book": "Imamat",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Patik taringot tu parompuan na di tataring dohot pelean pangurasanna 1-8.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Dung i ro ma hata ni Jahowa tu si Musa songon on:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Hatahon ma tu halak Israel songon on: Molo gabegabean sada parompuan jala ditubuhon sada anak, ingkon ramun ibana pitu ari lelengna, suang songon di ari haramunon ni hasomalanna hian, ingkon ramun ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Tole paualuarihon ingkon sunaton do sibuk ni hulup ni dakdanak i.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Alai anggo parompuan i ingkon tinggal dope di jabu tolupulu tolu ari lelengna pasalpu mudar pangiasanna; ndang jadi jamaonna manang aha na badia, jala ndang jadi masuk ibana tu bagasan inganan na badia i, paima salpu angka ari haramunonna.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Alai tung sura boruboru tinubuhonna i, ingkon dua minggu lelengna ibana ramun, suang songon di hasomalanna hian; jala ingkon tinggal dope ibana di jabu onompulu onom ari lelengna, pasalpu mudar pangiasanna i.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Ia dung salpu angka ari pangiasanna ala anak manang boru, ingkon boanonna ma sada anak ni birubiru na marumur sataon bahen pelean situtungon dohot sada anak ni darapati manang sada anduhur tabu bahen pelean pardosaan, boanonna tu pintu ni undungundung parluhutan tu malim i.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Malim i muse mamelehon pelean i di adopan ni Jahowa mambahen pardenggananna, asa ias nasida sian mudar hasomalanna i. I ma patik taringot tu parompuan na manubuhon anak manang boru.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Alai tung sura so dapot tanganna sada anak ni birubiru, ingkon buatonna ma dua anduhur tabu manang dua anak ni darapati, na sada bahen pelean situtungon jala na sadanari bahen pelean pardosaan, asa ingkon malim i mambahen pardenggananna, asa laos ias nasida.",
+      "type": "content"
+    }
+  ]
+}

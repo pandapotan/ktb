@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 121,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> I will lift up my eyes to the hills––From whence comes my help?",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "He will not allow your foot to be moved; He who keeps you will not slumber.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Behold, He who keeps Israel Shall neither slumber nor sleep.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "The LORD  is  your keeper; The LORD  is  your shade at your right hand.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "The sun shall not strike you by day, Nor the moon by night.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "The LORD shall preserve you from all evil; He shall preserve your soul.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "The LORD shall preserve your going out and your coming in From this time forth, and even forevermore.",
+      "type": "content"
+    }
+  ]
+}

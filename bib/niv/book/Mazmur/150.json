@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 150,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Praise him for his acts of power; praise him for his surpassing greatness.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Praise him with the sounding of the trumpet, praise him with the harp and lyre,",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "praise him with tambourine and dancing, praise him with the strings and flute,",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "praise him with the clash of cymbals, praise him with resounding cymbals.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Let everything that has breath praise the LORD. Praise the LORD.",
+      "type": "content"
+    }
+  ]
+}

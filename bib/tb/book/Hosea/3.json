@@ -1,0 +1,36 @@
+{
+  "book": "Hosea",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Diterima kembali, tetapi dianggap sepi",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Berfirmanlah TUHAN kepadaku: \"Pergilah lagi, cintailah perempuan yang suka bersundal dan berzinah, seperti TUHAN juga mencintai orang Israel, sekalipun mereka berpaling kepada allah-allah lain dan menyukai kue kismis.\"",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Lalu aku membeli dia bagiku dengan bayaran lima belas syikal perak dan satu setengah homer jelai.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Aku berkata kepadanya: \"Lama engkau harus diam padaku dengan tidak bersundal dan dengan tidak menjadi kepunyaan seorang laki-laki; juga aku ini tidak akan bersetubuh dengan engkau.\"",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Sebab lama orang Israel akan diam dengan tidak ada raja, tiada pemimpin, tiada korban, tiada tugu berhala dan tiada efod dan terafim.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Sesudah itu orang Israel akan berbalik dan akan mencari TUHAN, Allah mereka, dan Daud, raja mereka. Mereka akan datang dengan gementar kepada TUHAN dan kepada kebaikan-Nya pada hari-hari yang terakhir.",
+      "type": "content"
+    }
+  ]
+}

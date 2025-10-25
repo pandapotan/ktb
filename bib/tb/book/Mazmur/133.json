@@ -1,0 +1,26 @@
+{
+  "book": "Mazmur",
+  "chapter": 133,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Persaudaraan yang rukun",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Nyanyian ziarah Daud. Sungguh, alangkah baiknya dan indahnya, apabila saudara-saudara diam bersama dengan rukun!",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Seperti minyak yang baik di atas kepala meleleh ke janggut, yang meleleh ke janggut Harun dan ke leher jubahnya.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Seperti embun gunung Hermon yang turun ke atas gunung-gunung Sion. Sebab ke sanalah TUHAN memerintahkan berkat, kehidupan untuk selama-lamanya.",
+      "type": "content"
+    }
+  ]
+}

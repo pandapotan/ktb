@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 100,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tingting mandokkon mamuji Jahowa 1-5",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hamauliateon. Olophon ma Jahowa, ale sandok tano on!",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Oloi hamu ma Jahowa marhitehite las ni roha, ro be ma hamu tu jolona marhitehite olopolop.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Boto hamu ma on: Jahowa do Debata; ibana jumadihon hita, jala Ibana nampuna hita, bahen bangsona dohot birubiru pinarmahanna.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Bongot i hamu ma angka bahalna marhitehite hamauliateon, angka alamanna marhitehite pujipujian, mauliate ma rohamuna tu Ibana, puji hamu ma goarna.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Ai pardengganbasa do Jahowa, ro di saleleng ni lelengna do asi ni rohana, jala marsundutsundut do hasintonganna.",
+      "type": "content"
+    }
+  ]
+}

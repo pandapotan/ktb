@@ -1,0 +1,26 @@
+{
+  "book": "Ester",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Huaso dohot hamuliaon ni si Mordahai 1-3",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Dung i diampehon raja Serses sohe gararon ni halak di darat dohot di pulo, angka na di bagasan laut.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Dung i saluhut ulaon ni hagogoonna dohot hatimbulonna, rodi sandok hatimbulon ni si Mordahai, naung pinatimbul ni rajai ibana, nda tarsurat do angka i di bagasan buku jamita ariari ni angka raja sian Madai dohot Persia?",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Ai si Mordahai, halak Jahudi i, bangkit wakil ni raja Serses, sangap do ibana di tongatonga ni halak Jahudi, jala hasudungan ni torop hahaanggina ibana, ala naung diringkoti rohana hasonangan ni bangsona, sai hata dame dipaboa tu sandok pinomparna.",
+      "type": "content"
+    }
+  ]
+}

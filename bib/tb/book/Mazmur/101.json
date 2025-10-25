@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 101,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Seorang raja bernazar",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Mazmur Daud. Aku hendak menyanyikan kasih setia dan hukum, aku hendak bermazmur bagi-Mu, ya TUHAN.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Aku hendak memperhatikan hidup yang tidak bercela: Bilakah Engkau datang kepadaku? Aku hendak hidup dalam ketulusan hatiku di dalam rumahku.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Tiada kutaruh di depan mataku perkara dursila; perbuatan murtad aku benci, itu takkan melekat padaku.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Hati yang bengkok akan menjauh dari padaku, kejahatan aku tidak mau tahu.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Orang yang sembunyi-sembunyi mengumpat temannya, dia akan kubinasakan. Orang yang sombong dan tinggi hati, aku tidak suka.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Mataku tertuju kepada orang-orang yang setiawan di negeri, supaya mereka diam bersama-sama dengan aku. Orang yang hidup dengan cara yang tak bercela, akan melayani aku.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Orang yang melakukan tipu daya tidak akan diam di dalam rumahku, orang yang berbicara dusta tidak akan tegak di depan mataku.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Setiap pagi akan kubinasakan semua orang fasik di negeri; akan kulenyapkan dari kota TUHAN, semua orang yang melakukan kejahatan.",
+      "type": "content"
+    }
+  ]
+}

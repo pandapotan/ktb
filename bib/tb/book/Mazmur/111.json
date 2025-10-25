@@ -1,0 +1,61 @@
+{
+  "book": "Mazmur",
+  "chapter": 111,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Kebajikan Allah",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Haleluya! Aku mau bersyukur kepada TUHAN dengan segenap hati, dalam lingkungan orang-orang benar dan dalam jemaah.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Besar perbuatan-perbuatan TUHAN, layak diselidiki oleh semua orang yang menyukainya.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Agung dan bersemarak pekerjaan-Nya, dan keadilan-Nya tetap untuk selamanya.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Perbuatan-perbuatan-Nya yang ajaib dijadikan-Nya peringatan; TUHAN itu pengasih dan penyayang.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Diberikan-Nya rezeki kepada orang-orang yang takut akan Dia. Ia ingat untuk selama-lamanya akan perjanjian-Nya.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Kekuatan perbuatan-Nya diberitakan-Nya kepada umat-Nya, dengan memberikan kepada mereka milik pusaka bangsa-bangsa.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Perbuatan tangan-Nya ialah kebenaran dan keadilan, segala titah-Nya teguh,",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "kokoh untuk seterusnya dan selamanya, dilakukan dalam kebenaran dan kejujuran.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Dikirim-Nya kebebasan kepada umat-Nya, diperintahkan-Nya supaya perjanjian-Nya itu untuk selama-lamanya; nama-Nya kudus dan dahsyat.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Permulaan hikmat adalah takut akan TUHAN, semua orang yang melakukannya berakal budi yang baik. Puji-pujian kepada-Nya tetap untuk selamanya.",
+      "type": "content"
+    }
+  ]
+}

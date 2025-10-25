@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 100,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A psalm. For giving thanks.  Shout for joy to the LORD, all the earth.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Worship the LORD with gladness; come before him with joyful songs.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Know that the LORD is God. It is he who made us, and we are his; we are his people, the sheep of his pasture.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "For the LORD is good and his love endures for ever; his faithfulness continues through all generations.",
+      "type": "content"
+    }
+  ]
+}

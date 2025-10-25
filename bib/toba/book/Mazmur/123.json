@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 123,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tangiang mangido asi ni roha ni Debata di angka tingki haeleson 1-4",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok. Sai manatapnatap do matangku tu Ho, ale na marhabangsa di banua ginjang.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ida ma, songon mata ni angka anak somang tu tangan ni induk somangnasida, songon mata ni naposo boruboru tu tangan ni sorangannasida: Songon i do mangaranapi matanta tu Jahowa, Debatanta, paima asi rohana di hita.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sai asi ma roham di hami, ale Jahowa, sai asi ma tutu, ai nunga tung mahap situtu hami di pangareheon.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Nunga tung mahap situtu rohanami dihaeleson ni angka na jungkat roha, di pangareheon ni angka na ginjang roha.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A psalm of David.  The LORD is my shepherd, I shall not be in want.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "He makes me lie down in green pastures, he leads me beside quiet waters,",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "he restores my soul. He guides me in paths of righteousness for his name’s sake.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Surely goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD for ever.",
+      "type": "content"
+    }
+  ]
+}

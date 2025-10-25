@@ -1,0 +1,36 @@
+{
+  "book": "Ayub",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Bildad the Shuhite replied:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "\"Dominion and awe belong to God; he establishes order in the heights of heaven.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Can his forces be numbered? Upon whom does his light not rise?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "How then can a man be righteous before God? How can one born of woman be pure?",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "If even the moon is not bright and the stars are not pure in his eyes,",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "how much less man, who is but a maggot—a son of man, who is only a worm!\"",
+      "type": "content"
+    }
+  ]
+}

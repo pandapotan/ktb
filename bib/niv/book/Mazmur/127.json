@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 127,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A song of ascents. Of Solomon.  Unless the LORD builds the house, its builders labour in vain. Unless the LORD watches over the city, the watchmen stand guard in vain.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "In vain you rise early and stay up late, toiling for food to eat— for he grants sleep to those he loves.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sons are a heritage from the LORD, children a reward from him.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Like arrows in the hands of a warrior are sons born in one’s youth.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their enemies in the gate.",
+      "type": "content"
+    }
+  ]
+}

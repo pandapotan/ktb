@@ -1,0 +1,46 @@
+{
+  "book": "Mazmur",
+  "chapter": 120,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Dikejar-kejar fitnah",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Nyanyian ziarah. Dalam kesesakanku aku berseru kepada TUHAN dan Ia menjawab aku:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "\"Ya TUHAN, lepaskanlah aku dari pada bibir dusta, dari pada lidah penipu.\"",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Apakah yang diberikan kepadamu dan apakah yang ditambahkan kepadamu, hai lidah penipu?",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Panah-panah yang tajam dari pahlawan dan bara kayu arar.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Celakalah aku, karena harus tinggal sebagai orang asing di Mesekh, karena harus diam di antara kemah-kemah Kedar!",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Cukup lama aku tinggal bersama-sama dengan orang-orang yang membenci perdamaian.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Aku ini suka perdamaian, tetapi apabila aku berbicara, maka mereka menghendaki perang.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "book": "Bilangan",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Aturan ni parpeak ni parsaroan na opat i di Israel: I. Juda dohot Ruben 1-17. II. Epraim dohot Dan 18-34",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Dung i ro ma hata ni Jahowa tu si Musa dohot tu si Aron songon on:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ingkon marsaro halak Israel ganup mardonokkon partonggolna, partinandaan ni nasida marompuompu, jala ingkon marsaro nasida tondong ni undungundung parluhutan i humaliang.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Dungkon habinsaran ingkon marsaro marga Juda rap dohot partonggolna dohot paranganna, jala si Nahason, anak ni si Aminadab, ihutan ni halak Juda.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Jala paranganna angka naung tarbilangi pitupulu opat ribu onom ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Jala di lambungna ingkon marsaro marga Isasar, jala si Netaneel, anak ni si Zuar, ihutan ni halak Isasar.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Jala paranganna angka naung tarbilangi limapulu opat ribu opat ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Tole muse marga Zebulon, jala si Eliab, anak ni si Helon, ihutan ni halak Zebulon.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Jala paranganna angka naung tarbilangi limapulu pitu ribu opat ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Jadi luhut angka na tarbilangi sian parsaroan Juda saratus ualupulu onom ribu opat ratus halak toropna, angka na masuk tu paranganna, jala ingkon nasida manguluhon.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Dingkan dangsina ingkon marsaro partonggol ni marga Ruben, rap dohot paranganna, jala si Elizur, anak ni si Sedeur, ihutan ni halak Ruben.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Jala paranganna angka naung tarbilangi opatpulu onom ribu lima ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Jala di lambungna ingkon marsaro marga Simeon, jala si Selumiel, anak ni si Zurisaddai, ihutan ni halak Simeon.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Jala paranganna angka naung tarbilangi limapulu sia ribu tolu ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Tole muse marga Gad, jala si Eliasap, anak ni si Rehuel, ihutan ni halak Gad.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Jala paranganna angka naung tarbilangi opatpulu lima ribu onom ratus limapulu halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Jadi luhut angka na tarbilangi sian parsaroan Ruben saratus limapulu sada ribu opat ratus limapulu halak toropna, angka na masuk tu paranganna; jala ingkon parduan paidua nasida laho borhat.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Dung salpu nasida ingkon borhat undungundung parluhutan i rap dohot parsaroan ni halak Lepi di tongatonga ni angka parsaroan suang songon parpeakna marsaro, laos songon i nasida borhat, ganup di ingananna be mardonokkon partonggolna.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "(II.) Dingkan hasundutan ingkon marsaro partonggol ni marga Epraim rap dohot paranganna jala si Elisama, anak ni si Amihud, ihutan ni halak Epraim.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Jala paranganna angka naung tarbilangi opatpulu ribu lima ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Jala di lambungna ingkon marsaro marga Manasse, jala si Gamaliel, anak ni si Pedazur, ihutan ni halak Manasse.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Jala paranganna angka naung tarbilangi tolupulu dua ribu dua ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Tole muse marga Benjamin, jala si Abidan, anak ni si Gidion i induknasida i.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Jala paranganna angka naung tarbilangi tolupulu lima ribu opat ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Jala luhut angka na tarbilangi sian parsaroan Epraim saratus ualupulu ribu saratus halak toropna, angka na masuk tu paranganna; jala ingkon parduan paitolu nasida laho borhat.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "Dingkan utara ingkon marsaro partonggol ni marga Dan rap dohot paranganna, jala si Ahiezer, anak ni si Amisaddai ihutan ni halak Dan.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Jala paranganna angka naung tarbilangi onompulu dua ribu pitu ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Jala di lambungna ingkon marsaro marga Aser, jala si Pagiel, anak ni si Okran, ihutan ni halak Aser.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Jala paranganna angka naung tarbilangi opatpulu sada ribu lima ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Tole muse marga Naptali, jala si Ahira, anak ni si Enan, ihutan ni halak Naptali.",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Jala paranganna angka naung tarbilangi limapulu tolu ribu opat ratus halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Jala luhut angka na tarbilangi sian parsaroan Dan saratus limapulu pitu ribu onom ratus; jala ingkon parpudi nasida laho borhat mangihuthon tu partonggolna.",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "I ma saluhutna angka na tarbilangi sian halak Israel marompuompu, saluhut angka na tarbilang tahe di bagasan parsaroan mangihuthon parduanna be onom ratus tolu ribu lima ratus limapulu halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "Alai anggo halak Lepi ndang dibilangi di tongatonga ni halak Israel, hombar tu na tinonahon ni Jahowa hian tu si Musa.",
+      "type": "content"
+    },
+    {
+      "verse": 34,
+      "text": "Jadi dibahen halak Israel ma saluhut songon na tinonahon ni Jahowa tu si Musa, laos songon i ma parpeaknasida marsaro mangihuthon partonggolna be, songon i dohot haboborhatnasida, ganup marmargamarga dohot marompuompu.",
+      "type": "content"
+    }
+  ]
+}

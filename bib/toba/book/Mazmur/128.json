@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Pujipujian di tua na masa di jabu ni na daulat marroha 1-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok. Martua ma ganup na mangkabiari Jahowa, na marparange di angka dalanna i.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Sai panganonmu do na niula ni tanganmu, martua ma ho jala sonang.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Tudoshon hau anggur na marparbue do ianggo jolmam di bagasan angka bilut ni jabum, tudoshon tunas ni hau jetun do angka anakmu humaliang mejam.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Ida ma, sai songon i do tongon dapotan pasupasu baoa, na mangkabiari Jahowa.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Sai pasupasuon ni Jahowa ma ho sian Sion, asa paidaidaonmu hinadenggan ni Jerusalem ganup ari saleleng ho mangolu.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Jala ingkon idaonmu do angka pahompum tubu ni anakmu. Hasonangan ma songgop tu Israel.",
+      "type": "content"
+    }
+  ]
+}

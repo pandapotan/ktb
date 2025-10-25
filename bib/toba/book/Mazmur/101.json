@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 101,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bagabaga ni sada raja na daulat marroha mangkajongjongkon uhum dohot hatigoran 1-8",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende sian si Daud. Asi ni roha dohot uhum endehononku, umpalu parhinaloan ma ahu mamuji Ho, ale Jahowa.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Naeng pantas ahu marpangalahohon dalan haburjuon; sadihari pe ro Ho manopot ahu, naeng ahu marpangalahohon hadaulaton ni rohangku ditonga ni jabungku.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Ndang olo ahu mambahen pambahenan na jat di jolo ni matangku; dihagigihon rohangku do pambahenan roharoha, tung na so jadi dais do i tu ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Ingkon mandao sian ahu roha pangansi, ndang hutanda hajahaton.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Manang ise na marsibuni mangkata tundal donganna, sai siaphononku do ibana; manang ise parmata baus dohot parroha manggang, ndang tarparrombang ahu.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Sai humatamatahon do angka parburju ni luat i bahen donganku sahundulan; manang ise na mangihutihut dalan hadaulaton, ingkon ibana parhaladongku.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Na so tupa maringan ditonga ni jabungku sibahen sipaotooto; na so tupa mian di adopan ni matangku sihatahon gabus.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Sai siaphononku do ganup sogot sude angka parjahat ni luat i umpidomhon sian huta ni Jahowa sude angka siulahon hajahaton.",
+      "type": "content"
+    }
+  ]
+}

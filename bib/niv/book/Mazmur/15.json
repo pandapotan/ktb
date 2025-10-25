@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": " A psalm of David.  LORD, who may dwell in your sanctuary? Who may live on your holy hill?",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "He whose walk is blameless and who does what is righteous, who speaks the truth from his heart",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "and has no slander on his tongue, who does his neighbour no wrong and casts no slur on his fellow-man,",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "who despises a vile man but honours those who fear the LORD, who keeps his oath even when it hurts,",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "who lends his money without usury and does not accept a bribe against the innocent. He who does these things will never be shaken.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Mazmur",
+  "chapter": 111,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Pujipujian di hagogoon dohot habasaon ni Debata di panogunoguonna tu bangsona 1-10",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Halleluya! Pujionku ma Jahowa sian nasa roha di luhutan ni angka partigor dohot di huria i.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Balga do angka pambahenan ni Jahowa, hinalungunhon ni sude angka na lomo roha disi.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Hamuliaon dohot hasangapon do parulaonna i, jala hot do jongjong hatigoranna i salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Nunga dibahen Ibana sada parningotan di halongangan angka na binahenna i, pardengganbasa jala parasi roha do Jahowa.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Nunga diparbohali angka na mangkabiari Ibana, diingot do padan binahenna i ro di salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Nunga dipabotohon tu bangsona gogo ni pambahenanna i mangalehon tu nasida parjambaran ni angka parbegu.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Hasintongan dohot uhum do angka pambahenan ni tanganna, sintong do sude angka patikna i.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Hot do angka i ro di salelenglelengna, dibahen do angka i di bagasan hasintongan dohot habonaron.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Nunga ditongoshon Ibana haluaon tu bangsona, dipatik do padan binahenna i salelenglelengna, nabadia jala na songkal do goarna i.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Biar mida Jahowa do parmulaan ni habisuhon, maruli hapistaran na sumurung do sude angka na mangulahonsa; hot do baritana i ro di salelenglelengna.",
+      "type": "content"
+    }
+  ]
+}

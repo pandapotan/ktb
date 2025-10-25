@@ -1,0 +1,61 @@
+{
+  "book": "1 Yohanes",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Hata hangoluan i, na hinatindangkon ni si Johannes 1-4. II. Parsaoranta dohot Debata, Parhatiuron i 5-10",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Na adong sian mulana, na hubege hami, na niida ni matanami, na hupanotnoti hami, jala na jinama ni tangannami, taringot tu hata hangoluan i.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Naung gabe patar do hangoluan i, nunga huida hami, gabe huhatindangkon jala hubaritahon hami tu hamu hangoluan na salelenglelengna i, naung adong hian di adopan ni Ama i, gabe dipapatar tu hami.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Na huida jala hubege hami, i do binaritahon nang tu hamu, asa marparsaoran nang hamu rap dohot hami. Tu Ama i dohot tu Anakna Jesus Kristus do parsaoranta i.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Umbahen na husurathon hami hata on tu hamu, asa gok halalas ni rohamuna.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "(II.) On do barita, na hubege hami sian Ibana gabe binaritahon tu hamu: Panondang do Debata; ndang adong di bagasan Ibana manang aha na holom.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Molo tadok, naung saor hita tu Ibana, huhut taulahon na holom, pargabus do hita, ndang siula hasintongan hita.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Alai molo taparangehon hatiuron, songon Ibana na di bagasan na tiur, saor do hita sama hita, jala dipaias mudar ni Jesus, Anakna i, do hita sian nasa dosa.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Molo tadok, na so adong dosanta, tapaotooto do dirinta, jala ndang di bagasan hita hasintongan i.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Molo tatopoti angka dosanta, haposan do Ibana jala bonar, manesa dosanta jala paiashon hita sian nasa hageduhon.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Molo tadok, na so mardosa hita, pargabus do Ibana tabahen, jala ndang di bagasan hita anggo hatana.",
+      "type": "content"
+    }
+  ]
+}

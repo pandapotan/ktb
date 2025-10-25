@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 125,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hatuaon ni angka na marhaposan tu Jahowa 1-5",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "Ende hananangkok. Angka na marhaposan tu Jahowa, songon dolok Sion do nasida, ndang tagamon humordit, hot do tahe ro di salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Angka dolok do ia humaliang Jerusalem, Jahowa do ianggo humaliang bangsona olat ni on ro di salelenglelengna.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Ai ndang tagamon tong mandondon tungkot harajaon ni hajahaton di atas parjambaran ni angka partigor, asa unang laho tangan ni angka partigor i tu hageduhon.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Sai bahen ma na denggan, ale Jahowa, tu angka na denggan roha i dohot tu angka sisangunjur marroha di bagasan.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Alai anggo angka na manimbil tu dalannasida sandiri, angka na geduk i, sai na togihonon ni Jahowa do nasida rap dohot angka siula hajahaton. Dame ma songgop ianggo tu Israel!",
+      "type": "content"
+    }
+  ]
+}

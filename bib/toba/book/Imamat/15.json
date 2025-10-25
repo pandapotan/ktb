@@ -1,0 +1,176 @@
+{
+  "book": "Imamat",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Haramunon ni baoa marhite sian parnipinipionna 1-18. II. Marhite sian hasomalanna ia di parompuan 19-33.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Dung i ro ma hata ni Jahowa tu si Musa dohot tu si Aron songon on:",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Hatahon hamu ma tu halak Israel songon on: Molo somal marnipinipi daging ni sada baoa, gabe ramun ibana binahen ni parnipinipionna.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Jala ondo haramunonna binahen ni parnipinipionna: Molo sai mabaor bonina sian dagingna binahen ni parnipinipionna, manang poltong pe dagingna binahen ni parnipinipionna, tong do gabe haramunonna.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Nasa lage na pinodoman ni halak na somal marnipinipi ramun do i, ro di nasa ugasan na hinundulanna i ingkon ramun do i.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Jala manang ise na manjama lagena, ingkon sunsionna do angka ulosna jala tangkas ibana maridi di bagasan aek, jala ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Jala manang ise na hundul tu ugasan naung hinundulan ni halak na somal marnipinipi, ingkon sunsionna do angka ulosna jala tangkas ibana maridi di bagasan aek, jala ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Jala manang ise na manjama daging ni halak na somal marnipinipi i, ingkon sunsionna ulosna jala tangkas ibana maridi di bagasan aek jala ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Tung sura dais tijur ni halak na somal marnipinipi tu sada halak na ias, ingkon sunsionna do angka ulosna jala tangkas maridi di bagasan aek, jala ingkon ramun sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Tole palano naung dung hinundulan ni halak na somal marnipinipi, ingkon ramun do i.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Jala manang ise na manjama manang aha naung dung pinangkena i, ingkon ramun do ibana sahat ro di bodari; jala manang ise na mamboan ugasan sisongon i, ingkon sunsionna angka ulosna jala tangkas ibana maridi di bagasan aek, jala ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Jala manang ise na jinama ni halak na somal marnipinipi i, so jolo marburi tanganna di bagasan aek, ingkon sunsionna do angka ulosna jala tangkas ibana maridi di bagasan aek, jala ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Jala tung sura dijama halak na somal marnipinipi sada guriguri sian tano, ingkon taporon do i; alai anggo nasa guriguri sian hau ingkon burion do i di bagasan aek.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Jala tung sura malum parnipinipionna hilalaon ni jolma na somal marnipinipi i, ingkon bilanganna pitu ari sahat ro di ari pangurasanna, jala ingkon sunsionna angka ulosna jala tangkas dagingna maridi di bagasan aek mual, asa ias ibana.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Tole paualuarihon, ingkon buatonna ma dua anduhur tabu manang dua anak ni darapati, ingkon boanonna do i tu adopan ni Jahowa, tu jolo pintu ni undungundung parluhutan, jala lehononna do i tu malim.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Dung i pelehonon ni malim ma i, na sada bahen pelean pardosaan, na sadanari bahen pelean situtungon; ingkon malim i mambahen pardenggananna di adopan ni Jahowa ala parnipinipionna i.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "Tung sura sabur boni ni sada baoa, ingkon didionna sandok dagingna di bagasan aek, jala ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Jala nasa ulos dohot nasa hulingkuling na sap bonina i, ingkon sunsionna do i di bagasan aek jala ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "Jala tung sura modom sada parompuan di lambung ni sada baoa pola sabur bonina, ingkon rap maridi nasida di bagasan aek, jala ramun nasida sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "(II.) Tung sura sada parompuan marsahithon pantang ni abitna ingkon pulik ibana pitu ari lelengna di bagasan haramunonna; jala manang ise na manjama ibana, ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Jala nasa ugasan hapeahanna i saleleng pulik nasida, ramun do i; nasa ugasan hinundulanna pe ramun do.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Jala manang ise na manjama lagena i, ingkon sunsionna do angka ulosna jala tangkas ibana maridi di bagasan aek, jala ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Jala manang ise na manjama ugasan naung hinundulanna i, ingkon sunsionna angka ulosna jala tangkas ibana maridi di bagasan aek, jala ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Jala tung sura adong manang aha peak di atas lagena manang di ugasan naung hinundulanna i, manang ise na manjama ugasan i, ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Jala tung sura modom sada baoa rap dohot nasida, gabe dais haramunonna tu baoa i, ingkon pitu ari lelengna ibana ramun, jala ramun sandok lage hapeahanna i.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "Jala tung sura nania leleng sada parompuan marsahithon pantang ni abitna, ndada holan di tingki haramunonna hian, manang lumeleng masa haramunonna sian pantang ni abitna hasomalanna hian, ingkon ramun nasida suang songon di tingki haramunon hasomalanna hian.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Sandok lage hapeahanna i saleleng haroro ni darona i, ingkon suang songon lage haramunonna hian; jala saluhut ugasan hinundulanna i, ingkon ramun do i suang songon haramunon hasomalanna hian.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Jala manang ise na manjama angka i ingkon ramun ibana; dibahen i ingkon sunsionna angka ulosna, jala tangkas ibana maridi di bagasan aek, jala ingkon ramun ibana sahat ro di bodari.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Jala tung sura malum haramunonna i hilalaonna, ingkon bilanganna dope pitu ari, salpu ni pe asa ias nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Tole paualuarihon, ingkon buatonna dua anduhur tabu manang dua anak ni darapati, laos boanonna ma i tu malim tu jolo pintu ni undungundung parluhutan i.",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Dung i pelehonon ni malim i ma na sada bahen pelean pardosaan, jala na sadanari bahen pelean situtungon, jala malim i mambahen pardenggananna di adopan ni Jahowa, ala haramunon ni pantang ni abitna.",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Ingkon songon i paholangonmuna halak Israel sian haramunonnasida i, asa unang mate nasida di bagasan haramunonnasida i, molo tung diramuni nasida ingananku na di tongatonganasida i.",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "I ma patik taringot tu halak na marnipinipi dohot taringot tu halak na sabur bonina, pola ramun ibana bahenon ni.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "Dohot taringot tu parompuan na marsahithon pantang ni abitna hian ro di baoa na marnipinipi taringot tu baoa tahe dohot taringot tu parompuan dohot taringot tu baoa na modom di lambung ni parompuan na ramun.",
+      "type": "content"
+    }
+  ]
+}

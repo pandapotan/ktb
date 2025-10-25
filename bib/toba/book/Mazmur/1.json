@@ -1,0 +1,41 @@
+{
+  "book": "Mazmur",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "BUKU PARJOLO: PSALMEN 1-41 I. Jambar hatuaon ni angka partigor 1-3. II. Hamagoan ni angka parjahat sogot 4-6",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Martua ma halak, na so olo mangihuthon tahi ni angka parjahat, jala na so olo jongjong tu dalan ni angka pardosa, jala na so olo sahundulan dohot angka pangarehei.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Sai patik ni Jahowa do lomo ni rohana, jala sai i do dipingkiri rohana arian dohot borngin.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Songon hau do ibana, na sinuan di topi ni batang aek, na marparbuehon parbuena di hajujumpang ni tingkina bulungna pe ndang olo malos, jala sude na niulana manjadi do.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "(II.) Alai ndang songon i anggo pangalaho ni angka parjahat, songon orbuk, na hinabangkon ni alogo do nasida.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Dibahen i ndang manahan angka parjahat i maradophon paruhuman, manang tarbahen angka pardosa jongjong di luhutan ni angka na tigor roha.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Ai ditanda Jahowa do dalan ni angka na tigor roha i; alai matua laho lonong do anggo dalan ni angka parjahat.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "Mazmur",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "<> The LORD  is  my shepherd; I shall not want.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "He restores my soul; He leads me in the paths of righteousness For His name’s sake.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; For You  are  with me; Your rod and Your staff, they comfort me.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "You prepare a table before me in the presence of my enemies; You anoint my head with oil; My cup runs over.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Surely goodness and mercy shall follow me All the days of my life; And I will dwell in the house of the LORD Forever.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book": "Hosea",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Marpadanpadan muse si Hosea dohot boruboru sibabijalang; bagabaga taringot tu hamubaon ni roha ni Israel sogot 1-5",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) Dung i ninna Jahowa ma tu ahu; ulahi ma laho, haholongi ma sada parompuan na hinaholongan ni puangna nian, hape marmainan do; songon pangkaholongi ni Jahowa di halak Israel, hape marbalik do nasida tu angka debata sileban, jala mangapian di gaburgabur angka na tinanggulean.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Jadi hutobus parompuan i di ahu arga sampululima rupia dohot tonga dua tuhukan eme.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Dung i ningku ma tu ibana: Tung nania leleng do ho di ahu; unang ho marmainan jala unang ho masiamangamang, ahu pe songon i tu ho.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Ai tung na leleng do halak Israel hundulhundul sogot ndang marraja, jala ndang marinduk, jala ndang marpelean, jala ndang marlanggatan jala ndang marsampesampe epod manang marganaganaan terapim.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Dung i di laonlaon ni ari mulak ma halak Israel, jala luluannasida ma Jahowa, Debatanasida i dohot si Daud, rajanasida i jala angka hitir nasida mandapothon Jahowa dohot hatuaonna di ujung ni angka ari.",
+      "type": "content"
+    }
+  ]
+}

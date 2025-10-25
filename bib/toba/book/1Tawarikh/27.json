@@ -1,0 +1,181 @@
+{
+  "book": "1 Tawarikh",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I. Angka induk pature pargansion marsasabulan 1-15. II. Angka induk ni Israel na sampulu dua margai 16-24. III. Angka induk ni siramoti ugasan dohot angka panuturi 25-34.",
+      "type": "title"
+    },
+    {
+      "verse": 1,
+      "text": "(I.) On do bilangan ni sandok halak Israel, angka na niuluhon ni angka induk marompuompu dohot angka induk sasaribu dohot sisaratus halak, ro di panuturi angka na marhalado di jolo ri rajai, taringot tu sude ulaon ganup mangihuthon gansina be, marlaho ro sasabulan di saluhut bulan ni na sataon; jala ganup gansi duapulu opat ribu halak toropna.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Ia induk ni gansi parjolo di bulan sipaha sada, i ma Jasobeam, anak ni si Sabdiel, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Sian pinompar ni si Peres do ibana, induk ni saluhut partogi ni parangan di bulan sipaha sada.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Ia induk ni gansi di bulan sipaha dua i ma si Dodo, halak Ahohi, si Mikhlot do donganna induk di gansina i, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "Ia induk patoluhon manguluhon parangan di bulan sipaha tolu i ma si Benaia, anak ni malim Joiada; jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "I ma si Benaia, ulubalang na umbaritaan sian na tolupulu halak, laos gabe induk ni na tolupulu i, jala anakna si Amisabad donganna induk di gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Ia na paopathon di bulan sipaha opat i ma si Asahel, anggi ni si Joab, jala si Sebadia anakna i donganna, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "Ia na palimahon i di bulan sipaha lima i ma induk si Samhud, halak Jisrahi, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Ia na paonomhon i di bulan sipaha onom i ma si Ira anak ni si Ikes, halak Tekoa i, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 10,
+      "text": "Ia na papituhon i di bulan sipaha pitu i ma si Heles halak Peloni sian pinompar ni Epraim, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 11,
+      "text": "Ia na paualuhon i di bulan sipaha ualu i ma si Sebekkai, halak Husa i sian halak Zerah, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 12,
+      "text": "Ia na pasiahon i di bulan sipaha sia i ma si Abieser, halak Anatot i sian pinompar ni si Benjamin, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 13,
+      "text": "Ia na pasampuluhon i di bulan sipaha sampulu i ma si Maharai halak Netopa i sian halak Zerah, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 14,
+      "text": "Ia na pasampulusadahon i di bulan li i ma si Benaia, halak Piraton i sian pinompar ni si Epraim, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 15,
+      "text": "Ia na pasampuluduahon i di bulan hurung i ma si Heled, halak Netopa i sian si Otniel, jala duapulu opat ribu halak masuk tu gansina i.",
+      "type": "content"
+    },
+    {
+      "verse": 16,
+      "text": "(II.) Ia angka induk ni marga ni Israel sadasada on do: Sian marga Ruben i ma si Elieser, anak ni si Sikri, sian marga Simeon i ma si Sepatia, anak ni si Maaka.",
+      "type": "content"
+    },
+    {
+      "verse": 17,
+      "text": "Sian marga Lepi i ma si Hasabya, anak ni si Kemuel; sian pinompar ni si Aron i ma si Sadok.",
+      "type": "content"
+    },
+    {
+      "verse": 18,
+      "text": "Sian marga Juda i ma si Elihu, sada sian hahaanggi ni si Daud; sian marga Isasar i ma si Omri, anak ni si Mikhael.",
+      "type": "content"
+    },
+    {
+      "verse": 19,
+      "text": "Sian marga Zebulon i ma si Ismaia, anak ni si Obaja; sian marga si Naptali i ma si Jerimot, anak ni si Asriel.",
+      "type": "content"
+    },
+    {
+      "verse": 20,
+      "text": "Sian pinompar ni Epraim i ma si Hosea, anak ni si Asasia; sian satonga marga Manasse i ma si Joel, anak ni si Pedaya.",
+      "type": "content"
+    },
+    {
+      "verse": 21,
+      "text": "Sian satonga marga Manasse na di Gilead i ma si Iddo, anak ni si Sakaria; sian marga Benjamin i ma si Jehasiel, anak ni si Abner.",
+      "type": "content"
+    },
+    {
+      "verse": 22,
+      "text": "Sian marga Dan i ma si Asarel, anak ni si Jeroham. I ma angka induk ni angka marga ni Israel.",
+      "type": "content"
+    },
+    {
+      "verse": 23,
+      "text": "Alai ndang masuk tu bilangan dibahen si Daud jolma angka na so gok dope marumur duapulu taon, ala naung diparbagabaga Jahowa hian patoroponna halak Israel, songon bintang angka na di langit.",
+      "type": "content"
+    },
+    {
+      "verse": 24,
+      "text": "Nunga nian dipungka si Joab, anak ni Nai Seruia mamilangi, alai ndang marujung dibahen; ai ala ni do masa torutoru tu halak Israel; dibahen i ndang disurathon bilangan i tu bagasan buku jamita ariari ni raja Daud.",
+      "type": "content"
+    },
+    {
+      "verse": 25,
+      "text": "(III.) Ia panahatan ni sude ugasan ni rajai i ma si Asmapet, anak ni si Adiel; ia panahatan ni angka ugasan di ladang, di angka huta bagasan dohot di angka huta na gonting, i ma si Jonatan, anak ni si Usia.",
+      "type": "content"
+    },
+    {
+      "verse": 26,
+      "text": "Ia panahatan ni halak parumauma, angka na mangula di balian i ma si Esri, anak ni si Kelub.",
+      "type": "content"
+    },
+    {
+      "verse": 27,
+      "text": "Ia panahatan ni angka porlak anggur i ma si Simei, halak Rama i; ia panahatan ni anggur angka na pineop di angka porlak anggur i ma si Sabdi, halak Syifmi.",
+      "type": "content"
+    },
+    {
+      "verse": 28,
+      "text": "Ia panahatan ni porlak hatubuan ni hau Jetun dohot hau ara harangan na di rura, i ma si Baal-Hanan, halak Geder; ia panahatan ni bagas parpeopan miak i ma si Joas.",
+      "type": "content"
+    },
+    {
+      "verse": 29,
+      "text": "Ia panahatan ni lombu angka na manjampal di Saron, i ma si Sirtai, halak Saron i; ia panahatan ni lombu angka na di rura i ma si Sapat, anak ni si Adlai.",
+      "type": "content"
+    },
+    {
+      "verse": 30,
+      "text": "Ia panahatan ni unto, i ma si Obil, halak Ismael i; ia panahatan ni halode boruboru, i ma si Jehdeia, halak Meronot i.",
+      "type": "content"
+    },
+    {
+      "verse": 31,
+      "text": "Ia panahatan ni birubiru, i ma si Jasis, halak Hagar i. I ma saluhut jolma panahatan ni ugasan ni raja Daud.",
+      "type": "content"
+    },
+    {
+      "verse": 32,
+      "text": "Alai anggo si Jonatan, hasudungan ni si Daud, i ma panuturina, bapa na pantas marroha jala na pistar; ia si Jeiel, anak ni Hakmoni, i ma dongandongan ni angka anak ni rajai.",
+      "type": "content"
+    },
+    {
+      "verse": 33,
+      "text": "Si Ahitopel pe panuturi ni rajai do; jala si Husai halak Arki, i ma aleale ni rajai.",
+      "type": "content"
+    },
+    {
+      "verse": 34,
+      "text": "Jadi dung salpu si Ahitopel soluk ma si Joiada, anak ni si Benaia dohot si Abiatar, alai anggo si Joab partogi ni parangan ni rajai do.",
+      "type": "content"
+    }
+  ]
+}
