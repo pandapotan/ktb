@@ -1,0 +1,414 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "LEMBAGA",
+  "org": [
+    {
+      "lembaga": "Sekolah Tinggi Teologi (STT) HKBP",
+      "detail": {
+        "alamat": "Jln. Sangnawaluh No. 6, 21132, Pematangsiantar, Sumatera Utara, Indonesia",
+        "email": "info@stt-hkbp.ac.id",
+        "telepon": "0622 - 7551406",
+        "singkatan": "STT-HKBP",
+        "web": "stthkbp.ac.id"
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Dr. Sukanto Limbong",
+          "jabatan": "Ketua"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Pdt. Dr. Raulina Siagian",
+          "jabatan": "Wakil Ketua I"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Pdt. Dr. Ricardo Sisco Turnip",
+          "jabatan": "Wakil Ketua II"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Pdt. Dr. Pahala Jannen Simanjuntak",
+          "jabatan": "Wakil Ketua III"
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Pdt. Dr. Ebeneser Lumban Gaol",
+          "jabatan": "Pej. Wakil Ketua IV"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Pdt. Dr. Dewi Sri Sinaga",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 7,
+          "nama": "Pdt. Dr. Hulman Sinaga",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 8,
+          "nama": "Pdt. Dr. Jordan H Pakpahan",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 9,
+          "nama": "Pdt. Dr. Mery Simarmata, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 10,
+          "nama": "Pdt. Dr. Pintor M. Sitanggang",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 11,
+          "nama": "Pdt. Dr. Riris Johanna Siagian, M.Si.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 12,
+          "nama": "Pdt. Dr. Wilda Prianty Simanjuntak, M.Div. M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 13,
+          "nama": "Pdt. Frans Best Soma Marpaung, Ph.D.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 14,
+          "nama": "Pdt. Maruasas S. P Nainggolan, Ph.D.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 15,
+          "nama": "Pdt. Efran Mangatas Sianipar, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 16,
+          "nama": "Pdt. Joksan M.P. Simanjuntak, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 17,
+          "nama": "Pdt. Julius Tumpak Marganda Simaremare, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 18,
+          "nama": "Pdt. Mixon Simarmata, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 19,
+          "nama": "Pdt. Morhan Doloksaribu, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 20,
+          "nama": "Pdt. Morrys Syahputra Marpaung, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 21,
+          "nama": "Pdt. Nelly Maria Hutahaean, M.Si.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 22,
+          "nama": "Pdt. Pulo Aruan, M.Div., M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 23,
+          "nama": "Pdt. Ricky Pramono Hasibuan, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 24,
+          "nama": "Pdt. Harminto Sihombing, M. Th",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 25,
+          "nama": "Pdt. Jelita Dewi Situmorang, S.Th.",
+          "jabatan": "Pendeta Fungsional"
+        },
+        {
+          "nomorUrut": 26,
+          "nama": "Diak. Maria C.L Bancin",
+          "jabatan": "Diakones Fungsional"
+        },
+        {
+          "nomorUrut": 27,
+          "nama": "Diak. Herdi Siahaan",
+          "jabatan": "Ibu Asrama"
+        }
+      ]
+    },
+    {
+      "lembaga": "Sekolah Tinggi Guru Huria (STGH) HKBP",
+      "detail": {
+        "alamat": "Komplek Seminarium, Simanungkalit, Kec. Sipoholon, Kabupaten Tapanuli Utara, Sumatera Utara 22411",
+        "email": "stghhkbp01@gmail.com",
+        "telepon": "0812-6257-6110",
+        "singkatan": "STGH-HKBP",
+        "web": "stghhkbp.ac.id"
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Manaek Simanungkalit, S.Th. M.Pd.K.",
+          "jabatan": "Ketua"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Pdt. Hiburyanti Marbun, M.Th.",
+          "jabatan": "Wakil Ketua I"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Pdt. Arthur Mangatur Lumbantobing, M.Th.",
+          "jabatan": "Wakil Ketua II"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Pdt. Dr. Pison Sinambela",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Pdt. Dr. Sikkat Sitompul, S.Th. MM.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Pdt. Adventus Charles H. Lumbantobing, S.Th. M.Si.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 7,
+          "nama": "Pdt. Azwar Anas Pasaribu, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 8,
+          "nama": "Pdt. Hendra Putra Purba, M.Si. (Teol.)",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 9,
+          "nama": "Pdt. Jhon Vetra Simatupang, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 10,
+          "nama": "Pdt. Jimmy Marshal Tambunan, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 11,
+          "nama": "Pdt. Samuel Deutschland Sigalingging, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 12,
+          "nama": "Pdt. Saut Horas Silitonga M.Phil.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 13,
+          "nama": "Pdt. Lamsihar Simanungkalit, M.Div. M.Pd.K.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 14,
+          "nama": "Pdt. Obet Simanungkalit, M.Th.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 15,
+          "nama": "Pdt. Gunawan Panjaitan, S.Th.M.Si",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 16,
+          "nama": "Gr. Tepat Hutagaol, M.Pd.K.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 17,
+          "nama": "Pdt. Daniel M.S. Simanungkalit, S.Th, MM",
+          "jabatan": "Kaur. Katalog Perpustakaan"
+        },
+        {
+          "nomorUrut": 18,
+          "nama": "Gr. Ralinto Hutabarat, S.Pd.K.",
+          "jabatan": "Bapak Asrama"
+        },
+        {
+          "nomorUrut": 19,
+          "nama": "Diak. Laory Asnita Sibarani",
+          "jabatan": "Ibu Asrama"
+        },
+        {
+          "nomorUrut": 20,
+          "nama": "Pdt. Osban Ruddin Silitonga",
+          "jabatan": "Pendeta Fungsional"
+        },
+        {
+          "nomorUrut": 21,
+          "nama": "Gr. Bahtiarda Hilmart Sinaga, S.Pd.K.",
+          "jabatan": "Guru Huria Fungsional Bagian Keamanan"
+        },
+        {
+          "nomorUrut": 22,
+          "nama": "CGr. Jeremia Renaldi Hasibuan, S.Pd.",
+          "jabatan": "Calon Guru"
+        }
+      ]
+    },
+    {
+      "lembaga": "Sekolah Tinggi Bibelvrouw (STB) HKBP",
+      "detail": {
+        "alamat": "Jln. Partahan Bosi Hutapea No. 1 Laguboti 22381 Toba - Sumatera Utara-Indonesia",
+        "email": "stb.hkbp@gmail.com",
+        "telepon": "0632-331502",
+        "singkatan": "STB-HKBP",
+        "web": "sthbkbp.ac.id"
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Dr. Benny Sinaga",
+          "jabatan": "Ketua"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Pdt. Dr. Fitry Hanna Hutagalung",
+          "jabatan": "Pelaksana Waket I"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Pdt. Dr. Romeo Ronni Panly Sinaga",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Pdt. Dr Ronald Pasaribu",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Pdt. Jetti Lisantri Samosir, M.Th",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Pdt. Maruhum Simangunsong, M.Th",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 7,
+          "nama": "Bvr. Darna Situmorang, M.Pd.K",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 8,
+          "nama": "Bvr. Ronauli Aritonang, M.Sn.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 9,
+          "nama": "Bvr. Roslinda Sihombing, S.Pd. M.Si.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 10,
+          "nama": "Bvr. Theresnaria Yuliatur Situmorang, M.Psi.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 11,
+          "nama": "Pdt. Togar M Simanjuntak S.Th",
+          "jabatan": "Kabag. Perpustakaan"
+        },
+        {
+          "nomorUrut": 12,
+          "nama": "Diak. Susi Eva Asfrika Simanjuntak",
+          "jabatan": "Ibu Asrama"
+        },
+        {
+          "nomorUrut": 13,
+          "nama": "Bvr. Sartini Bondar, S.Mis",
+          "jabatan": "Bibelvrouw Fungsional"
+        },
+        {
+          "nomorUrut": 14,
+          "nama": "Bvr. Yoanna Ruth Natalia Simanjuntak",
+          "jabatan": "Bibelvrouw Fungsional"
+        }
+      ]
+    },
+    {
+      "lembaga": "Sekolah Tinggi Diakones (STD) HKBP",
+      "detail": {
+        "alamat": "Jalan Gereja No. 17 Kapernaum Balige 22314 Toba – Sumatera Utara – Indonesia",
+        "email": "stdiakoneshkbp17@gmail.com",
+        "telepon": "0899-207-944",
+        "singkatan": "STD-HKBP",
+        "web": "stdhkbp.ac.id"
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Diak. Eleven Sihotang, M. Div.",
+          "jabatan": "Ketua"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Diak. Lamria Sinaga, M.Si.",
+          "jabatan": "Wakil Ketua I"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Diak. Lamria Sinaga, M.Th.",
+          "jabatan": "Wakil Ketua II"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Diak. Derseli P Silitonga, S.Ag. M.Si.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Diak. Sari Asi Situmorang, S.Ag. M.Fil.",
+          "jabatan": "Dosen"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Diak. Adelina Sihombing",
+          "jabatan": "Diakones Fungsional"
+        },
+        {
+          "nomorUrut": 7,
+          "nama": "Diak. Maria Magdalena Manalu, M.Pd.",
+          "jabatan": "Diakones Fungsional"
+        },
+        {
+          "nomorUrut": 8,
+          "nama": "Diak. Nurchiska Habeahan",
+          "jabatan": "Diakones Fungsional"
+        },
+        {
+          "nomorUrut": 9,
+          "nama": "CDiak. Nova Simbolon, S.Ag.",
+          "jabatan": "Calon Diakones"
+        }
+      ]
+    }
+  ]
+}

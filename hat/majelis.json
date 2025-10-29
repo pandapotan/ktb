@@ -1,0 +1,430 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "utusanMajelisPekerjaSinode": [
+    {
+      "nomorUrut": 1,
+      "nama": "Pdt. Dr. Victor Tinambunan, MST",
+      "asal": "Ephorus"
+    },
+    {
+      "nomorUrut": 2,
+      "nama": "Pdt. Rikson M. Hutahaean, M.Th.",
+      "asal": "Sekretaris Jenderal"
+    },
+    {
+      "nomorUrut": 3,
+      "nama": "Pdt. Dr. Deonal Sinaga",
+      "asal": "Kepala Departemen Koinonia"
+    },
+    {
+      "nomorUrut": 4,
+      "nama": "Pdt. Bernard Manik, M.Th.",
+      "asal": "Kepala Departemen Marturia"
+    },
+    {
+      "nomorUrut": 5,
+      "nama": "Pdt. Eldarton Simbolon, D.Min.",
+      "asal": "Kepala Departemen Diakonia"
+    },
+    {
+      "nomorUrut": 6,
+      "nama": "Pdt. Lunard Siregar",
+      "asal": "Distrik I Tapanuli Bagian Selatan - Sumatera Barat"
+    },
+    {
+      "nomorUrut": 7,
+      "nama": "St. Robinsarhot Sitinjak",
+      "asal": "Distrik I Tapanuli Bagian Selatan - Sumatera Barat"
+    },
+    {
+      "nomorUrut": 8,
+      "nama": "Pdt. Obed Marbun, M.Div.",
+      "asal": "Distrik II Silindung"
+    },
+    {
+      "nomorUrut": 9,
+      "nama": "St. Drs. Nelson Siahaan, Amd, MM",
+      "asal": "Distrik II Silindung"
+    },
+    {
+      "nomorUrut": 10,
+      "nama": "Pdt. Martunas H Aritonang, S.Th.",
+      "asal": "Distrik III Humbang"
+    },
+    {
+      "nomorUrut": 11,
+      "nama": "St. Marfin Tanjung, SE, MM",
+      "asal": "Distrik III Humbang"
+    },
+    {
+      "nomorUrut": 12,
+      "nama": "Pdt. Fajar Lubis, S.Th.",
+      "asal": "Distrik IV Toba"
+    },
+    {
+      "nomorUrut": 13,
+      "nama": "St. Drs. Wallen Hutahaean",
+      "asal": "Distrik IV Toba"
+    },
+    {
+      "nomorUrut": 14,
+      "nama": "Pdt. Ramses Nadapdap, M. Th.",
+      "asal": "Distrik V Sumatera Timur"
+    },
+    {
+      "nomorUrut": 15,
+      "nama": "St. Wilten Rumapea",
+      "asal": "Distrik V Sumatera Timur"
+    },
+    {
+      "nomorUrut": 16,
+      "nama": "Pdt. Benaya P. Sinaga, M.Th.",
+      "asal": "Distrik VI Dairi"
+    },
+    {
+      "nomorUrut": 17,
+      "nama": "St. Drs. Junjungan Aritonang",
+      "asal": "Distrik VI Dairi"
+    },
+    {
+      "nomorUrut": 18,
+      "nama": "Pdt. Nora Panjaitan, S.Th.",
+      "asal": "Distrik VII Samosir"
+    },
+    {
+      "nomorUrut": 19,
+      "nama": "St. Binsar Marbun",
+      "asal": "Distrik VII Samosir"
+    },
+    {
+      "nomorUrut": 20,
+      "nama": "Pdt. Kamiden Sitanggang, M. Div.",
+      "asal": "Distrik VIII DKI Jakarta Raya"
+    },
+    {
+      "nomorUrut": 21,
+      "nama": "St. Ir. Res Roberto Sinurat",
+      "asal": "Distrik VIII DKI Jakarta Raya"
+    },
+    {
+      "nomorUrut": 22,
+      "nama": "Pdt. Nona Astika Sitorus, S.Th.",
+      "asal": "Distrik IX Sibolga-Tapteng-Nias"
+    },
+    {
+      "nomorUrut": 23,
+      "nama": "St. Roiman Pasaribu",
+      "asal": "Distrik IX Sibolga-Tapteng-Nias"
+    },
+    {
+      "nomorUrut": 24,
+      "nama": "Pdt. Ramses Manurung, S.Th.",
+      "asal": "Distrik X Medan Aceh"
+    },
+    {
+      "nomorUrut": 25,
+      "nama": "St. Ir. Bonar Pande Sinaga",
+      "asal": "Distrik X Medan Aceh"
+    },
+    {
+      "nomorUrut": 26,
+      "nama": "Pdt. Antoni Manurung, S.Th.",
+      "asal": "Distrik XI Toba Hasundutan"
+    },
+    {
+      "nomorUrut": 27,
+      "nama": "St. Josua Napitupulu",
+      "asal": "Distrik XI Toba Hasundutan"
+    },
+    {
+      "nomorUrut": 28,
+      "nama": "Pdt. Ganda Sihombing, M.Div.",
+      "asal": "Distrik XII Tanah Alas"
+    },
+    {
+      "nomorUrut": 29,
+      "nama": "St. Horasman Sigalingging",
+      "asal": "Distrik XII Tanah Alas"
+    },
+    {
+      "nomorUrut": 30,
+      "nama": "Pdt. Budianto Sianturi",
+      "asal": "Distrik XIII Asahan Labuhan Batu"
+    },
+    {
+      "nomorUrut": 31,
+      "nama": "Ebenejer Sitorus, SE",
+      "asal": "Distrik XIII Asahan Labuhan Batu"
+    },
+    {
+      "nomorUrut": 32,
+      "nama": "Pdt. Ryns Warjono Pasaribu, M.Div.",
+      "asal": "Distrik XIV Tebing Tinggi Deli"
+    },
+    {
+      "nomorUrut": 33,
+      "nama": "St. Benny Samosir",
+      "asal": "Distrik XIV Tebing Tinggi Deli"
+    },
+    {
+      "nomorUrut": 34,
+      "nama": "Pdt. Daniel Sihombing, S.Si., MM",
+      "asal": "Distrik XV Sumatera Bagian Selatan"
+    },
+    {
+      "nomorUrut": 35,
+      "nama": "St. Dr. Ramot Siahaan",
+      "asal": "Distrik XV Sumatera Bagian Selatan"
+    },
+    {
+      "nomorUrut": 36,
+      "nama": "Pdt. Sabdu J Tambunan, M.Th.",
+      "asal": "Distrik XVI Humbang Habinsaran"
+    },
+    {
+      "nomorUrut": 37,
+      "nama": "St. Jamiko Nababan",
+      "asal": "Distrik XVI Humbang Habinsaran"
+    },
+    {
+      "nomorUrut": 38,
+      "nama": "Pdt. Benny Bonaniaek Siagian, S.Si. (Teol.)",
+      "asal": "Distrik XVII Indonesia Bagian Timur"
+    },
+    {
+      "nomorUrut": 39,
+      "nama": "Martin Pasaribu, SH, MH.",
+      "asal": "Distrik XVII Indonesia Bagian Timur"
+    },
+    {
+      "nomorUrut": 40,
+      "nama": "Pdt. Patuan Hotman Simatupang, M.Th.",
+      "asal": "Distrik XVIII Jabartengdiy"
+    },
+    {
+      "nomorUrut": 41,
+      "nama": "St. Tua Mardongan Napitupulu, SH",
+      "asal": "Distrik XVIII Jabartengdiy"
+    },
+    {
+      "nomorUrut": 42,
+      "nama": "Pdt. Elisa Tambunan, M.Th.",
+      "asal": "Distrik XIX Bekasi"
+    },
+    {
+      "nomorUrut": 43,
+      "nama": "St. Ev. Surung Sianipar",
+      "asal": "Distrik XIX Bekasi"
+    },
+    {
+      "nomorUrut": 44,
+      "nama": "Pdt. Yosua Ridar Hamonangan Togatorop, S.Th.",
+      "asal": "Distrik XX Kepulauan Riau"
+    },
+    {
+      "nomorUrut": 45,
+      "nama": "St. Borbor Hehe Tua Pasaribu, S.Pd., M.Pd.",
+      "asal": "Distrik XX Kepulauan Riau"
+    },
+    {
+      "nomorUrut": 46,
+      "nama": "Pdt. Amos Golfrid Sinaga, S.Th.",
+      "asal": "Distrik XXI Banten"
+    },
+    {
+      "nomorUrut": 47,
+      "nama": "St. Dr. Ir. Nepos MT Pakpahan, MM",
+      "asal": "Distrik XXI Banten"
+    },
+    {
+      "nomorUrut": 48,
+      "nama": "Pdt. Juniarman Butarbutar, M.Div.",
+      "asal": "Distrik XXII Riau"
+    },
+    {
+      "nomorUrut": 49,
+      "nama": "St. Josua Hutauruk",
+      "asal": "Distrik XXII Riau"
+    },
+    {
+      "nomorUrut": 50,
+      "nama": "Pdt. Richard Marihot Siahaan, M.Div.",
+      "asal": "Distrik XXIII Binjai Langkat"
+    },
+    {
+      "nomorUrut": 51,
+      "nama": "Maringan Silaban, SH",
+      "asal": "Distrik XXIII Binjai Langkat"
+    },
+    {
+      "nomorUrut": 52,
+      "nama": "Pdt. Erwin Rambe, M.Th.",
+      "asal": "Distrik XXIV Tanah Jawa"
+    },
+    {
+      "nomorUrut": 53,
+      "nama": "St. Rajoki Purba",
+      "asal": "Distrik XXIV Tanah Jawa"
+    },
+    {
+      "nomorUrut": 54,
+      "nama": "Pdt. Benyamin Sibarani, M.Div.",
+      "asal": "Distrik XXV Jambi"
+    },
+    {
+      "nomorUrut": 55,
+      "nama": "St. Nelson Panjaitan",
+      "asal": "Distrik XXV Jambi"
+    },
+    {
+      "nomorUrut": 56,
+      "nama": "Pdt. Liver Maruli Markus Silitonga, S.Th.",
+      "asal": "Distrik XXVI Labuhan Batu"
+    },
+    {
+      "nomorUrut": 57,
+      "nama": "St. Ir. Bindu Napitupulu",
+      "asal": "Distrik XXVI Labuhan Batu"
+    },
+    {
+      "nomorUrut": 58,
+      "nama": "Pdt. Pansur Sijabat, S.Th.",
+      "asal": "Distrik XXVII Borneo"
+    },
+    {
+      "nomorUrut": 59,
+      "nama": "St. Gindo Munthe, SH",
+      "asal": "Distrik XXVII Borneo"
+    },
+    {
+      "nomorUrut": 60,
+      "nama": "Pdt. Elmun Rumahorbo, M.Min.",
+      "asal": "Distrik XXVIII Deboskab"
+    },
+    {
+      "nomorUrut": 61,
+      "nama": "St. Rintar Haposan Edison Napitupulu, S.E., M.Buss.",
+      "asal": "Distrik XXVIII Deboskab"
+    },
+    {
+      "nomorUrut": 62,
+      "nama": "Pdt. Rudianto Silalahi, M.Th.",
+      "asal": "Distrik XXIX Deli Serdang"
+    },
+    {
+      "nomorUrut": 63,
+      "nama": "St. Sarliman Sinaga",
+      "asal": "Distrik XXIX Deli Serdang"
+    },
+    {
+      "nomorUrut": 64,
+      "nama": "Pdt. Hitler Bilmar Panjaitan, S.Th.",
+      "asal": "Distrik XXX Riau Pesisir"
+    },
+    {
+      "nomorUrut": 65,
+      "nama": "St. Justianus Sitanggang",
+      "asal": "Distrik XXX Riau Pesisir"
+    },
+    {
+      "nomorUrut": 66,
+      "nama": "Pdt. Gerhard P Sihombing M.Th.",
+      "asal": "Distrik XXXI Medan Utara"
+    },
+    {
+      "nomorUrut": 67,
+      "nama": "Sabam P. P. Manalu, SE, M.A.P",
+      "asal": "Distrik XXXI Medan Utara"
+    },
+    {
+      "nomorUrut": 68,
+      "nama": "Pdt. Krisostomus Doloksaribu, S.Th.",
+      "asal": "Distrik XXXII Lampung"
+    },
+    {
+      "nomorUrut": 69,
+      "nama": "St. Albert Rumahorbo",
+      "asal": "Distrik XXXII Lampung"
+    },
+    {
+      "nomorUrut": 70,
+      "nama": "Sahat Pardede, CPA, MBA",
+      "asal": "Ketua Badan Audit"
+    },
+    {
+      "nomorUrut": 71,
+      "nama": "Drs. Pontas Pane, Ak, SH, MM, CA, CTA",
+      "asal": "Ketua Badan Usaha"
+    },
+    {
+      "nomorUrut": 72,
+      "nama": "Pdt. Dr. Jhon Kristo Naibaho",
+      "asal": "Ketua Balitbang HKBP"
+    },
+    {
+      "nomorUrut": 73,
+      "nama": "Dra. Devi Simatupang",
+      "asal": "Ketua BPP"
+    },
+    {
+      "nomorUrut": 74,
+      "nama": "Yoel Rizki Sinaga, SE",
+      "asal": "Ketua Konferensi Pemuda"
+    },
+    {
+      "nomorUrut": 75,
+      "nama": "Dra. Sandra Sidabutar",
+      "asal": "Ketua Konferensi Perempuan"
+    },
+    {
+      "nomorUrut": 76,
+      "nama": "Pdt. Maulinus U.W. Siregar, M.Th.",
+      "asal": "Ketua Rapat Pendeta"
+    },
+    {
+      "nomorUrut": 77,
+      "nama": "Pdt. Dr. Benny Sinaga",
+      "asal": "Ketua STB HKBP"
+    },
+    {
+      "nomorUrut": 78,
+      "nama": "Diak. Eleven Sihotang, M.Div.",
+      "asal": "Ketua STD HKBP"
+    },
+    {
+      "nomorUrut": 79,
+      "nama": "Pdt. Manaek Simanungkalit S. Th., M. Pd.K.",
+      "asal": "Ketua STGH HKBP"
+    },
+    {
+      "nomorUrut": 80,
+      "nama": "Pdt. Dr. Sukanto Limbong",
+      "asal": "Ketua STT HKBP"
+    },
+    {
+      "nomorUrut": 81,
+      "nama": "Mei Lora Tri Oktavia Manalu, B.Ed, M.Pd.",
+      "asal": "Sekretaris Konferensi Pemuda"
+    },
+    {
+      "nomorUrut": 82,
+      "nama": "Cathy Norimarna Hutasoit, Amd., Keb.",
+      "asal": "Sekretaris Konferensi Perempuan"
+    },
+    {
+      "nomorUrut": 83,
+      "nama": "Bvr. Risma Sinaga S.Th., M.Hum.",
+      "asal": "Utusan Bibelvrouw"
+    },
+    {
+      "nomorUrut": 84,
+      "nama": "Diak. Ristua Normawati Elfrida Sirait, SE., M.Si.",
+      "asal": "Utusan Diakones"
+    },
+    {
+      "nomorUrut": 85,
+      "nama": "Gr. Abdul Rachman Sitorus",
+      "asal": "Utusan Guru Huria"
+    }
+  ]
+}

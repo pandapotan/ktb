@@ -1,0 +1,165 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "org": [
+    {
+      "unit": "Percetakan HKBP",
+      "detail": {
+        "alamat": "Jl. Pdt. W. R. Hutagalung No. 4, Pematangsiantar, Sumatera Utara 21121",
+        "email": "percetakan@hkbp.or.id",
+        "telepon": "(0622) 7553110",
+        "web": "hkbp.or.id"
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Batara H. Silalahi, S.Th. M.Si.",
+          "jabatan": "Kepala Unit Usaha"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Pdt. Winner Sitorus, M.Min.",
+          "jabatan": "Wakil Kepala Unit Usaha"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Pdt. Dina Meriana Sinaga, S.Si.(Teol.) M.Pd.",
+          "jabatan": "Fungsional"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Pdt. Aron Lado Panggabean, S.Si.(Teol.)",
+          "jabatan": "Fungsional"
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Pdt. Fitri Suzana Gultom, S.Th.",
+          "jabatan": "Fungsional"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Diak. Ristua Normawati Elfrida Sirait, SE. M.Si.",
+          "jabatan": "Kepala Bagian"
+        }
+      ]
+    },
+    {
+      "unit": "Perkampungan Pemuda Jetun Silangit",
+      "detail": {
+        "alamat": "Jl. Siborong-borong - Pangaribuan Km. 6,5, Siborongborong, Tapanuli Utara, Sumatera Utara 22474",
+        "email": "info@jetunsilangit.org",
+        "telepon": "0812-6063-777",
+        "web": "jetunsilangit.org"
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Rein Justin Gultom, S.Th.MA.",
+          "jabatan": "Pimpinan Pengelola"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Pdt. Same Siahaan, S.Th.",
+          "jabatan": "Wakil Pimpinan Pengelola"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Pdt. Pendi Marbun, M. Div.",
+          "jabatan": "Pendeta Fungsional"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Diak. Sarah A.M Naibaho",
+          "jabatan": "Kepala Urusan Adm."
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Diak. Sartika Dewi Sibarani",
+          "jabatan": "Diakones Fungsional"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Diak. Sampe Situmeang",
+          "jabatan": "Diakones Fungsional"
+        }
+      ]
+    },
+    {
+      "unit": "Perkampungan Eben Ezer Sinaksak",
+      "detail": {
+        "alamat": "Jl. Siantar - Parapat No.KM. 8, Sinaksak, Kec. Tapian Dolok, Simalungun, Sumatera Utara 21174",
+        "email": "",
+        "telepon": "",
+        "web": ""
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Bvr. Bunga Pola Simanjuntak",
+          "jabatan": "Pimpinan Perkampungan"
+        },
+        {
+          "nomorUrut": 2,
+          "nama": "Bvr. Rismawan Tambunan",
+          "jabatan": "Ibu Asrama"
+        },
+        {
+          "nomorUrut": 3,
+          "nama": "Bvr. Marihot Risma Ida Tambunan",
+          "jabatan": "Bibelvrouw Fungsional"
+        },
+        {
+          "nomorUrut": 4,
+          "nama": "Bvr. Okta Linawati, S.Ag.",
+          "jabatan": "Bibelvrouw Fungsional"
+        },
+        {
+          "nomorUrut": 5,
+          "nama": "Bvr. Vera Flowerina Tampubolon",
+          "jabatan": "Bibelvrouw Fungsional"
+        },
+        {
+          "nomorUrut": 6,
+          "nama": "Bvr. Napelya Lubis",
+          "jabatan": "Bibelvrouw Fungsional"
+        },
+        {
+          "nomorUrut": 7,
+          "nama": "CBvr. Hotlida Sihombing, S.Ag.",
+          "jabatan": "Calon Bibelvrouw"
+        }
+      ]
+    },
+    {
+      "unit": "PLKT Porsea",
+      "detail": {
+        "alamat": "Jl. Patuan Nagari No. 105, Porsea, Toba, Sumatera Utara 22384",
+        "email": "",
+        "telepon": "(0632) 41270",
+        "web": ""
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Sahat M S Tinambunan, S.Th.",
+          "jabatan": "Pendeta Fungsional"
+        }
+      ]
+    },
+    {
+      "unit": "Asrama Putri Medan",
+      "detail": {
+        "alamat": "Jl. Timor No. 27, Petisah Tengah, Medan, Sumatera Utara 20112",
+        "email": "",
+        "telepon": "(061) 4534233",
+        "web": ""
+      },
+      "pegawai": [
+        {
+          "nomorUrut": 1,
+          "nama": "Pdt. Rumondang Sitorus, S.Th.",
+          "jabatan": "Pimpinan Asrama"
+        }
+      ]
+    }
+  ]
+}

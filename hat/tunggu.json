@@ -1,0 +1,41 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "MENUNGGU PENEMPATAN",
+  "daftarMenungguPenempatan": [
+    {
+      "nomorUrut": 1,
+      "nama": "Pdt. Dr. Frengki Napitupulu",
+      "lokasiPenempatan": "Jakarta"
+    },
+    {
+      "nomorUrut": 2,
+      "nama": "Pdt. Bandar Purba, S.Th.",
+      "lokasiPenempatan": "Aek Pamingke"
+    },
+    {
+      "nomorUrut": 3,
+      "nama": "Pdt. Tambatua Naibaho, M.Th.",
+      "lokasiPenempatan": "USA"
+    },
+    {
+      "nomorUrut": 4,
+      "nama": "Pdt. Adelina Hutabarat, S.Th.",
+      "lokasiPenempatan": "Jakarta"
+    },
+    {
+      "nomorUrut": 5,
+      "nama": "Bvr. Magdalena Hutapea",
+      "lokasiPenempatan": ""
+    },
+    {
+      "nomorUrut": 6,
+      "nama": "Diak. Marsauli Adentina Sihombing",
+      "lokasiPenempatan": ""
+    },
+    {
+      "nomorUrut": 7,
+      "nama": "Diak. Maslan Samosir",
+      "lokasiPenempatan": ""
+    }
+  ]
+}

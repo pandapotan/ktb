@@ -1,0 +1,596 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "CUTI DI LUAR TANGGUNGAN HKBP",
+  "daftarCuti": [
+    {
+      "nomorUrut": 1,
+      "nama": "Pdt. Anna Maria Ambarita, M.Th.",
+      "status": "Pendeta Cuti ikut suami (Pendeta GKPI)"
+    },
+    {
+      "nomorUrut": 2,
+      "nama": "Pdt. Bandar Purba, S.Th.",
+      "status": "Tidak Aktif dan berdomisili di Aek Pamienke"
+    },
+    {
+      "nomorUrut": 3,
+      "nama": "Pdt. Bangun Sitohang, M.Th.",
+      "status": "Di luar tanggungan"
+    },
+    {
+      "nomorUrut": 4,
+      "nama": "Pdt. Derliyana Hutapea, S.Th.",
+      "status": "Belanda"
+    },
+    {
+      "nomorUrut": 5,
+      "nama": "Pdt. Duma Tumanggor, S.Th.",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 6,
+      "nama": "Pdt. Elisabeth Silaen, S.Th.",
+      "status": "Medan"
+    },
+    {
+      "nomorUrut": 7,
+      "nama": "Pdt. Fitri Agus Karokaro, S.Th.",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 8,
+      "nama": "Pdt. Freddy D.W.P. Sianturi, S.Th.",
+      "status": "Cuti Sakit"
+    },
+    {
+      "nomorUrut": 9,
+      "nama": "Pdt. Grace Metaria Sihombing, S.Th.",
+      "status": "Cuti di luar tanggungan"
+    },
+    {
+      "nomorUrut": 10,
+      "nama": "Pdt. Grace Sondang Uli Marina Ambarita, S.Th.",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 11,
+      "nama": "Pdt. Irene Mintauli Rajagukguk, S.Th.",
+      "status": "Di luar tanggungan HKBP"
+    },
+    {
+      "nomorUrut": 12,
+      "nama": "Pdt. Jetson Simorangkir, M.Th.",
+      "status": "Cuti Sakit"
+    },
+    {
+      "nomorUrut": 13,
+      "nama": "Pdt. Linda M Siagian, M.Th.",
+      "status": "Meninggalkan Tempat Pelayanan"
+    },
+    {
+      "nomorUrut": 14,
+      "nama": "Pdt. Mangara Pakpahan, S.Th.",
+      "status": "Cuti Belajar Atas Permintaan Sendiri"
+    },
+    {
+      "nomorUrut": 15,
+      "nama": "Pdt. Nelly R Panjaitan, S.Th.",
+      "status": "Pematang Siantar"
+    },
+    {
+      "nomorUrut": 16,
+      "nama": "Pdt. Nurmaria Simanjuntak, M.Pd.K.",
+      "status": "Pekanbaru"
+    },
+    {
+      "nomorUrut": 17,
+      "nama": "Pdt. Pulma Sinaga,S.Th.",
+      "status": "Status tak jelas"
+    },
+    {
+      "nomorUrut": 18,
+      "nama": "Pdt. Refi Leni Marlina Lubis, S.Th.",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 19,
+      "nama": "Pdt. Renta Uli Lumbantobing, S.Th.",
+      "status": "Cuti Ikut Suami"
+    },
+    {
+      "nomorUrut": 20,
+      "nama": "Pdt. Rimson Roganda Manurung, S.Th.",
+      "status": "Di luar tanggungan"
+    },
+    {
+      "nomorUrut": 21,
+      "nama": "Pdt. Riris Napitupulu,S.Th.",
+      "status": "Cimanggis"
+    },
+    {
+      "nomorUrut": 22,
+      "nama": "Pdt. Roganda Manurung, M.Th.",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 23,
+      "nama": "Pdt. Ruth Tataryanti Simanjuntak, S.Th.",
+      "status": "Karena Sakit - Cuti Atas Permintaan Sendiri"
+    },
+    {
+      "nomorUrut": 24,
+      "nama": "Pdt. Santi Defi Hutagaol, S.Th.",
+      "status": "Jerman"
+    },
+    {
+      "nomorUrut": 25,
+      "nama": "Pdt. Serlida Sigalingging, S.Th.",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 26,
+      "nama": "Pdt. Sondang Mariati Silaban, S.Th.",
+      "status": "Jerman"
+    },
+    {
+      "nomorUrut": 27,
+      "nama": "Pdt. Tiur Maria Sinaga, S. Th.",
+      "status": "Status tak jelas"
+    },
+    {
+      "nomorUrut": 28,
+      "nama": "Pdt. Tohonan Siahaan, S, Th.",
+      "status": "Status tak jelas"
+    },
+    {
+      "nomorUrut": 29,
+      "nama": "Pdt. Yanti Purnamasari Napitupulu, S.Si. (Teol.)",
+      "status": "Cuti ikut suami (Pendeta)"
+    },
+    {
+      "nomorUrut": 30,
+      "nama": "Gr. Adventus Samosir",
+      "status": "Di Luar Tanggungan"
+    },
+    {
+      "nomorUrut": 31,
+      "nama": "Gr. Daniel Fransiscus Pakpahan",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 32,
+      "nama": "Gr. Hendra Gideon Gurning",
+      "status": "Di luar tanggungan"
+    },
+    {
+      "nomorUrut": 33,
+      "nama": "Gr. Herdiman Simamora",
+      "status": "Tidak Aktif"
+    },
+    {
+      "nomorUrut": 34,
+      "nama": "Gr. Jekson Ardiyanto Tampubolon",
+      "status": "Cuti atas permintaan sendiri"
+    },
+    {
+      "nomorUrut": 35,
+      "nama": "Gr. Letarius Hutabarat",
+      "status": "Cuti di Luar Tanggungan HKBP"
+    },
+    {
+      "nomorUrut": 36,
+      "nama": "Gr. Pernando Emil Apriadi Silitonga",
+      "status": "Di luar tanggungan HKBP"
+    },
+    {
+      "nomorUrut": 37,
+      "nama": "Gr. Poltak.T. Manullang",
+      "status": "Tidak Aktif"
+    },
+    {
+      "nomorUrut": 38,
+      "nama": "Gr. Robinson Aritonang",
+      "status": "Tidak Aktif"
+    },
+    {
+      "nomorUrut": 39,
+      "nama": "Gr. Rosmawati Hutajulu",
+      "status": "Status Tidak Jelas"
+    },
+    {
+      "nomorUrut": 40,
+      "nama": "Gr. Togi Nainggolan",
+      "status": "Cuti Di luar Tanggungan"
+    },
+    {
+      "nomorUrut": 41,
+      "nama": "Gr. Tunas H Sihombing",
+      "status": "Cuti Di luar Tanggungan"
+    },
+    {
+      "nomorUrut": 42,
+      "nama": "Bvr. Aline Tambunan",
+      "status": "Di luar tanggungan"
+    },
+    {
+      "nomorUrut": 43,
+      "nama": "Bvr. Asnia Sianturi",
+      "status": "Di luar tanggungan HKBP"
+    },
+    {
+      "nomorUrut": 44,
+      "nama": "Bvr. Bertua Hutapea",
+      "status": "Cuti ikut suami"
+    },
+    {
+      "nomorUrut": 45,
+      "nama": "Bvr. Debora Ida Hutabarat S.Pd",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 46,
+      "nama": "Bvr. Donna Fransiska Sitorus",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 47,
+      "nama": "Bvr. Dorma Rosida Gultom",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 48,
+      "nama": "Bvr. Erika Tona Sitinjak",
+      "status": "Status tidak diketahui"
+    },
+    {
+      "nomorUrut": 49,
+      "nama": "Bvr. Erni Natalia Pangaribuan",
+      "status": "Tidak Aktif"
+    },
+    {
+      "nomorUrut": 50,
+      "nama": "Bvr. Ferawaty Simanjuntak",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 51,
+      "nama": "Bvr. Fitah Natalia Eirene Sinaga",
+      "status": "Bibelvrouw Cuti ikut suami"
+    },
+    {
+      "nomorUrut": 52,
+      "nama": "Bvr. Goksam A. Hutapea",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 53,
+      "nama": "Bvr. Hotbi Sianturi",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 54,
+      "nama": "Bvr. Hotmaida Tambunan",
+      "status": "Cuti domisili Parapat"
+    },
+    {
+      "nomorUrut": 55,
+      "nama": "Bvr. Irna Renasti Hutabarat",
+      "status": "Domisili Riau"
+    },
+    {
+      "nomorUrut": 56,
+      "nama": "Bvr. Kamseria Sagala",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 57,
+      "nama": "Bvr. Limanta Simanjuntak",
+      "status": "Ikut Suami di Padang Sidimpuan"
+    },
+    {
+      "nomorUrut": 58,
+      "nama": "Bvr. Marudut Sitanggang",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 59,
+      "nama": "Bvr. Master Hutagaol",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 60,
+      "nama": "Bvr. Mega Mamar Sihombing",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 61,
+      "nama": "Bvr. Mercy Hutajulu",
+      "status": "Domisili Bandung"
+    },
+    {
+      "nomorUrut": 62,
+      "nama": "Bvr. Nursita Sitompul",
+      "status": "Bibelvrouw cuti di luar tanggungan HKBP ikut suami"
+    },
+    {
+      "nomorUrut": 63,
+      "nama": "Bvr. Rosiana Tambunan",
+      "status": "Bibelvrouw Cuti diluar tanggungan HKBP ikut suami"
+    },
+    {
+      "nomorUrut": 64,
+      "nama": "Bvr. Rosyanti Siadari",
+      "status": "Di luar tanggungan HKBP"
+    },
+    {
+      "nomorUrut": 65,
+      "nama": "Bvr. Sherly Refiani",
+      "status": "Bibelvrouw Cuti di luar tanggungan HKBP atas permintaan sendiri"
+    },
+    {
+      "nomorUrut": 66,
+      "nama": "Bvr. Tika Maria Yulinda Panjaitan",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 67,
+      "nama": "Diak. Agustina Siagian",
+      "status": "Tidak ada laporan"
+    },
+    {
+      "nomorUrut": 68,
+      "nama": "Diak. Berlian Siahaan",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 69,
+      "nama": "Diak. Bertua Yulia Sritia Ningsih Manurung",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 70,
+      "nama": "Diak. Christina D Siahaan",
+      "status": "Ikut Suami"
+    },
+    {
+      "nomorUrut": 71,
+      "nama": "Diak. Dame Linawati Silalahi",
+      "status": "Ikut Suami (Pdt. Silaban)"
+    },
+    {
+      "nomorUrut": 72,
+      "nama": "Diak. Deby Novta Therecia Manalu",
+      "status": "Cuti ikut suami"
+    },
+    {
+      "nomorUrut": 73,
+      "nama": "Diak. Dian Mega Sari Simanjuntak",
+      "status": "Cuti, ikut Suami (Pendeta)"
+    },
+    {
+      "nomorUrut": 74,
+      "nama": "Diak. Elfria Sidabutar",
+      "status": "Diakones Cuti"
+    },
+    {
+      "nomorUrut": 75,
+      "nama": "Diak. Elpina Marlin Lumbanbatu",
+      "status": "Meninggalkan tempat pelayanan"
+    },
+    {
+      "nomorUrut": 76,
+      "nama": "Diak. Ester Sihite",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 77,
+      "nama": "Diak. Evi Morina Hutabarat",
+      "status": "Ikut Suami – Pangururan"
+    },
+    {
+      "nomorUrut": 78,
+      "nama": "Diak. Eyenria Sirait",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 79,
+      "nama": "Diak. Gratia Simaremare",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 80,
+      "nama": "Diak. Gustina Hasibuan",
+      "status": "Cuti di luar lembaga HKBP"
+    },
+    {
+      "nomorUrut": 81,
+      "nama": "Diak. Hariani Simanjuntak",
+      "status": "Cuti domisili di Belanda"
+    },
+    {
+      "nomorUrut": 82,
+      "nama": "Diak. Herpika M Sidabutar",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 83,
+      "nama": "Diak. Hesty L Sianipar",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 84,
+      "nama": "Diak. Hotnida Hutagalung",
+      "status": "Domisili Jakarta"
+    },
+    {
+      "nomorUrut": 85,
+      "nama": "Diak. Januarita Tambunan",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 86,
+      "nama": "Diak. Junetta Magdalena Sitohang",
+      "status": "Cuti Domisili di Medan"
+    },
+    {
+      "nomorUrut": 87,
+      "nama": "Diak. Junita Erlinawati Halawa",
+      "status": "Cuti Ikut Suami"
+    },
+    {
+      "nomorUrut": 88,
+      "nama": "Diak. Klara Tampubolon",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 89,
+      "nama": "Diak. Kristina Enzil Sihombing",
+      "status": "Cuti Ikut suami Pendeta"
+    },
+    {
+      "nomorUrut": 90,
+      "nama": "Diak. Limar Erlinda Hutauruk",
+      "status": "Diakones cuti ikut suami"
+    },
+    {
+      "nomorUrut": 91,
+      "nama": "Diak. Linda Elpridawati Sinaga",
+      "status": "Melayani di Rumah Sakit - Palembang"
+    },
+    {
+      "nomorUrut": 92,
+      "nama": "Diak. Loisa Simanjuntak",
+      "status": "Tidak Aktif"
+    },
+    {
+      "nomorUrut": 93,
+      "nama": "Diak. Mardiana Napitupulu",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 94,
+      "nama": "Diak. Mariance K Sitorus",
+      "status": "Padang Sidimpuan"
+    },
+    {
+      "nomorUrut": 95,
+      "nama": "Diak. Marsella Simanungkalit",
+      "status": "Cuti (suami Pdt. Elriadin)"
+    },
+    {
+      "nomorUrut": 96,
+      "nama": "Diak. Mastiur Rosmaida Pandiangan",
+      "status": "Dianggap menarik diri dari pelayanan aktif HKBP"
+    },
+    {
+      "nomorUrut": 97,
+      "nama": "Diak. Menne Siregar",
+      "status": "Cuti di luar tanggungan HKBP"
+    },
+    {
+      "nomorUrut": 98,
+      "nama": "Diak. Nelsy E Sianipar",
+      "status": "Diakones Cuti"
+    },
+    {
+      "nomorUrut": 99,
+      "nama": "Diak. Nora O Siregar",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 100,
+      "nama": "Diak. Nova Yolanda Purba",
+      "status": "Ikut suami"
+    },
+    {
+      "nomorUrut": 101,
+      "nama": "Diak. Nurhayati Florida Hutabarat",
+      "status": "Cuti di luar tanggungan HKBP ikut suami"
+    },
+    {
+      "nomorUrut": 102,
+      "nama": "Diak. Oktoria Tampubolon",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 103,
+      "nama": "Diak. Olomian Ritonga",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 104,
+      "nama": "Diak. Renova Ela Lumbantobing",
+      "status": "Cuti ikut suami"
+    },
+    {
+      "nomorUrut": 105,
+      "nama": "Diak. Risma Hutabalian",
+      "status": "Diakones HKBP Cuti Di luar tanggungan (Ikut Suami )"
+    },
+    {
+      "nomorUrut": 106,
+      "nama": "Diak. Rode Rismawati Samosir",
+      "status": "Cuti di luar tanggungan"
+    },
+    {
+      "nomorUrut": 107,
+      "nama": "Diak. Rohana Siregar",
+      "status": "Diakones cuti di luar tanggungan"
+    },
+    {
+      "nomorUrut": 108,
+      "nama": "Diak. Rosdiana Sibarani",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 109,
+      "nama": "Diak. Roselin Rajagukguk",
+      "status": "Ikut Suami, domisili di Sukabumi"
+    },
+    {
+      "nomorUrut": 110,
+      "nama": "Diak. Ruslan Manurung",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 111,
+      "nama": "Diak. Rustiomas Sitorus",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 112,
+      "nama": "Diak. Saur Siahaan",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 113,
+      "nama": "Diak. Saurma Siallagan",
+      "status": "-"
+    },
+    {
+      "nomorUrut": 114,
+      "nama": "Diak. Siharmida Lumbantobing",
+      "status": "Cuti dan berdomisili di Dumai"
+    },
+    {
+      "nomorUrut": 115,
+      "nama": "Diak. Sri Ida Yanti Siahaan",
+      "status": "Cuti"
+    },
+    {
+      "nomorUrut": 116,
+      "nama": "Diak. Tetty Hotina L. Simbolon",
+      "status": "Cuti mulai tahun 2014"
+    },
+    {
+      "nomorUrut": 117,
+      "nama": "Diak. Tiomas Lumbantobing",
+      "status": "Cuti domisili di Pekanbaru"
+    },
+    {
+      "nomorUrut": 118,
+      "nama": "Diak. Tiurlan Siagian",
+      "status": "Diakones Cuti diluar tanggungan HKBP"
+    }
+  ]
+}

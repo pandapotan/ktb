@@ -1,0 +1,238 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "BADAN",
+  "org": [
+    {
+      "badan": "Badan Penyelenggara Pendidikan",
+      "struktur": {
+        "pengurus": [
+          {
+            "nama": "Dra. Devi Simatupang",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "Prof. Dr. Robert Sibarani, MS",
+            "jabatan": "Wakil Ketua 1"
+          },
+          {
+            "nama": "Dr. Ir. Erika Pardede, M.App.Sc",
+            "jabatan": "Wakil Ketua 2"
+          },
+          {
+            "nama": "Pdt. Dr. Benny Sinaga",
+            "jabatan": "Sekretaris 1"
+          },
+          {
+            "nama": "Pdt. Marudur Siahaan, M.Th",
+            "jabatan": "Sekretaris 2"
+          },
+          {
+            "nama": "Diak. Hanna Lumbantobing, SE",
+            "jabatan": "Bendahara"
+          },
+          {
+            "nama": "Prof. Dr. Ir. Albiner Siagian, M.Si",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "dr. Flora Maya Damanik, MARS",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Maurixon Silitonga, MTh",
+            "jabatan": "Anggota"
+          }
+        ]
+      }
+    },
+    {
+      "badan": "BPSK",
+      "struktur": {
+        "pengawas": [
+          {
+            "nama": "Pdt. Dr. Victor Tinambunan MST",
+            "jabatan": "Anggota Dewan Pengawas"
+          },
+          {
+            "nama": "Pdt. Rikson M Hutahaean M. Th",
+            "jabatan": "Anggota Dewan Pengawas"
+          },
+          {
+            "nama": "Pdt. Dr. Deonal Sinaga",
+            "jabatan": "Anggota Dewan Pengawas"
+          },
+          {
+            "nama": "Pdt. Bernard Manik M. Th",
+            "jabatan": "Anggota Dewan Pengawas"
+          },
+          {
+            "nama": "Pdt. Eldarton Simbolon D.Min",
+            "jabatan": "Anggota Dewan Pengawas"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "St. Dr. Ir. Martuama Saragi, MM, CSFA",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "St. Muara Lysta Sirait, S.Si, MBA, CRMP, QCRO",
+            "jabatan": "Sekretaris"
+          },
+          {
+            "nama": "St. Hotman Nainggolan, S.E., MBA., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Piktor Simatupang, SE",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Ir. Todo Parulian Panggabean, MM",
+            "jabatan": "Anggota"
+          }
+        ]
+      }
+    },
+    {
+      "badan": "Badan Penasihat Hukum",
+      "struktur": {
+        "penasihat": [
+          {
+            "nama": "Dr. Managam Manurung, S.H., M.Kn.",
+            "jabatan": "Penasihat"
+          },
+          {
+            "nama": "Efendi Simanjuntak, S.H., M.H.",
+            "jabatan": "Penasihat"
+          },
+          {
+            "nama": "Pdt. Dr. Marudut Parulian Silitonga, STh., SH., MH.",
+            "jabatan": "Penasihat"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "Dr. David Maruhum L. Tobing, S.H., M.Kn.",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "Dr. Jimmy Simanjuntak, S.H., M.H.",
+            "jabatan": "Sekretaris"
+          },
+          {
+            "nama": "Uli Simanungkalit, S.H., M.H.",
+            "jabatan": "Bendahara"
+          },
+          {
+            "nama": "Verry Sitorus, S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Bontor O.L. Tobing, S.E., S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Januardo Sihombing, S.H., M.H., MA., BKP.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Reinhard S.C. Situmorang, S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Boy Raja Marpaung, S.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Binsar Siagian, S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Kondius Meidarlin Pasaribu, S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "M.P. Chandra Hutabarat, S.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Kristian Lukas Simanjuntak, S.H., M.H., L.LM.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Andro B. King Simanjuntak, S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Anna Maria Aritonang, S.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Maria Veronika Napitupulu, S.H., M.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Jesconiah Siahaan, S.H., L.LM.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Gabrina Sebastiani Simandjuntak, S.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Jhanzen Marganda Sagala, S.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Santo Abed Nego Manalu, S.H.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "David Natanael Panjaitan, S.H.",
+            "jabatan": "Anggota"
+          }
+        ]
+      }
+    },
+    {
+      "badan": "Badan Usaha",
+      "struktur": {
+        "pengurus": [
+          {
+            "nama": "Drs. Pontas Pane, Ak, SH, MM, CA, CTA",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "Ir. Nepos Pakpahan, MM",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Kombes Pol. (Purn) Dr. Maruli Siahaan, SH, MH",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Mauritz Soaloon Hasibuan",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Ir. Tambok Parulian Setyawati Pasaribu Simanjuntak, MM",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Zukeng Manullang, SE",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Lesman Pangaribuan, SE, MM",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Sahala Mangaraja Tua Panjaitan, A.Md, S.Ikom, SE",
+            "jabatan": "Anggota"
+          }
+        ]
+      }
+    }
+  ]
+}

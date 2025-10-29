@@ -1,0 +1,904 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "KOMTE DAN KOMISI",
+  "org": [
+    {
+      "komite": "Komite Pensiun",
+      "struktur": {
+        "pembina": [
+          {
+            "nama": "Pdt. Dr. Victor Tinambunan MST",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "Pdt. Rikson M Hutahaean M. Th",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Dr. Deonal Sinaga",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Bernard Manik M. Th",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Eldarton Simbolon D.Min",
+            "jabatan": "Anggota"
+          }
+        ],
+        "pengawas": [
+          {
+            "nama": "Steven Tanner",
+            "jabatan": "Pengawas"
+          },
+          {
+            "nama": "Hernando",
+            "jabatan": "Pengawas"
+          },
+          {
+            "nama": "St. A.G. Simanjuntak",
+            "jabatan": "Pengawas"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "Pdt. Reinhard Lumbantobing, S.Th",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "Diak. Ristua Normawati Elfrida Sirait, SE. M.Si.",
+            "jabatan": "Wakil Ketua"
+          }
+        ]
+      }
+    },
+    {
+      "komite": "Tim Monitoring Pelaksanaan Sentralisasi Keuangan HKBP",
+      "struktur": {
+        "pengurus": [
+          {
+            "nama": "St. Josua Hutauruk SH, MH",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "St. Dr. David Tobing, SH., M.Kn",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Muara Lysta Sirait, S.Si, M.B.A, CRMP, QCRO",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Ir. Albert Simanjuntak, M.B.A",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Ir. Marangkup Manik, MM",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Ir. Elisa Lumbantoruan",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Immanuel Ambarita",
+            "jabatan": "Anggota"
+          }
+        ]
+      }
+    },
+    {
+      "komite": "Komite Transformasi",
+      "struktur": {
+        "pengambilKeputusan": [
+          {
+            "nama": "Pimpinan HKBP",
+            "jabatan": "Pengambil Keputusan"
+          }
+        ],
+        "penasihatEksekutif": [
+          {
+            "nama": "Pdt. Maulinus Siregar, M.Th",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Pdt. Bernard Manik, M.Th.",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Pdt. Donda Simanjuntak, M.Th",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Pdt. Henri Napitupulu, M.Th",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Pdt. Nekson Simanjuntak, M.Th",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Pdt. Samuel Sitompul, M.Th",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Pdt. Prof. Dr. Binsar Pakpahan",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Rionald Silaban, SH, LLM",
+            "jabatan": "Penasihat Eksekutif"
+          },
+          {
+            "nama": "Dr. Ir. Budi Situmorang",
+            "jabatan": "Penasihat Eksekutif"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "St. Ir. Albert Simanjuntak, MBA",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "Ir. Elisa Lumbantoruan",
+            "jabatan": "Wakil Ketua"
+          },
+          {
+            "nama": "St. Ir. Marangkup Manik, MM",
+            "jabatan": "Sekretaris"
+          },
+          {
+            "nama": "Pdt. Dr. Sukanto Limbong",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Dr. Martuama Saragi, MM, CSFA",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Dr. Jhon Kristo Naibaho",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Drs. Pontas Pane, Ak, SH, MM, CA, CTA",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Josua Hutauruk, SH, MH",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Dr. Palti Sitorus",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Dr. Ir. Pinondang Simanjuntak",
+            "jabatan": "Anggota"
+          }
+        ],
+        "bidangKerja": [
+          {
+            "bidang": "Projek Management Dan Support",
+            "anggota": [
+              {
+                "nama": "St. Ir. Subut Pasaribu",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Ferry Waskita Simorangkir, S.T; M.B.A",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Heryanto Panggabean, ST",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Febri Hutapea, S.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Mikhael Sihotang, MA",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Chris Desina Sianturi, S.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "CPdt. Philip Nainggolan, S.Si (Teol.)",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "CPdt. Senada Siallagan, S.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "CPdt. Anastasia Purba, S.Th",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Komunikasi Dan Publikasi",
+            "anggota": [
+              {
+                "nama": "Pdt. Fortunate Siagian M.Th",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Pdt. Cintya Pardede M.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Agnes Debora Siagian S.Th",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Pembinaan dan Pelatihan",
+            "anggota": [
+              {
+                "nama": "Pdt. Dr. Enig Aritonang",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Pdt. Agus Siagian, S.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Veronica Manurung, S.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Retno Manik, M.Th",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Staff Sekretariat",
+            "anggota": [
+              {
+                "nama": "Rotua Jane Simanjuntak",
+                "jabatan": "Staff"
+              },
+              {
+                "nama": "Pdt. Serly Tampubolon, S.Si (Teol.)",
+                "jabatan": "Staff"
+              }
+            ]
+          },
+          {
+            "bidang": "Kelompok Kerja Hukum Dan Advokasi",
+            "anggota": [
+              {
+                "nama": "Dr. Managam Manurung, SH, M.Kn",
+                "jabatan": "Penasihat"
+              },
+              {
+                "nama": "Efendi Simanjuntak, SH, MH",
+                "jabatan": "Penasihat"
+              },
+              {
+                "nama": "Dr. David Tobing, SH, M.Kn",
+                "jabatan": "Ketua"
+              },
+              {
+                "nama": "Dr. Jimmy Simanjuntak, SH, MH",
+                "jabatan": "Sekretaris"
+              },
+              {
+                "nama": "Uli Simanungkalit, SH, MH",
+                "jabatan": "Bendahara"
+              },
+              {
+                "nama": "Verry Sitorus, SH, MH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Bontor OL. Tobing, SE, SH, MH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Januardo Sihombing, SH, MH, MA, BKP",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Reinhard SC. Situmorang, SH, MH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Betty Donda Laura Sihombing, S.Th, SH, MH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "MP. Chandra Hutabarat, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Andro B. King Simanjuntak, SH, MH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Jonggi Simanjuntak, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Sri Falmen Siregar, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Boy Raja Marpaung, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Poltak Manik, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Maria Veronika Napitupulu, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Anna Maria Aritonang, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Jesconiah Siahaan, SH, L.LM",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Kristian Lukas Simanjuntak, SH, MH, L.LM",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Gabrina Sebastiani Simanjuntak, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Benny Pasaribu, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Santo Abednego Manalu, SH",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Joshua Oloan Simanjuntak, SH",
+                "jabatan": "Anggota"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "komite": "Pengurus Himpunan Darma Kasih",
+      "struktur": {
+        "pelindung": [
+          {
+            "nama": "Ephorus HKBP",
+            "jabatan": "Pelindung"
+          }
+        ],
+        "penasihat": [
+          {
+            "nama": "Soy Martua Pardede",
+            "jabatan": "Penasihat"
+          },
+          {
+            "nama": "St. P.M. Banjarnahor",
+            "jabatan": "Penasihat"
+          }
+        ],
+        "pengawas": [
+          {
+            "nama": "Praeses Distrik VIII DKI Jakarta Raya (ex-officio)",
+            "jabatan": "Pengawas"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "St. Ny. Duma Pardede-Sitorus",
+            "jabatan": "Ketua Umum"
+          },
+          {
+            "nama": "Ny. Lady Tambunan-Nainggolan",
+            "jabatan": "Ketua Bidang Umum"
+          },
+          {
+            "nama": "Darpan A. Panjaitan",
+            "jabatan": "Ketua Bidang Dana"
+          },
+          {
+            "nama": "St. Todo Panggabean",
+            "jabatan": "Ketua Bidang Penyaluran"
+          },
+          {
+            "nama": "St. Ny. Susi Panjaitan-Hutapea",
+            "jabatan": "Sekretaris Umum"
+          },
+          {
+            "nama": "St. Ny. Yohanna Manurung-Tobing",
+            "jabatan": "Sekretaris 1"
+          },
+          {
+            "nama": "Donna Simanjuntak",
+            "jabatan": "Sekretaris 2"
+          },
+          {
+            "nama": "Ny. Eva Lydia Panggabean-Simanjuntak",
+            "jabatan": "Bendahara Umum"
+          },
+          {
+            "nama": "Ny. Lamria Tampubolon-Sirait",
+            "jabatan": "Bendahara 1"
+          },
+          {
+            "nama": "Ny. Hikolina Siregar-Pardede",
+            "jabatan": "Bendahara 2"
+          }
+        ],
+        "bidangKerja": [
+          {
+            "bidang": "Seksi Dana Intern",
+            "anggota": [
+              {
+                "nama": "Ny. Mega Tampubolon- Situmeang",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Ny. Dertina Hutasoit-Sihombing",
+                "jabatan": "Wakil Koordinator"
+              },
+              {
+                "nama": "Ny. Yuliana Sitorus-Hutabarat",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Ida Lumongga Simanjuntak-Pardede",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Ron Pasaribu-Siregar",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Seksi Dana Ekstern",
+            "anggota": [
+              {
+                "nama": "Posma Simbolon",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Ny. Berliana Gultom-Rajagukguk",
+                "jabatan": "Wakil Koordinator"
+              },
+              {
+                "nama": "St. Ny. Iriani Tampubolon-Girsang",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Diana Hutagalung-Tobing",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Dorce Siahaan-Tampubolon",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Beasiswa",
+            "anggota": [
+              {
+                "nama": "Ev. Togu S. Hutagaol",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Ny. Merry Tobing-Panjaitan",
+                "jabatan": "Wakil Koordinator"
+              },
+              {
+                "nama": "Ny. Endang Banjarnahor-Situmorang",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "St. Ny. Clara Panggabean-Sitompul",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Mardiana Hutagalung-Sibarani",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Seksi Pelayanan Jemaat",
+            "anggota": [
+              {
+                "nama": "St. Ny. Roosmia Tambunan-Siahaan",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "St. Ny. Yohanna Manurung-Tobing",
+                "jabatan": "Wakil Koordinator"
+              },
+              {
+                "nama": "Ny. Pdt. Hutajulu-Napitupulu",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Serirama Marpaung-Butarbutar",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Anna Manurung-Sitorus",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Maria Panjaitan-Siahaan",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Sonya Napitupulu-Manurung",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Seksi Sosial Intern",
+            "anggota": [
+              {
+                "nama": "St. Ny. Maria Rumapea-Lumbanraja",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "St. Ny. Risma Panjaitan-Pardede",
+                "jabatan": "Wakil Koordinator"
+              },
+              {
+                "nama": "Ny. Pdt. Pesta Pandiangan-Sipahutar",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Pdt. W.K. Siahaan-Tambunan",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Berliana Simangunsong-Tambunan",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ny. Ida Tampubolon-Hutagaol",
+                "jabatan": "Anggota"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "komite": "Komite Parbalanjoon",
+      "struktur": {
+        "penasihat": [
+          {
+            "nama": "Sekretaris Jenderal HKBP",
+            "jabatan": "Penasihat"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "Ir. Elisa Lumbantoruan",
+            "jabatan": "Ketua"
+          },
+          {
+            "nama": "St. Albert Simanjuntak, M.B.A",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Dr. Martuama Saragi, MM, CSFA",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Muara Lysta Sirait, S.Si, M.B.A, CRMP, QCRO",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Hotman Nainggolan, S.E., MBA, M.H",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Tiurida br. Hutabarat.",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Sahat Pardede, CPA, MBA",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Rikson Hutahaean, M.Th",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Manaris Simatupang, M.Th",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Tulus Aritonang, S.Th",
+            "jabatan": "Anggota"
+          }
+        ]
+      }
+    },
+    {
+      "komite": "Tim Pengembangan Perkampungan Pemuda HKBP Jetun Silangit",
+      "struktur": {
+        "pelindung": [
+          {
+            "nama": "Pdt. Dr. Victor Tinambunan MST",
+            "jabatan": "Pelindung"
+          }
+        ],
+        "dewanPembina": [
+          {
+            "nama": "Pdt. Rikson M Hutahaean M. Th",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Dr. Deonal Sinaga",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Bernard Manik M. Th",
+            "jabatan": "Anggota"
+          }
+        ],
+        "dewanPenyantunDanPenasihat": [
+          {
+            "nama": "Kombes Pol. (Purn.) Dr.Maruli Siahaan",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Ev. Dra. Anita Gizelle Lubis, MBA, MA",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Mabohom Aritonang, SE",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Elisa Lumbantoruan",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pati Simanjuntak",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Ir. Obrin Lumbantoruan, MM",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Zukeng Manullang, SE",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Dr. Ir. Serirama Butarbutar, SE, SH, M.Si, MH",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "dr. Riana Minerva Sibarani",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Drs. Dupen Sinaga",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Benyamin P. Naibaho",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Jeffry Siallagan",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Effendy Manurung",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "St. Ir. Albert Simanjuntak",
+            "jabatan": "Anggota"
+          }
+        ],
+        "penanggungJawab": [
+          {
+            "nama": "Pdt. Eldarton Simbolon D.Min",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Drs. Donald Sianturi M. Div",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Robinsarhot Lumban Gaol S. Th, MM",
+            "jabatan": "Anggota"
+          },
+          {
+            "nama": "Pdt. Wisno Welman Manumpak Sihombing M. Th",
+            "jabatan": "Anggota"
+          }
+        ],
+        "pengurus": [
+          {
+            "nama": "Amin Napitupulu, SH, MH",
+            "jabatan": "Ketua Umum"
+          },
+          {
+            "nama": "Pdt. Operancis Simanungkalit, S.Th.",
+            "jabatan": "Ketua Pelaksana"
+          },
+          {
+            "nama": "Diak. Sarah Naibaho",
+            "jabatan": "Sekretaris"
+          },
+          {
+            "nama": "Diak. Rosdiana Sitorus",
+            "jabatan": "Bendahara"
+          }
+        ],
+        "bidangKerja": [
+          {
+            "bidang": "Supervisor",
+            "anggota": [
+              {
+                "nama": "Pdt. Agus Manullang, S.Th",
+                "jabatan": "Supervisor"
+              },
+              {
+                "nama": "Pdt. Jonny Sihite, MM",
+                "jabatan": "Supervisor"
+              }
+            ]
+          },
+          {
+            "bidang": "Pertanian",
+            "anggota": [
+              {
+                "nama": "Pdt. Harminto Sihombing, S.Th",
+                "jabatan": "Koordinator"
+              }
+            ]
+          },
+          {
+            "bidang": "Peternakan",
+            "anggota": [
+              {
+                "nama": "Ir. Partogi M.H. Hutapea, MP",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Ir. Ferlist Rio Siahaan, MSI",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Eco Wisata",
+            "anggota": [
+              {
+                "nama": "Ir. Tigor Siahaan",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Pdt. Manatar Naibaho",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Budidaya Perikanan",
+            "anggota": [
+              {
+                "nama": "Welmar Olfan Basten Hutauruk, S.Ik, M.Si",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Ria Retno Dewi Sartika Manik, S.ST, M.P",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Pemasaran",
+            "anggota": [
+              {
+                "nama": "Pdt. Christopel Pasaribu",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Pdt. Sukamto Pasaribu",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Pelatihan dan Pemberdayaan Masyarakat",
+            "anggota": [
+              {
+                "nama": "Pdt. Nelson Siregar, S.Th",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Hermansyah Simanjuntak",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Vera Hutauruk",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "St. Bachtiar Marbun",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Dra. Sandra Sidabutar",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ev. Dra. Anita Gizelle Lubis, MBA, MA",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Gani Silaban",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Bvr. Venny Tampubolon",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Lampita Siahaan",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Ir. Mauritz Simanjuntak",
+                "jabatan": "Anggota"
+              }
+            ]
+          },
+          {
+            "bidang": "Kebaktian Kebangunan dan Meditatif",
+            "anggota": [
+              {
+                "nama": "Pdt. Azwar Anas Pasaribu, M.Th",
+                "jabatan": "Koordinator"
+              },
+              {
+                "nama": "Pdt. Haposan Cornelius Sinaga, M.A",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Diak. Adha Sianturi, S.Ag",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Henny Frandy Panjaitan, S.Th",
+                "jabatan": "Anggota"
+              },
+              {
+                "nama": "Pdt. Yobel Sihombing, S.Th",
+                "jabatan": "Anggota"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+    "judul": "Almanak HKBP 2025",
+    "bab": "PRAESES",
+
+    "daftarPraeses": [
+        {
+            "nama": "Pdt. Jahor Purba, M.Th.",
+            "distrik": "Distrik I Tabagsel - Sumbar",
+            "jalan": "Jl. Beringin No. 1 Kelurahan Kantin Padang Sidempuan 22719 Sumatera Utara",
+            "telepon": "081361919400",
+            "fax": "web site :hkbpdistrik1.or.id",
+            "email": "hkbpdistrik1@yahoo.com"
+        },
+        {
+            "nama": "Pdt. Drs. Donald Sianturi, M.Div.",
+            "distrik": "Distrik II Silindung",
+            "jalan": "Pearaja Tarutung 22413",
+            "telepon": "0633-21276; 21707 ext 130",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Robinsarhot Lumban Gaol, S.Th., MM.",
+            "distrik": "Distrik III Humbang",
+            "jalan": "Jl. Letkol G.A Manullang Dolok Sanggul 22457 Humbang Habinsaran",
+            "telepon": "0633-31069",
+            "fax": "",
+            "email": "hkbphumbang@yahoo.com"
+        },
+        {
+            "nama": "Pdt. Ebsan B. Hutabarat, M.Th.",
+            "distrik": "Distrik IV Toba",
+            "jalan": "Jl. Patuan Nagari No. 105 Porsea 22384",
+            "telepon": "0632-41270",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. A. A. Zaitun Sihite, M.Th.",
+            "distrik": "Distrik V Sumatera Timur",
+            "jalan": "Jl. Gereja No. 35A Pematangsiantar 21124",
+            "telepon": "0622-22677",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Riedel Sihotang, M.Th.",
+            "distrik": "Distrik VI Dairi",
+            "jalan": "Jl. Gereja No. 1 Sidikalang Dairi 22211",
+            "telepon": "0627-21171",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Rintalori Sianturi, M.Th.",
+            "distrik": "Distrik VII Samosir",
+            "jalan": "Jl. Gereja No. 9A Pangururan, Kab. Samosir 22393",
+            "telepon": "0626-20755",
+            "fax": "",
+            "email": "distrik7smsr@plasa.com"
+        },
+        {
+            "nama": "Pdt. Oloan Nainggolan, S.Th.",
+            "distrik": "Distrik VIII DKI Jakarta Raya",
+            "jalan": "Jl. Damai Pulo Gebang No. 1 RT002/RW008 Kel. Pulo Gebang Cakung Jakarta Timur",
+            "telepon": "(021)22830721",
+            "fax": "",
+            "email": "hkbpdistrikviiidki@yahoo.co.id"
+        },
+        {
+            "nama": "Pdt. Nikson Simanjuntak, S.Th.",
+            "distrik": "Distrik IX Sibolga Tapteng Nias",
+            "jalan": "Jl. Jubileum No. 4 Sibolga Julu, Kel. Angin Nauli Kec. Sibolga Utara, Sibolga 22511",
+            "telepon": "0631-21097",
+            "fax": "",
+            "email": "hkbpdistrik9@gmail.com"
+        },
+        {
+            "nama": "Pdt. Suwandi Sinambela, S.Th., M.Psi.",
+            "distrik": "Distrik X Medan Aceh",
+            "jalan": "Jl. Uskup Agung Sugiopranoto No. 6 Medan 20152",
+            "telepon": "061-4534233",
+            "fax": "061-4518781",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Marganda Lubis, S.Th., M.I.Kom.",
+            "distrik": "Distrik XI Toba Hasundutan",
+            "jalan": "Jl. Raja Paindoan No. 21 Balige 22314, Kab. Toba Samosir",
+            "telepon": "0632-21015",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Bikwai Simanjuntak, M.Th.",
+            "distrik": "Distrik XII Tanah Alas",
+            "jalan": "Jl. Ahmad Yani No. 23 Pulonas, Kutacane Aceh Tenggara, Aceh 24611",
+            "telepon": "0629-21192",
+            "fax": "0629-21192",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Sampur Manullang, S.Th.",
+            "distrik": "Distrik XIII Asahan Labuhan Batu",
+            "jalan": "Jl. Sisingamangaraja No. 308 Kisaran 21214",
+            "telepon": "0623-41522",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Arthur Manuturi Sitorus, S.Th.",
+            "distrik": "Distrik XIV Tebing Tinggi Deli",
+            "jalan": "Jl. Kartini No. 15 Tebing Tinggi 20632",
+            "telepon": "0621-25015; 326788",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Victor Singal H Silalahi, S.Th., MM.",
+            "distrik": "Distrik XV Sumatera Bagian Selatan",
+            "jalan": "Jl. Mayor Ruslan No. 3A Palembang 301126",
+            "telepon": "0711-357056",
+            "fax": "0711-357056",
+            "email": "distriksumbagsel@gmail.com"
+        },
+        {
+            "nama": "Pdt. Wisno Welman Manumpak Sihombing, M.Th.",
+            "distrik": "Distrik XVI Humbang Habinsaran",
+            "jalan": "Jl. Tugu No. 2 Siborongborong, Kec. Siborongborong Kab. Tapanuli Utara",
+            "telepon": "0633-41573; 41521",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Samuel Christian Sitompul M.Th., MM.",
+            "distrik": "Distrik XVII Indonesia Bagian Timur",
+            "jalan": "Jl. Kedondong No. 10-12 Surabaya, Jawa Timur 60262",
+            "telepon": "031-8713151",
+            "fax": "031-8713151",
+            "email": "hkbp17ibt@gmail.com"
+        },
+        {
+            "nama": "Pdt. Nekson Martomu Simanjuntak, M.Th.",
+            "distrik": "Distrik XVIII Jabartengdiy",
+            "jalan": "Jln. Cikajang I No.4, RT.05/RW.20, Kelurahan Antapani Tengah, Kecamatan Antapani, Kota Bandung, Jawa Barat. KP. 40291.",
+            "telepon": "081-352 900-990/082-121-785-577",
+            "fax": "",
+            "email": "hkbpdistrik18@gmail.com, hkbpdistrik18@yahoo.com"
+        },
+        {
+            "nama": "Pdt. Henri Napitupulu, M.Th.",
+            "distrik": "Distrik XIX Bekasi",
+            "jalan": "Gedung Sopo Marpingkir HKBP Lantai 7 Jl. Damai No. 1 RT.01/RW.08, Kel. Pulo Gebang Jakarta Timur Kec. Cakung 13910",
+            "telepon": "082160858515; 02122830601",
+            "fax": "",
+            "email": "hkbpdistrik19bekasi@yahoo.co.id"
+        },
+        {
+            "nama": "Pdt. Henry Banuareah, S.Th., MM.",
+            "distrik": "Distrik XX Kepulauan Riau",
+            "jalan": "Jl. Legenda Malaka Belakang No. 1 Kel. Belian Batam Center Batam 29436",
+            "telepon": "0778-7482037",
+            "fax": "",
+            "email": "hkbpdistrikxxkepri@yahoo.co.id"
+        },
+        {
+            "nama": "Pdt. Sumihar Sinaga, M.Th., D.Min.",
+            "distrik": "Distrik XXI Banten",
+            "jalan": "Jln. Kepudeng No. 18, Drangong Taktahan Kota Serang, Banten 42162",
+            "telepon": "",
+            "fax": "",
+            "email": "hkbpdistrikxxibanten@gmail.com"
+        },
+        {
+            "nama": "Pdt. Hardy Bontor Lumbantobing, M.Th.",
+            "distrik": "Distrik XXII Riau",
+            "jalan": "Jl. Hang Tuah No. 36 Pekanbaru 28111",
+            "telepon": "0671-885033",
+            "fax": "0671-885033",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Hotler Lumbantoruan, MM.",
+            "distrik": "Distrik XXIII Binjai Langkat",
+            "jalan": "Jl. Cut Nyak Dien No. 14A Binjai 20712",
+            "telepon": "061-8827690",
+            "fax": "",
+            "email": "hkbpdistrik23binjailangkat@gmail.com"
+        },
+        {
+            "nama": "Pdt. Tonggo Sitompul, M.Th., MM.",
+            "distrik": "Distrik XXIV Tanah Jawa",
+            "jalan": "Jl. Gereja no. 5 Tanjung Pasir Kec. Tanah Jawa Simalungun",
+            "telepon": "0622-554130",
+            "fax": "0622-554130",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Kamson R A Pasaribu, S.Th.",
+            "distrik": "Distrik XXV Jambi",
+            "jalan": "Jl. Ir. Juanda Lrg. Seminar RT 26 No. 32A Simpang Tiga Sipin Jambi 36126",
+            "telepon": "0741-670082",
+            "fax": "",
+            "email": "distrik25jbi@yahoo.co.id"
+        },
+        {
+            "nama": "Pdt. Herbin Silaban, M.Th.",
+            "distrik": "Distrik XXVI Labuhan Batu",
+            "jalan": "Jl. Kejaksaan No. 2 Rantau Prapat Labuhan Batu 21413",
+            "telepon": "0624-21100",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Samuel Togar Hamonangan Ambarita, S.Th.",
+            "distrik": "Distrik XXVII Borneo",
+            "jalan": "Jl. Mayjend Sutoyo RT 38 No. 63 Gunung Malang PO BOX 436 Balikpapan 76113 Kalimantan Timur",
+            "telepon": "0542-73010997; 730530",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Ridoi Batubara, S.Th., M.PdK.",
+            "distrik": "Distrik XXVIII Deboskab",
+            "jalan": "Jl. Puri Pesangerahan II/2 Bukit Cinere Indah Sawangan Blok N Jakarta Selatan 12440",
+            "telepon": "021-7545593",
+            "fax": "021-7545593",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Hasudungan Manalu, S.Th.",
+            "distrik": "Distrik XXIX Deli Serdang",
+            "jalan": "Jl. Imam Bonjol No. 14 Lubuk Pakam Deli Serdang 20511",
+            "telepon": "",
+            "fax": "",
+            "email": "hkbpdistrikxxix.deliserdang@yahoo.co.id"
+        },
+        {
+            "nama": "Pdt. German Butarbutar, S.Th.",
+            "distrik": "Distrik XXX Riau Pesisir",
+            "jalan": "Jl Hang Tuah No. 59 Duri Riau 28884",
+            "telepon": "0765-595219",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Martin Manullang M. Th, MM",
+            "distrik": "Distrik XXXI Medan Utara",
+            "jalan": "Jl Tempirai Sejati Raya Blok VI Martubung Kec. Medan Labuhan",
+            "telepon": "",
+            "fax": "",
+            "email": ""
+        },
+        {
+            "nama": "Pdt. Mauli Halomoan Aritonang, S.Th.",
+            "distrik": "Distrik XXXII Lampung",
+            "jalan": "Jl Diponegoro No. 144 Bandar Lampung 35214 Lampung",
+            "telepon": "0721253465",
+            "fax": "",
+            "email": ""
+        }
+    ]
+}

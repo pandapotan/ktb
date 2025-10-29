@@ -1,0 +1,41 @@
+{
+  "judul": "Almanak HKBP 2025",
+   "bab": "PENGGEMBALAAN",
+  "daftarPenggembala": [
+    {
+      "nomorUrut": 1,
+      "nama": "Pdt. Salomo Panjaitan",
+      "lokasiPenggembalaan": "Kantor KRP HKBP"
+    },
+    {
+      "nomorUrut": 2,
+      "nama": "Pdt. Martahan Togap Habonaran Simatupang, S.Th.",
+      "lokasiPenggembalaan": "Kantor Ephorus HKBP"
+    },
+    {
+      "nomorUrut": 3,
+      "nama": "Pdt. Reynold Pantas Sinaga, S.Th, M.Pd.",
+      "lokasiPenggembalaan": "Kantor Ephorus HKBP"
+    },
+    {
+      "nomorUrut": 4,
+      "nama": "Pdt. Lisda Gunawati Sirait, S.Th.",
+      "lokasiPenggembalaan": "Kantor Ephorus HKBP"
+    },
+    {
+      "nomorUrut": 5,
+      "nama": "Gr. Humala Sirait",
+      "lokasiPenggembalaan": "Kantor Ephorus HKBP"
+    },
+    {
+      "nomorUrut": 6,
+      "nama": "Gr. Martua Siregar",
+      "lokasiPenggembalaan": "Kantor Ephorus HKBP"
+    },
+    {
+      "nomorUrut": 7,
+      "nama": "Gr. Patiar Nainggolan",
+      "lokasiPenggembalaan": "Kantor Ephorus HKBP"
+    }
+  ]
+}

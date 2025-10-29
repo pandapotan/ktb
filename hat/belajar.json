@@ -1,0 +1,294 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "TUGAS BELAJAR / PELAJAR  / BELAJAR BIAYA SENDIRI ",
+  "daftarPelajar": [
+    {
+      "nomorUrut": 1,
+      "nama": "Pdt. Mangasa Saor Parlindungan Lumbantobing, M.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "Chicago"
+    },
+    {
+      "nomorUrut": 2,
+      "nama": "Pdt. Apriando Jonatan Rajagukguk, S.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "UKSW"
+    },
+    {
+      "nomorUrut": 3,
+      "nama": "Pdt. Daniel Andy Hoffmann Sinaga, S. Th.",
+      "status": "Tugas Belajar",
+      "tempat": "Luther Seminary, St. Paul, Minesotta, USA"
+    },
+    {
+      "nomorUrut": 4,
+      "nama": "Pdt. Venesia Sarah Laura Hutabarat, S.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "Jerman"
+    },
+    {
+      "nomorUrut": 5,
+      "nama": "Pdt. Haposan Cornelius Sinaga, M.A.",
+      "status": "Tugas Belajar",
+      "tempat": "Protestant Theological University, Belanda"
+    },
+    {
+      "nomorUrut": 6,
+      "nama": "Pdt. Herman Sutiono Nainggolan, M.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "STFT Jakarta"
+    },
+    {
+      "nomorUrut": 7,
+      "nama": "Pdt. Janrio Fernando Siagian, S.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "STFT Jakarta"
+    },
+    {
+      "nomorUrut": 8,
+      "nama": "Pdt. Mesak Leo Patra Simanjuntak, S.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "STFT Jakarta"
+    },
+    {
+      "nomorUrut": 9,
+      "nama": "Pdt. Derismauli Sormin, S.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "STFT Jakarta"
+    },
+    {
+      "nomorUrut": 10,
+      "nama": "Pdt. Marudur Siahaan, M.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "Filipina"
+    },
+    {
+      "nomorUrut": 11,
+      "nama": "Pdt. Sondang Napitupulu, M.Th.",
+      "status": "Tugas Belajar",
+      "tempat": "Filipina"
+    },
+    {
+      "nomorUrut": 12,
+      "nama": "Pdt. Yanti Simanjuntak, S.Th.",
+      "status": "Tidak Diketahui",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 13,
+      "nama": "Pdt. Alter Pernando Siahaan, S.Th.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 14,
+      "nama": "Pdt. Desquart Twoventus Ompusunggu, M.Si. (Teol.)",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 15,
+      "nama": "Pdt. Eben Ezer Pandiangan, S.Th.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 16,
+      "nama": "Pdt. Ranto P. Hamonangan Marbun, S.Si.(Teol.) M.A.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 17,
+      "nama": "Pdt. Robert Siagian, M.Th.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 18,
+      "nama": "Gr. Airnando Simamora",
+      "status": "Tugas Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 19,
+      "nama": "Gr. Jefri Juli Andi Lumbantobing",
+      "status": "Cuti Belajar",
+      "tempat": "STT HKBP Pematangsiantar"
+    },
+    {
+      "nomorUrut": 20,
+      "nama": "Gr. Misel Simamora",
+      "status": "Cuti Belajar",
+      "tempat": "STT HKBP Pematangsiantar"
+    },
+    {
+      "nomorUrut": 21,
+      "nama": "Gr. Radier Sihombing, S.Pd.K.",
+      "status": "Cuti Belajar",
+      "tempat": "STT HKBP Pematangsiantar"
+    },
+    {
+      "nomorUrut": 22,
+      "nama": "Gr. Rahmat Abadi Siahaan",
+      "status": "Cuti Belajar",
+      "tempat": "STT HKBP Pematangsiantar"
+    },
+    {
+      "nomorUrut": 23,
+      "nama": "Gr. Rikardo Silitonga",
+      "status": "Cuti Belajar",
+      "tempat": "STT HKBP Pematangsiantar"
+    },
+    {
+      "nomorUrut": 24,
+      "nama": "Gr. Jimmy Prando Tampubolon",
+      "status": "Cuti Belajar",
+      "tempat": "UKSW Salatiga"
+    },
+    {
+      "nomorUrut": 25,
+      "nama": "Gr. Karel Marpaung",
+      "status": "Cuti Belajar",
+      "tempat": "Jakarta"
+    },
+    {
+      "nomorUrut": 26,
+      "nama": "Gr. Benny O Hutahaean, M.Pd.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 27,
+      "nama": "Gr. Febryanto Andreas Jefri Siahaan",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 28,
+      "nama": "Gr. Gomgom P.M. Pakpahan",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 29,
+      "nama": "Gr. Herpin Rizal Napitu, S.Pd.K.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 30,
+      "nama": "Gr. Jeremia Sianturi, S.Pd.K.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 31,
+      "nama": "Gr. Roimon Gultom",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 32,
+      "nama": "Gr. Jefri Riko Trisno Situmeang",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 33,
+      "nama": "Gr. Riambo Parapat",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 34,
+      "nama": "Gr. Sofyan Roberto Lubis",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 35,
+      "nama": "Gr. Samuel Simorangkir",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 36,
+      "nama": "Gr. Suamben Purba",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 37,
+      "nama": "Gr. Miduk Julifer Sinaga",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 38,
+      "nama": "Gr. Tunas Irwandi Siahaan",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 39,
+      "nama": "Gr. Rudi Yansyah Salamat Tampubolon",
+      "status": "Cuti Belajar",
+      "tempat": "Biaya Sendiri"
+    },
+    {
+      "nomorUrut": 40,
+      "nama": "Bvr. Tiarma Siahaan, M.Th.",
+      "status": "Tugas Belajar Beasiswa",
+      "tempat": "Kementrian Agama Ditjen Bimas Kristen RI"
+    },
+    {
+      "nomorUrut": 41,
+      "nama": "Bvr. Jeparia M Tambunan",
+      "status": "Tugas Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 42,
+      "nama": "Bvr. Nurseli Debora Manurung, M.Si.M.Th.",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 43,
+      "nama": "Diak. Diana Christiany Malau, S.Ag. M.Psi.",
+      "status": "Tugas Belajar",
+      "tempat": "Univ. Persada Indonesia"
+    },
+    {
+      "nomorUrut": 44,
+      "nama": "Diak. Tioria Sihombing",
+      "status": "Tugas Belajar",
+      "tempat": ""
+    },
+    {
+      "nomorUrut": 45,
+      "nama": "Diak. Tenni Mei Tumanggor",
+      "status": "Cuti Belajar",
+      "tempat": "STT HKBP Pematangsiantar"
+    },
+    {
+      "nomorUrut": 46,
+      "nama": "Diak. Tiurmina A Tinambunan",
+      "status": "Cuti Belajar",
+      "tempat": "Jerman"
+    },
+    {
+      "nomorUrut": 47,
+      "nama": "Diak. Elysabeth Evriana Sihombing",
+      "status": "Cuti Belajar",
+      "tempat": "STFT Jakarta"
+    },
+    {
+      "nomorUrut": 48,
+      "nama": "Diak. Marini Siahaan",
+      "status": "Cuti Belajar",
+      "tempat": ""
+    }
+  ]
+}

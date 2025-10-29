@@ -1,0 +1,582 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "bab": "YAYASAN",
+  "org": [
+    {
+      "yayasan": "Yayasan Universitas HKBP Nommensen",
+      "detail": {
+        "alamat": "Jl. Sangnawaluh No. 6, Pematangsiantar, Sumatera Utara 21121",
+        "email": "humas@uhn.ac.id",
+        "telepon": "(0622) 7551406",
+        "web": "uhn.ac.id"
+      },
+      "pembina": [
+        {
+          "nama": "Pdt. Dr. Victor Tinambunan, MST",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Pdt. Rikson M Hutahaean, M.Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Dr. Deonal Sinaga",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik, M. Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Eldarton Simbolon, D.Min",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengurus": [],
+      "pengawas": [],
+      "unitKerja": [
+        {
+          "unit": "Universitas HKBP Nommensen Medan",
+          "pegawai": [
+            {
+              "nama": "Dr. Richard A.M. Napitupulu, M.T.",
+              "jabatan": "Rektor"
+            },
+            {
+              "nama": "Dr. Jadongan Sijabat, M.Si",
+              "jabatan": "Wakil Rektor I"
+            },
+            {
+              "nama": "Dr. Ferry Panjaitan, M.Si",
+              "jabatan": "Wakil Rektor II"
+            },
+            {
+              "nama": "Drs. Maringan Panjaitan, M.Si",
+              "jabatan": "Wakil Rektor III"
+            },
+            {
+              "nama": "Dr. Ir. Erika Pardede, M.App, Sc",
+              "jabatan": "Wakil Rektor IV"
+            },
+            {
+              "nama": "Hodner Lumbantoruan",
+              "jabatan": "Staf"
+            },
+            {
+              "nama": "Marthin Simorangkir, SE, MM",
+              "jabatan": "Staf"
+            },
+            {
+              "nama": "Pdt. Dr. Ir. Fridz Pardamean Sihombing",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Dr Nurliani Siregar, S.Th., M.Pd.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Bangun Aruan, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Benny Ch. Hutabarat, S.Th., M.Psi.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Elvis Simanjuntak, S.Th., M.Psi.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Imelda Butarbutar, S.Th., M.Psi.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Melvin Simanjuntak, M.Si.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Nurmaya Simanjuntak, M.Si.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Partohap Saut Raja Sihombing, S.Th., M.Pd.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Riana Lumban Raja, S.Th., M.Hum.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Sorta Sihombing, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Sunggul Pasaribu, S.Th., M.PAK",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Tumpal Richardo Sirait, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Tunggul A P Simorangkir, S.Th., MM",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Udur Ernita Aritonang, S.Th., M.Si.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Gr. Bangun Munthe, S.Pd., MM",
+              "jabatan": "Dosen"
+            }
+          ]
+        },
+        {
+          "unit": "Universitas HKBP Nommensen Pematangsiantar",
+          "pegawai": [
+            {
+              "nama": "Dr. Muktar B. Panjaitan, M.Pd",
+              "jabatan": "Rektor"
+            },
+            {
+              "nama": "Dr. Andriano Manalu, M.Pd",
+              "jabatan": "Wakil Rektor I"
+            },
+            {
+              "nama": "Hendra Simanjuntak, M.Pd",
+              "jabatan": "Wakil Rektor II"
+            },
+            {
+              "nama": "Pdt. Partohap S.R. Sihombing, M.Pd",
+              "jabatan": "Wakil Rektor III"
+            },
+            {
+              "nama": "Dr. Natalina Purba, M.Pd",
+              "jabatan": "Wakil Rektor IV"
+            },
+            {
+              "nama": "Pdt. Dr. Sanggam Magda Lasmaria Siahaan M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Darman Halomoan Samosir, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Esti Sirait, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Eva Saryati Panggabean, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Restua Hutahaean, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Drs Robert Fieter Hasudungan Silitonga, M.Th.",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Rosben Sihombing, S.Th., MM",
+              "jabatan": "Dosen"
+            },
+            {
+              "nama": "Pdt. Pinantun Simatupang, S.Th.",
+              "jabatan": "Pendeta Mahasiswa"
+            },
+            {
+              "nama": "Bvr. Naudur Sitompul",
+              "jabatan": "Ibu Asrama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "yayasan": "Yayasan Kesehatan Pembina",
+      "detail": {
+        "alamat": "Jl. Sisingamangaraja No. 24, Balige, Toba, Sumatera Utara 22314",
+        "email": "info@rs.hkbp.co.id",
+        "telepon": "(0632) 21031",
+        "web": "rs.hkbp.co.id"
+      },
+      "pembina": [
+        {
+          "nama": "Pdt. Dr. Victor Tinambunan MST",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Pdt. Rikson M Hutahaean M. Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Dr. Deonal Sinaga",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik M. Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Eldarton Simbolon D.Min",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengurus": [
+        {
+          "nama": "Letjen TNI (Purn.) Hinsa Siburian",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "dr. Bonar Sinaga, SP.OG (K)",
+          "jabatan": "Sekretaris"
+        },
+        {
+          "nama": "Nursinta Sinambela, SE MMTI",
+          "jabatan": "Bendahara"
+        },
+        {
+          "nama": "Dr Ir. Sanco Simanullang, ST, MT, IPM, ASEAN Eng",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Dr. Abiran Nababan, Sp. PD, KGEH",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Dr. Riana Sibarani",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Dr. dr. Leo Simanjuntak, Sp.OG",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengawas": [
+        {
+          "nama": "dr . Rosma Napitupulu, MARS",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Dr. Juliana Marpaung SKP, M. Kep",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Batara Lumbantobing, SE CFrA",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Diak. Solide Siahaan",
+          "jabatan": "Anggota"
+        }
+      ],
+      "unitKerja": [
+        {
+          "unit": "Rumah Sakit HKBP Balige",
+          "pegawai": [
+            {
+              "nama": "dr. Benni Sinaga, Sp.B.",
+              "jabatan": "Direktur"
+            },
+            {
+              "nama": "Pdt. Charles Hasudungan Lumbantobing M. Th",
+              "jabatan": "Pendeta Fungsional"
+            },
+            {
+              "nama": "Pdt. Nagariang Hutagalung S. Th",
+              "jabatan": "Pendeta Fungsional"
+            },
+            {
+              "nama": "Pdt. Pastiana Sipangkar S. Th",
+              "jabatan": "Pendeta Fungsional"
+            },
+            {
+              "nama": "Pdt. Suwandi Sianturi S.Th",
+              "jabatan": "Pendeta Fungsional"
+            },
+            {
+              "nama": "Diak. Apt. Rini Hardianti Pakpahan S. Farm",
+              "jabatan": "Diakones Fungsional"
+            },
+            {
+              "nama": "Diak. Ardina Sihombing",
+              "jabatan": "Diakones"
+            },
+            {
+              "nama": "Diak. Juita Ida Royani Malau",
+              "jabatan": "Diakones Fungsional"
+            },
+            {
+              "nama": "Diak. Klara Marpaung",
+              "jabatan": "Diakones"
+            },
+            {
+              "nama": "Diak. Pentina Tinurmala Nababan",
+              "jabatan": "Diakones"
+            }
+          ]
+        },
+        {
+          "unit": "AKPER HKBP",
+          "pegawai": [
+            {
+              "nama": "Jane Wilda Irmawati Sirait, S.Kep.,Ns.,M.Kes.",
+              "jabatan": "Direktur"
+            },
+            {
+              "nama": "Diak Rosdiana Sitompul, S.PK",
+              "jabatan": "Ibu Asrama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "yayasan": "Yayasan Sopo Marpingkir Pembina",
+      "detail": {
+        "alamat": "Jl. Pdt. W.R. Hutagalung No. 4, Pematangsiantar, Sumatera Utara 21121",
+        "email": "sopomarpingkir@hkbp.or.id",
+        "telepon": "(0622) 7553110",
+        "web": "hkbp.or.id"
+      },
+      "pembina": [
+        {
+          "nama": "Pdt. Dr. Victor Tinambunan MST",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Pdt. Rikson M Hutahaean M. Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Dr. Deonal Sinaga",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik M. Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Eldarton Simbolon D.Min",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengurus": [
+        {
+          "nama": "Drs. Pontas Pane, Ak., SH., MM., CA., CTA",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Ir. Tambok Parulian Setyawati Pasaribu br. Simanjuntak, MM",
+          "jabatan": "Sekretaris Umum"
+        },
+        {
+          "nama": "Pdt. Ridoi Batubara, S.Th., M.Pd.K",
+          "jabatan": "Sekretaris"
+        },
+        {
+          "nama": "Dra. Sandra Sidabutar",
+          "jabatan": "Bendahara"
+        }
+      ],
+      "pengawas": [
+        {
+          "nama": "Zukeng Manullang, S.E",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Mauritz Soaloon Hasibuan",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Dr. David Lumbantobing, SH, M.Kn.",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik, M.Th (Praeses HKBP Distrik VIII DKI Jakarta, ex-officio)",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Mangatur Manurung, M.Th (Praeses HKBP Distrik XIX Bekasi, ex-officio)",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Nekson Simanjuntak M.Th (Praeses HKBP Distrik XXVIII Deboskab, ex-officio)",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Juniaster Hutauruk M.Th (Praeses HKBP Distrik XXI Banten, ex-officio)",
+          "jabatan": "Anggota"
+        }
+      ],
+      "unitKerja": []
+    },
+    {
+      "yayasan": "Yayasan Usaha",
+      "detail": {
+        "alamat": "Jl. Pdt. W.R. Hutagalung No. 4, Pematangsiantar, Sumatera Utara 21121",
+        "email": "",
+        "telepon": "(0622) 7553110",
+        "web": "hkbp.or.id"
+      },
+      "pembina": [
+        {
+          "nama": "Pdt. Dr. Victor Tinambunan, MST",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Pdt. Rikson Mangapul Hutahaean, M.Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Dr. Deonal Sinaga",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik M.Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Eldarton Simbolon, D.Min",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengurus": [
+        {
+          "nama": "Rionald Silaban, SH LLM",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Drs. Pontas Pane, Ak., SH., MM., CA., CTA",
+          "jabatan": "Wakil Ketua"
+        },
+        {
+          "nama": "Ir. Tambok Parulian Setyawati Pasaribu br. Simanjuntak, MM",
+          "jabatan": "Sekretaris"
+        },
+        {
+          "nama": "Lesman Pangaribuan, SE, MM",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Jonggi Manalu",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Dr. David Lumbantobing, SH, Mkn",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengawas": [
+        {
+          "nama": "St. Zukeng Manullang, SE",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Mauritz Soaloon Hasibuan",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Kombes Pol (Purn.) Dr. Maruli Siahaan, SH, MH",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Dr. Van Basten Panjaitan",
+          "jabatan": "Anggota"
+        }
+      ],
+      "unitKerja": []
+    },
+    {
+      "yayasan": "Yayasan STT HKBP",
+      "detail": {
+        "alamat": "Jln. Sangnawaluh No. 6, Pematangsiantar, Sumatera Utara 21132",
+        "email": "info@stt-hkbp.ac.id",
+        "telepon": "0622 - 7551406",
+        "web": "stthkbp.ac.id"
+      },
+      "pembina": [
+        {
+          "nama": "Pdt. Dr. Victor Tinambunan, MST",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Pdt. Rikson Mangapul Hutahaean, M.Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Dr. Deonal Sinaga",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik, M.Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Eldarton Simbolon, D.Min",
+          "jabatan": "Anggota"
+        }
+      ],
+      "pengurus": [
+        {
+          "nama": "Pdt. Daniel Taruli Asi Harahap, M.Th.",
+          "jabatan": "Ketua Umum"
+        },
+        {
+          "nama": "St. Ir. Albert Simanjuntak, MBA",
+          "jabatan": "Ketua 1"
+        },
+        {
+          "nama": "Josua Sagala, S.Sos",
+          "jabatan": "Ketua 2"
+        },
+        {
+          "nama": "Dra. Sandra Sidabutar",
+          "jabatan": "Wakil Ketua 1"
+        },
+        {
+          "nama": "Prof. Dr. Jongkers Tampubolon",
+          "jabatan": "Wakil Ketua 2"
+        },
+        {
+          "nama": "Pdt. Dr. Jhon Kristo Naibaho",
+          "jabatan": "Sekretaris Umum"
+        },
+        {
+          "nama": "Pdt. Dr. Benny Sinaga",
+          "jabatan": "Sekretaris"
+        },
+        {
+          "nama": "St. Ir. Alusdin Sinaga",
+          "jabatan": "Bendahara Umum"
+        },
+        {
+          "nama": "Chitra Rosa Herlina Panjaitan, SE",
+          "jabatan": "Bendahara"
+        }
+      ],
+      "pengawas": [
+        {
+          "nama": "Pdt. Dr. Darwin Lumbantobing",
+          "jabatan": "Ketua"
+        },
+        {
+          "nama": "Pdt. Prof. Binsar Jonathan Pakpahan, Ph.D.",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Maurixon Silitonga, M.Th",
+          "jabatan": "Anggota"
+        },
+        {
+          "nama": "Pdt. Bernard Manik, M.Th",
+          "jabatan": "Anggota"
+        }
+      ],
+      "unitKerja": []
+    }
+  ]
+}
