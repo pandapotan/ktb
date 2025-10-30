@@ -14991,8 +14991,6 @@
       ]
     },
     {
-  "distrik": [
-    {
       "nomor": "16",
       "nama": "DISTRIK XVI HUMBANG HABINSARAN",
       "alamat": "Jl. Tugu No. 2 Siborongborong, Kec. Siborongborong Kab. Tapanuli Utara",
@@ -15259,10 +15257,7 @@
           ], "statistik": { "jumlah_keluarga": 505, "ama": 402, "ina": 478, "naposo_pria": 454, "naposo_wanita": 314, "anak_pria": 244, "anak_wanita": 160, "total": 2052 }
         }
       ]
-    }
-  ]
-},
-
+    },
     {
       "nomor": "17",
       "nama": "DISTRIK XVII INDONESIA BAGIAN TIMUR",
@@ -16740,8 +16735,7 @@
         }
       ]
     },
-    {
-  "distrik": [
+ 
     {
       "nomor": "21",
       "nama": "DISTRIK XXI BANTEN",
@@ -16961,10 +16955,8 @@
           "statistik": { "jumlah_keluarga": 248, "ama": 227, "ina": 242, "naposo_pria": 71, "naposo_wanita": 91, "anak_pria": 104, "anak_wanita": 130, "total": 865 }
         }
       ]
-    }
-  ]
-},
-{
+    },
+    {
     "nomor": "22",
     "nama": "DISTRIK XXII RIAU",
     "alamat": "Jl. Hang Tuah No. 36 Pekanbaru 28111",
