@@ -1,0 +1,1205 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "departemen": [
+    {
+      "kode": "A",
+      "nama": "Ephorus",
+      "pegawai": [
+        {
+          "nomorUrut": 20,
+          "nama": "Pdt. Abednego Sitompul, M.Th.",
+          "jabatan": "Staf Khusus Ephorus"
+        },
+        {
+          "nomorUrut": 21,
+          "nama": "Pdt. Daminna Lumban Siantar, S.Th.",
+          "jabatan": "Staf Khusus Ephorus"
+        },
+        {
+          "nomorUrut": 36,
+          "nama": "Pdt. Nelson Situmeang, M.Th.",
+          "jabatan": "Sekhus Ephorus"
+        },
+        {
+          "nomorUrut": 58,
+          "nama": "Pdt. Juliana Sinambela, S.Th.",
+          "jabatan": "Pendeta Fungsional di Kantor Ephorus"
+        },
+        {
+          "nomorUrut": 59,
+          "nama": "Pdt. Filemon Fridesliantro Sigalingging, S.Th.",
+          "jabatan": "Pendeta Fungsional di Kantor Ephorus"
+        }
+      ],
+      "unit_kerja": []
+    },
+    {
+      "kode": "B",
+      "nama": "Dept. Koinonia",
+      "pegawai": [
+        {
+          "nomorUrut": 38,
+          "nama": "Pdt. Nixcon Simanungkalit, M.Th, M.Ars.",
+          "jabatan": "Sekhus Kadep. Koinonia"
+        },
+        {
+          "nomorUrut": 60,
+          "nama": "Pdt. Frans Mario Sormin, STh.",
+          "jabatan": "Pendeta Fungsional di Kantor Kadep. Koinonia"
+        },
+        {
+          "nomorUrut": 182,
+          "nama": "CPdt. Jeremy Douglas Sidauruk, S.Th.",
+          "jabatan": "Calon Pendeta di Kantor Kadep. Koinonia"
+        }
+      ],
+      "unit_kerja": [
+        {
+          "nama": "Biro Kat. Pemuda Remaja & Sekolah Minggu",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 11,
+              "nama": "Pdt. Toho Sinaga, S.Th, M.I.Kom.",
+              "jabatan": "Kepala Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 13,
+              "nama": "Pdt. Herwin P. Simarmata, M.Th.",
+              "jabatan": "Kepala Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 31,
+              "nama": "Bvr. Marthalena Sinaga, M.Th.",
+              "jabatan": "Waka. Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 83,
+              "nama": "Pdt. Franciska Marcia Julianti Silaen, M.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 84,
+              "nama": "Pdt. May Luther Dewanto Sinaga, M.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 85,
+              "nama": "Pdt. Sahat Monang Sahalatua P. Sagala, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 86,
+              "nama": "Pdt. Togu Parulian Nababan, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Pemuda Remaja & Sekolah Minggu"
+            },
+            {
+              "nomorUrut": 189,
+              "nama": "CPdt. Destri Ayu Natalia Hutauruk, S.Si. (Teol.)",
+              "jabatan": "Calon Pendeta di Biro Kat. Remaja Naposobulung"
+            },
+            {
+              "nomorUrut": 193,
+              "nama": "CPdt. Maranata Nainggolan, S.Si.(Teol.)",
+              "jabatan": "Calon Pendeta di Biro Kat. Remaja Naposobulung"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Kat. Ama Lansia",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 12,
+              "nama": "Pdt. Hantus Hutapea, S. Th.",
+              "jabatan": "Kepala Biro Kat. Ama Lansia"
+            },
+            {
+              "nomorUrut": 87,
+              "nama": "Pdt. Barita Halomoan Pasaribu",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Ama Lansia"
+            },
+            {
+              "nomorUrut": 88,
+              "nama": "Pdt. Febri Setiadi Hutapea, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Ama Lansia"
+            },
+            {
+              "nomorUrut": 89,
+              "nama": "Pdt. Jungjungan Simanungkalit, M.Div.",
+              "jabatan": "Pendeta Fungsional di Biro Kat. Ama Lansia"
+            },
+            {
+              "nomorUrut": 192,
+              "nama": "CPdt. Josua Tua Nopriasi Hutabarat, S.Th.",
+              "jabatan": "Calon Pendeta di Biro Kat. Ama Lansia"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Kat. Parompuan",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 14,
+              "nama": "Bvr. Risma Sinaga, S.Th, M.Hum.",
+              "jabatan": "Kepala Biro Kat. Parompuan"
+            },
+            {
+              "nomorUrut": 117,
+              "nama": "Bvr. Marini Simanjuntak",
+              "jabatan": "Bibelvrouw Fungsional di Biro Parompuan"
+            },
+            {
+              "nomorUrut": 118,
+              "nama": "Bvr. Tioma Lasti Marito Simamora",
+              "jabatan": "Bibelvrouw Fungsional di Biro Parompuan"
+            },
+            {
+              "nomorUrut": 140,
+              "nama": "Diak. Merly Hutabarat",
+              "jabatan": "Diakones Fungsional di Biro Kat. Parompuan"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Pembinaan",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 10,
+              "nama": "Pdt. Dr. Enig Sonatha Aritonang",
+              "jabatan": "Kepala Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 26,
+              "nama": "Pdt. Agus Pordinan Siagian, S.Si. (Teol.)",
+              "jabatan": "Waka. Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 78,
+              "nama": "Pdt. Kacon Nababan, Sm.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 79,
+              "nama": "Pdt. Melky Patar Purba, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 80,
+              "nama": "Pdt. Veronica Brilliant Manurung, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 81,
+              "nama": "Pdt. Ramos Hakta Tua Tambunan, S.Si. (Teol)",
+              "jabatan": "Pendeta Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 82,
+              "nama": "Pdt. Retno Septaudina Manik, M.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 108,
+              "nama": "Gr. Adel Barto Silaban",
+              "jabatan": "Guru Huria Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 109,
+              "nama": "Gr. Andrew Pardamean Madison Sinambela",
+              "jabatan": "Guru Huria Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 116,
+              "nama": "Bvr. Rianti Silitonga",
+              "jabatan": "Bibelvrouw Fungsional di Biro Pembinaan"
+            },
+            {
+              "nomorUrut": 188,
+              "nama": "CPdt. Andi Wisno Silaban, S.Si. (Teol.)",
+              "jabatan": "Calon Pendeta di Biro Pembinaan"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Oikumene",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 9,
+              "nama": "Pdt. Mika Purba, S.Th.",
+              "jabatan": "Kepala Biro Oikumene"
+            },
+            {
+              "nomorUrut": 27,
+              "nama": "Pdt. Tumpal Sitio, S.Th.",
+              "jabatan": "Waka. Biro Oikumene"
+            },
+            {
+              "nomorUrut": 73,
+              "nama": "Pdt. Chris Desina Sianturi, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Oikumene"
+            }
+          ]
+        },
+        {
+          "nama": "Sekretaris Kemitraan",
+          "jenis": "Sekretariat",
+          "pegawai": [
+            {
+              "nomorUrut": 34,
+              "nama": "Bvr. Asni Pasaribu",
+              "jabatan": "Sekretaris Mitra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "C",
+      "nama": "Dept. Marturia",
+      "pegawai": [],
+      "unit_kerja": [
+        {
+          "nama": "Biro Pekabaran Injil",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 16,
+              "nama": "",
+              "jabatan": "Kepala Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 29,
+              "nama": "Pdt. Dobes Manullang, S.Th.",
+              "jabatan": "Waka. Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 30,
+              "nama": "Pdt. Freddy Antonius Limbong, M.Th.",
+              "jabatan": "Waka. Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 51,
+              "nama": "Diak. Linda R.U Siregar",
+              "jabatan": "Kaur. Adm. Keuangan Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 91,
+              "nama": "Pdt. Tiamsa Sitorus, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 92,
+              "nama": "Pdt. Debora Purada Sinaga, M.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 93,
+              "nama": "Pdt. Jolly Rajagukguk, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 94,
+              "nama": "Pdt. Yunus Ucok Hutapea, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 95,
+              "nama": "Pdt. Yones Henry Sihotang, S.Th, MM.",
+              "jabatan": "Pendeta Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 119,
+              "nama": "Bvr. Cleopatra Sitorus",
+              "jabatan": "Bibelvrouw Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 120,
+              "nama": "Bvr. Sulastri Romauli Sitompul",
+              "jabatan": "Bibelvrouw Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 142,
+              "nama": "Diak. Rita Suryani Tambunan, S.Ag.",
+              "jabatan": "Diakones Fungsional di Biro Pekabaran Injil"
+            },
+            {
+              "nomorUrut": 197,
+              "nama": "CBvr. Lina Manalu, S.Ag.",
+              "jabatan": "Calon Bibelvrouw Departemen Marturia"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Ibadah Dan Musik",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 15,
+              "nama": "Pdt. Rostetty Lumban Tobing, S.Th.",
+              "jabatan": "Kepala Biro Ibadah & Musik"
+            },
+            {
+              "nomorUrut": 44,
+              "nama": "Pdt. Susi Endang Novianti Hutabarat, S.Th.",
+              "jabatan": "Kabag. Biro Ibadah Musik"
+            },
+            {
+              "nomorUrut": 191,
+              "nama": "CPdt. Johannes Sibarani, S.Th.",
+              "jabatan": "Calon Pendeta di Biro Ibadah & Musik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "D",
+      "nama": "Dept. Diakonia",
+      "pegawai": [
+        {
+          "nomorUrut": 39,
+          "nama": "Pdt. Adolf Lago Alcapone Napitupulu, S.Th",
+          "jabatan": "Sekhus Kadep. Diakonia"
+        },
+        {
+          "nomorUrut": 61,
+          "nama": "Pdt. Andy Lumban Gaol, S.Th.",
+          "jabatan": "Pendeta Fungsional di Kantor Kadep. Diakonia Khusus Menangani Tanggap Bencana (Tabe)"
+        },
+        {
+          "nomorUrut": 62,
+          "nama": "Pdt. Ben Petrus Sianturi, S.Th.",
+          "jabatan": "Pendeta Fungsional di Kantor Kadep. Diakonia bidang Transformasi dan Informasi"
+        },
+        {
+          "nomorUrut": 63,
+          "nama": "Pdt. John Wesly Luas Hamonangan Siregar, S.Th.",
+          "jabatan": "Pendeta Fungsional di Kantor Kadep. Diakonia"
+        },
+        {
+          "nomorUrut": 64,
+          "nama": "Pdt. Robinson Tumanggor",
+          "jabatan": "Pendeta Fungsional di Kantor Kadep. Diakonia"
+        },
+        {
+          "nomorUrut": 65,
+          "nama": "Pdt. Yuniar Dorthy M Lumbantobing, S.Th.",
+          "jabatan": "Pendeta Fungsional di Kantor Kadep. Diakonia Membidangi JPIC Gender"
+        },
+        {
+          "nomorUrut": 113,
+          "nama": "Bvr. Ester Rosmina Manurung",
+          "jabatan": "Bibelvrouw Fungsional di Kantor Kadep. Diakonia"
+        },
+        {
+          "nomorUrut": 114,
+          "nama": "Bvr. Harmonis Berutu",
+          "jabatan": "Bibelvrouw Fungsional di Kantor Kadep. Diakonia"
+        },
+        {
+          "nomorUrut": 132,
+          "nama": "Diak. Dame Rumondang Manalu",
+          "jabatan": "Diakones Fungsional di Kantor Kadep. Diakonia"
+        },
+        {
+          "nomorUrut": 133,
+          "nama": "Diak. Sulastri Sinaga, S.Ag.",
+          "jabatan": "Diakones Fungsional di Kantor Kadep Diakonia"
+        },
+        {
+          "nomorUrut": 183,
+          "nama": "CPdt. Ingwer Dirgahayu Sihotang, S.Si. (Teol.)",
+          "jabatan": "Calon Pendeta di Kantor Kadep. Diakonia(Hephata)"
+        },
+        {
+          "nomorUrut": 198,
+          "nama": "CDiak. Elfriade Silalahi, S.Ag.",
+          "jabatan": "Calon Diakones Departemen Diakonia (ODGJ)"
+        }
+      ],
+      "unit_kerja": [
+        {
+          "nama": "Biro Diakoni Sosial",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 17,
+              "nama": "Pdt. Osten John Henry Matondang, S.Th.",
+              "jabatan": "Kepala Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 28,
+              "nama": "Pdt. Aldiner Sinaga, M.Th.",
+              "jabatan": "Waka. Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 45,
+              "nama": "Pdt. Mangara Tua Siagian, Sm.Th.",
+              "jabatan": "Kabag. Pelayan Masyarakat Biro Diakonia Sosial"
+            },
+            {
+              "nomorUrut": 46,
+              "nama": "Pdt. Ridho Kardo Parhusip, M.Th.",
+              "jabatan": "Kabag. Adm Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 52,
+              "nama": "Diak. Santa Lucia Dessi Arisandi Sitompul",
+              "jabatan": "Kaur. Adm. Keuangan Biro Diakonia Sosial"
+            },
+            {
+              "nomorUrut": 96,
+              "nama": "Pdt. Galumbang Rajagukguk, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 97,
+              "nama": "Pdt. Panahatan Marpaung, S. Th.",
+              "jabatan": "Pendeta Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 112,
+              "nama": "Gr. Lagian.J. Purba",
+              "jabatan": "Guru Huria Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 121,
+              "nama": "Bvr. Dumawar Manullang",
+              "jabatan": "Bibelvrouw Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 122,
+              "nama": "Bvr. Saulina Manalu",
+              "jabatan": "Bibelvrouw Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 123,
+              "nama": "Bvr. Sri Indah Siagian",
+              "jabatan": "Bibelvrouw Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 124,
+              "nama": "Bvr. Roslina Hasugian",
+              "jabatan": "Bibelvrouw Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 125,
+              "nama": "Bvr. Rumery Simangungsong",
+              "jabatan": "Bibelvrouw Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 144,
+              "nama": "Diak. Eleven May Saulina Hasugian",
+              "jabatan": "Diakones Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 145,
+              "nama": "Diak. Lasmaria Hasibuan",
+              "jabatan": "Diakones Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 146,
+              "nama": "Diak. Palentina Samosir",
+              "jabatan": "Diakones Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 147,
+              "nama": "Diak. Windah Mayasari Simbolon, S.Ag.",
+              "jabatan": "Diakones Fungsional di Biro Diakoni Sosial"
+            },
+            {
+              "nomorUrut": 173,
+              "nama": "Diak. Rolinda Hernawaty Bakkara",
+              "jabatan": "Diakones Fungsional bertugas di CUM Biro Diakoni Sosial"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Pengembangan Masyarakat",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 18,
+              "nama": "Pdt. Jonni Sihite, S.Th, M.M.",
+              "jabatan": "Kepala Biro Pengembangan Masyarakat"
+            },
+            {
+              "nomorUrut": 47,
+              "nama": "Pdt. Hermansyah David Pratama Sihombing, S.Si.",
+              "jabatan": "Kabag. Adm Biro Pengembangan Masyarakat"
+            },
+            {
+              "nomorUrut": 48,
+              "nama": "Diak. Arita Simbolon",
+              "jabatan": "Kabag. Adm. Departemen Diakonia"
+            },
+            {
+              "nomorUrut": 49,
+              "nama": "Diak. Nurhayati Silalahi, S.Psi.",
+              "jabatan": "Kabag. JPIC Departemen Diakonia"
+            },
+            {
+              "nomorUrut": 53,
+              "nama": "Diak. Yeni Eria Togatorop, S.Ag.",
+              "jabatan": "PLT Wakabiro Pengembangan Masyarakat -- Pengembangan Integrated Farming di Jetun -Silangit"
+            },
+            {
+              "nomorUrut": 98,
+              "nama": "Pdt. Marudut Hutabarat, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pengembangan Masyarakat"
+            },
+            {
+              "nomorUrut": 99,
+              "nama": "Pdt. Juares Pardede, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Pengembangan Masyarakat"
+            },
+            {
+              "nomorUrut": 143,
+              "nama": "Diak. Ida Simanjuntak",
+              "jabatan": "Diakones Fungsional di Biro Pengembangan Masyarakat"
+            },
+            {
+              "nomorUrut": 159,
+              "nama": "Diak. Nurmida Sitohang",
+              "jabatan": "Diakones Fungsional di Biro Pengembangan Masyarakat"
+            }
+          ]
+        },
+        {
+          "nama": "Panti Asuhan Elim",
+          "jenis": "Panti Asuhan",
+          "pegawai": [
+            {
+              "nomorUrut": 22,
+              "nama": "Pdt. Evelin Suminar Idayanti Sihombing. S.Th.",
+              "jabatan": "Pimpinan PA Elim"
+            },
+            {
+              "nomorUrut": 50,
+              "nama": "Pdt. Tulusni Deswita Siburian, S.Th.",
+              "jabatan": "Kaur. Keuangan PA Elim"
+            },
+            {
+              "nomorUrut": 55,
+              "nama": "Pdt. Nevri Sandonal Pasaribu, S.Th.",
+              "jabatan": "Bapak Asrama P. A Elim"
+            },
+            {
+              "nomorUrut": 57,
+              "nama": "Diak. Sorawati E. Sianturi",
+              "jabatan": "Ibu Asrama PA Elim"
+            },
+            {
+              "nomorUrut": 101,
+              "nama": "Pdt. Nelvi Sentiani Simamora, S.Th.",
+              "jabatan": "Pendeta Fungsional di PA Elim"
+            },
+            {
+              "nomorUrut": 169,
+              "nama": "Diak. Lempine Hutapea",
+              "jabatan": "Diakones Fungsional di PA Elim"
+            },
+            {
+              "nomorUrut": 190,
+              "nama": "CPdt. Ebenezer Marbun, S.Th.",
+              "jabatan": "Calon Pendeta di PK Hephata"
+            }
+          ]
+        },
+        {
+          "nama": "Panti Karya Hephata",
+          "jenis": "Panti Asuhan",
+          "pegawai": [
+            {
+              "nomorUrut": 23,
+              "nama": "Diak. Risma Siregar, M.Min.",
+              "jabatan": "Pimpinan PK Hephata"
+            },
+            {
+              "nomorUrut": 128,
+              "nama": "Bvr. Heppy M. Hutabarat",
+              "jabatan": "Bibelvrouw Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 129,
+              "nama": "Bvr. Kartini Boangmanalu",
+              "jabatan": "Bibelvrouw Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 148,
+              "nama": "Diak. Lusi Sihombing",
+              "jabatan": "Diakones Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 149,
+              "nama": "Diak. Domika Franita Silaban",
+              "jabatan": "Diakones Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 150,
+              "nama": "Diak. Konia Wira Rajagukguk, S.Ag.",
+              "jabatan": "Diakones Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 151,
+              "nama": "Diak. Netti Nia Denyati Tampubolon, S. Ag.",
+              "jabatan": "Diakones Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 152,
+              "nama": "Diak. Ribka Tarigan, S.Ag.",
+              "jabatan": "Diakones Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 168,
+              "nama": "Diak. Yatria Halawa",
+              "jabatan": "Diakones Fungsional di PK Hephata"
+            },
+            {
+              "nomorUrut": 174,
+              "nama": "Diak. Roslin Monru Surtauli Sirait",
+              "jabatan": "Diakones Fungsional bertugas di RBM PK Hephata"
+            },
+            {
+              "nomorUrut": 199,
+              "nama": "CDiak. Roma Fitriani Pakpahan, S.Ag.",
+              "jabatan": "Calon Diakones Panti Karya Hephata"
+            },
+            {
+              "nomorUrut": 200,
+              "nama": "CDiak. Sentia Febriani, S.Ag.",
+              "jabatan": "Calon Diakones Panti Karya Hephata"
+            }
+          ]
+        },
+        {
+          "nama": "HKBP AIDS Ministry",
+          "jenis": "Ministri",
+          "pegawai": [
+            {
+              "nomorUrut": 35,
+              "nama": "Diak. Berlina Sibagariang",
+              "jabatan": "Sekretaris Exekutif AIDS Ministry"
+            },
+            {
+              "nomorUrut": 54,
+              "nama": "Diak. Oka Nurhayati Harianja",
+              "jabatan": "Kaur. Adm. Aids Ministry"
+            },
+            {
+              "nomorUrut": 130,
+              "nama": "Bvr. Marista Siagian",
+              "jabatan": "Bibelvrouw Fungsional di AIDS Ministry"
+            },
+            {
+              "nomorUrut": 160,
+              "nama": "Diak. Adha Pratiwi Sianturi, S.Ag.",
+              "jabatan": "Diakones Fungsional di AIDS Ministry"
+            },
+            {
+              "nomorUrut": 161,
+              "nama": "Diak. Melda Desirani Simanjuntak, S.Ag.",
+              "jabatan": "Diakones Fungsional di AIDS Ministry"
+            },
+            {
+              "nomorUrut": 162,
+              "nama": "Diak. Nadia Tresa Manurung, S.Ag.",
+              "jabatan": "Diakones Fungsional di AIDS Ministry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "E",
+      "nama": "Sekretariat Jenderal",
+      "pegawai": [
+        {
+          "nomorUrut": 37,
+          "nama": "Pdt. Tulus Johansen Aritonang, S.Th.",
+          "jabatan": "Sekhus Sekretarit Jenderal"
+        }
+      ],
+      "unit_kerja": [
+        {
+          "nama": "Biro Jemaat",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 1,
+              "nama": "Pdt. Eden Ramses Siahaan, S.Th, MM.",
+              "jabatan": "Kepala Biro Jemaat"
+            },
+            {
+              "nomorUrut": 24,
+              "nama": "Pdt. Berton Richard Hutapea, S.Th.",
+              "jabatan": "Waka. Biro Jemaat"
+            },
+            {
+              "nomorUrut": 40,
+              "nama": "Pdt. Samuel Herbert Hasibuan, M.Th.",
+              "jabatan": "Kabag. Inventaris Bag. Umum Biro Jemaat"
+            },
+            {
+              "nomorUrut": 41,
+              "nama": "Pdt. Justus Sihombing, S.Th.",
+              "jabatan": "Kabag. Arsip/Data Biro Jemaat"
+            },
+            {
+              "nomorUrut": 66,
+              "nama": "Pdt. Serly Octarina Tampubolon, S.Si. (Teol.)",
+              "jabatan": "Pendeta Fungsional di Biro Jemaat"
+            },
+            {
+              "nomorUrut": 107,
+              "nama": "Gr. Jodi.M. Simamora",
+              "jabatan": "Guru Huria Fungsional di Biro Jemaat"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Personalia",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 2,
+              "nama": "Pdt. Pahala Sitorus, S.Th.",
+              "jabatan": "Kepala Biro Personalia"
+            },
+            {
+              "nomorUrut": 25,
+              "nama": "Pdt. Jhon Edison Silitonga, S.Th.",
+              "jabatan": "Waka. Biro Personalia"
+            },
+            {
+              "nomorUrut": 32,
+              "nama": "Pdt. Jans Pandapotan Siagian, M.Fil.",
+              "jabatan": "Sekretaris Biro Personalia"
+            },
+            {
+              "nomorUrut": 42,
+              "nama": "Diak. Arita Simbolon",
+              "jabatan": "Kabag. Adm. Calon Pelayan Biro Personalia"
+            },
+            {
+              "nomorUrut": 67,
+              "nama": "Pdt. Fanuel Sopater Sihombing, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Personalia"
+            },
+            {
+              "nomorUrut": 68,
+              "nama": "Pdt. Julius Gihon Sitorus, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Personalia"
+            },
+            {
+              "nomorUrut": 115,
+              "nama": "Bvr. Elsyanti Gultom, S.Ag.",
+              "jabatan": "Bibelvrouw Fungsional di Biro Personalia"
+            },
+            {
+              "nomorUrut": 135,
+              "nama": "Diak. Maida Parasian Siagian, M. Div.",
+              "jabatan": "Diakones Fungsional di Biro Personalia"
+            },
+            {
+              "nomorUrut": 136,
+              "nama": "Diak. Diana Fungky Simanjuntak",
+              "jabatan": "Diakones Fungsional di Biro Personalia"
+            },
+            {
+              "nomorUrut": 184,
+              "nama": "CPdt. Laksana Fropen Gultom, S.Si. (Teol.)",
+              "jabatan": "Calon Pendeta di Biro Personalia"
+            },
+            {
+              "nomorUrut": 185,
+              "nama": "CPdt. Pahala Tiroi Putra Situngkir, S.Si. (Teol.)",
+              "jabatan": "Calon Pendeta di Biro Personalia"
+            },
+            {
+              "nomorUrut": 186,
+              "nama": "CPdt. Ronihot Lando Sitorus, S.Si.",
+              "jabatan": "Calon Pendeta di Biro Personalia"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Keuangan",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 3,
+              "nama": "Pdt. Manaris Rikson Edianto Simatupang, M.Th.",
+              "jabatan": "Bendahara Umum"
+            },
+            {
+              "nomorUrut": 33,
+              "nama": "Diak. Roslina Sihombing",
+              "jabatan": "Sekretaris Biro Keuangan"
+            },
+            {
+              "nomorUrut": 139,
+              "nama": "Diak. Lamria Tris Yuniati Lumbantobing",
+              "jabatan": "Diakones Fungsional di Biro Keuangan"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Hukum",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 5,
+              "nama": "Pdt. Betty Donda Laura Sihombing, S.Th, SH.",
+              "jabatan": "Kepala Biro Hukum"
+            },
+            {
+              "nomorUrut": 69,
+              "nama": "Pdt. Togarisman Sahat Apriando Tarihoran, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Hukum"
+            },
+            {
+              "nomorUrut": 137,
+              "nama": "Diak. Elsa Rajagukguk",
+              "jabatan": "Diakones Fungsional di Biro Hukum"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Umum",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 4,
+              "nama": "Pdt. Fredy H Tinambunan, S.Th, MM.",
+              "jabatan": "Kepala Biro Umum"
+            },
+            {
+              "nomorUrut": 187,
+              "nama": "CPdt. Jelita Sari Sinaga, S. Th.",
+              "jabatan": "Calon Pendeta di Biro Umum"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Informasi",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 6,
+              "nama": "Pdt. Fortunate Sukses Monday Siagian, M.Th.",
+              "jabatan": "Kepala Biro Informasi"
+            },
+            {
+              "nomorUrut": 43,
+              "nama": "Pdt. Sarinah Novayanti Simanullang, S.Th.",
+              "jabatan": "Kabag. Adm Biro Informasi"
+            },
+            {
+              "nomorUrut": 74,
+              "nama": "Pdt. Cintya Crisna Pardede, M.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Informasi"
+            },
+            {
+              "nomorUrut": 75,
+              "nama": "Pdt. Irwan Parapat, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Informasi"
+            },
+            {
+              "nomorUrut": 76,
+              "nama": "Pdt. Netti Dwi Roma Pasaribu, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Informasi"
+            },
+            {
+              "nomorUrut": 77,
+              "nama": "Pdt. Rut Toman Jaya Nitami Simanullang, S.Th.",
+              "jabatan": "Pendeta Fungsional di Biro Informasi"
+            },
+            {
+              "nomorUrut": 194,
+              "nama": "CPdt. Tommy Eko Alexander Tamba, S.Th.",
+              "jabatan": "Calon Pendeta di Biro Informasi"
+            }
+          ]
+        },
+        {
+          "nama": "Biro Dana Pensiun",
+          "jenis": "Biro",
+          "pegawai": [
+            {
+              "nomorUrut": 8,
+              "nama": "Pdt. Reinhard Poltak Paris Lumban Tobing, S.Th.",
+              "jabatan": "Ketua Komite Pensiun"
+            },
+            {
+              "nomorUrut": 70,
+              "nama": "Pdt. Purnama Situmeang, S.Th.",
+              "jabatan": "Pendeta Fungsional Komite Dana Pensiun Ub.Urusan BPJS Kesehatan Kolektif"
+            },
+            {
+              "nomorUrut": 71,
+              "nama": "Pdt. Derita Nurmala Sari Hutagaol, S.Th.",
+              "jabatan": "Pendeta Fungsional Komite Dana Pensiun"
+            },
+            {
+              "nomorUrut": 72,
+              "nama": "Pdt. Mikha Uli Simanungkalit, S.Si. (Teol.)",
+              "jabatan": "Pendeta Fungsional Komite Dana Pensiun"
+            },
+            {
+              "nomorUrut": 138,
+              "nama": "Diak. Kartini Sri Junita Sitohang",
+              "jabatan": "Diakones Fungsional di Komite Pensiun"
+            }
+          ]
+        },
+        {
+          "nama": "Unit Usaha Percetakan",
+          "jenis": "Unit Usaha",
+          "pegawai": []
+        },
+        {
+          "nama": "Komite HIV/AIDS",
+          "jenis": "Komite",
+          "pegawai": []
+        },
+        {
+          "nama": "Radio Bonafit FM",
+          "jenis": "Media",
+          "pegawai": [
+            {
+              "nomorUrut": 7,
+              "nama": "Pdt. Bintahan Harianja, M.Si.",
+              "jabatan": "Direktur PT Radio Bona Pasogit FM"
+            }
+          ]
+        },
+        {
+          "nama": "Unit Pelatihan Kerja",
+          "jenis": "Unit Pelatihan",
+          "pegawai": []
+        },
+        {
+          "nama": "Perkampungan Eben Ezer Sinaksak",
+          "jenis": "Fasilitas",
+          "pegawai": []
+        },
+        {
+          "nama": "Pengelola Jetty Silangit",
+          "jenis": "Pengelolaan",
+          "pegawai": [
+            {
+              "nomorUrut": 90,
+              "nama": "Pdt. Pendi Marbun, M.Div.",
+              "jabatan": "Pendeta Fungsional di Jetun Silangit"
+            },
+            {
+              "nomorUrut": 141,
+              "nama": "Diak. Sampe Situmeang",
+              "jabatan": "Diakones Fungsional di Perkampungan Jetun Silangit"
+            }
+          ]
+        },
+        {
+          "nama": "Tabor Parapat",
+          "jenis": "Fasilitas",
+          "pegawai": []
+        }
+      ]
+    }
+  ],
+  "lainnya": {
+    "nama": "Lainnya / Tugas Khusus",
+    "pegawai": [
+      {
+        "nomorUrut": 19,
+        "nama": "Pdt. Dr. Robinson Butarbutar",
+        "jabatan": "Sabbatical Leave"
+      },
+      {
+        "nomorUrut": 100,
+        "nama": "Pdt. Margareth Sianipar, S.Th.",
+        "jabatan": "Pendeta Fungsional bertugas di TK Farel Diakonia Pematangsiantar"
+      },
+      {
+        "nomorUrut": 102,
+        "nama": "Pdt. Panca Marito Munte, S.Th.",
+        "jabatan": "Pendeta Fungsional di SMA YP Pematangsiantar"
+      },
+      {
+        "nomorUrut": 103,
+        "nama": "Pdt. Benny Silitonga, S.Th.",
+        "jabatan": "Pendeta Fungsional di SMA YP Pematangsiantar"
+      },
+      {
+        "nomorUrut": 104,
+        "nama": "Pdt. Nirwana Simarsoit, S.Th.",
+        "jabatan": "Pendeta Fungsional di BPP"
+      },
+      {
+        "nomorUrut": 105,
+        "nama": "Pdt. Ria Rapina Dodent Simanjuntak, S.Th, M.Pd.",
+        "jabatan": "Pendeta Fungsional di BPP"
+      },
+      {
+        "nomorUrut": 106,
+        "nama": "Pdt. Rinda Adriani Hotdiaturan Panjaitan, S.Th.",
+        "jabatan": "Pendeta Fungsional di Kantor KRP"
+      },
+      {
+        "nomorUrut": 110,
+        "nama": "Gr. Jerry Simamora",
+        "jabatan": "Guru Huria Fungsional di Baniara Tele"
+      },
+      {
+        "nomorUrut": 111,
+        "nama": "Gr. Maripul Simanungkalit",
+        "jabatan": "Guru Huria Fungsional di Menara Tele"
+      },
+      {
+        "nomorUrut": 126,
+        "nama": "Bvr. Angela Margarettha Siahaan, S.Mis.",
+        "jabatan": "Bibelvrouw Fungsional Bertugas di Permata Diakonia"
+      },
+      {
+        "nomorUrut": 127,
+        "nama": "Bvr. Remista Tumanggor",
+        "jabatan": "Bibelvrouw Fungsional Bertugas di Permata Diakonia"
+      },
+      {
+        "nomorUrut": 131,
+        "nama": "Bvr. Afrida Nunika",
+        "jabatan": "Bibelvrouw Fungsional di Kantor KRP"
+      },
+      {
+        "nomorUrut": 134,
+        "nama": "Diak. Arlisna Sihombing",
+        "jabatan": "Diakones Fungsional Bertugas di NCC Seminarium Sipoholon"
+      },
+      {
+        "nomorUrut": 153,
+        "nama": "Diak. Ramsida N Siburian M. Si",
+        "jabatan": "Kepala Sekolah SD Latihan Pearaja"
+      },
+      {
+        "nomorUrut": 154,
+        "nama": "Diak. Lamrumenta Simorangkir",
+        "jabatan": "Diakones Fungsional di SD Latihan Pearaja"
+      },
+      {
+        "nomorUrut": 155,
+        "nama": "Diak. Jumita Pakpahan",
+        "jabatan": "Diakones Fungsional di SD Latihan Pearaja"
+      },
+      {
+        "nomorUrut": 156,
+        "nama": "Diak. Sri Rejeki Lubis",
+        "jabatan": "Kepala Sekolah TK Pembina"
+      },
+      {
+        "nomorUrut": 157,
+        "nama": "Diak. Eppi Natalia Tambunan",
+        "jabatan": "Diakones Fungsional di TK Pembina"
+      },
+      {
+        "nomorUrut": 158,
+        "nama": "Diak. Era Pinondang Elisabet Silalahi",
+        "jabatan": "Diakones Fungsional di TK Pembina"
+      },
+      {
+        "nomorUrut": 163,
+        "nama": "Diak. Lina Siallagan, S.Pd., MM.",
+        "jabatan": "Diakones Fungsional di TK Nazareth"
+      },
+      {
+        "nomorUrut": 164,
+        "nama": "Diak. Rita Dewi Sihombing",
+        "jabatan": "Diakones Fungsional di TK Nazareth"
+      },
+      {
+        "nomorUrut": 165,
+        "nama": "Diak. Ritawati Manik",
+        "jabatan": "Diakones Fungsional di TK Nazareth"
+      },
+      {
+        "nomorUrut": 166,
+        "nama": "Diak. Romauli Hutahaean",
+        "jabatan": "Diakones Fungsional di TK Nazareth"
+      },
+      {
+        "nomorUrut": 167,
+        "nama": "Diak. Rosdiana Sitorus",
+        "jabatan": "Diakones Fungsional di TK Farel Pematangsiantar"
+      },
+      {
+        "nomorUrut": 170,
+        "nama": "Diak. Lenti Nurhaida Pangaribuan",
+        "jabatan": "Diakones Fungsional bertugas sebagai Guru TK Diakonia"
+      },
+      {
+        "nomorUrut": 171,
+        "nama": "Diak. Debora Oktalina Silaban",
+        "jabatan": "Diakones Fungsional Bidang Pelayanan Kinesioteraphi"
+      },
+      {
+        "nomorUrut": 172,
+        "nama": "Diak. Quartini Situmorang, M.Psi.",
+        "jabatan": "Diakones Fungsional bertugas di Permata Diakonia"
+      },
+      {
+        "nomorUrut": 175,
+        "nama": "Diak. Hanna Elfrida Lumbantobing, SE",
+        "jabatan": "Bendahara BPP Pematangsiantar"
+      },
+      {
+        "nomorUrut": 176,
+        "nama": "Diak. Furida Simanjuntak, S.Sos.",
+        "jabatan": "Diakones Fungsional bertugas di Kantor KRP"
+      },
+      {
+        "nomorUrut": 177,
+        "nama": "Diak. Prani Tambunan",
+        "jabatan": "Diakones Fungsional bertugas di Kantor KRP"
+      },
+      {
+        "nomorUrut": 178,
+        "nama": "Diak. Runesty Rajagukguk",
+        "jabatan": "Diakones Fungsional di Kantor Badan Audit"
+      },
+      {
+        "nomorUrut": 179,
+        "nama": "Diak. Desra Ivana Sihombing, S.Ag.",
+        "jabatan": "Diakones Fungsional di Yayasan Diakonia Pelangi Kasih"
+      },
+      {
+        "nomorUrut": 180,
+        "nama": "Diak. Santun Sinaga",
+        "jabatan": "Diakones Fungsional di Yayasan Diakonia Pelangi Kasih"
+      },
+      {
+        "nomorUrut": 181,
+        "nama": "Diak. Devi Romauli Sianipar, S.Ag.",
+        "jabatan": "Diakones Fungsional di Yayasan Diakonia Pelangi Kasih"
+      },
+      {
+        "nomorUrut": 195,
+        "nama": "CGr. Philip Tito Gabriel Sitorus, S.Pd.",
+        "jabatan": "Calon Guru Huria Partohonan Badan / Lembaga (SMA BPP Siantar)"
+      },
+      {
+        "nomorUrut": 196,
+        "nama": "CGr. Rivan A.B. Marolop Hutapea, S.Pd.",
+        "jabatan": "Calon Guru Huria Partohonan Badan / Lembaga (SMA BPP Siantar)"
+      },
+      {
+        "nomorUrut": 56,
+        "nama": "Bvr. Naudur Sitompul",
+        "jabatan": "Ibu Asrama Universitas Nommensen Pematangsiantar"
+      }
+    ]
+  }
+}
