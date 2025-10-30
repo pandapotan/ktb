@@ -100,7 +100,7 @@
             "nomor": "01.02.03",
             "nama": "Lancat",
             "pelayan": "St. Boni Simatupang",
-            "pendeta_tambahan": "CPdt. Richi Ronaldo Manalu, S.Th."
+            "pelayan_fungsional": "CPdt. Richi Ronaldo Manalu, S.Th."
           },
           {
             "nomor": "01.02.04",
@@ -151,7 +151,7 @@
             "nomor": "01.02.13",
             "nama": "Batang Pane",
             "pelayan": "St. Henry Jhon Tampubolon",
-            "pendeta_tambahan": "CGr. Parotua Sipahutar, S.Pd."
+            "pelayan_fungsional": "CGr. Parotua Sipahutar, S.Pd."
           }
         ],
         "statistik": {
@@ -185,7 +185,7 @@
             "nomor": "01.03.03",
             "nama": "Sipangimbar",
             "pelayan": "St. Robert Siregar",
-            "pendeta_tambahan": "CPdt. Erni Maria Tambunan, S.Th."
+            "pelayan_fungsional": "CPdt. Erni Maria Tambunan, S.Th."
           },
           {
             "nomor": "01.03.04",
@@ -196,7 +196,7 @@
             "nomor": "01.03.05",
             "nama": "Sigolang",
             "pelayan": "St. Jonni Pasaribu",
-            "pendeta_tambahan": "CPdt. Salmandani Lambok Panjaitan, S.Th."
+            "pelayan_fungsional": "CPdt. Salmandani Lambok Panjaitan, S.Th."
           }
         ],
         "statistik": {
@@ -234,7 +234,7 @@
             "nomor": "01.04.03",
             "nama": "Tindoan Laut",
             "pelayan": "St. D. Simatupang",
-            "pendeta_tambahan": "CPdt. Harriman Situmeang, S.Th."
+            "pelayan_fungsional": "CPdt. Harriman Situmeang, S.Th."
           },
           {
             "nomor": "01.04.04",
@@ -392,7 +392,7 @@
             "nomor": "01.07.01",
             "nama": "Aek Bingke",
             "pelayan": "Pdt. Anggiat S Lumbantobing, M.Div.",
-            "pendeta_tambahan": "Bvr. Romauli Sitorus"
+            "pelayan_fungsional": "Bvr. Romauli Sitorus"
           },
           {
             "nomor": "01.07.02",
@@ -408,7 +408,7 @@
             "nomor": "01.07.04",
             "nama": "Lumban Pinasa",
             "pelayan": "St. Rislan Hutagalung",
-            "pendeta_tambahan": "CPdt. Ramli Otto Lumbantobing, S.Th."
+            "pelayan_fungsional": "CPdt. Ramli Otto Lumbantobing, S.Th."
           },
           {
             "nomor": "01.07.05",
@@ -467,7 +467,7 @@
             "nomor": "01.08.01",
             "nama": "Padang",
             "pelayan": "Pdt. Daniel Marpaung, S.Th.",
-            "pendeta_tambahan": "Gr. Harapan Maju Simamora"
+            "pelayan_fungsional": "Gr. Harapan Maju Simamora"
           },
           {
             "nomor": "01.08.02",
@@ -483,7 +483,7 @@
             "nomor": "01.08.04",
             "nama": "Gunung Talang",
             "pelayan": "St. Efendi Manurung",
-            "pendeta_tambahan": "CPdt. Yohana Simorangkir, S.Th."
+            "pelayan_fungsional": "CPdt. Yohana Simorangkir, S.Th."
           }
         ],
         "statistik": {
@@ -565,7 +565,7 @@
             "nomor": "01.10.03",
             "nama": "Siture",
             "pelayan": "St. Panangian H. Marpaung",
-            "pendeta_tambahan": "CDiak. Tio Florentina Girsang, S.Ag."
+            "pelayan_fungsional": "CDiak. Tio Florentina Girsang, S.Ag."
           },
           {
             "nomor": "01.10.04",
@@ -605,7 +605,7 @@
             "nomor": "01.11.01",
             "nama": "Panti",
             "pelayan": "Pdt. Murdani Parningotan Manullang, S.Th.",
-            "pendeta_tambahan": "Bvr. Rosanna Sianipar"
+            "pelayan_fungsional": "Bvr. Rosanna Sianipar"
           }
         ],
         "statistik": {
@@ -633,7 +633,7 @@
             "nomor": "01.12.01",
             "nama": "Immanuel",
             "pelayan": "Pdt. Marikon Simbolon, S.Th.",
-            "pendeta_tambahan": "CGr. Jamot Lumbantoruan, S.Pd."
+            "pelayan_fungsional": "CGr. Jamot Lumbantoruan, S.Pd."
           },
           {
             "nomor": "01.12.02",
@@ -675,7 +675,7 @@
             "nomor": "01.13.01",
             "nama": "Sisoma",
             "pelayan": "Pdt. Heince Hotman Simanjuntak, S.Th, MM.",
-            "pendeta_tambahan": "Pdt. Yobel Hutmasri Simanullang, M.Th."
+            "pelayan_fungsional": "Pdt. Yobel Hutmasri Simanullang, M.Th."
           },
           {
             "nomor": "01.13.02",
@@ -691,7 +691,7 @@
             "nomor": "01.13.04",
             "nama": "Lumban Jabijabi",
             "pelayan": "St. Dani Pandaoni Tampubolon",
-            "pendeta_tambahan": "CGr. Heri Wardiman Nainggolan, S.Pd."
+            "pelayan_fungsional": "CGr. Heri Wardiman Nainggolan, S.Pd."
           },
           {
             "nomor": "01.13.05",
@@ -731,7 +731,7 @@
             "nomor": "01.14.01",
             "nama": "Ujung Batu",
             "pelayan": "Pdt. Madjen Nababan, M.Div.",
-            "pendeta_tambahan": "Diak. Ermida Simanungkalit"
+            "pelayan_fungsional": "Diak. Ermida Simanungkalit"
           },
           {
             "nomor": "01.14.02",
@@ -752,7 +752,7 @@
             "nomor": "01.14.05",
             "nama": "PTPN IV PKS Sosa",
             "pelayan": "St. Maslin Lumban Gaol",
-            "pendeta_tambahan": "CDiak. Seprina Sari Pakpahan, S. Ag."
+            "pelayan_fungsional": "CDiak. Seprina Sari Pakpahan, S. Ag."
           },
           {
             "nomor": "01.14.06",
@@ -837,7 +837,7 @@
             "nomor": "01.16.01",
             "nama": "Sikarakara-II Natal",
             "pelayan": "Pdt. Charly Efendi Silalahi, M.Div.",
-            "pendeta_tambahan": "CPdt. Waldi Saputra Panggabean, S.Si. Teol."
+            "pelayan_fungsional": "CPdt. Waldi Saputra Panggabean, S.Si. Teol."
           },
           {
             "nomor": "01.16.02",
@@ -942,7 +942,7 @@
             "nomor": "01.17.07",
             "nama": "Mosa Palang",
             "pelayan": "St. Royan L. Banjarnahor",
-            "pendeta_tambahan": "CGr. Anggi Opendi Matondang, S.Pd."
+            "pelayan_fungsional": "CGr. Anggi Opendi Matondang, S.Pd."
           },
           {
             "nomor": "01.17.08",
@@ -963,7 +963,7 @@
             "nomor": "01.17.11",
             "nama": "Getsemane Janji Matogu",
             "pelayan": "St. Ahong N. P. Silaen",
-            "pendeta_tambahan": "CPdt. Rheina Thessalonika Silalahi, S.Th."
+            "pelayan_fungsional": "CPdt. Rheina Thessalonika Silalahi, S.Th."
           }
         ],
         "statistik": {
@@ -1133,7 +1133,7 @@
             "nomor": "02.02.01",
             "nama": "Simanungkalit",
             "pelayan": "Pdt. Agus Lumbantobing, M. Div.",
-            "pendeta_tambahan": [
+            "pelayan_fungsional": [
               "Gr. Dody Kasih Napitupulu, S.Pd.K.",
               "Diak. Doris Heppy Arnita Sinaga, S.Ag."
             ]
@@ -1262,7 +1262,7 @@
             "nomor": "02.05.01",
             "nama": "Onanhasang",
             "pelayan": "Pdt. Six Yanri Silitonga, S.Th.",
-            "pendeta_tambahan": "CPdt. Jhon Verry Nainggolan, S.Th."
+            "pelayan_fungsional": "CPdt. Jhon Verry Nainggolan, S.Th."
           },
           {
             "nomor": "02.05.02",
@@ -1576,13 +1576,13 @@
             "nomor": "02.10.01",
             "nama": "Sipahutar",
             "pelayan": "Pdt. Wesly Sitanggang, S.Th.",
-            "pendeta_tambahan": "Bvr. Dorlan Hutasoit, S.Ag."
+            "pelayan_fungsional": "Bvr. Dorlan Hutasoit, S.Ag."
           },
           {
             "nomor": "02.10.02",
             "nama": "Adian Padang",
             "pelayan": "St. Ariston Aritonang",
-            "pendeta_tambahan": "CPdt. Alfonso Jaya Lumban Gaol, S.Si (Teol.)"
+            "pelayan_fungsional": "CPdt. Alfonso Jaya Lumban Gaol, S.Si (Teol.)"
           },
           {
             "nomor": "02.10.03",
@@ -1633,7 +1633,7 @@
             "nomor": "02.10.12",
             "nama": "Tapiannauli",
             "pelayan": "St. Saulim Simanjuntak",
-            "pendeta_tambahan": "CGr. Johan Hutagaol, S.Pd."
+            "pelayan_fungsional": "CGr. Johan Hutagaol, S.Pd."
           }
         ],
         "statistik": {
@@ -1680,7 +1680,7 @@
             "nomor": "02.11.05",
             "nama": "Purbasinomba",
             "pelayan": "St. Tarigan Simanjuntak",
-            "pendeta_tambahan": "CPdt. Okman Miduk Asi Silalahi, S.Th."
+            "pelayan_fungsional": "CPdt. Okman Miduk Asi Silalahi, S.Th."
           },
           {
             "nomor": "02.11.06",
@@ -1810,7 +1810,7 @@
             "nomor": "02.13.09",
             "nama": "Eben Haezer",
             "pelayan": "St. Remside Sihotang",
-            "pendeta_tambahan": "CDiak. Desi Marina Hutagalung, S. Ag."
+            "pelayan_fungsional": "CDiak. Desi Marina Hutagalung, S. Ag."
           }
         ],
         "statistik": {
@@ -1895,7 +1895,7 @@
             "nomor": "02.16.01",
             "nama": "Aek Nauli-II",
             "pelayan": "Pdt. Marganda Hutahaean, S.Th.",
-            "pendeta_tambahan": "Pdt. Erna Farida Panjaitan, S.Th."
+            "pelayan_fungsional": "Pdt. Erna Farida Panjaitan, S.Th."
           },
           {
             "nomor": "02.16.02",
@@ -2122,7 +2122,7 @@
             "nomor": "02.21.01",
             "nama": "Lumban Baringin",
             "pelayan": "Pdt. Renny Juwita Simanjuntak, S.Th.",
-            "pendeta_tambahan": "Pdt. Senada Siallagan, M.Th."
+            "pelayan_fungsional": "Pdt. Senada Siallagan, M.Th."
           }
         ],
         "statistik": {
@@ -2146,7 +2146,7 @@
             "nomor": "02.22.01",
             "nama": "Lobusingkam",
             "pelayan": "Pdt. Togi Opranto Parulian Siagian, S.Th.",
-            "pendeta_tambahan": "CBvr. Donna Simanungkalit, S.Ag."
+            "pelayan_fungsional": "CBvr. Donna Simanungkalit, S.Ag."
           },
           {
             "nomor": "02.22.02",
@@ -2233,7 +2233,7 @@
             "nomor": "02.25.01",
             "nama": "Danohorbo",
             "pelayan": "Pdt. Joki Manaek Manalu, S.Th.",
-            "pendeta_tambahan": "CBvr. Thessa Lonika Sitorus, S.Ag."
+            "pelayan_fungsional": "CBvr. Thessa Lonika Sitorus, S.Ag."
           },
           {
             "nomor": "02.25.02",
@@ -2254,7 +2254,7 @@
             "nomor": "02.25.05",
             "nama": "Parinsoran",
             "pelayan": "St. Marolop Pasaribu",
-            "pendeta_tambahan": "CGr. Harianto Simbolon, S.Pd.K."
+            "pelayan_fungsional": "CGr. Harianto Simbolon, S.Pd.K."
           },
           {
             "nomor": "02.25.06",
@@ -2298,7 +2298,7 @@
             "nomor": "02.26.01",
             "nama": "Sigotom-I",
             "pelayan": "Pdt. Rustam Simanjuntak, M.Div.",
-            "pendeta_tambahan": "Bvr. Epanggil Lumbantobing, S.Ag."
+            "pelayan_fungsional": "Bvr. Epanggil Lumbantobing, S.Ag."
           },
           {
             "nomor": "02.26.02",
@@ -2382,7 +2382,7 @@
             "nomor": "02.28.01",
             "nama": "Peanajagar",
             "pelayan": "Pdt. Hotlan Parmonangan Butarbutar, M.Th.",
-            "pendeta_tambahan": "Gr. Boyke Marganda Pardede"
+            "pelayan_fungsional": "Gr. Boyke Marganda Pardede"
           },
           {
             "nomor": "02.28.02",
@@ -2442,7 +2442,7 @@
             "nomor": "02.30.01",
             "nama": "Lumbansoit/Lumbansundol",
             "pelayan": "Pdt. Jeffry Hunter Sihombing, S.Th.",
-            "pendeta_tambahan": [
+            "pelayan_fungsional": [
               "Pdt. Lybina Posta Volita Butarbutar, S.Th.",
               "Pdt. Mastaria Franciska Sibarani, S.Th."
             ]
@@ -2677,7 +2677,7 @@
             "nomor": "02.35.01",
             "nama": "Batu Manumpak",
             "pelayan": "Pdt. Reni Nainggolan, S.Th.",
-            "pendeta_tambahan": "CPdt. Megawaty Octavia Cristin Tambunan, S.Th."
+            "pelayan_fungsional": "CPdt. Megawaty Octavia Cristin Tambunan, S.Th."
           },
           {
             "nomor": "02.35.02",
@@ -3104,7 +3104,7 @@
             "nomor": "03.01.01",
             "nama": "Pargodungan Doloksanggul",
             "pelayan": "Pdt. Desla Berius Simanullang, S.Th.",
-            "pendeta_tambahan": "Bvr. Rimbun Silalahi"
+            "pelayan_fungsional": "Bvr. Rimbun Silalahi"
           },
           {
             "nomor": "03.01.02",
@@ -3326,7 +3326,7 @@
             "nomor": "03.06.01",
             "nama": "Parlilitan",
             "pelayan": "---",
-            "pendeta_tambahan": "CPdt. Samuel Napitupulu, S.Si (Teol.)"
+            "pelayan_fungsional": "CPdt. Samuel Napitupulu, S.Si (Teol.)"
           },
           {
             "nomor": "03.06.02",
@@ -3585,7 +3585,7 @@
             "nomor": "03.10.01",
             "nama": "Sibambanon",
             "pelayan": "Pdt. Okuli Alatas Sitohang",
-            "pendeta_tambahan": "CPdt. Rommel Sinaga, M.Div."
+            "pelayan_fungsional": "CPdt. Rommel Sinaga, M.Div."
           },
           {
             "nomor": "03.10.02",
@@ -3697,13 +3697,13 @@
             "nomor": "03.12.01",
             "nama": "Sihombu",
             "pelayan": "Pdt. Antonius Situmeang, S.Th.",
-            "pendeta_tambahan": "CPdt. Yohanes Marpaung, S.Si (Teol.)"
+            "pelayan_fungsional": "CPdt. Yohanes Marpaung, S.Si (Teol.)"
           },
           {
             "nomor": "03.12.02",
             "nama": "Tarabintang",
             "pelayan": "St. Darwin Situmorang",
-            "pendeta_tambahan": "CDiak. Sabta M. Silaban, S.Ag."
+            "pelayan_fungsional": "CDiak. Sabta M. Silaban, S.Ag."
           },
           {
             "nomor": "03.12.03",
@@ -3777,7 +3777,7 @@
             "nomor": "03.13.01",
             "nama": "Hutagurgur",
             "pelayan": "Pdt. Anggiat Martua Pangihutan Tambunan",
-            "pendeta_tambahan": "CPdt. Dimpu Maniur Sinaga"
+            "pelayan_fungsional": "CPdt. Dimpu Maniur Sinaga"
           },
           {
             "nomor": "03.13.02",
@@ -3819,7 +3819,7 @@
             "nomor": "03.14.01",
             "nama": "Sibuluan",
             "pelayan": "Pdt. Marihot Simbolon, M. Th.",
-            "pendeta_tambahan": [
+            "pelayan_fungsional": [
               "CPdt. Wati Lumban Raja, S.Th.",
               "CBvr. Helga Sitompul, S.Ag."
             ]
@@ -3911,13 +3911,13 @@
             "nomor": "03.15.08",
             "nama": "Dolok Margu",
             "pelayan": "St. Parasian Simarmata",
-            "pendeta_tambahan": "CPdt. Ridotua Simeon Lumbantobing, S.Th."
+            "pelayan_fungsional": "CPdt. Ridotua Simeon Lumbantobing, S.Th."
           },
           {
             "nomor": "03.15.09",
             "nama": "Aek Lung",
             "pelayan": "St. Sanggam Simamora",
-            "pendeta_tambahan": "CPdt. Nopita Indah Oktavia Situmorang, S.Th."
+            "pelayan_fungsional": "CPdt. Nopita Indah Oktavia Situmorang, S.Th."
           }
         ],
         "statistik": {
@@ -4122,7 +4122,7 @@
             "nomor": "03.21.01",
             "nama": "Aek Sopang",
             "pelayan": "---",
-            "pendeta_tambahan": "CPdt. Yohanes Hidaci, S.Th."
+            "pelayan_fungsional": "CPdt. Yohanes Hidaci, S.Th."
           },
           {
             "nomor": "03.21.02",
@@ -4237,7 +4237,7 @@
             "nomor": "03.24.01",
             "nama": "Hutasoit",
             "pelayan": "Pdt. Ronald Sihotang, M.Th.",
-            "pendeta_tambahan": "CDiak. Lusya Charolina, S.Ag."
+            "pelayan_fungsional": "CDiak. Lusya Charolina, S.Ag."
           }
         ],
         "statistik": {
@@ -4488,7 +4488,7 @@
             "nomor": "04.02.01",
             "nama": "DR. I.L. Nommensen",
             "pelayan": "Pdt. Jonni D. S Tambun, S.Th.",
-            "pendeta_tambahan": [
+            "pelayan_fungsional": [
               "Pdt. Mardiana Yosepina Tampubolon, S.Th.",
               "Bvr. Ristauli Lingga"
             ]
@@ -4551,7 +4551,7 @@
             "nomor": "04.03.04",
             "nama": "Simaremare Jae",
             "pelayan": "Pdt. Rista Irmayanti Bancin, S.Th.",
-            "pendeta_tambahan": "CGr. Jhonatan A.S. Pangaribuan, S.Pd."
+            "pelayan_fungsional": "CGr. Jhonatan A.S. Pangaribuan, S.Pd."
           },
           {
             "nomor": "04.03.05",
@@ -4590,7 +4590,7 @@
             "nomor": "04.04.01",
             "nama": "Losungbatu",
             "pelayan": "Pdt. Rudolf S Purba, S.Th.",
-            "pendeta_tambahan": "Gr. Humala Sianturi"
+            "pelayan_fungsional": "Gr. Humala Sianturi"
           },
           {
             "nomor": "04.04.02",
@@ -4781,7 +4781,7 @@
             "nomor": "04.08.01",
             "nama": "Pangombusan",
             "pelayan": "Pdt. Alten Rudi Hartono Sirait",
-            "pendeta_tambahan": "Bvr. Sandra Murni Seprianja Harianja"
+            "pelayan_fungsional": "Bvr. Sandra Murni Seprianja Harianja"
           },
           {
             "nomor": "04.08.02",
@@ -4975,7 +4975,7 @@
             "nomor": "04.11.01",
             "nama": "Lobu Dapdap Borbor",
             "pelayan": "Pdt. Ramot Siahaan, S.Th.",
-            "pendeta_tambahan": [
+            "pelayan_fungsional": [
               "Bvr. Vera Saulina Tampubolon",
               "CGr. Anwar Sucipto Lumbantobing, S.Pd."
             ]
@@ -5065,7 +5065,7 @@
             "nomor": "04.12.01",
             "nama": "Narumonda",
             "pelayan": "Pdt. Lamtiur Sinaga, S.Th.",
-            "pendeta_tambahan": "CDiak. Kristin Sihombing, S.Ag."
+            "pelayan_fungsional": "CDiak. Kristin Sihombing, S.Ag."
           },
           {
             "nomor": "04.12.02",
@@ -5102,7 +5102,7 @@
             "nomor": "04.13.01",
             "nama": "Hutahaean",
             "pelayan": "Pdt. Fajar Riswandi Lubis, S.Th.",
-            "pendeta_tambahan": "Gr. Ramot Hutapea"
+            "pelayan_fungsional": "Gr. Ramot Hutapea"
           },
           {
             "nomor": "04.13.02",
@@ -5134,7 +5134,7 @@
             "nomor": "04.14.01",
             "nama": "Ajibata",
             "pelayan": "Pdt. Amrin Sihotang, S.Th.",
-            "pendeta_tambahan": "Bvr. Rasmin Manurung, S,Mis."
+            "pelayan_fungsional": "Bvr. Rasmin Manurung, S,Mis."
           },
           {
             "nomor": "04.14.02",
@@ -5173,7 +5173,7 @@
             "nomor": "04.15.01",
             "nama": "Lumban Nabolon",
             "pelayan": "Pdt. Bindo Tampubolon, S.Th.",
-            "pendeta_tambahan": "Diak. Sartika Tio Marisi Aritonang"
+            "pelayan_fungsional": "Diak. Sartika Tio Marisi Aritonang"
           },
           {
             "nomor": "04.15.02",
@@ -5255,7 +5255,7 @@
             "nomor": "04.17.01",
             "nama": "Nagatimbul",
             "pelayan": "Pdt. Walman Mulyadi Hutapea, S.Th.",
-            "pendeta_tambahan": "CBvr. Cindy Pretia Pasaribu, S.Ag."
+            "pelayan_fungsional": "CBvr. Cindy Pretia Pasaribu, S.Ag."
           },
           {
             "nomor": "04.17.02",
@@ -5289,7 +5289,7 @@
             "nomor": "04.18.01",
             "nama": "Parparean",
             "pelayan": "Pdt. Anggiat Hot Maruli Simanjuntak, S.Th.",
-            "pendeta_tambahan": "Gr. Hekson Simbolon"
+            "pelayan_fungsional": "Gr. Hekson Simbolon"
           },
           {
             "nomor": "04.18.02",
@@ -5400,7 +5400,7 @@
             "nomor": "04.21.01",
             "nama": "Betesda",
             "pelayan": "Pdt. Pantas Manullang, S.Th.",
-            "pendeta_tambahan": "CBvr. Lusi Vera Saulina Purba, S.Ag."
+            "pelayan_fungsional": "CBvr. Lusi Vera Saulina Purba, S.Ag."
           },
           {
             "nomor": "04.21.02",
@@ -5488,7 +5488,7 @@
             "nomor": "04.24.01",
             "nama": "Lumbanrau",
             "pelayan": "---",
-            "pendeta_tambahan": [
+            "pelayan_fungsional": [
               "Bvr. Renova Rouli Siagian",
               "CPdt. Andison Lumbantoruan, S.Th."
             ]
@@ -5535,7 +5535,7 @@
             "nomor": "04.25.01",
             "nama": "Sihubakhubak",
             "pelayan": "Pdt. Parulian Simanungkalit, S.Th.",
-            "pendeta_tambahan": "Gr. Randi Nadiiba Panjaitan, S.Pd.K."
+            "pelayan_fungsional": "Gr. Randi Nadiiba Panjaitan, S.Pd.K."
           },
           {
             "nomor": "04.25.02",
@@ -5669,7 +5669,7 @@
             "nomor": "04.29.01",
             "nama": "Dolok Nauli II",
             "pelayan": "Pdt. Charles Parlindungan Pasaribu, M.Div.",
-            "pendeta_tambahan": "Diak. Ezra Yosephia Christine Siregar, S.Ag."
+            "pelayan_fungsional": "Diak. Ezra Yosephia Christine Siregar, S.Ag."
           },
           {
             "nomor": "04.29.02",
@@ -5690,7 +5690,7 @@
             "nomor": "04.29.05",
             "nama": "Liat Tondung",
             "pelayan": "St. Boni Pariatas Siagian",
-            "pendeta_tambahan": "CBvr. Desiana Tambunan, S.Ag."
+            "pelayan_fungsional": "CBvr. Desiana Tambunan, S.Ag."
           },
           {
             "nomor": "04.29.06",
@@ -5774,7 +5774,7 @@
             "nomor": "04.30.01",
             "nama": "Porsea Kota",
             "pelayan": "Pdt. Novita Sari Sitio, S.Th.",
-            "pendeta_tambahan": "Diak. Lidia HP Pardede"
+            "pelayan_fungsional": "Diak. Lidia HP Pardede"
           },
           {
             "nomor": "04.30.02",
@@ -6044,7 +6044,7 @@
             "nomor": "04.38.01",
             "nama": "Sintong Marnipi Toruan",
             "pelayan": "Pdt. Rogunson Tumpak Muliate Sinaga, S.Th.",
-            "pendeta_tambahan": "Bvr. Suci Lestari Simanungkalit, S.Ag."
+            "pelayan_fungsional": "Bvr. Suci Lestari Simanungkalit, S.Ag."
           },
           {
             "nomor": "04.38.02",
@@ -24889,7 +24889,7 @@
           "nomor": "30.02.06",
           "nama": "PT. ADEI Mandau Selatan",
           "pelayan": "Bvr. Renta Pardede",
-          "pendeta_tambahan": "Bvr. Risma Sitorus"
+          "pelayan_fungsional": "Bvr. Risma Sitorus"
         },
         {
           "nomor": "30.02.07",
@@ -24972,7 +24972,7 @@
           "nomor": "30.04.01",
           "nama": "Pardomuan Duri",
           "pelayan": "Pdt. Games Purba, S.Th.",
-          "pendeta_tambahan": "Pdt. Mellyanti Harianja, S.Th."
+          "pelayan_fungsional": "Pdt. Mellyanti Harianja, S.Th."
         },
         {
           "nomor": "30.04.02",
@@ -24998,7 +24998,7 @@
           "nomor": "30.04.06",
           "nama": "Immanuel Air Itam",
           "pelayan": "St. Tumindang Panjaitan",
-          "pendeta_tambahan": "CPdt. Alexandro Noresto Tambunan, S.Si. (Teol.)"
+          "pelayan_fungsional": "CPdt. Alexandro Noresto Tambunan, S.Si. (Teol.)"
         },
         {
           "nomor": "30.04.07",
@@ -25188,7 +25188,7 @@
           "nomor": "30.07.01",
           "nama": "Hang Tuah",
           "pelayan": "Pdt. Sugianto, S.Th.",
-          "pendeta_tambahan": "Pdt. Jhonathan Sitanggang, S.Th."
+          "pelayan_fungsional": "Pdt. Jhonathan Sitanggang, S.Th."
         },
         {
           "nomor": "30.07.02",
@@ -25282,7 +25282,7 @@
           "nomor": "30.08.03",
           "nama": "Kana",
           "pelayan": "St. Jonson Lumbantobing",
-          "pendeta_tambahan": "CPdt. Juniver Manumpan Simaremare, S.Th."
+          "pelayan_fungsional": "CPdt. Juniver Manumpan Simaremare, S.Th."
         },
         {
           "nomor": "30.08.04",
@@ -25343,7 +25343,7 @@
           "nomor": "30.09.04",
           "nama": "Saut Horas",
           "pelayan": "St. Amrin Manik",
-          "pendeta_tambahan": "CGr. Marthin Luther Sitorus, S.Pd."
+          "pelayan_fungsional": "CGr. Marthin Luther Sitorus, S.Pd."
         },
         {
           "nomor": "30.09.05",
@@ -25484,7 +25484,7 @@
           "nomor": "30.12.02",
           "nama": "Tornauli KM-26",
           "pelayan": "St. D. Manullang, S.Pd.",
-          "pendeta_tambahan": "CDiak. Desi Ratnasari Lubis, S.Ag."
+          "pelayan_fungsional": "CDiak. Desi Ratnasari Lubis, S.Ag."
         },
         {
           "nomor": "30.12.03",
@@ -25495,7 +25495,7 @@
           "nomor": "30.12.04",
           "nama": "Cintadame",
           "pelayan": "St. E.H. Sinaga",
-          "pendeta_tambahan": "CBvr. Christina Rajagukguk S.Ag."
+          "pelayan_fungsional": "CBvr. Christina Rajagukguk S.Ag."
         },
         {
           "nomor": "30.12.05",
@@ -25583,7 +25583,7 @@
           "nomor": "30.13.01",
           "nama": "Bukit Zaitun",
           "pelayan": "Pdt. Sartono Simanungkalit, S.Th.",
-          "pendeta_tambahan": "CGr. Ricki Martin Nainggolan, S.Pd."
+          "pelayan_fungsional": "CGr. Ricki Martin Nainggolan, S.Pd."
         },
         {
           "nomor": "30.13.02",
@@ -25674,7 +25674,7 @@
           "nomor": "30.15.01",
           "nama": "Dolok Moria",
           "pelayan": "Pdt. Manganar Sitorus",
-          "pendeta_tambahan": "Bvr. Ida Hanna Manalu"
+          "pelayan_fungsional": "Bvr. Ida Hanna Manalu"
         },
         {
           "nomor": "30.15.02",
@@ -25891,7 +25891,7 @@
           "nomor": "30.20.01",
           "nama": "Pardomuan Simpang Murini",
           "pelayan": "Pdt. Freddy Purba, S.Th.",
-          "pendeta_tambahan": [
+          "pelayan_fungsional": [
             "Diak. Siti Ramona Sianturi, S.Ag.",
             "CGr. Jose Efrael Pakpahan, S.Pd."
           ]
@@ -25926,7 +25926,7 @@
           "nomor": "30.21.01",
           "nama": "Hutan Ayu (Pos PI)",
           "pelayan": "Pdt. Ginto Robinson, S.Th.",
-          "pendeta_tambahan": "Diak. Maria Meilissa"
+          "pelayan_fungsional": "Diak. Maria Meilissa"
         },
         {
           "nomor": "30.21.02",
@@ -26078,13 +26078,13 @@
           "nomor": "30.25.02",
           "nama": "Palmarum",
           "pelayan": "St. Dimmu Siringoringo",
-          "pendeta_tambahan": "CBvr. Monika Lumbantoruan, S.Ag."
+          "pelayan_fungsional": "CBvr. Monika Lumbantoruan, S.Ag."
         },
         {
           "nomor": "30.25.03",
           "nama": "Muara Nauli",
           "pelayan": "St. Eliston Manullang",
-          "pendeta_tambahan": "CBvr. Wintra M Sihotang, S.Ag."
+          "pelayan_fungsional": "CBvr. Wintra M Sihotang, S.Ag."
         },
         {
           "nomor": "30.25.04",
@@ -26142,7 +26142,7 @@
           "nomor": "31.01.01",
           "nama": "Griya Martubung",
           "pelayan": "Pdt. Krimson Simamora, S.Th.",
-          "pendeta_tambahan": [
+          "pelayan_fungsional": [
             "Pdt. Sintong Frandika Lumbantobing, S.Th.",
             "CPdt. Noni Sari Manalu, S.Th."
           ]
@@ -26283,7 +26283,7 @@
           "nomor": "31.05.01",
           "nama": "Desa Besar",
           "pelayan": "Pdt. Ramot Swanto Purba, M.Th.",
-          "pendeta_tambahan": [
+          "pelayan_fungsional": [
             "Gr. Bidler Manalu",
             "Bvr. Jojor Sihite"
           ]
@@ -26302,7 +26302,7 @@
           "nomor": "31.05.04",
           "nama": "Pardamean TKBM",
           "pelayan": "St. Rudi Hamonangan Pardosi",
-          "pendeta_tambahan": "CBvr. Samsuryati Masnia Purba, S.Ag."
+          "pelayan_fungsional": "CBvr. Samsuryati Masnia Purba, S.Ag."
         }
       ],
       "statistik": {
@@ -26444,7 +26444,7 @@
           "nomor": "31.09.01",
           "nama": "Immanuel Sei Mati",
           "pelayan": "Pdt. Daniel Libertson Manalu, M.Si.",
-          "pendeta_tambahan": "CPdt. Immanuel Purba, S.Th."
+          "pelayan_fungsional": "CPdt. Immanuel Purba, S.Th."
         },
         {
           "nomor": "31.09.02",
@@ -26612,7 +26612,7 @@
           "nomor": "31.14.01",
           "nama": "Tegalrejo",
           "pelayan": "Pdt. Leritio Ariati Panjaitan, S.Th.",
-          "pendeta_tambahan": "CDiak. Friesdha Rulina Hutabarat, S.Ag."
+          "pelayan_fungsional": "CDiak. Friesdha Rulina Hutabarat, S.Ag."
         },
         {
           "nomor": "31.14.02",
@@ -26623,7 +26623,7 @@
           "nomor": "31.14.03",
           "nama": "Nommensen",
           "pelayan": "St. Nelson Pardede, S.Pd.",
-          "pendeta_tambahan": "CDiak. Monita T Sidabutar, S.Ag."
+          "pelayan_fungsional": "CDiak. Monita T Sidabutar, S.Ag."
         }
       ],
       "statistik": {
@@ -26677,7 +26677,7 @@
           "nomor": "31.16.01",
           "nama": "Pertahanan",
           "pelayan": "Pdt. Rokky ND Sinambela, S.Th.",
-          "pendeta_tambahan": "CGr. Andi Sunarto Simanungkalit, S.Pd."
+          "pelayan_fungsional": "CGr. Andi Sunarto Simanungkalit, S.Pd."
         },
         {
           "nomor": "31.16.02",
@@ -26831,7 +26831,7 @@
           "nomor": "32.03.01",
           "nama": "Kotabumi",
           "pelayan": "Pdt. Tumbur Very Siregar, M.Th.",
-          "pendeta_tambahan": "Pdt. Kristian Marlin Marbun, S.Th."
+          "pelayan_fungsional": "Pdt. Kristian Marlin Marbun, S.Th."
         },
         {
           "nomor": "32.03.02",
@@ -26882,13 +26882,13 @@
           "nomor": "32.03.11",
           "nama": "Rawa Jitu",
           "pelayan": "St. Haris Manurung",
-          "pendeta_tambahan": "CPdt. Frans Y. Mangasi Hutahaean, S.Th."
+          "pelayan_fungsional": "CPdt. Frans Y. Mangasi Hutahaean, S.Th."
         },
         {
           "nomor": "32.03.12",
           "nama": "Bukit Kemuning",
           "pelayan": "St. R. Purba",
-          "pendeta_tambahan": "CPdt. Monika Anathasia Sitohang, S.Th."
+          "pelayan_fungsional": "CPdt. Monika Anathasia Sitohang, S.Th."
         },
         {
           "nomor": "32.03.13",
@@ -26966,7 +26966,7 @@
           "nomor": "32.04.10",
           "nama": "Maranatha",
           "pelayan": "St. H. Lumbantoruan",
-          "pendeta_tambahan": "CPdt. Yosua Ewar Winner Sianipar, S.Th."
+          "pelayan_fungsional": "CPdt. Yosua Ewar Winner Sianipar, S.Th."
         }
       ],
       "statistik": {
@@ -26992,7 +26992,7 @@
           "nomor": "32.05.01",
           "nama": "Natar",
           "pelayan": "Pdt. Tunas Parlagutan Sitanggang, S.Th.",
-          "pendeta_tambahan": "CPdt. Anastasia Ruth Febiola S.Th."
+          "pelayan_fungsional": "CPdt. Anastasia Ruth Febiola S.Th."
         },
         {
           "nomor": "32.05.02",
@@ -27040,7 +27040,7 @@
           "nomor": "32.06.03",
           "nama": "Fajar Bulan",
           "pelayan": "St. Johanda Simamora",
-          "pendeta_tambahan": "CDiak. Tridita Simanjuntak, S.Ag."
+          "pelayan_fungsional": "CDiak. Tridita Simanjuntak, S.Ag."
         },
         {
           "nomor": "32.06.04",
@@ -27141,13 +27141,13 @@
           "nomor": "32.09.01",
           "nama": "Pringsewu",
           "pelayan": "Pdt. Aris Suhendro Panjaitan, M.Th.",
-          "pendeta_tambahan": "CPdt. Geralda Vania Panjaitan, S.Si. (Teol.)"
+          "pelayan_fungsional": "CPdt. Geralda Vania Panjaitan, S.Si. (Teol.)"
         },
         {
           "nomor": "32.09.02",
           "nama": "Gisting",
           "pelayan": "St. Japiter Pandiangan",
-          "pendeta_tambahan": "CBvr. Dinar Marcelina Sinaga, S.Ag."
+          "pelayan_fungsional": "CBvr. Dinar Marcelina Sinaga, S.Ag."
         }
       ],
       "statistik": {
@@ -27187,7 +27187,7 @@
           "nomor": "33.01.01",
           "nama": "Sihorbo",
           "pelayan": "Pdt. Edward Meruncing Siahaan, S.Th., MM",
-          "pendeta_tambahan": "CPdt. Adi Soebiantoro Sitorus, S.Th."
+          "pelayan_fungsional": "CPdt. Adi Soebiantoro Sitorus, S.Th."
         },
         {
           "nomor": "33.01.02",
@@ -27230,7 +27230,7 @@
           "nomor": "33.02.02",
           "nama": "Sibintang-I",
           "pelayan": "St. Helfri Damri Sihotang",
-          "pendeta_tambahan": "CPdt. Jesica Alpiani Malau, S.Th."
+          "pelayan_fungsional": "CPdt. Jesica Alpiani Malau, S.Th."
         },
         {
           "nomor": "33.02.03",
@@ -27492,7 +27492,7 @@
           "nomor": "33.06.04",
           "nama": "Tornaginjang",
           "pelayan": "St. Drs. Afliden Simanullang",
-          "pendeta_tambahan": "CBvr. Elprida Lumbantobing, S.Ag."
+          "pelayan_fungsional": "CBvr. Elprida Lumbantobing, S.Ag."
         }
       ],
       "statistik": {
@@ -27518,13 +27518,13 @@
           "nomor": "33.07.01",
           "nama": "Pardomuan",
           "pelayan": "Pdt. Romasta Sitinjak, S.Th.",
-          "pendeta_tambahan": "CBvr. Anggi Dwyta Fabiola Situmeang, S.Ag."
+          "pelayan_fungsional": "CBvr. Anggi Dwyta Fabiola Situmeang, S.Ag."
         },
         {
           "nomor": "33.07.02",
           "nama": "Siordang",
           "pelayan": "St. Humehe Simarmata, S.PAK",
-          "pendeta_tambahan": "CGr. Immanuel Sitohang, S.Pd."
+          "pelayan_fungsional": "CGr. Immanuel Sitohang, S.Pd."
         },
         {
           "nomor": "33.07.03",
@@ -27697,7 +27697,7 @@
           "nomor": "33.11.02",
           "nama": "SP-2 Muara Ore",
           "pelayan": "St. Jeri Manalu",
-          "pendeta_tambahan": "CGr. Indra Marihot Sitorus"
+          "pelayan_fungsional": "CGr. Indra Marihot Sitorus"
         },
         {
           "nomor": "33.11.03",
@@ -27708,7 +27708,7 @@
           "nomor": "33.11.04",
           "nama": "Cinta Dame RT-XII",
           "pelayan": "St. Hikmawati Situmeang",
-          "pendeta_tambahan": "CGr. Desharianto Tua Sinaga, S.Pd."
+          "pelayan_fungsional": "CGr. Desharianto Tua Sinaga, S.Pd."
         },
         {
           "nomor": "33.11.05",
@@ -28186,13 +28186,13 @@
           "nomor": "36.01.01",
           "nama": "Pos Zengding Suak Nipah",
           "pelayan": "Pdt. Jimmi Sihombing, S.Si.",
-          "pendeta_tambahan": "CPdt. Hemat Eric Silalahi, S.Th."
+          "pelayan_fungsional": "CPdt. Hemat Eric Silalahi, S.Th."
         },
         {
           "nomor": "36.01.02",
           "nama": "Pos Zending Kelemantan",
           "pelayan": "St. Meiji",
-          "pendeta_tambahan": "CPdt. Raja Patar Nugroho Rajagukguk"
+          "pelayan_fungsional": "CPdt. Raja Patar Nugroho Rajagukguk"
         },
         {
           "nomor": "36.01.03",
@@ -28203,7 +28203,7 @@
           "nomor": "36.01.04",
           "nama": "Pos Zending Kepau Baru",
           "pelayan": "Bvr. Ligas Rupat",
-          "pendeta_tambahan": "CPdt. Daniel Ramos Christian Pratama Silalahi Sidebang, S.Th."
+          "pelayan_fungsional": "CPdt. Daniel Ramos Christian Pratama Silalahi Sidebang, S.Th."
         },
         {
           "nomor": "36.01.05",
@@ -28244,7 +28244,7 @@
           "nomor": "36.02.02",
           "nama": "Pos Zending Sei Metas Mungkai",
           "pelayan": "Ev. Yuniaman Gea",
-          "pendeta_tambahan": [
+          "pelayan_fungsional": [
             "CPdt. Christian Michael Partogi Pardede, S.Th.",
             "CPdt. Kristianto Richardo Gultom, S.Th."
           ]
@@ -28333,7 +28333,7 @@
           "nomor": "36.04.06",
           "nama": "Pos Zending Rimba Ulu Sumay",
           "pelayan": "St. J. Situmorang",
-          "pendeta_tambahan": [
+          "pelayan_fungsional": [
             "CDiak. Agustri Gabrella Saragih, S.Ag.",
             "CDiak. Sanny Rospita Purba, S.Ag."
           ]
@@ -28362,7 +28362,7 @@
           "nomor": "36.05.01",
           "nama": "Rumah Belajar Sungai Perpat",
           "pelayan": "Ev. Paulus, S.Th.",
-          "pendeta_tambahan": "CBvr. Wanda Ambarita S.Ag."
+          "pelayan_fungsional": "CBvr. Wanda Ambarita S.Ag."
         }
       ],
       "statistik": {
