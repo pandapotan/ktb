@@ -1,4 +1,7 @@
-[
+{
+    "judul": "Almanak HKBP 2025",
+"struktur": [
+    
   {
     "nomor": "01",
     "nama": "DISTRIK I TAPANULI BAGIAN SELATAN – SUMATERA BARAT",
@@ -28617,3 +28620,4 @@
   ]
 } 
 ]
+}
