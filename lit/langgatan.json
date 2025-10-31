@@ -1,0 +1,53 @@
+{
+  "judul": "Almanak HKBP 2025",
+  "topik": "WARNA NI TUTUP LANGGATAN",
+  "deskripsiUmum": "Adong lima warna ni liturgi na dipataridahon di warna ni tutup langgatan i ma:",
+  "catatanAkhir": "Taringot tu pamangkena, sinurathon do di ganup minggu dohot pesta di Almanak on.",
+  "daftarWarna": [
+    {
+      "nomorUrut": 1,
+      "nama": {
+        "utama": "Violet",
+        "lain": "Ungu"
+      },
+      "deskripsi": "warna harajaon",
+      "lambang": "lambang ni hasesaan (pengampunan) na sian Kristus, Raja i."
+    },
+    {
+      "nomorUrut": 2,
+      "nama": {
+        "utama": "Bontar",
+        "lain": "Putih"
+      },
+      "deskripsi": "warna habadiaon dohot hasingkopon (kesempurnaan)",
+      "lambang": "lambang ni habadiaon ni Tuhan Jesus dohot angka surusuruanNa."
+    },
+    {
+      "nomorUrut": 3,
+      "nama": {
+        "utama": "Ratarata",
+        "lain": "Hijau"
+      },
+      "deskripsi": "warna hangoluan dohot pertumbuhan",
+      "lambang": "lambang ni praktek ni ngolu ni halak Kristen di bagasan huaso ni panobusion dohot haluaon na sian Debata."
+    },
+    {
+      "nomorUrut": 4,
+      "nama": {
+        "utama": "Rara",
+        "lain": "Merah"
+      },
+      "deskripsi": "warna ni mudar dohot api",
+      "lambang": "lambang ni semangat, pujipujian dohot hamauliateon tu Debata."
+    },
+    {
+      "nomorUrut": 5,
+      "nama": {
+        "utama": "Birong",
+        "lain": "Hitam"
+      },
+      "deskripsi": "warna hahohomon",
+      "lambang": "lambang ni hamatean dohot arsak ni roha."
+    }
+  ]
+}
