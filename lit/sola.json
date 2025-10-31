@@ -1,0 +1,36 @@
+{
+  "judul": "Prinsip-prinsip Teologis HKBP",
+  "deskripsi": "Sebagai gereja dalam tradisi Lutheran, HKBP memegang prinsip teologis Reformasi yang menjadi landasan bagi ajaran dan kehidupan bergereja.",
+  "prinsip": [
+    {
+      "id": 1,
+      "namaLatin": "Sola Gratia",
+      "namaIndonesia": "Hanya Anugerah",
+      "penjelasan": "Keselamatan adalah pemberian cuma-cuma dari Allah, bukan hasil usaha manusia."
+    },
+    {
+      "id": 2,
+      "namaLatin": "Sola Fide",
+      "namaIndonesia": "Hanya Iman",
+      "penjelasan": "Pembenaran diterima hanya oleh iman, bukan oleh perbuatan baik."
+    },
+    {
+      "id": 3,
+      "namaLatin": "Solus Christus",
+      "namaIndonesia": "Hanya Kristus",
+      "penjelasan": "Kristus adalah satu-satunya Pengantara antara Allah dan manusia."
+    },
+    {
+      "id": 4,
+      "namaLatin": "Sola Scriptura",
+      "namaIndonesia": "Hanya Alkitab",
+      "penjelasan": "Alkitab adalah satu-satunya otoritas tertinggi dalam hal iman dan kehidupan Kristen."
+    },
+    {
+      "id": 5,
+      "namaLatin": "Soli Deo Gloria",
+      "namaIndonesia": "Hanya untuk Kemuliaan Allah",
+      "penjelasan": "Segala sesuatu dilakukan untuk kemuliaan Allah semata."
+    }
+  ]
+}
