@@ -1,0 +1,399 @@
+{
+  "dokumenDoa": [
+    {
+      "jenis": "Doa",
+      "judul": {
+        "indonesia": "Doa Bapa Kami",
+        "batak": "Tangiang Ale Ama Nami"
+      },
+      "isi": {
+        "indonesia": "Bapa kami yang di surga,\nDikuduskanlah namaMu,\nDatanglah KerajaanMu, \njadilah kehendakMu di bumi, seperti di surga.\nBerikanlah kami pada hari ini makanan kami yang secukupnya\nDan ampunilah kami akan kesalahan kami, \nseperti kami juga telah mengampuni orang yang bersalah kepada kami\nDan janganlah membawa kami kedalam pencobaan,\nTetapi lepaskanlah kami daripada yang jahat.\nKarena Engkau punya Kerajaan dan kekuasaan\nDan kemuliaan sampai selama-lamanya.",
+        "batak": "Ale Amanami na di banua ginjang.\nSai pinarbadia ma goarMu\nSai ro ma harajaonMu\nSai saut ma lomo ni rohaM\nDi banua tonga on, songon na di banua ginjang.\nLehon ma tu hami sadarion hangoluan siapari.\nSesa ma dosanami songon panesanami, \ndi dosa ni dongan na mardosa tu hami\nUnang hami togihon tu pangunjunan\nPalua ma hami sian pangago\nAi Ho do nampuna harajaan, \ndohot hagogoon ro di hasangapon\nsaleleng ni lelengna."
+      },
+      "penutup": {
+        "indonesia": "Amin.",
+        "batak": "Amen."
+      }
+    },
+    {
+      "jenis": "Kesaksian Iman",
+      "judul": {
+        "indonesia": "Kesaksian Iman Orang Kristen",
+        "batak": "Hata Haporseaon Nihalak Kristen"
+      },
+      "kategori": [
+        {
+          "nama_kategori": {
+            "indonesia": "Iman terhadap Allah Bapa",
+            "batak": "Mula ni nasa na adong"
+          },
+          "isi": {
+            "indonesia": "1. Aku percaya kepada Allah, Bapa Yang Mahakuasa, khalik langit dan bumi.",
+            "batak": "1. Ahu porsea di Debata Jahowa, i do Ama, pargogo na so hatudosan, na tumompa langit dohot tano"
+          }
+        },
+        {
+          "nama_kategori": {
+            "indonesia": "Keselamatan Manusia",
+            "batak": "Hata haluaon ni manisia"
+          },
+          "isi": {
+            "indonesia": "2. Aku percaya kepada Yesus Kristus, AnakNya yang tunggal, Tuhan kita.\nyang dikandung daripada Roh Kudus, lahir dari anak dara Maria, \nyang menderita sengsara di bawah pemerintahan Pontius Pilatus, \ndisalibkan, mati dan dikuburkan,\nyang turun ke dalam kerajaan maut.\nPada hari yang ketiga, bangkit pula dari antara orang mati.\nNaik ke Surga, duduk di sebelah kanan Allah, Bapa yang Mahakuasa, \ndari sana akan datang kelak, untuk menghakimi orang yang hidup dan yang mati.",
+            "batak": "2. Ahu porsea di Jesus Kristus, Anak ni Debata Jahowa na sasada i, \ni ma na tinubuhon ni si Maria,\na gabegabean sian Tondi Parbadia, andorang so habubuan. \nI do Tuhanta na tumaon na bernit, di panguhuman ni si Latus,\na mate tarpajal do Ibana di hau pinarsilang, \na tuat tu banua toru, dung di tanom, \na mulak mangolu di ari patoluhon,\na manaek tu surgo laho hundul tu siamun ni Debata Jahowa,\nAma na i, pargogo na so hatudosan i,\ndisi ma Ibana, paima mulak sogot tu tano on, \nmanguhumi halak na mangolu dohot na mate"
+          }
+        },
+        {
+          "nama_kategori": {
+            "indonesia": "Kekudusan orang Kristen",
+            "batak": "Hata habadiaon ni halak Kristen"
+          },
+          "isi": {
+            "indonesia": "Aku percaya kepada Roh Kudus,\ndan adanya satu Gereja yang kudus,\npersekutuan orang kudus, \nPengampunan dosa, Kebangkitan daging dan hidup yang kekal",
+            "batak": "3. Ahu porsea di Tondi Porbadia, jala adong sada Huria Nabadia, \nhuria hatopan ni halak Kristen angka na badia, \ndohot di hasesaan ni dosa,\ndohot di hata i, na mandok: \nMulak mangolu sogot daging ni halak naung mate,\ndo di hangoluan na so ra suda."
+          }
+        }
+      ],
+      "penutup": {
+        "indonesia": "Amin.",
+        "batak": "Amen."
+      }
+    },
+    {
+      "jenis": "Doa",
+      "judul": "I. TANGIANG MANOGOTNA",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Na modom ahu na borngin, nuaeng tarsunggul do. \nRamoti ahu o Tuhan, ai huhaposi Ho."
+        },
+        {
+          "nomor": 2,
+          "konten": "Sai tiop ma tanganku, sai togu ahu: \nPaima tos hosangku ramoti ahu: \nNdang olo ahu mardalan sasada ahu, \nSai Ho ma ale Tuhan, manogu ahu."
+        },
+        {
+          "nomor": 3,
+          "konten": "Ramoti ahu Tuhanku muse sadari on, \nNa tau hamagoanku padao ma i tongtong; \nIngani ma rohangku pature ma langkangku,\nTamparhon ma marangku, ramoti hosangkon!"
+        },
+        {
+          "nomor": 4,
+          "konten": "Ramoti hosanami ro di pamatangnami. \nPadao ma parsahiton, nang jea pe o \nTuhan; Tumpahi na niula di hauma nang di huta. \nPasingkop bohalnami mangudutngolunami"
+        },
+        {
+          "nomor": 5,
+          "konten": "Sahat ma tu Ho tondingki, . \nSai ramoti nama ahu; \nAina susa do diringku, molo ahu guru di ahu,\nSai tiopi mago  ma tanganku asa unang mago ahu,"
+        },
+        {
+          "nomor": 6,
+          "konten": "Metmet ahu on, bahen ias rohangkon, \nSasada Ho Jesus, donganku tongtong"
+        },
+        {
+          "nomor": 7,
+          "konten": "O, Jesus sai dongani ma hami sasude, \nPasada rohanami asa bulus sude! \nNdang hadalanan hami salangka na ture, \nDung Ho pe dongannami tiur ma sasude; \nDung suda bohalnami, asi ma rohaM. \nPamasuk tondinami tu hasonangan i."
+        },
+        {
+          "nomor": 8,
+          "konten": "Poso do ahu; Ho dilului rohangku, \nAjari ahu, sai sesa ma dosangku."
+        },
+        {
+          "nomor": 9,
+          "konten": "Tompa ma roha na ias di bagasan ahu ale Debata, \nSai unang pabali ahu sian joloM \nJala unang unsati TondiM na badia i sian ahu."
+        },
+        {
+          "nomor": 10,
+          "konten": "Daging, tondi, roha nang gogona i, \nUnang tu na roa, sai di Ho ma i! \nIngkon gok di Ho ma ahu, hinophopMon, \nAsa saut martua ahu, naposoMon."
+        },
+        {
+          "nomor": 11,
+          "konten": "Tongtong ramoti ma langkangku, \nDi dalan hatigoran i. \nHuhut sai pargogoi rohangku \nMangaradoti hataMi! \nO, sondang sian surgo i, \nSondangi rohangki!"
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "II. TANGIANG JUMPA LAHO MANGAN",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Ale Tuhan Debata! \nSai pasupasu ma sipanganon on, \nAsa gabe pargogo tu dagingku"
+        },
+        {
+          "nomor": 2,
+          "konten": "Sai ro ma Ho, ale Tuhan, \nMamasumasu sipanganon on, \nNa pinaradeM di ahu."
+        },
+        {
+          "nomor": 3,
+          "konten": "Sai pasupasu ma sipanganon on, \nAle Amang, asa dihorhon, \nGogo ni pamatangkon,"
+        },
+        {
+          "nomor": 4,
+          "konten": "Sai parmudumudu hami, sai apuli \nrohanami, Pasupasu sipanganon, asa gabe hatoguan, \nJala gabe hangoluan, di pamatang hagaleon \nRo di hasasahatnami tu lambungMu. Amanami."
+        },
+        {
+          "nomor": 5,
+          "konten": "Dompak Ho, o Tuhannami,\nLaho pamerengnami be Sian Ho do ro tu hami hangoluan sasude: \nTu pamatangnami be sai tumpakhon sasude\nNaung binasabasahonMu, Pangoluhon anakhonMu"
+        },
+        {
+          "nomor": 6,
+          "konten": "Tois ni roha dohot gabus, \nSai padao ma sian ahu, \nHapogoson, hamoraon, unang Iehon i tu ahu \nBohal tinurpukhonMi dihalashon rohangki."
+        },
+        {
+          "nomor": 7,
+          "konten": "Huboto Ho do mual ni na denggan sasude: Dilehon Ho do sian i godang \nhami be I ma tutu, o Debata dilehon Ho sude, Ai Ho do na tongtong basa, \nManumpak jolma i."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "III. TANGIANG SIMPUL MANGAN",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Ho silechon hangoluan, Amanami Debata: \nSai pinuji Ho, o Tuhan: Ai tongtong do Ho basa."
+        },
+        {
+          "nomor": 2,
+          "konten": "Nunga dilehon Ho Tuhan, sipanganonnami; \nTau hasangapon di Ho ma, naeng hubahen hami, \nPamatang i ro di gogona sude, \nTanda na las rohanami."
+        },
+        {
+          "nomor": 3,
+          "konten": "Hupuji Ho, o Tuhanki, \nDibahen denggan basaMi, \nAi disarihon Ho tongtong \nBohalhu na di tano on, \nPabosur dohot tondingki, \nTogihon ahu tu surgo i, \nDisi ma Ho pujionku saleleng ni lelengna i."
+        },
+        {
+          "nomor": 4,
+          "konten": "Mauliate ma rohangku di Ho \nO Debata tongtong, \nDibahen sude denggan basaMu, \nNaung nilehonMu di ahu on"
+        },
+        {
+          "nomor": 5,
+          "konten": "Hupuji hami basaMi, o Tuhannami, \nHo na marasi roha i di nasa manisia i"
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "IV. DI NA LAHO TU PARSIKOLAAN MANANG DUNG SAHAT TUSI",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Naposo dope hami on sude Ala ni i urupi hami, ale Jesus Tuhannami, \nAsa tongtong burju hami on."
+        },
+        {
+          "nomor": 2,
+          "konten": "Sai asi rohaM, suan ma hataM, \nTu bagasan rohanami, \nima  pangguruannami, Asa lam ture \npambahenannami be."
+        },
+        {
+          "nomor": 3,
+          "konten": "Urupi ahu mangula, \nulaon namarguna, Bonana nang ujungna, \nHo ma, mambahen jadina."
+        },
+        {
+          "nomor": 4,
+          "konten": "Sai ajari be hami on sude, Asa lam huboto hami dalan sidalanannami, \nSai ajari be hami on sude."
+        },
+        {
+          "nomor": 5,
+          "konten": "Lehon ma di rohanami hapistaran na sintong, \nAsa tung huboto hami marparange di joloM \nSian haliluon pe sai palua hami be"
+        },
+        {
+          "nomor": 6,
+          "konten": "Usehon tu rohangku holong nirohaMi. \nPadenggan ma hatangku tu dongan jolma i, \nAsi rohaM, padao ma bada, halateon, patimbul hadameon, na roa padao"
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "V. TANGIANG LAHO TU GAREJA  MANANG DUNG SAHAT TUSI.",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Pamujinami baen ture buhai ma rohanami be, patinggil pinggolnami i, \nlaho tumangihon HataMi. \nHaporseaonnami on patogu ma sadari on, \nPapintor langkanami be tu surgo i, Tu lambungMi."
+        },
+        {
+          "nomor": 2,
+          "konten": "Sondang sian Debata hatiuron sian ginjang, \nBahen ture, sondangi ma rohanami asa sonang, \nLaho manjalo hangoluan, pinatupaMi o Tuhan."
+        },
+        {
+          "nomor": 3,
+          "konten": "On pe, o Tuhannami; tumpahi hataMi, \nMasuk tu rohanami, paian ma disi."
+        },
+        {
+          "nomor": 4,
+          "konten": "Nunga ro di parguruan, Hami on na dison masihangoluan, \nJesus, sai huingot hami, HataMi nidokMi; Ho naeng dongannami."
+        },
+        {
+          "nomor": 5,
+          "konten": "Bahen ture pingkirannami, \nUnang laho tu na dao mampar rohanami, \nSai patinggil pinggolnami, \nTu hataM asa lam huantusi hami."
+        },
+        {
+          "nomor": 6,
+          "konten": "Doshon hauma na dumenggan, \nMa rohangku di joloM \nSai lopokhon ma na denggan, \nTu bagasan, rohangkon, \nSai tumpahi hataMi, asa marparbue i"
+        },
+        {
+          "nomor": 7,
+          "konten": "Nang laho ruar, masuk pe, \nJesus sai dongani hami, Pasupasu \nhami be dohot hangoluannami, Togu \nhami ale Tuhan sahat tu banuaginjang"
+        },
+        {
+          "nomor": 8,
+          "konten": "Sai ingani ma rohangku, \nsai parbadiai ma ahu Asa tong tutu hatangku, \nUnang be margabus ahu: \nSasude na roa pe; tanggal sian ahu muse; Ho dipuji, o Tuhanku, \nHata dohot pambahenanku"
+        },
+        {
+          "nomor": 9,
+          "konten": "Pangkulingi ahu Tuhanku . \nAsa hutangihon Ho; \nPatandahon tu rohangku, \nNa tau pasangaphon Ho: \nSai pabosur tondingki dohot asiasiMi"
+        },
+        {
+          "nomor": 10,
+          "konten": "Sai pahehe ma rohangku, \nSai ajari ma ahu on, \nJala tongos ma pangapulMu, \nTu bagasan rohangkon, \nSombu bahen sadari on uas ni tondingkinon."
+        },
+        {
+          "nomor": 11,
+          "konten": "Dison do hami ale Tuhan, \nAsi rohaM paias ma; \nTogihon hami on tu ginjang, \nTu surgo i tu Debata, \nPujionnami ma disi, Ho Sipalua jolma i."
+        },
+        {
+          "nomor": 12,
+          "konten": "O Jesus, sai bongoti ma dohot rohangkon! \nAsi rohaM, ingani ma tondingki tongtong, \nPatiur langkangki laho tu banua ginjang i! \nAi naeng marsonangsonang hupuji Ho disi."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "VI. TANGIANG BODARINA.",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Naung salpu do arian i, \nHupuji Ho Debatangki; \nAl sahat tu bodari on, \nTongtong basaM di hami on."
+        },
+        {
+          "nomor": 2,
+          "konten": "Ramoti ahu sadari on; \nHuhut pasonang rohangkon, \nSai dokhon ma suruanMi, \nPadaohon nasa na roai."
+        },
+        {
+          "nomor": 3,
+          "konten": "Naung ro nuaeng na holom \nJumolo asa modom, hupuji GoarMi, \nO Jesus, tatap ahu, sai pasupasu ahu \nHuhut patiur rohangki."
+        },
+        {
+          "nomor": 4,
+          "konten": "Paherbang ma tanganMu \nO Tuhan Debatangku, \nOndingi anakMon (boruMon); \nRo begu naeng mamolgak, \nSuruanMi manonggak \nNdang jadi jamaonmu on."
+        },
+        {
+          "nomor": 5,
+          "konten": "Nunga loja dagingkon, \nNaeng ma pitpit matangkon, \nO, Amangku mataM i dungo di podomanhi!"
+        },
+        {
+          "nomor": 6,
+          "konten": "Sesa jolo sasude, na hubahen na so ture, \nai luhut na sala i, dipature Jesuski."
+        },
+        {
+          "nomor": 7,
+          "konten": "Dohot angka donganki sahat ma tu tanganMi, \nIsi ni portibi on, jaga ma saborngin on."
+        },
+        {
+          "nomor": 8,
+          "konten": "Angka na mardangol i dohot na marsahiti, \nAngkup nina tangis pe sai apuli ma sude."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "VII. TANGIANG JUMPA RO PANGUNJUNAN",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Unang hami togihon tu pangunjunan, \nPalua ma hami sian pangago!"
+        },
+        {
+          "nomor": 2,
+          "konten": "Unang loas be ahu mago ai tinobusMi do ahu.\nSai taluhon sipangago, aa tu lambungMu ahu, \nRo di ujung ahu pamonang, \nSahat bahen tu surgo ahu."
+        },
+        {
+          "nomor": 3,
+          "konten": "Jesus, urupi ahu jala pamonang \nAsa tongtong di lambungMu ahu sonang."
+        },
+        {
+          "nomor": 4,
+          "konten": "Paian ma di hami, o Jesus asiMi, \nAsa tung unang hami, diansi musu i."
+        },
+        {
+          "nomor": 5,
+          "konten": "Urupi ahu, o Jesus, asa monang ahu, \nMaralohon angka musungki, \nPortibi on nang sibolis nang pamatang do, \nManaiti ahu tu dosa i."
+        },
+        {
+          "nomor": 6,
+          "konten": "Ndang margogo ahu mangalo angka musungki, \nTaiti ahu tu lambungMu tu na sonang i, \nPasingothon hataMi sai tongtong tu rohangki."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "VIII. TANGIANG JUMPANG MASA SAHIT.",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Palambok ale Tuhan bernit ni sahithi, \nAsi-rohaM patongon tu ahu ma basaMi."
+        },
+        {
+          "nomor": 2,
+          "konten": "Na marsahit do ahu on, \nSai gale do daginghon; \nHo do haporusanki, urupi ahu, o Tuhanki"
+        },
+        {
+          "nomor": 3,
+          "konten": "Marsak do rohangku, ale Tuhanki, \nAla di lambunghu masa sahit i, \nTatap ale Tuhan haholonganhi, \nJala sai pasuang ma gogona 1 \nPasabam rohanami, di lomo ni rohaM, \nSai togutogu hami sahat tu banuaM."
+        },
+        {
+          "nomor": 4,
+          "konten": "Ia masa pe na bernit muse, \nSai patogu rohanami, asa unang mago hami, \nHaporsuhon do lapang laho tu Ho"
+        },
+        {
+          "nomor": 5,
+          "konten": "Jesus Tuhanku Ho ma di rohangku, \nHasudunganhi tongtong; \nNang ahu mangolu, nang pe laho mate, \nSai Ho nampuna diringkon."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "IX. TANGIANG DUNG MALUM SAHIT",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Diudut Ho muse ngolungku, \nDiingot Ho naposoM on: \nNuaeng sumuang ma gogongku, \nMamungka malum sahithon; \nSai Ho nampuna-diringkon,  \nDibahen denggan basaMi; \nAle Tuhan! Papos rohangku, \nTongtong di pangurupiMi \nHuhut ajari ahu, Tuhanku, \nMamujimuji Ho! antong. \nTondingku dohot pamatangku, \nSai Ho ma dioloi tongtong,."
+        },
+        {
+          "nomor": 2,
+          "konten": "Ditangihon Ho tangiang, \nNa hutangianghon i; \nUju ahu di hagogotan, \nMangidohon asiMi, \nDipangolu Ho i, o Tuhan,\nNa marsahit uju i, \nAsiM i do pahisarhon, \nNa huhaholongi i; \nPujionku do goarMu, \nSai pasada ma rohangku, \nHo na lambok roha i; \nManghalashon asiMi."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "X. TANGIANG DI NA LAHO MATE",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Sai tiop ma tanganku, sai togu ahu, \nPaima tos hosangku ramoti ahu; \nPabulus ma langkangku tu surgo i \nHo ma pasangaponku tongtong disi."
+        }
+      ]
+    },
+    {
+      "jenis": "Doa",
+      "judul": "XI.TANGIANG APULAPUL",
+      "bahasa": "Batak",
+      "isi": [
+        {
+          "nomor": 1,
+          "konten": "Ai Ale Tuhan, sipangolu, sai apuli hami on! \nAi naung laho do sian hami, \nNa tinangisan on: \nAngka dotdot jala tangis ro do hami tu joloM\nHo ma na mangapus ilu, \nSian hami na tumatangis on, \nHami on sai tong ramoti, na tinadinghonna i. \nTogu hami ale Tuhan, tu banuaginjang i."
+        },
+        {
+          "nomor": 2,
+          "konten": "Ro di ujung ni langkangku togu ahu o Tuhanki, \nDi na tos muse hosangku. \nDi homur matangki, \nSai tiopi ma tanganku, togu au tu lambungMi,"
+        }
+      ]
+    }
+  ]
+}
