@@ -1,0 +1,208 @@
+{
+  "daftarRekening": [
+    {
+      "nomorUrut": 1,
+      "nama": "KANTOR PUSAT HKBP",
+      "alamat": "Kantor Pusat HKBP Pearaja, Tarutung, Sumatera Utara-Indonesia Kode Pos 22413.",
+      "kontak": {
+        "telp": "(0633) 21707, 21122 (Ext 100-139)",
+        "fax": "(0633) 21596",
+        "email": "hkbppusat@gmail.com",
+        "website": "www.hkbp.or.id"
+      },
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BRI Cabang Tarutung",
+          "nomorRekening": "AC.0099-01-000079-30-9"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank SUMUT Tarutung",
+          "nomorRekening": "AC. 320-01-04-000012-0"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank MANDIRI Tarutung",
+          "nomorRekening": "AC.107-00-2499249-9"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Capem Tarutung",
+          "nomorRekening": "AC.0061254193"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank Tabungan Negara (BTN)",
+          "nomorRekening": "AC. 1160.01.30.000002.6"
+        },
+        {
+          "mataUang": "Euro",
+          "bank": "BNI Capem Tarutung",
+          "nomorRekening": "AC.0122897273"
+        },
+        {
+          "mataUang": "US DOLLAR",
+          "bank": "BNI Tarutung",
+          "nomorRekening": "AC.0061254171"
+        },
+        {
+          "mataUang": "Euro",
+          "bank": "BNI Tarutung",
+          "nomorRekening": "AC. 0073990886"
+        },
+        {
+          "mataUang": "Euro",
+          "bank": "Bank Mandiri Imam Bonjol Medan",
+          "nomorRekening": "AC. 105-00-9901870-1"
+        },
+        {
+          "mataUang": "US DOLLAR",
+          "bank": "Bank Mandiri Imam Bonjol Medan",
+          "nomorRekening": "AC. 105-00-9901715-8"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 2,
+      "nama": "PERCETAKAN HKBP PEMATANGSIANTAR",
+      "alamat": "Jl. Ahmad Yani No. 63 Pematangsiantar 21137",
+      "kontak": {
+        "telp": "(0622) 22646, 7079045",
+        "email": "perc_hkbp@yahoo.com"
+      },
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Cabang Pematangsiantar",
+          "nomorRekening": "0156764162",
+          "atasNama": "A.n. Percetakan HKBP"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank Mandiri Cabang Pematangsiantar",
+          "nomorRekening": "107-0005342854",
+          "atasNama": "A.n. Unit Usaha Percetakan HKBP"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BRI Cabang Pematangsiantar",
+          "nomorRekening": "011301-000249302",
+          "atasNama": "A.n. Percetakan HKBP"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank Sumut/Simpeda",
+          "nomorRekening": "220.02.03.003322-5",
+          "atasNama": "A.n. Percetakan HKBP"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 3,
+      "nama": "DANA PENSIUN HKBP/DPPK HKBP (Program Pensiun Manfaat Pasti)",
+      "alamat": null,
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Capem Tarutung",
+          "nomorRekening": "0061255696"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BRI Cabang Putri Hijau Medan",
+          "nomorRekening": "0053-01-000517-30-1"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank Mandiri Cabang Medan Tiara",
+          "nomorRekening": "105-0002086514"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 4,
+      "nama": "BIRO PEKABARAN INJIL/SENDING HKBP",
+      "alamat": "Biro Sending/Pekabaran Injil HKBP Jl. Gereja No. 33 Pematangsiantar 21144",
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "Bank Mandiri Sutomo Pematangsiantar",
+          "nomorRekening": "107-00-94001296"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 5,
+      "nama": "BIRO CARITAS EMERGENCY (DIAKONIA SOSIAL) HKBP",
+      "alamat": "Jl. Sisingamangaraja No. 86/27 Pematangsiantar 21137",
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Cabang Pematangsiantar",
+          "nomorRekening": "0060468376"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 6,
+      "nama": "TUMPAK LIAT PANDITA (TLP) HKBP",
+      "alamat": null,
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Capem Tarutung",
+          "nomorRekening": "0061255663"
+        },
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BRI Cabang Tarutung",
+          "nomorRekening": "0099-01-000153-30-7"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 7,
+      "nama": "FORUM SOLIDARITAS DIAKONES HKBP",
+      "alamat": null,
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Capem Tarutung",
+          "nomorRekening": "0154167725"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 8,
+      "nama": "TUMPAK LIAT GURU HURIA HKBP",
+      "alamat": null,
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BNI Capem Tarutung",
+          "nomorRekening": "0299630940"
+        }
+      ]
+    },
+    {
+      "nomorUrut": 9,
+      "nama": "DPLK HKBP (Program Pensiun Iuran Pasti)",
+      "alamat": null,
+      "kontak": null,
+      "rekening": [
+        {
+          "mataUang": "RUPIAH",
+          "bank": "BRI Cabang Tarutung",
+          "nomorRekening": "009901001030308"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+    "judul": "Almanak HKBP 2025",
+  "judulKebijakan": "Siingoton Taringot Tu 55% Pelean Sitongoson tu Sentralisasi Parhepengon",
+  "konteks": {
+    "acara": "Sinode Godang pa-66-hon",
+    "tanggal": "24 - 27 Oktober 2022",
+    "keputusan": "ditotophon do pelaksanaan ni Sentralisasi Parhepengon ni HKBP manggonti sistem Desentralisasi naung dipamasa mamungka taon 1970",
+    "catatan": "singkat ni pelean in natura i ma pelean paduahon"
+  },
+  "jenisPeleanSentralisasi": [
+    {
+      "nomor": 1,
+      "nama": "Pelean Ibadah IA"
+    },
+    {
+      "nomor": 2,
+      "nama": "Pelean Ibadah IB"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pelean Ibadah II"
+    },
+    {
+      "nomor": 4,
+      "nama": "Pelean Ibadah Sekolah Minggu"
+    },
+    {
+      "nomor": 5,
+      "nama": "Pelean Ibadah Partangiangan Wilayah"
+    },
+    {
+      "nomor": 6,
+      "nama": "Pelean Ibadah/Sermon Kategorial"
+    },
+    {
+      "nomor": 7,
+      "nama": "Pelean Ibadah Partumpolon/Pamasumasuon"
+    },
+    {
+      "nomor": 8,
+      "nama": "Pelean Ibadah Ulaon Nabadia"
+    },
+    {
+      "nomor": 9,
+      "nama": "Pelean Hamauliateon/Ucapan syukur"
+    },
+    {
+      "nomor": 10,
+      "nama": "Pelean Persepuluhan"
+    },
+    {
+      "nomor": 11,
+      "nama": "Pelean bulanan/tahunan (taon) Huria"
+    },
+    {
+      "nomor": 12,
+      "nama": "Pelean Ibadah Khusus/Kasual"
+    }
+  ],
+  "aturanPersentase": {
+    "persentase": "55%",
+    "keterangan": "sian ganup pelean na ginoaran na di ginjang i, i ma kewajiban ni ganup Huria tu Sentralisasi Parhepengon ni HKBP"
+  },
+  "prosedurPelaksanaan": {
+    "penanggungJawab": "Bendahara Huria",
+    "waktu": "ari Rabu ganup minggu",
+    "aksi": "marhite virtual account tu rekening giro BPSK"
+  },
+  "alokasiDana": {
+    "haporluanUmum": [
+      "Mangurupi pengobatan ni angka pangula na hurang mampu.",
+      "Haporluan ni angka tim, komisi dohot na asing.",
+      "Iuran tu angka lembaga gerejawi di tingkat lokal, regional, nasional, dohot global (PGI Wilayah Sumut, PGI, LWF, CCA, VEM, dna).",
+      "Pemeliharaan dohot perbaikan ni angka bangunan di hatopan.",
+      "Partamueon tu angka na ro mangebati HKBP sian dalam dohot sian luar negeri.",
+      "Perjalanan dinas di dalam dohot luar negeri.",
+      "Haporluan ni angka rapot di tingkat pusat.",
+      "Pengadaan dohot pemeliharaan inventaris dohot peralatan kantor.",
+      "Biaya administrasi, alat tulis dohot surat menyurat.",
+      "Biaya air, listrik, pekarangan dohot peralatan kebersihan"
+    ],
+    "kontakKantorPusat": {
+      "nama": "Kantor Pusat HKBP",
+      "alamatLengkap": "PEARAJA-TARUTUNG 22413 Tapanuli Utara, Sumut",
+      "telepon": "(0633) 21707",
+      "fax": "(0633) 21596; 21707",
+      "website": "www.hkbp.or.id",
+      "email": "kantorpusat@hkbp.or.id"
+    }
+  },
+  "balanjoPegawai": "Balanjo Bulanan, Balanjo Cuti, dohot Balanjo Natal ni sude pangula na gok tingki, calon pangula, dohot pegawai di sandok HKBP, angka na manjalo SK/SP sian Ephorus HKBP",
+  "bpjsKetenagakerjaan": "BPJS Ketenagakerjaan ni sude partohonan na gok tingki dohot pegawai na manjalo SK sian Ephorus HKBP"
+}
