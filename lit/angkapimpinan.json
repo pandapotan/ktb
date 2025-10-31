@@ -1,0 +1,422 @@
+{
+  "pimpinanHKBP": {
+    "ephorus": [
+      {
+        "nomorUrut": 1,
+        "nama": "Pdt. Dr. I.L. Nommensen",
+        "periode": {
+          "mulai": 1881,
+          "selesai": 1918
+        }
+      },
+      {
+        "nomorUrut": 2,
+        "nama": "Pdt. Valentin Kessel",
+        "keterangan": "Pejabat Ephorus",
+        "periode": {
+          "mulai": 1918,
+          "selesai": 1920
+        }
+      },
+      {
+        "nomorUrut": 3,
+        "nama": "Pdt. Dr. J. Warneck",
+        "periode": {
+          "mulai": 1920,
+          "selesai": 1932
+        }
+      },
+      {
+        "nomorUrut": 4,
+        "nama": "Pdt. P. Landgrebe",
+        "periode": {
+          "mulai": 1932,
+          "selesai": 1936
+        }
+      },
+      {
+        "nomorUrut": 5,
+        "nama": "Pdt. Dr. E. Verwiebe",
+        "periode": {
+          "mulai": 1936,
+          "selesai": 1940
+        }
+      },
+      {
+        "nomorUrut": 6,
+        "nama": "Pdt. K. Sirait",
+        "periode": {
+          "mulai": 1940,
+          "selesai": 1942
+        }
+      },
+      {
+        "nomorUrut": 7,
+        "nama": "Pdt. Dr. hc. J. Sihombing",
+        "periode": {
+          "mulai": 1942,
+          "selesai": 1962
+        }
+      },
+      {
+        "nomorUrut": 8,
+        "nama": "Ds. Dr. hc. T.S. Sihombing",
+        "periode": {
+          "mulai": 1962,
+          "selesai": 1974
+        }
+      },
+      {
+        "nomorUrut": 9,
+        "nama": "Ds. G.H.M. Siahaan",
+        "periode": {
+          "mulai": 1974,
+          "selesai": 1986
+        }
+      },
+      {
+        "nomorUrut": 10,
+        "nama": "Pdt. Dr S.A.E. Nababan, LLD",
+        "periode": {
+          "mulai": 1986,
+          "selesai": 1998
+        }
+      },
+      {
+        "nomorUrut": 11,
+        "nama": "Pdt. Dr. S.M. Siahaan",
+        "keterangan": "Pejabat Ephorus",
+        "periode": {
+          "mulai": 1992,
+          "selesai": 1993
+        }
+      },
+      {
+        "nomorUrut": 12,
+        "nama": "Pdt. Dr. P.W.T. Simanjuntak",
+        "periode": {
+          "mulai": 1993,
+          "selesai": 1998
+        }
+      },
+      {
+        "nomorUrut": 13,
+        "nama": "Pdt. Dr. J.R. Hutauruk",
+        "periode": {
+          "mulai": 1998,
+          "selesai": 2004
+        }
+      },
+      {
+        "nomorUrut": 14,
+        "nama": "Pdt. Dr. B. Napitupulu",
+        "periode": {
+          "mulai": 2004,
+          "selesai": 2012
+        }
+      },
+      {
+        "nomorUrut": 15,
+        "nama": "Pdt. Willem TP. Simarmata, MA",
+        "periode": {
+          "mulai": 2012,
+          "selesai": 2016
+        }
+      },
+      {
+        "nomorUrut": 16,
+        "nama": "Pdt. Dr. Darwin Lumbantobing",
+        "periode": {
+          "mulai": 2016,
+          "selesai": 2020
+        }
+      },
+      {
+        "nomorUrut": 17,
+        "nama": "Pdt. Dr. Robinson Butarbutar",
+        "periode": {
+          "mulai": 2020,
+          "selesai": 2024
+        }
+      },
+      {
+        "nomorUrut": 18,
+        "nama": "Pdt. Dr. Victor Tinambunan, MST",
+        "periode": {
+          "mulai": 2024,
+          "selesai": 2028
+        }
+      }
+    ],
+    "sekretarisJenderal": [
+      {
+        "nomorUrut": 1,
+        "nama": "Ds. K. Sitompul",
+        "periode": {
+          "mulai": 1950,
+          "selesai": 1957
+        }
+      },
+      {
+        "nomorUrut": 2,
+        "nama": "Ds. Dr. T.S. Sihombing",
+        "periode": {
+          "mulai": 1957,
+          "selesai": 1962
+        }
+      },
+      {
+        "nomorUrut": 3,
+        "nama": "Ds. G.H.M. Siahaan",
+        "periode": {
+          "mulai": 1962,
+          "selesai": 1974
+        }
+      },
+      {
+        "nomorUrut": 4,
+        "nama": "Pdt. Dr. F.H. Sianipar",
+        "periode": {
+          "mulai": 1974,
+          "selesai": 1978
+        }
+      },
+      {
+        "nomorUrut": 5,
+        "nama": "Ds. P.M. Sihombing, MTh",
+        "periode": {
+          "mulai": 1978,
+          "selesai": 1986
+        }
+      },
+      {
+        "nomorUrut": 6,
+        "nama": "Pdt. O.P.T. Simorangkir, SmTh",
+        "periode": {
+          "mulai": 1986,
+          "selesai": 1992
+        }
+      },
+      {
+        "nomorUrut": 7,
+        "nama": "Pdt. Dr. S.M. Siahaan",
+        "periode": {
+          "mulai": 1992,
+          "selesai": 1998
+        }
+      },
+      {
+        "nomorUrut": 8,
+        "nama": "Pdt. W.T.P. Simarmata, MA",
+        "periode": {
+          "mulai": 1998,
+          "selesai": 2008
+        }
+      },
+      {
+        "nomorUrut": 9,
+        "nama": "Pdt. Ramlan Hutahaean, MTh",
+        "periode": {
+          "mulai": 2008,
+          "selesai": 2012
+        }
+      },
+      {
+        "nomorUrut": 10,
+        "nama": "Pdt. Mori AP. Sihombing, MTh",
+        "periode": {
+          "mulai": 2012,
+          "selesai": 2016
+        }
+      },
+      {
+        "nomorUrut": 11,
+        "nama": "Pdt. David Farel Sibuea, MTh, D.Min",
+        "periode": {
+          "mulai": 2016,
+          "selesai": 2020
+        }
+      },
+      {
+        "nomorUrut": 12,
+        "nama": "Pdt. Dr. Victor Tinambunan, MST",
+        "periode": {
+          "mulai": 2020,
+          "selesai": 2024
+        }
+      },
+      {
+        "nomorUrut": 13,
+        "nama": "Pdt. Rikson M. Hutahaean, M.Th",
+        "periode": {
+          "mulai": 2024,
+          "selesai": 2028
+        }
+      }
+    ],
+    "kepalaDepartemen": [
+      {
+        "nomorUrut": "1",
+        "nama": "Pdt. Bistok M. Siagian, STh",
+        "jabatan": "Ka. Dep. Koinonia",
+        "periode": {
+          "mulai": 2004,
+          "selesai": 2008
+        }
+      },
+      {
+        "nomorUrut": "2",
+        "nama": "Pdt. Manumpan H. Sihite, STh",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2004,
+          "selesai": 2008
+        }
+      },
+      {
+        "nomorUrut": "3",
+        "nama": "Pdt. Dr. Jamilin Sirait",
+        "jabatan": "Ka. Dep. Koinonia",
+        "periode": {
+          "mulai": 2008,
+          "selesai": 2012
+        }
+      },
+      {
+        "nomorUrut": "4",
+        "nama": "Pdt. Dr. Binsar Nainggolan",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2008,
+          "selesai": 2012
+        }
+      },
+      {
+        "nomorUrut": "5",
+        "nama": "Pdt. Nelson F. Siregar, STh",
+        "jabatan": "Ka. Dep. Diakonia",
+        "periode": {
+          "mulai": 2004,
+          "selesai": 2012
+        }
+      },
+      {
+        "nomorUrut": "6",
+        "nama": "Pdt. Welman P. Tampubolon, STh",
+        "jabatan": "Ka. Dep. Koinonia",
+        "periode": {
+          "mulai": 2012,
+          "selesai": 2016
+        }
+      },
+      {
+        "nomorUrut": "7",
+        "nama": "Pdt. Marolop P. Sinaga, MTh",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2012,
+          "selesai": 2016
+        }
+      },
+      {
+        "nomorUrut": "8",
+        "nama": "Pdt. Bihelman DF. Sidabutar, STh, MM",
+        "jabatan": "Ka. Dep. Diakonia",
+        "periode": {
+          "mulai": 2012,
+          "selesai": 2016
+        }
+      },
+      {
+        "nomorUrut": "9",
+        "nama": "Pdt. Dr. Martongo Sitinjak",
+        "jabatan": "Ka. Dep. Koinonia",
+        "periode": {
+          "mulai": 2016,
+          "selesai": 2020
+        }
+      },
+      {
+        "nomorUrut": "10",
+        "nama": "Pdt. Dr. Anna Ch. Vera Pangaribuan",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2016,
+          "selesai": 2020
+        }
+      },
+      {
+        "nomorUrut": "11",
+        "nama": "Pdt. Debora Purada Sinaga, MTh",
+        "jabatan": "Ka. Dep. Diakonia",
+        "periode": {
+          "mulai": 2016,
+          "selesai": 2020
+        }
+      },
+      {
+        "nomorUrut": "12",
+        "nama": "Pdt. Kardi Simanjuntak, S.Th, M.Min",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2020,
+          "selesai": 2022
+        }
+      },
+      {
+        "nomorUrut": "13",
+        "nama": "Pdt. Debora Purada Sinaga, M.Th",
+        "jabatan": "Ka. Dep. Diakonia",
+        "periode": {
+          "mulai": 2020,
+          "selesai": 2024
+        }
+      },
+      {
+        "nomorUrut": "12",
+        "nama": "Pdt. Dr. Deonal Sinaga",
+        "jabatan": "Ka. Dep. Koinonia",
+        "periode": {
+          "mulai": 2020,
+          "selesai": 2028
+        }
+      },
+      {
+        "nomorUrut": "13",
+        "nama": "Pdt. Kardi Simanjuntak, STh, MMin",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2020,
+          "selesai": 2022
+        }
+      },
+      {
+        "nomorUrut": "14",
+        "nama": "Pdt. Daniel T.A. Harahap, M.Th",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2022,
+          "selesai": 2024
+        }
+      },
+      {
+        "nomorUrut": "16",
+        "nama": "Pdt. Bernard Manik, M.Th",
+        "jabatan": "Ka. Dep. Marturia",
+        "periode": {
+          "mulai": 2024,
+          "selesai": 2028
+        }
+      },
+      {
+        "nomorUrut": "17",
+        "nama": "Pdt. Eldarton Simbolon, D.Min",
+        "jabatan": "Ka. Dep. Diakonia",
+        "periode": {
+          "mulai": 2024,
+          "selesai": 2028
+        }
+      }
+    ]
+  }
+}
