@@ -3,23 +3,29 @@
   "pimpinan": [
     {
       "nama": "Pdt. Dr. Victor Tinambunan, MST",
-      "jabatan": "Ephorus"
+      "jabatan": "Ephorus",
+      "url_Poto": "https://cdn.jsdelivr.net/gh/pandapotan/ktb@main/pot/1.jpg"
     },
     {
       "nama": "Pdt. Rikson M. Hutahaean, M.Th.",
-      "jabatan": "Sekretaris Jenderal"
+      "jabatan": "Sekretaris Jenderal",
+      "url_Poto": "https://cdn.jsdelivr.net/gh/pandapotan/ktb@main/pot/2.jpg"
     },
     {
       "nama": "Pdt. Dr. Deonal Sinaga",
-      "jabatan": "Kepala Departemen Koinonia"
+      "jabatan": "Kepala Departemen Koinonia",
+      "url_Poto": "https://cdn.jsdelivr.net/gh/pandapotan/ktb@main/pot/3.jpg"
     },
     {
       "nama": "Pdt. Bernard Manik, M.Th.",
-      "jabatan": "Kepala Departemen Marturia"
+      "jabatan": "Kepala Departemen Marturia",
+      "url_Poto": "https://cdn.jsdelivr.net/gh/pandapotan/ktb@main/pot/4.jpg"
+      
     },
     {
       "nama": "Pdt. Eldarton Simbolon, D.Min.",
-      "jabatan": "Kepala Departemen Diakonia"
+      "jabatan": "Kepala Departemen Diakonia",
+      "url_Poto": "https://cdn.jsdelivr.net/gh/pandapotan/ktb@main/pot/5.jpg"
     }
   ]
 }
