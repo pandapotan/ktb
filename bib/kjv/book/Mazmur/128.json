@@ -1,0 +1,36 @@
+{
+  "book": "Mazmur",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blessed is every one that feareth the LORD; that walketh in his ways.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Behold, that thus shall the man be blessed that feareth the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Yea, thou shalt see thy children's children, and peace upon Israel.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "book": "Mazmur",
+  "chapter": 122,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 2,
+      "text": "Our feet shall stand within thy gates, O Jerusalem.",
+      "type": "content"
+    },
+    {
+      "verse": 3,
+      "text": "Jerusalem is builded as a city that is compact together:",
+      "type": "content"
+    },
+    {
+      "verse": 4,
+      "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
+      "type": "content"
+    },
+    {
+      "verse": 5,
+      "text": "For there are set thrones of judgment, the thrones of the house of David.",
+      "type": "content"
+    },
+    {
+      "verse": 6,
+      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "type": "content"
+    },
+    {
+      "verse": 7,
+      "text": "Peace be within thy walls, and prosperity within thy palaces.",
+      "type": "content"
+    },
+    {
+      "verse": 8,
+      "text": "For my brethren and companions' sakes, I will now say, Peace be within thee.",
+      "type": "content"
+    },
+    {
+      "verse": 9,
+      "text": "Because of the house of the LORD our God I will seek thy good.",
+      "type": "content"
+    }
+  ]
+}
