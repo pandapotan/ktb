@@ -1,0 +1,162 @@
+{
+  "kategoriPekerjaan": [
+    {
+      "kategori": "Status Umum",
+      "daftarPekerjaan": [
+        "Belum / Tidak Bekerja",
+        "Mengurus Rumah Tangga",
+        "Pelajar / Mahasiswa",
+        "Pensiunan",
+        "Lainnya"
+      ]
+    },
+    {
+      "kategori": "Pemerintahan & Politik",
+      "daftarPekerjaan": [
+        "Pegawai Negeri Sipil",
+        "Tentara Nasional Indonesia",
+        "Kepolisian RI",
+        "Karyawan Honorer",
+        "Presiden",
+        "Wakil Presiden",
+        "Anggota Mahkamah Konstitusi",
+        "Anggota Kabinet / Kementerian",
+        "Duta Besar",
+        "Gubernur",
+        "Wakil Gubernur",
+        "Bupati",
+        "Wakil Bupati",
+        "Walikota",
+        "Wakil Walikota",
+        "Anggota DPR-RI",
+        "Anggota DPD",
+        "Anggota BPK",
+        "Anggota DPRD Provinsi",
+        "Anggota DPRD Kabupaten",
+        "Perangkat Desa",
+        "Kepala Desa",
+        "Anggota Lembaga Tinggi"
+      ]
+    },
+    {
+      "kategori": "BUMN & BUMD",
+      "daftarPekerjaan": [
+        "Karyawan BUMN",
+        "Karyawan BUMD"
+      ]
+    },
+    {
+      "kategori": "Swasta & Wirausaha",
+      "daftarPekerjaan": [
+        "Karyawan Swasta",
+        "Wiraswasta",
+        "Pedagang",
+        "Manajer",
+        "Pialang"
+      ]
+    },
+    {
+      "kategori": "Profesional",
+      "daftarPekerjaan": [
+        "Pengacara",
+        "Notaris",
+        "Arsitek",
+        "Akuntan",
+        "Konsultan",
+        "Dosen",
+        "Guru",
+        "Pilot",
+        "Peneliti",
+        "Penerjemah",
+        "Asisten Ahli"
+      ]
+    },
+    {
+      "kategori": "Kesehatan",
+      "daftarPekerjaan": [
+        "Dokter",
+        "Bidan",
+        "Perawat",
+        "Apoteker",
+        "Psikiater / Psikolog",
+        "Tukang Gigi"
+      ]
+    },
+    {
+      "kategori": "Seni, Hiburan & Media",
+      "daftarPekerjaan": [
+        "Seniman",
+        "Artis",
+        "Atlit",
+        "Chef",
+        "Wartawan",
+        "Penyiar Televisi",
+        "Penyiar Radio",
+        "Promotor Acara",
+        "Perancang Busana",
+        "Penata Rambut",
+        "Penata Rias",
+        "Penata Busana"
+      ]
+    },
+    {
+      "kategori": "Tenaga Terampil & Teknisi",
+      "daftarPekerjaan": [
+        "Tukang Cukur",
+        "Tukang Listrik",
+        "Tukang Batu",
+        "Tukang Kayu",
+        "Tukang Sol Sepatu",
+        "Tukang Las / Pandai Besi",
+        "Tukang Jahit",
+        "Mekanik",
+        "Teknisi"
+      ]
+    },
+    {
+      "kategori": "Sektor Primer (Pertanian, dll)",
+      "daftarPekerjaan": [
+        "Petani / Pekebun",
+        "Peternak",
+        "Nelayan / Perikanan",
+        "Buruh Tani / Perkebunan",
+        "Buruh Nelayan / Perikanan",
+        "Buruh Peternakan"
+      ]
+    },
+    {
+      "kategori": "Industri & Jasa",
+      "daftarPekerjaan": [
+        "Industri",
+        "Konstruksi",
+        "Transportasi",
+        "Pelaut",
+        "Sopir",
+        "Pekerja Pengolahan, Kerajinan",
+        "Tenaga Tata Usaha",
+        "Operator",
+        "Pembantu Rumah Tangga",
+        "Juru Masak"
+      ]
+    },
+    {
+      "kategori": "Agama",
+      "daftarPekerjaan": [
+        "Imam Masjid",
+        "Pendeta",
+        "Pastur",
+        "Ustadz / Mubaligh",
+        "Biarawati"
+      ]
+    },
+    {
+      "kategori": "Tradisional & Lainnya",
+      "daftarPekerjaan": [
+        "Tabib",
+        "Paraji",
+        "Paranormal",
+        "Buruh Harian Lepas"
+      ]
+    }
+  ]
+}
