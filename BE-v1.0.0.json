@@ -29008,7 +29008,7 @@
     ],
     "songbook": "BE"
   },
-  "be:641": {
+  "be:641A": {
     "number": 641,
     "title": "BE 641 O TONDI PORBADIA I",
     "lyrics": [
@@ -29046,6 +29046,41 @@
           "Pajongjong harajaonMi, di saluhutna bangso.",
           "Sai parrohai HuriaMi, pasangap Kristus Tuhan i,",
           "Olophon Haleluya."
+        ]
+      }
+    ],
+    "songbook": "BE"
+  },
+  "be:641B": {
+    "number": 641,
+    "title": "BE 641 O TONDI PORBADIA I",
+    "lyrics": [
+      {
+        "type": "verse",
+        "lines": [
+          "O Tondi Parbadia i, sai gohi tondingki",
+          "Galahi rohanami i, marhite apiMi"
+        ]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "Naung disihathon Ho HataM tu panurirang i",
+          "Patau ma hami huriaM lao mangantusi i"
+        ]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "O Tondi ni Debatangki sondangi rohangki",
+          "Patiur ma na holom i nang roha na gaor i"
+        ]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "Marhitehite TondiMi tartanda Ama i",
+          "Nang holong ni rohaNa i marhite Jesus i"
         ]
       }
     ],
@@ -29102,7 +29137,7 @@
   },
   "be:644": {
     "number": 644,
-    "title": "BE 644 RO HO O TONDI PORBADIA I",
+    "title": "BE 644 RO Ma Ho Parasiroha",
     "lyrics": [
       {
         "type": "verse",
@@ -29149,7 +29184,7 @@
   },
   "be:645": {
     "number": 645,
-    "title": "BE 645 RO MA HO PARASIROHA",
+    "title": "BE 645 Sai Gohi Roha Tondingki",
     "lyrics": [
       {
         "type": "verse",
@@ -36983,7 +37018,20 @@
     ],
     "songbook": "BE"
   },
-  "be:844": {
+  "be:844A": {
+    "number": 844,
+    "title": "BE 844 AMEN (3X)",
+    "lyrics": [
+      {
+        "type": "verse",
+        "lines": [
+          "Amen, Amen, Amen."
+        ]
+      }
+    ],
+    "songbook": "BE"
+  },
+  "be:844B": {
     "number": 844,
     "title": "BE 844 AMEN (3X)",
     "lyrics": [
