@@ -29008,7 +29008,7 @@
     ],
     "songbook": "BE"
   },
-  "be:641A": {
+  "be:641": {
     "number": 641,
     "title": "BE 641 O TONDI PORBADIA I",
     "lyrics": [
@@ -29051,41 +29051,7 @@
     ],
     "songbook": "BE"
   },
-  "be:641B": {
-    "number": 641,
-    "title": "BE 641 O TONDI PORBADIA I",
-    "lyrics": [
-      {
-        "type": "verse",
-        "lines": [
-          "O Tondi Parbadia i, sai gohi tondingki",
-          "Galahi rohanami i, marhite apiMi"
-        ]
-      },
-      {
-        "type": "verse",
-        "lines": [
-          "Naung disihathon Ho HataM tu panurirang i",
-          "Patau ma hami huriaM lao mangantusi i"
-        ]
-      },
-      {
-        "type": "verse",
-        "lines": [
-          "O Tondi ni Debatangki sondangi rohangki",
-          "Patiur ma na holom i nang roha na gaor i"
-        ]
-      },
-      {
-        "type": "verse",
-        "lines": [
-          "Marhitehite TondiMi tartanda Ama i",
-          "Nang holong ni rohaNa i marhite Jesus i"
-        ]
-      }
-    ],
-    "songbook": "BE"
-  },
+ 
   "be:642": {
     "number": 642,
     "title": "BE 642 O TONDI PORBADIA I",

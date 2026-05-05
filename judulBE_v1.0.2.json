@@ -4508,18 +4508,11 @@
     "nomorBN": "640"
   },
   {
-    "nomorEnde": "641a",
+    "nomorEnde": "641",
     "judulEnde": "O Tondi Porbadia I",
     "nomorBukuLogu": "641",
     "judulBN": "YA ROH KUDUS B’RI",
-    "nomorBN": "641B"
-  },
-  {
-    "nomorEnde": "641b",
-    "judulEnde": "O Tondi Porbadia I",
-    "nomorBukuLogu": "641",
-    "judulBN": "YA ROH KUDUS B’RI",
-    "nomorBN": "641B"
+    "nomorBN": "641a"
   },
   {
     "nomorEnde": "642",
@@ -4537,24 +4530,31 @@
   },
   {
     "nomorEnde": "644",
-    "judulEnde": "Ro Ma Ho Parasiroha",
+    "judulEnde": "Ro Ho Tondi Parbadia I",
     "nomorBukuLogu": "644",
     "judulBN": "DATANGLAH YA ROH PENGHIBUR",
     "nomorBN": "644"
   },
   {
     "nomorEnde": "645",
-    "judulEnde": "Sai Gohi Roha Tondingki (1)",
+    "judulEnde": "Ro Ma Ho Parasiroha",
     "nomorBukuLogu": "645",
     "judulBN": "YA ROH KUDUS PENUHILAH (1)",
     "nomorBN": "645"
   },
   {
-    "nomorEnde": "646",
+    "nomorEnde": "646A",
+    "judulEnde": "Sai Gohi Roha Tondingki (1)",
+    "nomorBukuLogu": "646",
+    "judulBN": "YA ROH KUDUS PENUHILAH (1)",
+    "nomorBN": "646A"
+  },
+  {
+    "nomorEnde": "646B",
     "judulEnde": "Sai Gohi Roha Tondingki (2)",
     "nomorBukuLogu": "646",
     "judulBN": "YA ROH KUDUS PENUHILAH (2)",
-    "nomorBN": "646"
+    "nomorBN": "646B"
   },
   {
     "nomorEnde": "647",
